@@ -1,0 +1,21 @@
+--- |
+  --- !ruby/object:Study
+  studyid: ABC1
+  treatments:
+  - PBO
+  - AB
+  treatment_ratios:
+  - 0.5
+  - 0.5
+  total_subjects: 100
+  sites:
+  - - DEU
+    - Mannheim
+  - - GBR
+    - London
+    - Liverpool
+    - Birmingham
+  - - FRA
+    - Montpellier
+    - Paris
+    - Nice

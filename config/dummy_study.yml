@@ -1,0 +1,28 @@
+--- !ruby/object:Study
+  studyid: ABC1
+  treatments:
+  - Placebo
+  - Treatment 1
+  treatment_codes:
+  - PBO
+  - TRT1
+  treatment_ratios:
+  - 0.5
+  - 0.5
+  total_subjects: 30
+  num_visit: 6
+  visit_duration: 7
+  visit_unit: week
+  age_range:
+  - 18
+  - 65
+  sites:
+  - - FRA
+    - Paris
+    - Nice
+  - - DEU
+    - Berlin
+  - - GBR
+    - London
+    - Manchester
+  ref_date: 2014-03-01T00:00:00+00:00
