@@ -2,15 +2,21 @@
   studyid: ABC1
   treatments:
   - Placebo
-  - Treatment 1
+  - Treatment A
+  - Treatment B
+  - Treatment C
   treatment_codes:
   - PBO
-  - TRT1
+  - TRTA
+  - TRTB
+  - TRTC
   treatment_ratios:
-  - 0.5
-  - 0.5
-  total_subjects: 30
-  num_visit: 6
+  - 0.25
+  - 0.25
+  - 0.25
+  - 0.25
+  total_subjects: 100
+  num_visits: 6
   visit_duration: 7
   visit_unit: week
   age_range:
@@ -26,3 +32,4 @@
     - London
     - Manchester
   ref_date: 2014-03-01T00:00:00+00:00
+  discontinue_proportion: 0.2

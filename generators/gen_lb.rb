@@ -1,23 +1,27 @@
-def gen_dm(study,controlled_terms)
+
+def gen_lb(study,controlled_terms,dm)
 
   s = study
   ct = controlled_terms
-  dm_dataset = []
+
+  lb_dataset = []
 
   s.total_subjects.times do |i|
 
+    num_visits = r
     country_num = rand(1..s.sites.length)
     site_num = rand(1..s.sites[country_num-1].length)
 
     siteid = country_num.to_s + \
              site_num.to_s.rjust(s.max_sites.to_s.size+1,"0")
-    subjnum = (s.investigators[country_num-1][site_num-1][1] += 1)
-    subjid = subjnum.to_s.rjust((s.treatment_ratios.max*s.total_subjects/s.total_sites).floor.to_s.size+1,"0")
 
     invnam = s.investigators[country_num-1][site_num-1][0]
     # increment running count of subjects assinged to investigator
-    # country = s.sites[country_num-1]
-    usubjid = s.studyid + "-" + siteid + "-" + subjid
+    subjnum = (s.investigators[country_num-1][site_num-1][1] += 1)
+    country = s.sites[country_num-1]
+
+    usubjid = s.studyid + "-" + siteid + "-" \
+              + subjnum.to_s.rjust((s.treatment_ratios.max*s.total_subjects/s.total_sites).floor.to_s.size+1,"0")
     country = s.sites[site_num-1][0]
     sex = ct["sex"][rand(0..1)]
 
@@ -46,10 +50,8 @@ def gen_dm(study,controlled_terms)
 
     dm_row = SdtmDm.new(
                     studyid:  s.studyid,
-                    # domain is automatically assigned
-                    siteid:   siteid,
-                    subjid:   subjid,
                     usubjid:  usubjid,
+                    siteid:   siteid,
                     invnam:   invnam,
                     sex:      sex,
                     country:  country,
@@ -69,7 +71,6 @@ def gen_dm(study,controlled_terms)
       dm_dataset << dm_row
     rescue Exception => e
       puts e.message
-      puts dm_row.errors.full_messages
     end
   end
 

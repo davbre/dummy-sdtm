@@ -3,13 +3,13 @@ class Study
 
   attr_accessor :studyid, :treatments, :treatment_codes, :treatment_ratios, :total_subjects,
                 :num_visits, :visit_duration, :visit_unit, :age_range, :sites, :investigators,
-                :ref_date
+                :ref_date, :discontinue_proportion
 
   validate :check_treatments
 
   def initialize(studyid: nil, treatments: nil, treatment_codes: nil, treatment_ratios: nil,
                  total_subjects: nil, num_visits: nil, visit_duration: nil, visit_unit: nil,
-                 age_range: nil, sites: nil)
+                 age_range: nil, sites: nil, discontinue_proportion: 0.15)
     local_variables.each do |k|
       v = eval(k.to_s)
       instance_variable_set("@#{k}", v) unless v.nil?
