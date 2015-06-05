@@ -1,0 +1,5 @@
+---
+ALB:
+  LBTEST: Albumin
+  LBSTNRLO: 2
+  LBSTNRHI: 5.3

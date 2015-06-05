@@ -1,1700 +1,2044 @@
 ---
 - &1 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-302-01
   siteid: '302'
-  invnam: Dr. Morton Lynch V
-  sex: F
+  subjid: '01'
+  usubjid: ABC1-302-01
+  invnam: Dr. Leo Bosco
   country: DEU
+  sex: F
   armcd: TRTB
   arm: Treatment B
   actarmcd: TRTB
   actarm: Treatment B
-  rfstdtc: 2014-04-12 02:39:54.438114404 +02:00
+  rfstdtc: 2014-04-12
   rfendtc: "--placeholder--"
   age: 48
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *1
     messages: {}
 - &2 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-301-01
   siteid: '301'
-  invnam: Dr. Roma Parisian
-  sex: F
+  subjid: '01'
+  usubjid: ABC1-301-01
+  invnam: Dr. Samara Lowe
   country: FRA
+  sex: F
   armcd: TRTC
   arm: Treatment C
   actarmcd: SCRNFAIL
   actarm: Screen Failure
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *2
     messages: {}
 - &3 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-102-01
   siteid: '102'
-  invnam: Dr. Vincenzo Stiedemann
-  sex: F
+  subjid: '01'
+  usubjid: ABC1-102-01
+  invnam: Dr. Clint Harber
   country: DEU
+  sex: F
   armcd: TRTB
   arm: Treatment B
   actarmcd: SCRNFAIL
   actarm: Screen Failure
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *3
     messages: {}
 - &4 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-301-02
   siteid: '301'
-  invnam: Dr. Roma Parisian
-  sex: M
+  subjid: '02'
+  usubjid: ABC1-301-02
+  invnam: Dr. Samara Lowe
   country: FRA
+  sex: M
   armcd: PBO
   arm: Placebo
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-05-11
+  rfendtc: "--placeholder--"
+  age: 18
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *4
     messages: {}
 - &5 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-102-02
-  siteid: '102'
-  invnam: Dr. Vincenzo Stiedemann
-  sex: M
+  siteid: '202'
+  subjid: '01'
+  usubjid: ABC1-202-01
+  invnam: Dr. Nettie Ernser
   country: DEU
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-05-24 10:40:12.996943950 +02:00
+  sex: F
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-05-24
   rfendtc: "--placeholder--"
   age: 32
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *5
     messages: {}
 - &6 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-103-01
   siteid: '103'
-  invnam: Dr. Mallory Kling
-  sex: M
+  subjid: '01'
+  usubjid: ABC1-103-01
+  invnam: Dr. Brielle Becker
   country: GBR
+  sex: M
   armcd: TRTA
   arm: Treatment A
   actarmcd: SCRNFAIL
   actarm: Screen Failure
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *6
     messages: {}
 - &7 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-101-01
   siteid: '101'
-  invnam: Dr. Felipa Marvin
-  sex: F
+  subjid: '01'
+  usubjid: ABC1-101-01
+  invnam: Dr. Fernando Leannon II
   country: FRA
+  sex: F
   armcd: TRTB
   arm: Treatment B
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-05-10
+  rfendtc: "--placeholder--"
+  age: 43
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *7
     messages: {}
 - &8 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-201-01
-  siteid: '201'
-  invnam: Dr. Brittany Torp
-  sex: M
-  country: FRA
+  siteid: '102'
+  subjid: '02'
+  usubjid: ABC1-102-02
+  invnam: Dr. Clint Harber
+  country: DEU
+  sex: F
   armcd: PBO
   arm: Placebo
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-05-23
+  rfendtc: "--placeholder--"
+  age: 37
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *8
     messages: {}
 - &9 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-101-02
-  siteid: '101'
-  invnam: Dr. Felipa Marvin
-  sex: F
+  siteid: '201'
+  subjid: '01'
+  usubjid: ABC1-201-01
+  invnam: Dr. Gabrielle Morar PhD
   country: FRA
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-05-19 15:49:01.022731781 +02:00
+  sex: M
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-05-22
   rfendtc: "--placeholder--"
-  age: 39
+  age: 23
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *9
     messages: {}
 - &10 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-303-01
   siteid: '303'
-  invnam: Dr. Dewayne Anderson
-  sex: M
+  subjid: '01'
+  usubjid: ABC1-303-01
+  invnam: Dr. Imelda White
   country: GBR
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-03-02 15:37:46.408889770 +01:00
+  sex: F
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-06-17
   rfendtc: "--placeholder--"
-  age: 65
+  age: 57
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *10
     messages: {}
 - &11 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-303-02
-  siteid: '303'
-  invnam: Dr. Dewayne Anderson
-  sex: F
-  country: GBR
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-08-27 15:56:08.918303012 +02:00
+  siteid: '202'
+  subjid: '02'
+  usubjid: ABC1-202-02
+  invnam: Dr. Nettie Ernser
+  country: DEU
+  sex: M
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-08-13
   rfendtc: "--placeholder--"
-  age: 38
+  age: 18
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *11
     messages: {}
 - &12 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-201-02
   siteid: '201'
-  invnam: Dr. Brittany Torp
-  sex: M
+  subjid: '02'
+  usubjid: ABC1-201-02
+  invnam: Dr. Gabrielle Morar PhD
   country: FRA
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-11-01 12:51:46.708655595 +01:00
+  sex: M
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-11-01
   rfendtc: "--placeholder--"
   age: 57
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *12
     messages: {}
 - &13 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-201-03
   siteid: '201'
-  invnam: Dr. Brittany Torp
-  sex: F
+  subjid: '03'
+  usubjid: ABC1-201-03
+  invnam: Dr. Gabrielle Morar PhD
   country: FRA
+  sex: F
   armcd: PBO
   arm: Placebo
   actarmcd: SCRNFAIL
   actarm: Screen Failure
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *13
     messages: {}
 - &14 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-202-01
   siteid: '202'
-  invnam: Dr. Florian Douglas
-  sex: F
+  subjid: '03'
+  usubjid: ABC1-202-03
+  invnam: Dr. Nettie Ernser
   country: DEU
+  sex: F
   armcd: TRTB
   arm: Treatment B
   actarmcd: TRTB
   actarm: Treatment B
-  rfstdtc: 2014-08-07 13:11:03.077729940 +02:00
+  rfstdtc: 2014-08-07
   rfendtc: "--placeholder--"
   age: 50
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *14
     messages: {}
 - &15 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-101-03
   siteid: '101'
-  invnam: Dr. Felipa Marvin
-  sex: F
+  subjid: '02'
+  usubjid: ABC1-101-02
+  invnam: Dr. Fernando Leannon II
   country: FRA
+  sex: F
   armcd: PBO
   arm: Placebo
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-08-21
+  rfendtc: "--placeholder--"
+  age: 59
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *15
     messages: {}
 - &16 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-201-04
-  siteid: '201'
-  invnam: Dr. Brittany Torp
+  siteid: '103'
+  subjid: '02'
+  usubjid: ABC1-103-02
+  invnam: Dr. Brielle Becker
+  country: GBR
   sex: F
-  country: FRA
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-04-13
+  rfendtc: "--placeholder--"
+  age: 54
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *16
     messages: {}
 - &17 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-303-03
-  siteid: '303'
-  invnam: Dr. Dewayne Anderson
+  siteid: '102'
+  subjid: '03'
+  usubjid: ABC1-102-03
+  invnam: Dr. Clint Harber
+  country: DEU
   sex: M
-  country: GBR
-  armcd: TRTB
-  arm: Treatment B
+  armcd: TRTA
+  arm: Treatment A
   actarmcd: SCRNFAIL
   actarm: Screen Failure
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *17
     messages: {}
 - &18 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-101-04
-  siteid: '101'
-  invnam: Dr. Felipa Marvin
-  sex: M
+  siteid: '301'
+  subjid: '03'
+  usubjid: ABC1-301-03
+  invnam: Dr. Samara Lowe
   country: FRA
+  sex: M
   armcd: TRTB
   arm: Treatment B
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-05-12
+  rfendtc: "--placeholder--"
+  age: 34
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *18
     messages: {}
 - &19 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-103-02
-  siteid: '103'
-  invnam: Dr. Mallory Kling
-  sex: F
-  country: GBR
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-05-12 11:32:23.715793848 +02:00
+  siteid: '102'
+  subjid: '04'
+  usubjid: ABC1-102-04
+  invnam: Dr. Clint Harber
+  country: DEU
+  sex: M
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-06-12
   rfendtc: "--placeholder--"
-  age: 34
+  age: 45
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *19
     messages: {}
 - &20 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-102-03
-  siteid: '102'
-  invnam: Dr. Vincenzo Stiedemann
-  sex: M
+  siteid: '202'
+  subjid: '04'
+  usubjid: ABC1-202-04
+  invnam: Dr. Nettie Ernser
   country: DEU
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-06-12 15:47:56.352819204 +02:00
+  sex: F
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-06-04
   rfendtc: "--placeholder--"
-  age: 45
+  age: 48
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *20
     messages: {}
 - &21 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-202-02
-  siteid: '202'
-  invnam: Dr. Florian Douglas
-  sex: F
-  country: DEU
+  siteid: '303'
+  subjid: '02'
+  usubjid: ABC1-303-02
+  invnam: Dr. Imelda White
+  country: GBR
+  sex: M
   armcd: TRTC
   arm: Treatment C
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-03-28
+  rfendtc: "--placeholder--"
+  age: 41
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *21
     messages: {}
 - &22 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-302-02
-  siteid: '302'
-  invnam: Dr. Morton Lynch V
-  sex: M
+  siteid: '202'
+  subjid: '05'
+  usubjid: ABC1-202-05
+  invnam: Dr. Nettie Ernser
   country: DEU
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-03-06 12:37:32.586089372 +01:00
+  sex: M
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-03-17
   rfendtc: "--placeholder--"
-  age: 26
+  age: 36
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *22
     messages: {}
 - &23 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-202-03
-  siteid: '202'
-  invnam: Dr. Florian Douglas
+  siteid: '201'
+  subjid: '04'
+  usubjid: ABC1-201-04
+  invnam: Dr. Gabrielle Morar PhD
+  country: FRA
   sex: M
-  country: DEU
   armcd: TRTA
   arm: Treatment A
   actarmcd: TRTA
   actarm: Treatment A
-  rfstdtc: 2014-03-17 06:47:41.763869762 +01:00
+  rfstdtc: 2014-03-02
   rfendtc: "--placeholder--"
-  age: 36
+  age: 61
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *23
     messages: {}
 - &24 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-201-05
-  siteid: '201'
-  invnam: Dr. Brittany Torp
-  sex: M
-  country: FRA
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  siteid: '103'
+  subjid: '03'
+  usubjid: ABC1-103-03
+  invnam: Dr. Brielle Becker
+  country: GBR
+  sex: F
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-07-08
+  rfendtc: "--placeholder--"
+  age: 45
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *24
     messages: {}
 - &25 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-202-04
-  siteid: '202'
-  invnam: Dr. Florian Douglas
+  siteid: '301'
+  subjid: '04'
+  usubjid: ABC1-301-04
+  invnam: Dr. Samara Lowe
+  country: FRA
   sex: M
-  country: DEU
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-06-30 04:35:45.026911258 +02:00
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-04-01
   rfendtc: "--placeholder--"
-  age: 41
+  age: 59
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *25
     messages: {}
 - &26 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-301-03
-  siteid: '301'
-  invnam: Dr. Roma Parisian
+  siteid: '303'
+  subjid: '03'
+  usubjid: ABC1-303-03
+  invnam: Dr. Imelda White
+  country: GBR
   sex: M
-  country: FRA
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-10-11
+  rfendtc: "--placeholder--"
+  age: 60
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *26
     messages: {}
 - &27 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-103-03
-  siteid: '103'
-  invnam: Dr. Mallory Kling
+  siteid: '201'
+  subjid: '05'
+  usubjid: ABC1-201-05
+  invnam: Dr. Gabrielle Morar PhD
+  country: FRA
   sex: M
-  country: GBR
-  armcd: PBO
-  arm: Placebo
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-04-04
+  rfendtc: "--placeholder--"
+  age: 37
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *27
     messages: {}
 - &28 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-201-06
-  siteid: '201'
-  invnam: Dr. Brittany Torp
-  sex: F
+  siteid: '101'
+  subjid: '03'
+  usubjid: ABC1-101-03
+  invnam: Dr. Fernando Leannon II
   country: FRA
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-11-03 07:18:47.145167827 +01:00
+  sex: F
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-06-11
   rfendtc: "--placeholder--"
-  age: 27
+  age: 59
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *28
     messages: {}
 - &29 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-103-04
-  siteid: '103'
-  invnam: Dr. Mallory Kling
-  sex: M
-  country: GBR
+  siteid: '202'
+  subjid: '06'
+  usubjid: ABC1-202-06
+  invnam: Dr. Nettie Ernser
+  country: DEU
+  sex: F
   armcd: TRTB
   arm: Treatment B
   actarmcd: TRTB
   actarm: Treatment B
-  rfstdtc: 2014-03-02 14:15:26.223637819 +01:00
+  rfstdtc: 2014-03-01
   rfendtc: "--placeholder--"
-  age: 64
+  age: 63
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *29
     messages: {}
 - &30 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-302-03
-  siteid: '302'
-  invnam: Dr. Morton Lynch V
-  sex: M
-  country: DEU
+  siteid: '201'
+  subjid: '06'
+  usubjid: ABC1-201-06
+  invnam: Dr. Gabrielle Morar PhD
+  country: FRA
+  sex: F
   armcd: PBO
   arm: Placebo
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-09-04
+  rfendtc: "--placeholder--"
+  age: 27
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *30
     messages: {}
 - &31 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-101-05
   siteid: '101'
-  invnam: Dr. Felipa Marvin
-  sex: M
+  subjid: '04'
+  usubjid: ABC1-101-04
+  invnam: Dr. Fernando Leannon II
   country: FRA
-  armcd: PBO
-  arm: Placebo
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  sex: F
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-04-09
+  rfendtc: "--placeholder--"
+  age: 42
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *31
     messages: {}
 - &32 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-301-04
-  siteid: '301'
-  invnam: Dr. Roma Parisian
+  siteid: '302'
+  subjid: '02'
+  usubjid: ABC1-302-02
+  invnam: Dr. Leo Bosco
+  country: DEU
   sex: M
-  country: FRA
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-03-26 12:51:44.937141418 +01:00
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-11-12
   rfendtc: "--placeholder--"
-  age: 19
+  age: 22
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *32
     messages: {}
 - &33 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-201-07
-  siteid: '201'
-  invnam: Dr. Brittany Torp
+  siteid: '303'
+  subjid: '04'
+  usubjid: ABC1-303-04
+  invnam: Dr. Imelda White
+  country: GBR
   sex: M
-  country: FRA
   armcd: TRTB
   arm: Treatment B
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-04-01
+  rfendtc: "--placeholder--"
+  age: 58
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *33
     messages: {}
 - &34 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-302-04
-  siteid: '302'
-  invnam: Dr. Morton Lynch V
-  sex: M
-  country: DEU
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  siteid: '201'
+  subjid: '07'
+  usubjid: ABC1-201-07
+  invnam: Dr. Gabrielle Morar PhD
+  country: FRA
+  sex: F
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-08-11
+  rfendtc: "--placeholder--"
+  age: 60
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *34
     messages: {}
 - &35 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-101-06
-  siteid: '101'
-  invnam: Dr. Felipa Marvin
+  siteid: '202'
+  subjid: '07'
+  usubjid: ABC1-202-07
+  invnam: Dr. Nettie Ernser
+  country: DEU
   sex: F
-  country: FRA
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-05-11
+  rfendtc: "--placeholder--"
+  age: 43
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *35
     messages: {}
 - &36 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-201-08
-  siteid: '201'
-  invnam: Dr. Brittany Torp
-  sex: F
-  country: FRA
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-03-05 09:31:02.917409658 +01:00
+  siteid: '102'
+  subjid: '05'
+  usubjid: ABC1-102-05
+  invnam: Dr. Clint Harber
+  country: DEU
+  sex: M
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-05-13
   rfendtc: "--placeholder--"
-  age: 50
+  age: 35
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *36
     messages: {}
 - &37 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-103-05
-  siteid: '103'
-  invnam: Dr. Mallory Kling
+  siteid: '102'
+  subjid: '06'
+  usubjid: ABC1-102-06
+  invnam: Dr. Clint Harber
+  country: DEU
   sex: F
-  country: GBR
   armcd: TRTC
   arm: Treatment C
   actarmcd: TRTC
   actarm: Treatment C
-  rfstdtc: 2014-08-03 21:11:28.924999713 +02:00
+  rfstdtc: 2014-03-14
   rfendtc: "--placeholder--"
-  age: 57
+  age: 54
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *37
     messages: {}
 - &38 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-103-06
-  siteid: '103'
-  invnam: Dr. Mallory Kling
+  siteid: '102'
+  subjid: '07'
+  usubjid: ABC1-102-07
+  invnam: Dr. Clint Harber
+  country: DEU
   sex: F
-  country: GBR
-  armcd: TRTA
-  arm: Treatment A
+  armcd: TRTC
+  arm: Treatment C
   actarmcd: SCRNFAIL
   actarm: Screen Failure
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *38
     messages: {}
 - &39 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-301-05
-  siteid: '301'
-  invnam: Dr. Roma Parisian
-  sex: F
+  siteid: '101'
+  subjid: '05'
+  usubjid: ABC1-101-05
+  invnam: Dr. Fernando Leannon II
   country: FRA
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-09-15 00:02:58.698821544 +02:00
+  sex: M
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-06-25
   rfendtc: "--placeholder--"
-  age: 35
+  age: 53
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *39
     messages: {}
 - &40 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-201-09
-  siteid: '201'
-  invnam: Dr. Brittany Torp
-  sex: F
+  siteid: '101'
+  subjid: '06'
+  usubjid: ABC1-101-06
+  invnam: Dr. Fernando Leannon II
   country: FRA
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  sex: F
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-03-02
+  rfendtc: "--placeholder--"
+  age: 51
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *40
     messages: {}
 - &41 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-202-05
-  siteid: '202'
-  invnam: Dr. Florian Douglas
+  siteid: '103'
+  subjid: '04'
+  usubjid: ABC1-103-04
+  invnam: Dr. Brielle Becker
+  country: GBR
   sex: M
-  country: DEU
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-03-25 18:00:11.311061143 +01:00
-  rfendtc: "--placeholder--"
-  age: 31
-  ageu: years
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: SCRNFAIL
+  actarm: Screen Failure
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *41
     messages: {}
 - &42 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-302-05
-  siteid: '302'
-  invnam: Dr. Morton Lynch V
+  siteid: '201'
+  subjid: 08
+  usubjid: ABC1-201-08
+  invnam: Dr. Gabrielle Morar PhD
+  country: FRA
   sex: F
-  country: DEU
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-09-22 17:57:48.628499984 +02:00
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-05-07
   rfendtc: "--placeholder--"
-  age: 55
+  age: 19
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *42
     messages: {}
 - &43 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-102-04
-  siteid: '102'
-  invnam: Dr. Vincenzo Stiedemann
-  sex: F
+  siteid: '202'
+  subjid: 08
+  usubjid: ABC1-202-08
+  invnam: Dr. Nettie Ernser
   country: DEU
-  armcd: PBO
-  arm: Placebo
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  sex: F
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-04-25
+  rfendtc: "--placeholder--"
+  age: 64
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *43
     messages: {}
 - &44 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-301-06
-  siteid: '301'
-  invnam: Dr. Roma Parisian
-  sex: F
+  siteid: '201'
+  subjid: 09
+  usubjid: ABC1-201-09
+  invnam: Dr. Gabrielle Morar PhD
   country: FRA
+  sex: M
   armcd: TRTA
   arm: Treatment A
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-07-21
+  rfendtc: "--placeholder--"
+  age: 48
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *44
     messages: {}
 - &45 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-202-06
-  siteid: '202'
-  invnam: Dr. Florian Douglas
-  sex: F
-  country: DEU
+  siteid: '303'
+  subjid: '05'
+  usubjid: ABC1-303-05
+  invnam: Dr. Imelda White
+  country: GBR
+  sex: M
   armcd: TRTA
   arm: Treatment A
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-05-31
+  rfendtc: "--placeholder--"
+  age: 24
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *45
     messages: {}
 - &46 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-101-07
-  siteid: '101'
-  invnam: Dr. Felipa Marvin
+  siteid: '303'
+  subjid: '06'
+  usubjid: ABC1-303-06
+  invnam: Dr. Imelda White
+  country: GBR
   sex: F
-  country: FRA
   armcd: TRTC
   arm: Treatment C
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-03-08
+  rfendtc: "--placeholder--"
+  age: 48
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *46
     messages: {}
 - &47 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-103-07
-  siteid: '103'
-  invnam: Dr. Mallory Kling
+  siteid: '201'
+  subjid: '10'
+  usubjid: ABC1-201-10
+  invnam: Dr. Gabrielle Morar PhD
+  country: FRA
   sex: M
-  country: GBR
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-07-12 18:50:28.190495252 +02:00
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-12-05
   rfendtc: "--placeholder--"
-  age: 55
+  age: 42
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *47
     messages: {}
 - &48 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-302-06
-  siteid: '302'
-  invnam: Dr. Morton Lynch V
-  sex: F
-  country: DEU
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-10-30 12:09:02.484144687 +01:00
+  siteid: '301'
+  subjid: '05'
+  usubjid: ABC1-301-05
+  invnam: Dr. Samara Lowe
+  country: FRA
+  sex: M
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-06-20
   rfendtc: "--placeholder--"
-  age: 30
+  age: 48
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *48
     messages: {}
 - &49 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-102-05
-  siteid: '102'
-  invnam: Dr. Vincenzo Stiedemann
-  sex: M
+  siteid: '302'
+  subjid: '03'
+  usubjid: ABC1-302-03
+  invnam: Dr. Leo Bosco
   country: DEU
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-03-31 21:28:52.856002092 +02:00
+  sex: F
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-03-04
   rfendtc: "--placeholder--"
-  age: 64
+  age: 59
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *49
     messages: {}
 - &50 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-201-10
-  siteid: '201'
-  invnam: Dr. Brittany Torp
+  siteid: '303'
+  subjid: '07'
+  usubjid: ABC1-303-07
+  invnam: Dr. Imelda White
+  country: GBR
   sex: M
-  country: FRA
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-07-21 07:29:26.120191812 +02:00
-  rfendtc: "--placeholder--"
-  age: 48
-  ageu: years
+  armcd: PBO
+  arm: Placebo
+  actarmcd: SCRNFAIL
+  actarm: Screen Failure
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *50
     messages: {}
 - &51 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-303-04
-  siteid: '303'
-  invnam: Dr. Dewayne Anderson
-  sex: M
-  country: GBR
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-05-31 15:43:03.344268798 +02:00
+  siteid: '301'
+  subjid: '06'
+  usubjid: ABC1-301-06
+  invnam: Dr. Samara Lowe
+  country: FRA
+  sex: F
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-04-06
   rfendtc: "--placeholder--"
-  age: 24
+  age: 19
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *51
     messages: {}
 - &52 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-303-05
-  siteid: '303'
-  invnam: Dr. Dewayne Anderson
+  siteid: '201'
+  subjid: '11'
+  usubjid: ABC1-201-11
+  invnam: Dr. Gabrielle Morar PhD
+  country: FRA
   sex: F
-  country: GBR
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-03-08 06:13:54.332031488 +01:00
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-07-22
   rfendtc: "--placeholder--"
-  age: 48
+  age: 35
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *52
     messages: {}
 - &53 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-201-11
-  siteid: '201'
-  invnam: Dr. Brittany Torp
-  sex: M
-  country: FRA
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-12-05 05:44:01.122063398 +01:00
+  siteid: '202'
+  subjid: 09
+  usubjid: ABC1-202-09
+  invnam: Dr. Nettie Ernser
+  country: DEU
+  sex: F
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-07-07
   rfendtc: "--placeholder--"
-  age: 42
+  age: 22
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *53
     messages: {}
 - &54 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-301-07
-  siteid: '301'
-  invnam: Dr. Roma Parisian
+  siteid: '102'
+  subjid: 08
+  usubjid: ABC1-102-08
+  invnam: Dr. Clint Harber
+  country: DEU
   sex: M
-  country: FRA
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-05-19
+  rfendtc: "--placeholder--"
+  age: 61
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *54
     messages: {}
 - &55 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-103-08
-  siteid: '103'
-  invnam: Dr. Mallory Kling
+  siteid: '202'
+  subjid: '10'
+  usubjid: ABC1-202-10
+  invnam: Dr. Nettie Ernser
+  country: DEU
   sex: F
-  country: GBR
   armcd: TRTA
   arm: Treatment A
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-08-22
+  rfendtc: "--placeholder--"
+  age: 49
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *55
     messages: {}
 - &56 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-103-09
-  siteid: '103'
-  invnam: Dr. Mallory Kling
-  sex: M
+  siteid: '303'
+  subjid: 08
+  usubjid: ABC1-303-08
+  invnam: Dr. Imelda White
   country: GBR
-  armcd: PBO
-  arm: Placebo
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  sex: M
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-09-24
+  rfendtc: "--placeholder--"
+  age: 43
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *56
     messages: {}
 - &57 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-201-12
-  siteid: '201'
-  invnam: Dr. Brittany Torp
-  sex: M
+  siteid: '101'
+  subjid: '07'
+  usubjid: ABC1-101-07
+  invnam: Dr. Fernando Leannon II
   country: FRA
+  sex: M
   armcd: TRTA
   arm: Treatment A
   actarmcd: SCRNFAIL
   actarm: Screen Failure
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *57
     messages: {}
 - &58 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-101-08
-  siteid: '101'
-  invnam: Dr. Felipa Marvin
+  siteid: '102'
+  subjid: 09
+  usubjid: ABC1-102-09
+  invnam: Dr. Clint Harber
+  country: DEU
   sex: M
-  country: FRA
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-07-25 00:27:57.603711366 +02:00
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-06-03
   rfendtc: "--placeholder--"
-  age: 55
+  age: 63
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *58
     messages: {}
 - &59 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-301-08
-  siteid: '301'
-  invnam: Dr. Roma Parisian
-  sex: F
-  country: FRA
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-11-19 10:49:08.743703842 +01:00
+  siteid: '302'
+  subjid: '04'
+  usubjid: ABC1-302-04
+  invnam: Dr. Leo Bosco
+  country: DEU
+  sex: M
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-04-17
   rfendtc: "--placeholder--"
-  age: 47
+  age: 25
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *59
     messages: {}
 - &60 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-102-06
-  siteid: '102'
-  invnam: Dr. Vincenzo Stiedemann
-  sex: M
+  siteid: '202'
+  subjid: '11'
+  usubjid: ABC1-202-11
+  invnam: Dr. Nettie Ernser
   country: DEU
+  sex: F
   armcd: PBO
   arm: Placebo
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-04-23
+  rfendtc: "--placeholder--"
+  age: 58
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *60
     messages: {}
 - &61 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-101-09
-  siteid: '101'
-  invnam: Dr. Felipa Marvin
-  sex: F
+  siteid: '201'
+  subjid: '12'
+  usubjid: ABC1-201-12
+  invnam: Dr. Gabrielle Morar PhD
   country: FRA
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  sex: F
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-09-08
+  rfendtc: "--placeholder--"
+  age: 64
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *61
     messages: {}
 - &62 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-101-10
-  siteid: '101'
-  invnam: Dr. Felipa Marvin
+  siteid: '302'
+  subjid: '05'
+  usubjid: ABC1-302-05
+  invnam: Dr. Leo Bosco
+  country: DEU
   sex: F
-  country: FRA
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-04-14 20:18:08.937465429 +02:00
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-10-03
   rfendtc: "--placeholder--"
-  age: 46
+  age: 65
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *62
     messages: {}
 - &63 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-202-07
-  siteid: '202'
-  invnam: Dr. Florian Douglas
-  sex: M
+  siteid: '102'
+  subjid: '10'
+  usubjid: ABC1-102-10
+  invnam: Dr. Clint Harber
   country: DEU
+  sex: M
   armcd: PBO
   arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-05-24 21:55:06.702819585 +02:00
-  rfendtc: "--placeholder--"
-  age: 59
-  ageu: years
+  actarmcd: SCRNFAIL
+  actarm: Screen Failure
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *63
     messages: {}
 - &64 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-102-07
-  siteid: '102'
-  invnam: Dr. Vincenzo Stiedemann
-  sex: F
+  siteid: '202'
+  subjid: '12'
+  usubjid: ABC1-202-12
+  invnam: Dr. Nettie Ernser
   country: DEU
+  sex: M
   armcd: TRTB
   arm: Treatment B
   actarmcd: TRTB
   actarm: Treatment B
-  rfstdtc: 2014-06-09 03:27:51.808336734 +02:00
+  rfstdtc: 2014-07-26
   rfendtc: "--placeholder--"
-  age: 44
+  age: 50
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *64
     messages: {}
 - &65 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-301-09
-  siteid: '301'
-  invnam: Dr. Roma Parisian
-  sex: M
+  siteid: '201'
+  subjid: '13'
+  usubjid: ABC1-201-13
+  invnam: Dr. Gabrielle Morar PhD
   country: FRA
+  sex: F
   armcd: TRTA
   arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-06-20 13:37:20.892584562 +02:00
-  rfendtc: "--placeholder--"
-  age: 56
-  ageu: years
+  actarmcd: SCRNFAIL
+  actarm: Screen Failure
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *65
     messages: {}
 - &66 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-202-08
-  siteid: '202'
-  invnam: Dr. Florian Douglas
-  sex: M
+  siteid: '302'
+  subjid: '06'
+  usubjid: ABC1-302-06
+  invnam: Dr. Leo Bosco
   country: DEU
+  sex: F
   armcd: PBO
   arm: Placebo
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-06-04
+  rfendtc: "--placeholder--"
+  age: 23
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *66
     messages: {}
 - &67 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-303-06
-  siteid: '303'
-  invnam: Dr. Dewayne Anderson
+  siteid: '201'
+  subjid: '14'
+  usubjid: ABC1-201-14
+  invnam: Dr. Gabrielle Morar PhD
+  country: FRA
   sex: F
-  country: GBR
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-11-01
+  rfendtc: "--placeholder--"
+  age: 35
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *67
     messages: {}
 - &68 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-202-09
   siteid: '202'
-  invnam: Dr. Florian Douglas
-  sex: F
+  subjid: '13'
+  usubjid: ABC1-202-13
+  invnam: Dr. Nettie Ernser
   country: DEU
-  armcd: PBO
-  arm: Placebo
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  sex: F
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-03-15
+  rfendtc: "--placeholder--"
+  age: 47
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *68
     messages: {}
 - &69 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-302-07
-  siteid: '302'
-  invnam: Dr. Morton Lynch V
-  sex: F
-  country: DEU
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-08-07 06:42:41.735115528 +02:00
+  siteid: '101'
+  subjid: 08
+  usubjid: ABC1-101-08
+  invnam: Dr. Fernando Leannon II
+  country: FRA
+  sex: M
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-03-15
   rfendtc: "--placeholder--"
-  age: 34
+  age: 27
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *69
     messages: {}
 - &70 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-101-11
-  siteid: '101'
-  invnam: Dr. Felipa Marvin
+  siteid: '303'
+  subjid: 09
+  usubjid: ABC1-303-09
+  invnam: Dr. Imelda White
+  country: GBR
   sex: F
-  country: FRA
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-03-09
+  rfendtc: "--placeholder--"
+  age: 57
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *70
     messages: {}
 - &71 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-302-08
-  siteid: '302'
-  invnam: Dr. Morton Lynch V
-  sex: F
+  siteid: '102'
+  subjid: '11'
+  usubjid: ABC1-102-11
+  invnam: Dr. Clint Harber
   country: DEU
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-03-05 13:50:50.438754081 +01:00
+  sex: M
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-03-12
   rfendtc: "--placeholder--"
-  age: 63
+  age: 27
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *71
     messages: {}
 - &72 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-202-10
-  siteid: '202'
-  invnam: Dr. Florian Douglas
+  siteid: '301'
+  subjid: '07'
+  usubjid: ABC1-301-07
+  invnam: Dr. Samara Lowe
+  country: FRA
   sex: M
-  country: DEU
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-07-26 17:12:37.971585988 +02:00
-  rfendtc: "--placeholder--"
-  age: 50
-  ageu: years
+  armcd: PBO
+  arm: Placebo
+  actarmcd: SCRNFAIL
+  actarm: Screen Failure
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *72
     messages: {}
 - &73 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-201-13
-  siteid: '201'
-  invnam: Dr. Brittany Torp
-  sex: F
+  siteid: '301'
+  subjid: 08
+  usubjid: ABC1-301-08
+  invnam: Dr. Samara Lowe
   country: FRA
+  sex: M
   armcd: TRTA
   arm: Treatment A
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-06-13
+  rfendtc: "--placeholder--"
+  age: 26
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *73
     messages: {}
 - &74 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-302-09
-  siteid: '302'
-  invnam: Dr. Morton Lynch V
-  sex: F
+  siteid: '202'
+  subjid: '14'
+  usubjid: ABC1-202-14
+  invnam: Dr. Nettie Ernser
   country: DEU
-  armcd: PBO
-  arm: Placebo
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  sex: M
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-03-12
+  rfendtc: "--placeholder--"
+  age: 46
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *74
     messages: {}
 - &75 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-201-14
-  siteid: '201'
-  invnam: Dr. Brittany Torp
+  siteid: '202'
+  subjid: '15'
+  usubjid: ABC1-202-15
+  invnam: Dr. Nettie Ernser
+  country: DEU
   sex: M
-  country: FRA
   armcd: TRTC
   arm: Treatment C
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-09-02
+  rfendtc: "--placeholder--"
+  age: 35
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *75
     messages: {}
 - &76 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-303-07
   siteid: '303'
-  invnam: Dr. Dewayne Anderson
-  sex: F
+  subjid: '10'
+  usubjid: ABC1-303-10
+  invnam: Dr. Imelda White
   country: GBR
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  sex: F
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-03-06
+  rfendtc: "--placeholder--"
+  age: 44
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *76
     messages: {}
 - &77 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-202-11
-  siteid: '202'
-  invnam: Dr. Florian Douglas
-  sex: M
-  country: DEU
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  siteid: '101'
+  subjid: 09
+  usubjid: ABC1-101-09
+  invnam: Dr. Fernando Leannon II
+  country: FRA
+  sex: F
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-07-22
+  rfendtc: "--placeholder--"
+  age: 65
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *77
     messages: {}
 - &78 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-302-10
-  siteid: '302'
-  invnam: Dr. Morton Lynch V
-  sex: M
+  siteid: '202'
+  subjid: '16'
+  usubjid: ABC1-202-16
+  invnam: Dr. Nettie Ernser
   country: DEU
+  sex: F
   armcd: TRTC
   arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-06-13 19:02:04.083972215 +02:00
-  rfendtc: "--placeholder--"
-  age: 37
-  ageu: years
+  actarmcd: SCRNFAIL
+  actarm: Screen Failure
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *78
     messages: {}
 - &79 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-101-12
-  siteid: '101'
-  invnam: Dr. Felipa Marvin
+  siteid: '303'
+  subjid: '11'
+  usubjid: ABC1-303-11
+  invnam: Dr. Imelda White
+  country: GBR
   sex: F
-  country: FRA
   armcd: TRTC
   arm: Treatment C
   actarmcd: TRTC
   actarm: Treatment C
-  rfstdtc: 2014-04-12 07:15:34.480244636 +02:00
+  rfstdtc: 2014-07-21
   rfendtc: "--placeholder--"
-  age: 60
+  age: 36
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *79
     messages: {}
 - &80 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-102-08
   siteid: '102'
-  invnam: Dr. Vincenzo Stiedemann
-  sex: M
+  subjid: '12'
+  usubjid: ABC1-102-12
+  invnam: Dr. Clint Harber
   country: DEU
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  sex: F
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-05-18
+  rfendtc: "--placeholder--"
+  age: 65
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *80
     messages: {}
 - &81 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-202-12
   siteid: '202'
-  invnam: Dr. Florian Douglas
-  sex: F
+  subjid: '17'
+  usubjid: ABC1-202-17
+  invnam: Dr. Nettie Ernser
   country: DEU
+  sex: F
   armcd: TRTC
   arm: Treatment C
   actarmcd: TRTC
   actarm: Treatment C
-  rfstdtc: 2014-06-11 23:36:53.761388540 +02:00
+  rfstdtc: 2014-05-19
   rfendtc: "--placeholder--"
-  age: 21
+  age: 25
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *81
     messages: {}
 - &82 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-201-15
-  siteid: '201'
-  invnam: Dr. Brittany Torp
-  sex: F
-  country: FRA
+  siteid: '302'
+  subjid: '07'
+  usubjid: ABC1-302-07
+  invnam: Dr. Leo Bosco
+  country: DEU
+  sex: M
   armcd: PBO
   arm: Placebo
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-03-12
+  rfendtc: "--placeholder--"
+  age: 42
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *82
     messages: {}
 - &83 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-301-10
-  siteid: '301'
-  invnam: Dr. Roma Parisian
+  siteid: '102'
+  subjid: '13'
+  usubjid: ABC1-102-13
+  invnam: Dr. Clint Harber
+  country: DEU
   sex: M
-  country: FRA
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-06-13 22:08:48.177825450 +02:00
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-03-17
   rfendtc: "--placeholder--"
-  age: 26
+  age: 53
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *83
     messages: {}
 - &84 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-202-13
-  siteid: '202'
-  invnam: Dr. Florian Douglas
-  sex: M
+  siteid: '302'
+  subjid: 08
+  usubjid: ABC1-302-08
+  invnam: Dr. Leo Bosco
   country: DEU
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  sex: M
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-09-21
+  rfendtc: "--placeholder--"
+  age: 27
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *84
     messages: {}
 - &85 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-103-10
-  siteid: '103'
-  invnam: Dr. Mallory Kling
-  sex: F
-  country: GBR
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-04-12 18:00:04.933209896 +02:00
+  siteid: '301'
+  subjid: 09
+  usubjid: ABC1-301-09
+  invnam: Dr. Samara Lowe
+  country: FRA
+  sex: M
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-08-13
   rfendtc: "--placeholder--"
-  age: 24
+  age: 59
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *85
     messages: {}
 - &86 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-101-13
   siteid: '101'
-  invnam: Dr. Felipa Marvin
-  sex: M
+  subjid: '10'
+  usubjid: ABC1-101-10
+  invnam: Dr. Fernando Leannon II
   country: FRA
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  sex: M
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-04-03
+  rfendtc: "--placeholder--"
+  age: 26
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *86
     messages: {}
 - &87 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-303-08
-  siteid: '303'
-  invnam: Dr. Dewayne Anderson
+  siteid: '202'
+  subjid: '18'
+  usubjid: ABC1-202-18
+  invnam: Dr. Nettie Ernser
+  country: DEU
   sex: M
-  country: GBR
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-04-19 10:06:51.345514297 +02:00
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-11-24
   rfendtc: "--placeholder--"
-  age: 55
+  age: 29
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *87
     messages: {}
 - &88 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-202-14
-  siteid: '202'
-  invnam: Dr. Florian Douglas
+  siteid: '103'
+  subjid: '05'
+  usubjid: ABC1-103-05
+  invnam: Dr. Brielle Becker
+  country: GBR
   sex: F
-  country: DEU
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-03-13
+  rfendtc: "--placeholder--"
+  age: 52
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *88
     messages: {}
 - &89 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-303-09
-  siteid: '303'
-  invnam: Dr. Dewayne Anderson
-  sex: F
-  country: GBR
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-07-21 08:06:01.734798669 +02:00
+  siteid: '102'
+  subjid: '14'
+  usubjid: ABC1-102-14
+  invnam: Dr. Clint Harber
+  country: DEU
+  sex: M
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-08-17
   rfendtc: "--placeholder--"
-  age: 36
+  age: 55
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *89
     messages: {}
 - &90 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-102-09
-  siteid: '102'
-  invnam: Dr. Vincenzo Stiedemann
-  sex: F
+  siteid: '202'
+  subjid: '19'
+  usubjid: ABC1-202-19
+  invnam: Dr. Nettie Ernser
   country: DEU
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-05-18 04:34:24.595296144 +02:00
+  sex: F
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-04-24
   rfendtc: "--placeholder--"
-  age: 65
+  age: 64
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *90
     messages: {}
 - &91 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-202-15
   siteid: '202'
-  invnam: Dr. Florian Douglas
-  sex: F
+  subjid: '20'
+  usubjid: ABC1-202-20
+  invnam: Dr. Nettie Ernser
   country: DEU
+  sex: F
   armcd: TRTC
   arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-05-19 14:27:02.037435531 +02:00
-  rfendtc: "--placeholder--"
-  age: 25
-  ageu: years
+  actarmcd: SCRNFAIL
+  actarm: Screen Failure
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *91
     messages: {}
 - &92 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-302-11
-  siteid: '302'
-  invnam: Dr. Morton Lynch V
+  siteid: '201'
+  subjid: '15'
+  usubjid: ABC1-201-15
+  invnam: Dr. Gabrielle Morar PhD
+  country: FRA
   sex: M
-  country: DEU
-  armcd: PBO
-  arm: Placebo
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-03-29
+  rfendtc: "--placeholder--"
+  age: 19
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *92
     messages: {}
 - &93 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-102-10
-  siteid: '102'
-  invnam: Dr. Vincenzo Stiedemann
-  sex: F
-  country: DEU
-  armcd: PBO
-  arm: Placebo
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  siteid: '201'
+  subjid: '16'
+  usubjid: ABC1-201-16
+  invnam: Dr. Gabrielle Morar PhD
+  country: FRA
+  sex: M
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-04-28
+  rfendtc: "--placeholder--"
+  age: 40
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *93
     messages: {}
 - &94 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-201-16
   siteid: '201'
-  invnam: Dr. Brittany Torp
-  sex: M
+  subjid: '17'
+  usubjid: ABC1-201-17
+  invnam: Dr. Gabrielle Morar PhD
   country: FRA
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-08-07 05:50:23.724964618 +02:00
+  sex: M
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-04-13
   rfendtc: "--placeholder--"
-  age: 38
+  age: 28
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *94
     messages: {}
 - &95 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-202-16
-  siteid: '202'
-  invnam: Dr. Florian Douglas
+  siteid: '301'
+  subjid: '10'
+  usubjid: ABC1-301-10
+  invnam: Dr. Samara Lowe
+  country: FRA
   sex: M
-  country: DEU
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-03-14 00:42:28.061303853 +01:00
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-03-08
   rfendtc: "--placeholder--"
-  age: 53
+  age: 58
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *95
     messages: {}
 - &96 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-103-11
-  siteid: '103'
-  invnam: Dr. Mallory Kling
-  sex: M
+  siteid: '303'
+  subjid: '12'
+  usubjid: ABC1-303-12
+  invnam: Dr. Imelda White
   country: GBR
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-06-01 10:12:57.365363121 +02:00
+  sex: F
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-09-15
   rfendtc: "--placeholder--"
-  age: 18
+  age: 30
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *96
     messages: {}
 - &97 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-302-12
-  siteid: '302'
-  invnam: Dr. Morton Lynch V
-  sex: M
-  country: DEU
-  armcd: PBO
-  arm: Placebo
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  siteid: '201'
+  subjid: '18'
+  usubjid: ABC1-201-18
+  invnam: Dr. Gabrielle Morar PhD
+  country: FRA
+  sex: F
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-03-09
+  rfendtc: "--placeholder--"
+  age: 46
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *97
     messages: {}
 - &98 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-202-17
-  siteid: '202'
-  invnam: Dr. Florian Douglas
-  sex: M
-  country: DEU
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
+  siteid: '201'
+  subjid: '19'
+  usubjid: ABC1-201-19
+  invnam: Dr. Gabrielle Morar PhD
+  country: FRA
+  sex: F
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-10-11
+  rfendtc: "--placeholder--"
+  age: 55
+  ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *98
     messages: {}
 - &99 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-101-14
-  siteid: '101'
-  invnam: Dr. Felipa Marvin
-  sex: F
-  country: FRA
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-05-23 20:56:28.479130983 +02:00
+  siteid: '202'
+  subjid: '21'
+  usubjid: ABC1-202-21
+  invnam: Dr. Nettie Ernser
+  country: DEU
+  sex: M
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-09-16
   rfendtc: "--placeholder--"
-  age: 20
+  age: 37
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *99
     messages: {}
 - &100 !ruby/object:SdtmDm
   studyid: ABC1
-  usubjid: ABC1-301-11
-  siteid: '301'
-  invnam: Dr. Roma Parisian
-  sex: M
+  siteid: '201'
+  subjid: '20'
+  usubjid: ABC1-201-20
+  invnam: Dr. Gabrielle Morar PhD
   country: FRA
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-03-21 19:52:57.408299684 +01:00
+  sex: M
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-09-27
   rfendtc: "--placeholder--"
-  age: 55
+  age: 40
   ageu: years
+  domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
     base: *100

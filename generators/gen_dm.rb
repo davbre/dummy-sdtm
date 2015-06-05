@@ -28,7 +28,7 @@ def gen_dm(study,controlled_terms)
     race = ct["race"][rand(0..ct.length-1)]
 
     # certain percentage screen failures
-    if rand < 0.5 then
+    if rand < s.screen_fail_proportion then
       actarmcd = "SCRNFAIL"
       actarm = "Screen Failure"
     else
@@ -37,7 +37,7 @@ def gen_dm(study,controlled_terms)
     end
 
     unless actarmcd == "SCRNFAIL"
-      rfstdtc = hlp_rand_time(s.ref_date, s.ref_date + rand(0..365).days)
+      rfstdtc = hlp_rand_start_date(s.ref_date)
       rfendtc = "--placeholder--"
 
       age = rand(s.age_range[0]..s.age_range[1])

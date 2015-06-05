@@ -32,4 +32,6 @@
     - London
     - Manchester
   ref_date: 2014-03-01T00:00:00+00:00
-  discontinue_proportion: 0.2
+  screen_fail_proportion: 0.1
+  screening_days: 14
+  discontinue_proportion: 0.2 # proportion of those who do not screen fail
