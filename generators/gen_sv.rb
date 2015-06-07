@@ -33,7 +33,7 @@ def gen_sv(study,controlled_terms,dm)
     if sbj.actarmcd != "SCRNFAIL"
       sbj_visits = rand(0..1) > s.discontinue_proportion ? s.num_visits : rand(1..s.num_visits)
       sbj_visits.times do |i|
-        visitnum=i+1
+        visitnum=i+2
         visit = i==0 ? "BASELINE" : "VISIT " + "#{i+1}"
         svstdtc = i==0 ? sbj.rfstdtc : prev_svstdtc + rng.weibull(s.visit_duration*1.5, s.visit_duration).round
         svendtc = svstdtc

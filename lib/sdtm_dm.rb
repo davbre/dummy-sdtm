@@ -9,7 +9,6 @@ class SdtmDm
                  usubjid: nil, invnam: nil, country: nil, sex: nil, armcd: nil,
                  arm: nil, actarmcd: nil, actarm: nil, rfstdtc: nil,
                  rfendtc: nil, dthdtc: nil, dthfl: nil, age: nil, ageu: nil)
-
     local_variables.each do |k|
       v = eval(k.to_s)
       instance_variable_set("@#{k}", v) unless v.nil?

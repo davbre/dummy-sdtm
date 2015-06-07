@@ -12,7 +12,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-01
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-04-12
@@ -22,7 +22,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-01
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-04-19
@@ -32,7 +32,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-01
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-04-25
@@ -42,7 +42,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-01
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-05-02
@@ -52,7 +52,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-01
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-05-09
@@ -62,7 +62,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-01
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-05-14
@@ -98,7 +98,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-02
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-05-11
@@ -108,7 +108,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-02
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-05-18
@@ -118,7 +118,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-02
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-05-24
@@ -128,7 +128,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-02
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-05-31
@@ -138,7 +138,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-02
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-06-07
@@ -148,7 +148,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-02
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-06-14
@@ -168,7 +168,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-01
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-05-24
@@ -178,7 +178,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-01
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-06-01
@@ -206,7 +206,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-01
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-05-10
@@ -226,7 +226,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-02
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-05-23
@@ -236,7 +236,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-02
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-05-30
@@ -246,7 +246,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-02
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-06-05
@@ -256,7 +256,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-02
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-06-11
@@ -266,7 +266,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-02
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-06-18
@@ -276,7 +276,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-02
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-06-25
@@ -296,7 +296,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-01
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-05-22
@@ -306,7 +306,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-01
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-05-28
@@ -316,7 +316,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-01
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-06-04
@@ -326,7 +326,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-01
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-06-11
@@ -336,7 +336,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-01
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-06-17
@@ -346,7 +346,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-01
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-06-23
@@ -366,7 +366,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-01
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-06-17
@@ -376,7 +376,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-01
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-06-23
@@ -386,7 +386,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-01
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-07-01
@@ -396,7 +396,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-01
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-07-08
@@ -406,7 +406,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-01
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-07-15
@@ -416,7 +416,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-01
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-07-22
@@ -436,7 +436,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-02
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-08-13
@@ -446,7 +446,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-02
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-08-20
@@ -456,7 +456,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-02
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-08-26
@@ -466,7 +466,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-02
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-09-02
@@ -476,7 +476,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-02
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-09-10
@@ -486,7 +486,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-02
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-09-17
@@ -506,7 +506,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-02
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-11-01
@@ -534,7 +534,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-03
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-08-07
@@ -544,7 +544,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-03
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-08-13
@@ -554,7 +554,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-03
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-08-21
@@ -564,7 +564,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-03
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-08-29
@@ -574,7 +574,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-03
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-09-05
@@ -584,7 +584,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-03
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-09-13
@@ -604,7 +604,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-02
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-08-21
@@ -614,7 +614,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-02
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-08-28
@@ -624,7 +624,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-02
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-09-04
@@ -644,7 +644,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-103-02
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-04-13
@@ -654,7 +654,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-103-02
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-04-19
@@ -664,7 +664,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-103-02
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-04-27
@@ -674,7 +674,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-103-02
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-05-03
@@ -684,7 +684,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-103-02
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-05-11
@@ -694,7 +694,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-103-02
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-05-18
@@ -722,7 +722,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-03
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-05-12
@@ -732,7 +732,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-03
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-05-18
@@ -742,7 +742,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-03
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-05-25
@@ -752,7 +752,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-03
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-06-01
@@ -762,7 +762,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-03
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-06-09
@@ -782,7 +782,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-04
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-06-12
@@ -802,7 +802,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-04
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-06-04
@@ -812,7 +812,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-04
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-06-11
@@ -822,7 +822,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-04
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-06-18
@@ -842,7 +842,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-02
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-03-28
@@ -852,7 +852,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-02
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-04-04
@@ -862,7 +862,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-02
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-04-11
@@ -872,7 +872,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-02
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-04-18
@@ -882,7 +882,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-02
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-04-23
@@ -902,7 +902,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-05
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-03-17
@@ -912,7 +912,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-05
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-03-24
@@ -922,7 +922,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-05
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-03-31
@@ -942,7 +942,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-04
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-03-02
@@ -952,7 +952,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-04
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-03-09
@@ -962,7 +962,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-04
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-03-15
@@ -982,7 +982,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-103-03
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-07-08
@@ -992,7 +992,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-103-03
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-07-15
@@ -1002,7 +1002,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-103-03
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-07-21
@@ -1012,7 +1012,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-103-03
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-07-29
@@ -1022,7 +1022,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-103-03
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-08-05
@@ -1032,7 +1032,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-103-03
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-08-12
@@ -1052,7 +1052,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-04
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-04-01
@@ -1062,7 +1062,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-04
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-04-08
@@ -1082,7 +1082,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-03
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-10-11
@@ -1092,7 +1092,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-03
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-10-17
@@ -1102,7 +1102,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-03
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-10-24
@@ -1112,7 +1112,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-03
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-10-31
@@ -1122,7 +1122,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-03
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-11-08
@@ -1142,7 +1142,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-05
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-04-04
@@ -1152,7 +1152,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-05
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-04-11
@@ -1162,7 +1162,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-05
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-04-17
@@ -1172,7 +1172,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-05
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-04-24
@@ -1182,7 +1182,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-05
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-04-29
@@ -1192,7 +1192,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-05
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-05-06
@@ -1212,7 +1212,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-03
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-06-11
@@ -1222,7 +1222,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-03
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-06-18
@@ -1232,7 +1232,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-03
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-06-25
@@ -1242,7 +1242,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-03
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-06-30
@@ -1252,7 +1252,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-03
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-07-07
@@ -1272,7 +1272,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-06
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-03-01
@@ -1292,7 +1292,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-06
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-09-04
@@ -1302,7 +1302,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-06
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-09-11
@@ -1312,7 +1312,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-06
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-09-18
@@ -1322,7 +1322,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-06
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-09-26
@@ -1332,7 +1332,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-06
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-10-02
@@ -1342,7 +1342,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-06
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-10-10
@@ -1362,7 +1362,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-04
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-04-09
@@ -1372,7 +1372,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-04
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-04-16
@@ -1382,7 +1382,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-04
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-04-21
@@ -1392,7 +1392,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-04
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-04-28
@@ -1412,7 +1412,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-02
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-11-12
@@ -1422,7 +1422,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-02
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-11-19
@@ -1442,7 +1442,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-04
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-04-01
@@ -1452,7 +1452,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-04
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-04-06
@@ -1462,7 +1462,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-04
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-04-13
@@ -1472,7 +1472,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-04
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-04-18
@@ -1482,7 +1482,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-04
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-04-25
@@ -1492,7 +1492,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-04
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-05-02
@@ -1512,7 +1512,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-07
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-08-11
@@ -1522,7 +1522,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-07
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-08-18
@@ -1532,7 +1532,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-07
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-08-25
@@ -1552,7 +1552,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-07
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-05-11
@@ -1562,7 +1562,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-07
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-05-19
@@ -1572,7 +1572,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-07
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-05-25
@@ -1582,7 +1582,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-07
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-05-31
@@ -1592,7 +1592,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-07
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-06-06
@@ -1602,7 +1602,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-07
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-06-13
@@ -1622,7 +1622,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-05
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-05-13
@@ -1632,7 +1632,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-05
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-05-20
@@ -1642,7 +1642,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-05
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-05-27
@@ -1652,7 +1652,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-05
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-06-02
@@ -1662,7 +1662,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-05
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-06-08
@@ -1672,7 +1672,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-05
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-06-15
@@ -1692,7 +1692,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-06
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-03-14
@@ -1702,7 +1702,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-06
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-03-21
@@ -1712,7 +1712,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-06
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-03-29
@@ -1722,7 +1722,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-06
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-04-05
@@ -1732,7 +1732,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-06
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-04-12
@@ -1742,7 +1742,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-06
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-04-19
@@ -1770,7 +1770,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-05
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-06-25
@@ -1780,7 +1780,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-05
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-07-02
@@ -1790,7 +1790,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-05
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-07-08
@@ -1810,7 +1810,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-06
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-03-02
@@ -1820,7 +1820,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-06
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-03-06
@@ -1830,7 +1830,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-06
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-03-13
@@ -1840,7 +1840,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-06
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-03-20
@@ -1850,7 +1850,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-06
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-03-26
@@ -1878,7 +1878,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-08
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-05-07
@@ -1888,7 +1888,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-08
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-05-15
@@ -1898,7 +1898,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-08
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-05-22
@@ -1908,7 +1908,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-08
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-05-28
@@ -1918,7 +1918,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-08
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-06-04
@@ -1928,7 +1928,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-08
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-06-09
@@ -1948,7 +1948,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-08
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-04-25
@@ -1958,7 +1958,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-08
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-05-01
@@ -1968,7 +1968,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-08
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-05-09
@@ -1978,7 +1978,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-08
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-05-16
@@ -1988,7 +1988,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-08
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-05-23
@@ -1998,7 +1998,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-08
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-05-30
@@ -2018,7 +2018,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-09
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-07-21
@@ -2028,7 +2028,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-09
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-07-27
@@ -2038,7 +2038,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-09
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-08-02
@@ -2048,7 +2048,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-09
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-08-09
@@ -2058,7 +2058,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-09
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-08-15
@@ -2068,7 +2068,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-09
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-08-22
@@ -2088,7 +2088,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-05
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-05-31
@@ -2098,7 +2098,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-05
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-06-07
@@ -2108,7 +2108,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-05
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-06-14
@@ -2118,7 +2118,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-05
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-06-21
@@ -2128,7 +2128,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-05
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-06-29
@@ -2138,7 +2138,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-05
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-07-03
@@ -2158,7 +2158,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-06
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-03-08
@@ -2168,7 +2168,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-06
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-03-15
@@ -2178,7 +2178,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-06
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-03-22
@@ -2188,7 +2188,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-06
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-03-29
@@ -2198,7 +2198,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-06
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-04-05
@@ -2208,7 +2208,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-06
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-04-11
@@ -2228,7 +2228,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-10
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-12-05
@@ -2238,7 +2238,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-10
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-12-11
@@ -2248,7 +2248,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-10
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-12-17
@@ -2258,7 +2258,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-10
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-12-25
@@ -2268,7 +2268,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-10
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2015-01-02
@@ -2278,7 +2278,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-10
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2015-01-09
@@ -2298,7 +2298,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-05
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-06-20
@@ -2308,7 +2308,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-05
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-06-27
@@ -2318,7 +2318,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-05
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-07-04
@@ -2328,7 +2328,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-05
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-07-11
@@ -2338,7 +2338,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-05
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-07-18
@@ -2358,7 +2358,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-03
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-03-04
@@ -2368,7 +2368,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-03
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-03-10
@@ -2396,7 +2396,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-06
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-04-06
@@ -2406,7 +2406,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-06
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-04-13
@@ -2416,7 +2416,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-06
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-04-20
@@ -2426,7 +2426,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-06
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-04-28
@@ -2446,7 +2446,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-11
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-07-22
@@ -2456,7 +2456,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-11
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-07-27
@@ -2466,7 +2466,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-11
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-08-02
@@ -2476,7 +2476,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-11
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-08-09
@@ -2496,7 +2496,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-09
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-07-07
@@ -2506,7 +2506,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-09
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-07-14
@@ -2526,7 +2526,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-08
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-05-19
@@ -2536,7 +2536,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-08
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-05-27
@@ -2546,7 +2546,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-08
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-06-03
@@ -2556,7 +2556,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-08
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-06-09
@@ -2566,7 +2566,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-08
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-06-16
@@ -2576,7 +2576,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-08
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-06-22
@@ -2596,7 +2596,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-10
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-08-22
@@ -2606,7 +2606,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-10
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-08-28
@@ -2626,7 +2626,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-08
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-09-24
@@ -2636,7 +2636,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-08
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-10-01
@@ -2646,7 +2646,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-08
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-10-06
@@ -2656,7 +2656,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-08
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-10-13
@@ -2684,7 +2684,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-09
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-06-03
@@ -2694,7 +2694,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-09
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-06-10
@@ -2704,7 +2704,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-09
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-06-15
@@ -2724,7 +2724,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-04
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-04-17
@@ -2734,7 +2734,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-04
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-04-24
@@ -2744,7 +2744,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-04
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-04-30
@@ -2764,7 +2764,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-11
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-04-23
@@ -2774,7 +2774,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-11
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-04-30
@@ -2784,7 +2784,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-11
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-05-06
@@ -2794,7 +2794,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-11
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-05-12
@@ -2804,7 +2804,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-11
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-05-19
@@ -2814,7 +2814,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-11
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-05-26
@@ -2834,7 +2834,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-12
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-09-08
@@ -2844,7 +2844,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-12
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-09-16
@@ -2854,7 +2854,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-12
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-09-23
@@ -2864,7 +2864,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-12
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-10-01
@@ -2874,7 +2874,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-12
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-10-07
@@ -2884,7 +2884,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-12
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-10-14
@@ -2904,7 +2904,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-05
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-10-03
@@ -2914,7 +2914,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-05
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-10-08
@@ -2924,7 +2924,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-05
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-10-15
@@ -2934,7 +2934,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-05
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-10-22
@@ -2944,7 +2944,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-05
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-10-28
@@ -2954,7 +2954,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-05
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-11-02
@@ -2982,7 +2982,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-12
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-07-26
@@ -2992,7 +2992,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-12
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-08-02
@@ -3002,7 +3002,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-12
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-08-10
@@ -3012,7 +3012,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-12
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-08-17
@@ -3022,7 +3022,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-12
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-08-24
@@ -3032,7 +3032,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-12
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-08-30
@@ -3060,7 +3060,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-06
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-06-04
@@ -3080,7 +3080,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-14
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-11-01
@@ -3090,7 +3090,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-14
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-11-09
@@ -3100,7 +3100,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-14
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-11-15
@@ -3110,7 +3110,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-14
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-11-22
@@ -3130,7 +3130,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-13
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-03-15
@@ -3140,7 +3140,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-13
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-03-21
@@ -3150,7 +3150,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-13
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-03-27
@@ -3160,7 +3160,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-13
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-04-02
@@ -3170,7 +3170,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-13
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-04-09
@@ -3180,7 +3180,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-13
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-04-16
@@ -3200,7 +3200,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-08
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-03-15
@@ -3210,7 +3210,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-08
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-03-22
@@ -3220,7 +3220,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-08
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-03-28
@@ -3230,7 +3230,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-08
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-04-03
@@ -3240,7 +3240,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-08
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-04-09
@@ -3260,7 +3260,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-09
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-03-09
@@ -3270,7 +3270,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-09
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-03-15
@@ -3280,7 +3280,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-09
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-03-20
@@ -3290,7 +3290,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-09
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-03-26
@@ -3300,7 +3300,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-09
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-04-02
@@ -3310,7 +3310,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-09
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-04-08
@@ -3330,7 +3330,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-11
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-03-12
@@ -3340,7 +3340,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-11
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-03-16
@@ -3350,7 +3350,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-11
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-03-23
@@ -3360,7 +3360,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-11
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-03-29
@@ -3370,7 +3370,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-11
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-04-05
@@ -3380,7 +3380,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-11
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-04-12
@@ -3408,7 +3408,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-08
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-06-13
@@ -3418,7 +3418,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-08
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-06-20
@@ -3428,7 +3428,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-08
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-06-26
@@ -3438,7 +3438,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-08
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-07-03
@@ -3448,7 +3448,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-08
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-07-10
@@ -3458,7 +3458,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-08
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-07-16
@@ -3478,7 +3478,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-14
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-03-12
@@ -3488,7 +3488,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-14
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-03-19
@@ -3498,7 +3498,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-14
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-03-25
@@ -3508,7 +3508,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-14
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-03-31
@@ -3528,7 +3528,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-15
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-09-02
@@ -3538,7 +3538,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-15
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-09-08
@@ -3548,7 +3548,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-15
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-09-15
@@ -3558,7 +3558,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-15
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-09-22
@@ -3568,7 +3568,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-15
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-09-26
@@ -3578,7 +3578,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-15
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-10-03
@@ -3598,7 +3598,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-10
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-03-06
@@ -3608,7 +3608,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-10
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-03-12
@@ -3628,7 +3628,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-09
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-07-22
@@ -3638,7 +3638,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-09
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-07-29
@@ -3648,7 +3648,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-09
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-08-06
@@ -3676,7 +3676,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-11
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-07-21
@@ -3686,7 +3686,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-11
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-07-27
@@ -3696,7 +3696,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-11
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-08-03
@@ -3706,7 +3706,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-11
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-08-10
@@ -3716,7 +3716,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-11
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-08-16
@@ -3726,7 +3726,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-11
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-08-23
@@ -3746,7 +3746,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-12
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-05-18
@@ -3756,7 +3756,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-12
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-05-25
@@ -3766,7 +3766,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-12
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-05-31
@@ -3776,7 +3776,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-12
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-06-05
@@ -3786,7 +3786,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-12
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-06-11
@@ -3796,7 +3796,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-12
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-06-18
@@ -3816,7 +3816,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-17
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-05-19
@@ -3826,7 +3826,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-17
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-05-24
@@ -3836,7 +3836,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-17
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-06-01
@@ -3846,7 +3846,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-17
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-06-09
@@ -3856,7 +3856,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-17
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-06-15
@@ -3866,7 +3866,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-17
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-06-22
@@ -3886,7 +3886,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-07
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-03-12
@@ -3896,7 +3896,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-07
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-03-19
@@ -3906,7 +3906,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-07
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-03-26
@@ -3916,7 +3916,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-07
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-04-01
@@ -3926,7 +3926,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-07
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-04-08
@@ -3936,7 +3936,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-07
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-04-14
@@ -3956,7 +3956,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-13
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-03-17
@@ -3966,7 +3966,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-13
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-03-24
@@ -3976,7 +3976,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-13
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-03-30
@@ -3986,7 +3986,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-13
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-04-07
@@ -3996,7 +3996,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-13
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-04-14
@@ -4006,7 +4006,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-13
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-04-21
@@ -4026,7 +4026,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-302-08
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-09-21
@@ -4046,7 +4046,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-09
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-08-13
@@ -4056,7 +4056,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-09
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-08-20
@@ -4066,7 +4066,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-09
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-08-28
@@ -4076,7 +4076,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-09
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-09-03
@@ -4086,7 +4086,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-09
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-09-09
@@ -4096,7 +4096,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-09
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-09-16
@@ -4116,7 +4116,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-10
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-04-03
@@ -4126,7 +4126,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-10
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-04-10
@@ -4136,7 +4136,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-10
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-04-16
@@ -4146,7 +4146,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-10
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-04-22
@@ -4156,7 +4156,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-10
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-04-29
@@ -4166,7 +4166,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-101-10
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-05-05
@@ -4186,7 +4186,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-18
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-11-24
@@ -4196,7 +4196,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-18
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-11-30
@@ -4206,7 +4206,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-18
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-12-07
@@ -4216,7 +4216,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-18
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-12-15
@@ -4226,7 +4226,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-18
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-12-20
@@ -4236,7 +4236,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-18
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-12-26
@@ -4256,7 +4256,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-103-05
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-03-13
@@ -4266,7 +4266,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-103-05
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-03-20
@@ -4276,7 +4276,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-103-05
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-03-27
@@ -4286,7 +4286,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-103-05
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-04-03
@@ -4296,7 +4296,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-103-05
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-04-10
@@ -4306,7 +4306,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-103-05
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-04-18
@@ -4326,7 +4326,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-14
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-08-17
@@ -4336,7 +4336,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-14
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-08-24
@@ -4346,7 +4346,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-14
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-08-31
@@ -4356,7 +4356,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-14
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-09-07
@@ -4366,7 +4366,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-14
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-09-13
@@ -4376,7 +4376,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-102-14
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-09-19
@@ -4396,7 +4396,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-19
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-04-24
@@ -4406,7 +4406,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-19
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-04-30
@@ -4416,7 +4416,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-19
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-05-06
@@ -4426,7 +4426,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-19
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-05-13
@@ -4436,7 +4436,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-19
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-05-20
@@ -4446,7 +4446,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-19
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-05-27
@@ -4474,7 +4474,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-15
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-03-29
@@ -4484,7 +4484,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-15
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-04-05
@@ -4494,7 +4494,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-15
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-04-12
@@ -4504,7 +4504,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-15
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-04-19
@@ -4514,7 +4514,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-15
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-04-24
@@ -4524,7 +4524,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-15
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-05-01
@@ -4544,7 +4544,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-16
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-04-28
@@ -4554,7 +4554,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-16
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-05-05
@@ -4564,7 +4564,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-16
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-05-12
@@ -4574,7 +4574,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-16
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-05-18
@@ -4594,7 +4594,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-17
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-04-13
@@ -4604,7 +4604,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-17
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-04-21
@@ -4614,7 +4614,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-17
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-04-28
@@ -4624,7 +4624,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-17
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-05-04
@@ -4634,7 +4634,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-17
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-05-09
@@ -4644,7 +4644,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-17
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-05-15
@@ -4664,7 +4664,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-10
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-03-08
@@ -4674,7 +4674,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-10
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-03-15
@@ -4684,7 +4684,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-10
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-03-22
@@ -4694,7 +4694,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-10
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-03-29
@@ -4704,7 +4704,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-10
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-04-05
@@ -4714,7 +4714,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-301-10
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-04-11
@@ -4734,7 +4734,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-12
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-09-15
@@ -4744,7 +4744,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-12
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-09-22
@@ -4754,7 +4754,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-12
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-09-27
@@ -4764,7 +4764,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-12
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-10-04
@@ -4774,7 +4774,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-12
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-10-12
@@ -4784,7 +4784,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-303-12
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-10-19
@@ -4804,7 +4804,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-18
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-03-09
@@ -4814,7 +4814,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-18
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-03-15
@@ -4824,7 +4824,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-18
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-03-21
@@ -4834,7 +4834,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-18
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-03-27
@@ -4844,7 +4844,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-18
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-04-03
@@ -4854,7 +4854,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-18
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-04-10
@@ -4874,7 +4874,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-19
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-10-11
@@ -4884,7 +4884,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-19
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-10-18
@@ -4894,7 +4894,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-19
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-10-25
@@ -4904,7 +4904,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-19
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-10-31
@@ -4914,7 +4914,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-19
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-11-06
@@ -4924,7 +4924,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-19
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-11-14
@@ -4944,7 +4944,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-21
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-09-16
@@ -4954,7 +4954,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-21
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-09-21
@@ -4964,7 +4964,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-21
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-09-27
@@ -4974,7 +4974,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-202-21
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-10-04
@@ -4994,7 +4994,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-20
-  visitnum: 1
+  visitnum: 2
   visit: BASELINE
   visitdy: 14
   svstdtc: 2014-09-27
@@ -5004,7 +5004,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-20
-  visitnum: 2
+  visitnum: 3
   visit: VISIT 2
   visitdy: 14
   svstdtc: 2014-10-03
@@ -5014,7 +5014,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-20
-  visitnum: 3
+  visitnum: 4
   visit: VISIT 3
   visitdy: 14
   svstdtc: 2014-10-10
@@ -5024,7 +5024,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-20
-  visitnum: 4
+  visitnum: 5
   visit: VISIT 4
   visitdy: 14
   svstdtc: 2014-10-17
@@ -5034,7 +5034,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-20
-  visitnum: 5
+  visitnum: 6
   visit: VISIT 5
   visitdy: 14
   svstdtc: 2014-10-23
@@ -5044,7 +5044,7 @@
 - !ruby/object:SdtmSv
   studyid: ABC1
   usubjid: ABC1-201-20
-  visitnum: 6
+  visitnum: 7
   visit: VISIT 6
   visitdy: 14
   svstdtc: 2014-10-30
