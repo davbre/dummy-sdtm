@@ -2,7 +2,7 @@ def gen_dm(study,controlled_terms)
 
   s = study
   ct = controlled_terms
-  dm_dataset = []
+  dm_dataset = {} # create a hash as will need to look-up later when generating other data sets
 
   s.total_subjects.times do |i|
 
@@ -27,6 +27,7 @@ def gen_dm(study,controlled_terms)
 
     race = ct["race"][rand(0..ct.length-1)]
 
+    
     # certain percentage screen failures
     if rand < s.screen_fail_proportion then
       actarmcd = "SCRNFAIL"
@@ -66,12 +67,11 @@ def gen_dm(study,controlled_terms)
 
     begin
       raise "DM observation is not valid" unless dm_row.valid?
-      dm_dataset << dm_row
+      dm_dataset[usubjid] = dm_row
     rescue Exception => e
       puts e.message
       puts dm_row.errors.full_messages
     end
   end
-
-  dm_dataset
+  dm_dataset = dm_dataset.sort.to_h # sort dm dataset now so other data sets will automatically be sorted
 end

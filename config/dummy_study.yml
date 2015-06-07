@@ -15,6 +15,11 @@
   - 0.25
   - 0.25
   - 0.25
+  treatment_doses:
+  - 0
+  - 10
+  - 20
+  - 50
   total_subjects: 100
   num_visits: 6
   visit_duration: 7

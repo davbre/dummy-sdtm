@@ -1,2041 +1,2529 @@
 ---
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-01
-  exseq: 1
-  exstdtc: 2014-04-12
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-01
-  exseq: 2
-  exstdtc: 2014-04-19
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-01
-  exseq: 3
-  exstdtc: 2014-04-25
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-01
-  exseq: 4
-  exstdtc: 2014-05-02
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-01
-  exseq: 5
-  exstdtc: 2014-05-09
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-01
-  exseq: 6
-  exstdtc: 2014-05-14
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-02
-  exseq: 7
-  exstdtc: 2014-05-11
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-02
-  exseq: 8
-  exstdtc: 2014-05-18
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-02
-  exseq: 9
-  exstdtc: 2014-05-24
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-02
-  exseq: 10
-  exstdtc: 2014-05-31
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-02
-  exseq: 11
-  exstdtc: 2014-06-07
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-02
-  exseq: 12
-  exstdtc: 2014-06-14
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-01
-  exseq: 13
-  exstdtc: 2014-05-24
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-01
-  exseq: 14
-  exstdtc: 2014-06-01
+ABC1-101-01:
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-101-01
-  exseq: 15
+  exseq: 1
+  exdose: 20
   exstdtc: 2014-05-10
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-102-02
-  exseq: 16
+  usubjid: ABC1-101-01
+  exseq: 2
+  exdose: 20
+  exstdtc: 2014-05-17
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-101-01
+  exseq: 3
+  exdose: 20
   exstdtc: 2014-05-23
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-102-02
-  exseq: 17
+  usubjid: ABC1-101-01
+  exseq: 4
+  exdose: 20
   exstdtc: 2014-05-30
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-102-02
-  exseq: 18
-  exstdtc: 2014-06-05
+  usubjid: ABC1-101-01
+  exseq: 5
+  exdose: 20
+  exstdtc: 2014-06-06
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-102-02
-  exseq: 19
+  usubjid: ABC1-101-01
+  exseq: 6
+  exdose: 20
   exstdtc: 2014-06-11
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-02
-  exseq: 20
-  exstdtc: 2014-06-18
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-02
-  exseq: 21
-  exstdtc: 2014-06-25
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-01
-  exseq: 22
-  exstdtc: 2014-05-22
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-01
-  exseq: 23
-  exstdtc: 2014-05-28
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-01
-  exseq: 24
-  exstdtc: 2014-06-04
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-01
-  exseq: 25
-  exstdtc: 2014-06-11
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-01
-  exseq: 26
-  exstdtc: 2014-06-17
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-01
-  exseq: 27
-  exstdtc: 2014-06-23
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-01
-  exseq: 28
-  exstdtc: 2014-06-17
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-01
-  exseq: 29
-  exstdtc: 2014-06-23
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-01
-  exseq: 30
-  exstdtc: 2014-07-01
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-01
-  exseq: 31
-  exstdtc: 2014-07-08
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-01
-  exseq: 32
-  exstdtc: 2014-07-15
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-01
-  exseq: 33
-  exstdtc: 2014-07-22
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-02
-  exseq: 34
-  exstdtc: 2014-08-13
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-02
-  exseq: 35
-  exstdtc: 2014-08-20
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-02
-  exseq: 36
-  exstdtc: 2014-08-26
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-02
-  exseq: 37
-  exstdtc: 2014-09-02
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-02
-  exseq: 38
-  exstdtc: 2014-09-10
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-02
-  exseq: 39
-  exstdtc: 2014-09-17
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-02
-  exseq: 40
-  exstdtc: 2014-11-01
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-03
-  exseq: 41
-  exstdtc: 2014-08-07
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-03
-  exseq: 42
-  exstdtc: 2014-08-13
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-03
-  exseq: 43
-  exstdtc: 2014-08-21
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-03
-  exseq: 44
-  exstdtc: 2014-08-29
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-03
-  exseq: 45
-  exstdtc: 2014-09-05
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-03
-  exseq: 46
-  exstdtc: 2014-09-13
+ABC1-101-02:
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-101-02
-  exseq: 47
+  exseq: 7
+  exdose: 0
   exstdtc: 2014-08-21
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-101-02
-  exseq: 48
-  exstdtc: 2014-08-28
+  exseq: 8
+  exdose: 0
+  exstdtc: 2014-08-27
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-101-02
-  exseq: 49
-  exstdtc: 2014-09-04
+  exseq: 9
+  exdose: 0
+  exstdtc: 2014-09-01
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-103-02
-  exseq: 50
-  exstdtc: 2014-04-13
+  usubjid: ABC1-101-02
+  exseq: 10
+  exdose: 0
+  exstdtc: 2014-09-08
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-103-02
-  exseq: 51
-  exstdtc: 2014-04-19
+  usubjid: ABC1-101-02
+  exseq: 11
+  exdose: 0
+  exstdtc: 2014-09-14
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-103-02
-  exseq: 52
-  exstdtc: 2014-04-27
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-103-02
-  exseq: 53
-  exstdtc: 2014-05-03
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-103-02
-  exseq: 54
-  exstdtc: 2014-05-11
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-103-02
-  exseq: 55
-  exstdtc: 2014-05-18
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-03
-  exseq: 56
-  exstdtc: 2014-05-12
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-03
-  exseq: 57
-  exstdtc: 2014-05-18
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-03
-  exseq: 58
-  exstdtc: 2014-05-25
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-03
-  exseq: 59
-  exstdtc: 2014-06-01
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-03
-  exseq: 60
-  exstdtc: 2014-06-09
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-04
-  exseq: 61
-  exstdtc: 2014-06-12
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-04
-  exseq: 62
-  exstdtc: 2014-06-04
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-04
-  exseq: 63
-  exstdtc: 2014-06-11
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-04
-  exseq: 64
-  exstdtc: 2014-06-18
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-02
-  exseq: 65
-  exstdtc: 2014-03-28
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-02
-  exseq: 66
-  exstdtc: 2014-04-04
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-02
-  exseq: 67
-  exstdtc: 2014-04-11
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-02
-  exseq: 68
-  exstdtc: 2014-04-18
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-02
-  exseq: 69
-  exstdtc: 2014-04-23
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-05
-  exseq: 70
-  exstdtc: 2014-03-17
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-05
-  exseq: 71
-  exstdtc: 2014-03-24
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-05
-  exseq: 72
-  exstdtc: 2014-03-31
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-04
-  exseq: 73
-  exstdtc: 2014-03-02
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-04
-  exseq: 74
-  exstdtc: 2014-03-09
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-04
-  exseq: 75
-  exstdtc: 2014-03-15
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-103-03
-  exseq: 76
-  exstdtc: 2014-07-08
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-103-03
-  exseq: 77
-  exstdtc: 2014-07-15
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-103-03
-  exseq: 78
-  exstdtc: 2014-07-21
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-103-03
-  exseq: 79
-  exstdtc: 2014-07-29
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-103-03
-  exseq: 80
-  exstdtc: 2014-08-05
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-103-03
-  exseq: 81
-  exstdtc: 2014-08-12
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-04
-  exseq: 82
-  exstdtc: 2014-04-01
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-04
-  exseq: 83
-  exstdtc: 2014-04-08
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-03
-  exseq: 84
-  exstdtc: 2014-10-11
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-03
-  exseq: 85
-  exstdtc: 2014-10-17
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-03
-  exseq: 86
-  exstdtc: 2014-10-24
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-03
-  exseq: 87
-  exstdtc: 2014-10-31
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-03
-  exseq: 88
-  exstdtc: 2014-11-08
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-05
-  exseq: 89
-  exstdtc: 2014-04-04
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-05
-  exseq: 90
-  exstdtc: 2014-04-11
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-05
-  exseq: 91
-  exstdtc: 2014-04-17
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-05
-  exseq: 92
-  exstdtc: 2014-04-24
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-05
-  exseq: 93
-  exstdtc: 2014-04-29
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-05
-  exseq: 94
-  exstdtc: 2014-05-06
+  usubjid: ABC1-101-02
+  exseq: 12
+  exdose: 0
+  exstdtc: 2014-09-21
+ABC1-101-03:
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-101-03
-  exseq: 95
+  exseq: 13
+  exdose: 50
   exstdtc: 2014-06-11
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-101-03
-  exseq: 96
+  exseq: 14
+  exdose: 50
   exstdtc: 2014-06-18
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-101-03
-  exseq: 97
-  exstdtc: 2014-06-25
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-03
-  exseq: 98
-  exstdtc: 2014-06-30
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-03
-  exseq: 99
-  exstdtc: 2014-07-07
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-06
-  exseq: 100
-  exstdtc: 2014-03-01
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-06
-  exseq: 101
-  exstdtc: 2014-09-04
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-06
-  exseq: 102
-  exstdtc: 2014-09-11
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-06
-  exseq: 103
-  exstdtc: 2014-09-18
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-06
-  exseq: 104
-  exstdtc: 2014-09-26
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-06
-  exseq: 105
-  exstdtc: 2014-10-02
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-06
-  exseq: 106
-  exstdtc: 2014-10-10
+  exseq: 15
+  exdose: 50
+  exstdtc: 2014-06-26
+ABC1-101-04:
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-101-04
-  exseq: 107
+  exseq: 16
+  exdose: 20
   exstdtc: 2014-04-09
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-101-04
-  exseq: 108
+  exseq: 17
+  exdose: 20
   exstdtc: 2014-04-16
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-101-04
-  exseq: 109
-  exstdtc: 2014-04-21
+  exseq: 18
+  exdose: 20
+  exstdtc: 2014-04-24
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-101-04
-  exseq: 110
-  exstdtc: 2014-04-28
+  exseq: 19
+  exdose: 20
+  exstdtc: 2014-04-30
+ABC1-101-05:
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-302-02
-  exseq: 111
-  exstdtc: 2014-11-12
+  usubjid: ABC1-101-05
+  exseq: 20
+  exdose: 0
+  exstdtc: 2014-06-25
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-302-02
-  exseq: 112
-  exstdtc: 2014-11-19
+  usubjid: ABC1-101-05
+  exseq: 21
+  exdose: 0
+  exstdtc: 2014-07-01
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-303-04
-  exseq: 113
-  exstdtc: 2014-04-01
+  usubjid: ABC1-101-05
+  exseq: 22
+  exdose: 0
+  exstdtc: 2014-07-07
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-303-04
-  exseq: 114
-  exstdtc: 2014-04-06
+  usubjid: ABC1-101-05
+  exseq: 23
+  exdose: 0
+  exstdtc: 2014-07-14
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-303-04
-  exseq: 115
-  exstdtc: 2014-04-13
+  usubjid: ABC1-101-05
+  exseq: 24
+  exdose: 0
+  exstdtc: 2014-07-21
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-303-04
-  exseq: 116
+  usubjid: ABC1-101-05
+  exseq: 25
+  exdose: 0
+  exstdtc: 2014-07-27
+ABC1-101-06:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-101-06
+  exseq: 26
+  exdose: 50
+  exstdtc: 2014-03-02
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-101-06
+  exseq: 27
+  exdose: 50
+  exstdtc: 2014-03-09
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-101-06
+  exseq: 28
+  exdose: 50
+  exstdtc: 2014-03-16
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-101-06
+  exseq: 29
+  exdose: 50
+  exstdtc: 2014-03-22
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-101-06
+  exseq: 30
+  exdose: 50
+  exstdtc: 2014-03-28
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-101-06
+  exseq: 31
+  exdose: 50
+  exstdtc: 2014-04-05
+ABC1-101-08:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-101-08
+  exseq: 32
+  exdose: 20
+  exstdtc: 2014-03-15
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-101-08
+  exseq: 33
+  exdose: 20
+  exstdtc: 2014-03-22
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-101-08
+  exseq: 34
+  exdose: 20
+  exstdtc: 2014-03-29
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-101-08
+  exseq: 35
+  exdose: 20
+  exstdtc: 2014-04-05
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-101-08
+  exseq: 36
+  exdose: 20
+  exstdtc: 2014-04-11
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-101-08
+  exseq: 37
+  exdose: 20
   exstdtc: 2014-04-18
+ABC1-101-09:
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-303-04
-  exseq: 117
-  exstdtc: 2014-04-25
+  usubjid: ABC1-101-09
+  exseq: 38
+  exdose: 10
+  exstdtc: 2014-07-22
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-303-04
-  exseq: 118
-  exstdtc: 2014-05-02
+  usubjid: ABC1-101-09
+  exseq: 39
+  exdose: 10
+  exstdtc: 2014-07-29
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-201-07
-  exseq: 119
-  exstdtc: 2014-08-11
+  usubjid: ABC1-101-09
+  exseq: 40
+  exdose: 10
+  exstdtc: 2014-08-06
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-201-07
-  exseq: 120
-  exstdtc: 2014-08-18
+  usubjid: ABC1-101-09
+  exseq: 41
+  exdose: 10
+  exstdtc: 2014-08-13
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-201-07
-  exseq: 121
+  usubjid: ABC1-101-09
+  exseq: 42
+  exdose: 10
+  exstdtc: 2014-08-20
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-101-09
+  exseq: 43
+  exdose: 10
   exstdtc: 2014-08-25
+ABC1-101-10:
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-202-07
-  exseq: 122
-  exstdtc: 2014-05-11
+  usubjid: ABC1-101-10
+  exseq: 44
+  exdose: 20
+  exstdtc: 2014-04-03
+ABC1-102-02:
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-202-07
-  exseq: 123
-  exstdtc: 2014-05-19
+  usubjid: ABC1-102-02
+  exseq: 45
+  exdose: 0
+  exstdtc: 2014-05-23
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-202-07
-  exseq: 124
-  exstdtc: 2014-05-25
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-07
-  exseq: 125
+  usubjid: ABC1-102-02
+  exseq: 46
+  exdose: 0
   exstdtc: 2014-05-31
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-202-07
-  exseq: 126
-  exstdtc: 2014-06-06
+  usubjid: ABC1-102-02
+  exseq: 47
+  exdose: 0
+  exstdtc: 2014-06-07
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-202-07
-  exseq: 127
-  exstdtc: 2014-06-13
+  usubjid: ABC1-102-02
+  exseq: 48
+  exdose: 0
+  exstdtc: 2014-06-15
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-102-02
+  exseq: 49
+  exdose: 0
+  exstdtc: 2014-06-22
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-102-02
+  exseq: 50
+  exdose: 0
+  exstdtc: 2014-06-29
+ABC1-102-04:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-102-04
+  exseq: 51
+  exdose: 20
+  exstdtc: 2014-06-12
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-102-04
+  exseq: 52
+  exdose: 20
+  exstdtc: 2014-06-18
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-102-04
+  exseq: 53
+  exdose: 20
+  exstdtc: 2014-06-26
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-102-04
+  exseq: 54
+  exdose: 20
+  exstdtc: 2014-07-02
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-102-04
+  exseq: 55
+  exdose: 20
+  exstdtc: 2014-07-10
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-102-04
+  exseq: 56
+  exdose: 20
+  exstdtc: 2014-07-17
+ABC1-102-05:
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-102-05
-  exseq: 128
+  exseq: 57
+  exdose: 50
   exstdtc: 2014-05-13
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-102-05
-  exseq: 129
+  exseq: 58
+  exdose: 50
   exstdtc: 2014-05-20
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-102-05
-  exseq: 130
-  exstdtc: 2014-05-27
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-05
-  exseq: 131
-  exstdtc: 2014-06-02
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-05
-  exseq: 132
-  exstdtc: 2014-06-08
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-05
-  exseq: 133
-  exstdtc: 2014-06-15
+  exseq: 59
+  exdose: 50
+  exstdtc: 2014-05-26
+ABC1-102-06:
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-102-06
-  exseq: 134
+  exseq: 60
+  exdose: 50
   exstdtc: 2014-03-14
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-102-06
-  exseq: 135
+  exseq: 61
+  exdose: 50
   exstdtc: 2014-03-21
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-102-06
-  exseq: 136
+  exseq: 62
+  exdose: 50
   exstdtc: 2014-03-29
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-102-06
-  exseq: 137
-  exstdtc: 2014-04-05
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-06
-  exseq: 138
-  exstdtc: 2014-04-12
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-06
-  exseq: 139
-  exstdtc: 2014-04-19
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-05
-  exseq: 140
-  exstdtc: 2014-06-25
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-05
-  exseq: 141
-  exstdtc: 2014-07-02
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-05
-  exseq: 142
-  exstdtc: 2014-07-08
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-06
-  exseq: 143
-  exstdtc: 2014-03-02
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-06
-  exseq: 144
-  exstdtc: 2014-03-06
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-06
-  exseq: 145
-  exstdtc: 2014-03-13
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-06
-  exseq: 146
-  exstdtc: 2014-03-20
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-06
-  exseq: 147
-  exstdtc: 2014-03-26
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-08
-  exseq: 148
-  exstdtc: 2014-05-07
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-08
-  exseq: 149
-  exstdtc: 2014-05-15
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-08
-  exseq: 150
-  exstdtc: 2014-05-22
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-08
-  exseq: 151
-  exstdtc: 2014-05-28
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-08
-  exseq: 152
-  exstdtc: 2014-06-04
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-08
-  exseq: 153
-  exstdtc: 2014-06-09
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-08
-  exseq: 154
-  exstdtc: 2014-04-25
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-08
-  exseq: 155
-  exstdtc: 2014-05-01
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-08
-  exseq: 156
-  exstdtc: 2014-05-09
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-08
-  exseq: 157
-  exstdtc: 2014-05-16
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-08
-  exseq: 158
-  exstdtc: 2014-05-23
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-08
-  exseq: 159
-  exstdtc: 2014-05-30
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-09
-  exseq: 160
-  exstdtc: 2014-07-21
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-09
-  exseq: 161
-  exstdtc: 2014-07-27
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-09
-  exseq: 162
-  exstdtc: 2014-08-02
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-09
-  exseq: 163
-  exstdtc: 2014-08-09
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-09
-  exseq: 164
-  exstdtc: 2014-08-15
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-09
-  exseq: 165
-  exstdtc: 2014-08-22
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-05
-  exseq: 166
-  exstdtc: 2014-05-31
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-05
-  exseq: 167
-  exstdtc: 2014-06-07
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-05
-  exseq: 168
-  exstdtc: 2014-06-14
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-05
-  exseq: 169
-  exstdtc: 2014-06-21
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-05
-  exseq: 170
-  exstdtc: 2014-06-29
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-05
-  exseq: 171
-  exstdtc: 2014-07-03
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-06
-  exseq: 172
-  exstdtc: 2014-03-08
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-06
-  exseq: 173
-  exstdtc: 2014-03-15
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-06
-  exseq: 174
-  exstdtc: 2014-03-22
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-06
-  exseq: 175
-  exstdtc: 2014-03-29
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-06
-  exseq: 176
-  exstdtc: 2014-04-05
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-06
-  exseq: 177
-  exstdtc: 2014-04-11
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-10
-  exseq: 178
-  exstdtc: 2014-12-05
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-10
-  exseq: 179
-  exstdtc: 2014-12-11
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-10
-  exseq: 180
-  exstdtc: 2014-12-17
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-10
-  exseq: 181
-  exstdtc: 2014-12-25
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-10
-  exseq: 182
-  exstdtc: 2015-01-02
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-10
-  exseq: 183
-  exstdtc: 2015-01-09
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-05
-  exseq: 184
-  exstdtc: 2014-06-20
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-05
-  exseq: 185
-  exstdtc: 2014-06-27
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-05
-  exseq: 186
-  exstdtc: 2014-07-04
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-05
-  exseq: 187
-  exstdtc: 2014-07-11
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-05
-  exseq: 188
-  exstdtc: 2014-07-18
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-03
-  exseq: 189
-  exstdtc: 2014-03-04
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-03
-  exseq: 190
-  exstdtc: 2014-03-10
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-06
-  exseq: 191
-  exstdtc: 2014-04-06
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-06
-  exseq: 192
-  exstdtc: 2014-04-13
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-06
-  exseq: 193
-  exstdtc: 2014-04-20
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-06
-  exseq: 194
-  exstdtc: 2014-04-28
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-11
-  exseq: 195
-  exstdtc: 2014-07-22
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-11
-  exseq: 196
-  exstdtc: 2014-07-27
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-11
-  exseq: 197
-  exstdtc: 2014-08-02
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-11
-  exseq: 198
-  exstdtc: 2014-08-09
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-09
-  exseq: 199
-  exstdtc: 2014-07-07
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-09
-  exseq: 200
-  exstdtc: 2014-07-14
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-08
-  exseq: 201
-  exstdtc: 2014-05-19
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-08
-  exseq: 202
-  exstdtc: 2014-05-27
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-08
-  exseq: 203
-  exstdtc: 2014-06-03
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-08
-  exseq: 204
-  exstdtc: 2014-06-09
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-08
-  exseq: 205
-  exstdtc: 2014-06-16
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-08
-  exseq: 206
-  exstdtc: 2014-06-22
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-10
-  exseq: 207
-  exstdtc: 2014-08-22
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-10
-  exseq: 208
-  exstdtc: 2014-08-28
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-08
-  exseq: 209
-  exstdtc: 2014-09-24
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-08
-  exseq: 210
-  exstdtc: 2014-10-01
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-08
-  exseq: 211
-  exstdtc: 2014-10-06
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-08
-  exseq: 212
-  exstdtc: 2014-10-13
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-09
-  exseq: 213
-  exstdtc: 2014-06-03
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-09
-  exseq: 214
-  exstdtc: 2014-06-10
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-09
-  exseq: 215
-  exstdtc: 2014-06-15
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-04
-  exseq: 216
-  exstdtc: 2014-04-17
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-04
-  exseq: 217
-  exstdtc: 2014-04-24
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-04
-  exseq: 218
-  exstdtc: 2014-04-30
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-11
-  exseq: 219
-  exstdtc: 2014-04-23
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-11
-  exseq: 220
-  exstdtc: 2014-04-30
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-11
-  exseq: 221
-  exstdtc: 2014-05-06
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-11
-  exseq: 222
-  exstdtc: 2014-05-12
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-11
-  exseq: 223
-  exstdtc: 2014-05-19
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-11
-  exseq: 224
-  exstdtc: 2014-05-26
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-12
-  exseq: 225
-  exstdtc: 2014-09-08
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-12
-  exseq: 226
-  exstdtc: 2014-09-16
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-12
-  exseq: 227
-  exstdtc: 2014-09-23
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-12
-  exseq: 228
-  exstdtc: 2014-10-01
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-12
-  exseq: 229
-  exstdtc: 2014-10-07
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-12
-  exseq: 230
-  exstdtc: 2014-10-14
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-05
-  exseq: 231
-  exstdtc: 2014-10-03
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-05
-  exseq: 232
-  exstdtc: 2014-10-08
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-05
-  exseq: 233
-  exstdtc: 2014-10-15
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-05
-  exseq: 234
-  exstdtc: 2014-10-22
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-05
-  exseq: 235
-  exstdtc: 2014-10-28
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-05
-  exseq: 236
-  exstdtc: 2014-11-02
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-12
-  exseq: 237
-  exstdtc: 2014-07-26
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-12
-  exseq: 238
-  exstdtc: 2014-08-02
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-12
-  exseq: 239
-  exstdtc: 2014-08-10
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-12
-  exseq: 240
-  exstdtc: 2014-08-17
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-12
-  exseq: 241
-  exstdtc: 2014-08-24
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-12
-  exseq: 242
-  exstdtc: 2014-08-30
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-06
-  exseq: 243
-  exstdtc: 2014-06-04
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-14
-  exseq: 244
-  exstdtc: 2014-11-01
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-14
-  exseq: 245
-  exstdtc: 2014-11-09
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-14
-  exseq: 246
-  exstdtc: 2014-11-15
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-14
-  exseq: 247
-  exstdtc: 2014-11-22
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-13
-  exseq: 248
-  exstdtc: 2014-03-15
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-13
-  exseq: 249
-  exstdtc: 2014-03-21
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-13
-  exseq: 250
-  exstdtc: 2014-03-27
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-13
-  exseq: 251
-  exstdtc: 2014-04-02
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-13
-  exseq: 252
-  exstdtc: 2014-04-09
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-13
-  exseq: 253
-  exstdtc: 2014-04-16
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-08
-  exseq: 254
-  exstdtc: 2014-03-15
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-08
-  exseq: 255
-  exstdtc: 2014-03-22
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-08
-  exseq: 256
-  exstdtc: 2014-03-28
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-08
-  exseq: 257
+  exseq: 63
+  exdose: 50
   exstdtc: 2014-04-03
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-101-08
-  exseq: 258
-  exstdtc: 2014-04-09
+  usubjid: ABC1-102-06
+  exseq: 64
+  exdose: 50
+  exstdtc: 2014-04-10
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-303-09
-  exseq: 259
-  exstdtc: 2014-03-09
+  usubjid: ABC1-102-06
+  exseq: 65
+  exdose: 50
+  exstdtc: 2014-04-17
+ABC1-102-08:
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-303-09
-  exseq: 260
-  exstdtc: 2014-03-15
+  usubjid: ABC1-102-08
+  exseq: 66
+  exdose: 0
+  exstdtc: 2014-05-19
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-303-09
-  exseq: 261
-  exstdtc: 2014-03-20
+  usubjid: ABC1-102-08
+  exseq: 67
+  exdose: 0
+  exstdtc: 2014-05-26
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-303-09
-  exseq: 262
-  exstdtc: 2014-03-26
+  usubjid: ABC1-102-08
+  exseq: 68
+  exdose: 0
+  exstdtc: 2014-06-02
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-303-09
-  exseq: 263
-  exstdtc: 2014-04-02
+  usubjid: ABC1-102-08
+  exseq: 69
+  exdose: 0
+  exstdtc: 2014-06-09
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-303-09
-  exseq: 264
-  exstdtc: 2014-04-08
+  usubjid: ABC1-102-08
+  exseq: 70
+  exdose: 0
+  exstdtc: 2014-06-14
+ABC1-102-09:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-102-09
+  exseq: 71
+  exdose: 0
+  exstdtc: 2014-06-03
+ABC1-102-11:
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-102-11
-  exseq: 265
+  exseq: 72
+  exdose: 20
   exstdtc: 2014-03-12
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-11
-  exseq: 266
-  exstdtc: 2014-03-16
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-11
-  exseq: 267
-  exstdtc: 2014-03-23
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-11
-  exseq: 268
-  exstdtc: 2014-03-29
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-11
-  exseq: 269
-  exstdtc: 2014-04-05
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-11
-  exseq: 270
-  exstdtc: 2014-04-12
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-08
-  exseq: 271
-  exstdtc: 2014-06-13
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-08
-  exseq: 272
-  exstdtc: 2014-06-20
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-08
-  exseq: 273
-  exstdtc: 2014-06-26
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-08
-  exseq: 274
-  exstdtc: 2014-07-03
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-08
-  exseq: 275
-  exstdtc: 2014-07-10
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-08
-  exseq: 276
-  exstdtc: 2014-07-16
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-14
-  exseq: 277
-  exstdtc: 2014-03-12
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-14
-  exseq: 278
-  exstdtc: 2014-03-19
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-14
-  exseq: 279
-  exstdtc: 2014-03-25
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-14
-  exseq: 280
-  exstdtc: 2014-03-31
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-15
-  exseq: 281
-  exstdtc: 2014-09-02
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-15
-  exseq: 282
-  exstdtc: 2014-09-08
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-15
-  exseq: 283
-  exstdtc: 2014-09-15
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-15
-  exseq: 284
-  exstdtc: 2014-09-22
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-15
-  exseq: 285
-  exstdtc: 2014-09-26
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-15
-  exseq: 286
-  exstdtc: 2014-10-03
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-10
-  exseq: 287
-  exstdtc: 2014-03-06
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-10
-  exseq: 288
-  exstdtc: 2014-03-12
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-09
-  exseq: 289
-  exstdtc: 2014-07-22
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-09
-  exseq: 290
-  exstdtc: 2014-07-29
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-09
-  exseq: 291
-  exstdtc: 2014-08-06
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-11
-  exseq: 292
-  exstdtc: 2014-07-21
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-11
-  exseq: 293
-  exstdtc: 2014-07-27
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-11
-  exseq: 294
-  exstdtc: 2014-08-03
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-11
-  exseq: 295
-  exstdtc: 2014-08-10
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-11
-  exseq: 296
-  exstdtc: 2014-08-16
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-11
-  exseq: 297
-  exstdtc: 2014-08-23
+ABC1-102-12:
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-102-12
-  exseq: 298
+  exseq: 73
+  exdose: 20
   exstdtc: 2014-05-18
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-102-12
-  exseq: 299
+  exseq: 74
+  exdose: 20
   exstdtc: 2014-05-25
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-102-12
-  exseq: 300
+  exseq: 75
+  exdose: 20
   exstdtc: 2014-05-31
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-12
-  exseq: 301
-  exstdtc: 2014-06-05
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-12
-  exseq: 302
-  exstdtc: 2014-06-11
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-102-12
-  exseq: 303
-  exstdtc: 2014-06-18
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-17
-  exseq: 304
-  exstdtc: 2014-05-19
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-17
-  exseq: 305
-  exstdtc: 2014-05-24
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-17
-  exseq: 306
-  exstdtc: 2014-06-01
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-17
-  exseq: 307
-  exstdtc: 2014-06-09
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-17
-  exseq: 308
-  exstdtc: 2014-06-15
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-17
-  exseq: 309
-  exstdtc: 2014-06-22
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-07
-  exseq: 310
-  exstdtc: 2014-03-12
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-07
-  exseq: 311
-  exstdtc: 2014-03-19
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-07
-  exseq: 312
-  exstdtc: 2014-03-26
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-07
-  exseq: 313
-  exstdtc: 2014-04-01
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-07
-  exseq: 314
-  exstdtc: 2014-04-08
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-07
-  exseq: 315
-  exstdtc: 2014-04-14
+ABC1-102-13:
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-102-13
-  exseq: 316
+  exseq: 76
+  exdose: 0
   exstdtc: 2014-03-17
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-102-13
-  exseq: 317
+  exseq: 77
+  exdose: 0
   exstdtc: 2014-03-24
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-102-13
-  exseq: 318
+  exseq: 78
+  exdose: 0
   exstdtc: 2014-03-30
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-102-13
-  exseq: 319
+  exseq: 79
+  exdose: 0
   exstdtc: 2014-04-07
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-102-13
-  exseq: 320
+  exseq: 80
+  exdose: 0
   exstdtc: 2014-04-14
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-102-13
-  exseq: 321
+  exseq: 81
+  exdose: 0
   exstdtc: 2014-04-21
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-302-08
-  exseq: 322
-  exstdtc: 2014-09-21
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-09
-  exseq: 323
-  exstdtc: 2014-08-13
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-09
-  exseq: 324
-  exstdtc: 2014-08-20
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-09
-  exseq: 325
-  exstdtc: 2014-08-28
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-09
-  exseq: 326
-  exstdtc: 2014-09-03
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-09
-  exseq: 327
-  exstdtc: 2014-09-09
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-09
-  exseq: 328
-  exstdtc: 2014-09-16
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-10
-  exseq: 329
-  exstdtc: 2014-04-03
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-10
-  exseq: 330
-  exstdtc: 2014-04-10
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-10
-  exseq: 331
-  exstdtc: 2014-04-16
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-10
-  exseq: 332
-  exstdtc: 2014-04-22
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-10
-  exseq: 333
-  exstdtc: 2014-04-29
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-101-10
-  exseq: 334
-  exstdtc: 2014-05-05
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-18
-  exseq: 335
-  exstdtc: 2014-11-24
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-18
-  exseq: 336
-  exstdtc: 2014-11-30
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-18
-  exseq: 337
-  exstdtc: 2014-12-07
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-18
-  exseq: 338
-  exstdtc: 2014-12-15
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-18
-  exseq: 339
-  exstdtc: 2014-12-20
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-18
-  exseq: 340
-  exstdtc: 2014-12-26
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-103-05
-  exseq: 341
-  exstdtc: 2014-03-13
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-103-05
-  exseq: 342
-  exstdtc: 2014-03-20
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-103-05
-  exseq: 343
-  exstdtc: 2014-03-27
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-103-05
-  exseq: 344
-  exstdtc: 2014-04-03
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-103-05
-  exseq: 345
-  exstdtc: 2014-04-10
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-103-05
-  exseq: 346
-  exstdtc: 2014-04-18
+ABC1-102-14:
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-102-14
-  exseq: 347
+  exseq: 82
+  exdose: 10
   exstdtc: 2014-08-17
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-102-14
-  exseq: 348
+  exseq: 83
+  exdose: 10
   exstdtc: 2014-08-24
+ABC1-103-02:
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-102-14
-  exseq: 349
-  exstdtc: 2014-08-31
+  usubjid: ABC1-103-02
+  exseq: 84
+  exdose: 0
+  exstdtc: 2014-04-13
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-102-14
-  exseq: 350
-  exstdtc: 2014-09-07
+  usubjid: ABC1-103-02
+  exseq: 85
+  exdose: 0
+  exstdtc: 2014-04-20
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-102-14
-  exseq: 351
-  exstdtc: 2014-09-13
+  usubjid: ABC1-103-02
+  exseq: 86
+  exdose: 0
+  exstdtc: 2014-04-27
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-102-14
-  exseq: 352
-  exstdtc: 2014-09-19
+  usubjid: ABC1-103-02
+  exseq: 87
+  exdose: 0
+  exstdtc: 2014-05-05
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-202-19
-  exseq: 353
-  exstdtc: 2014-04-24
+  usubjid: ABC1-103-02
+  exseq: 88
+  exdose: 0
+  exstdtc: 2014-05-12
+ABC1-103-03:
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-202-19
-  exseq: 354
+  usubjid: ABC1-103-03
+  exseq: 89
+  exdose: 0
+  exstdtc: 2014-07-08
+ABC1-103-05:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-103-05
+  exseq: 90
+  exdose: 10
+  exstdtc: 2014-03-13
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-103-05
+  exseq: 91
+  exdose: 10
+  exstdtc: 2014-03-18
+ABC1-201-01:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-01
+  exseq: 92
+  exdose: 10
+  exstdtc: 2014-05-22
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-01
+  exseq: 93
+  exdose: 10
+  exstdtc: 2014-05-29
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-01
+  exseq: 94
+  exdose: 10
+  exstdtc: 2014-06-05
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-01
+  exseq: 95
+  exdose: 10
+  exstdtc: 2014-06-12
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-01
+  exseq: 96
+  exdose: 10
+  exstdtc: 2014-06-17
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-01
+  exseq: 97
+  exdose: 10
+  exstdtc: 2014-06-24
+ABC1-201-02:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-02
+  exseq: 98
+  exdose: 0
+  exstdtc: 2014-11-01
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-02
+  exseq: 99
+  exdose: 0
+  exstdtc: 2014-11-07
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-02
+  exseq: 100
+  exdose: 0
+  exstdtc: 2014-11-14
+ABC1-201-04:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-04
+  exseq: 101
+  exdose: 10
+  exstdtc: 2014-03-02
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-04
+  exseq: 102
+  exdose: 10
+  exstdtc: 2014-03-08
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-04
+  exseq: 103
+  exdose: 10
+  exstdtc: 2014-03-16
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-04
+  exseq: 104
+  exdose: 10
+  exstdtc: 2014-03-24
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-04
+  exseq: 105
+  exdose: 10
+  exstdtc: 2014-03-31
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-04
+  exseq: 106
+  exdose: 10
+  exstdtc: 2014-04-05
+ABC1-201-05:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-05
+  exseq: 107
+  exdose: 50
+  exstdtc: 2014-04-04
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-05
+  exseq: 108
+  exdose: 50
+  exstdtc: 2014-04-11
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-05
+  exseq: 109
+  exdose: 50
+  exstdtc: 2014-04-18
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-05
+  exseq: 110
+  exdose: 50
+  exstdtc: 2014-04-25
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-05
+  exseq: 111
+  exdose: 50
   exstdtc: 2014-04-30
+ABC1-201-06:
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-202-19
-  exseq: 355
-  exstdtc: 2014-05-06
+  usubjid: ABC1-201-06
+  exseq: 112
+  exdose: 0
+  exstdtc: 2014-09-04
+ABC1-201-07:
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-202-19
-  exseq: 356
-  exstdtc: 2014-05-13
+  usubjid: ABC1-201-07
+  exseq: 113
+  exdose: 0
+  exstdtc: 2014-08-11
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-202-19
-  exseq: 357
-  exstdtc: 2014-05-20
+  usubjid: ABC1-201-07
+  exseq: 114
+  exdose: 0
+  exstdtc: 2014-08-18
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-202-19
-  exseq: 358
-  exstdtc: 2014-05-27
+  usubjid: ABC1-201-07
+  exseq: 115
+  exdose: 0
+  exstdtc: 2014-08-25
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-07
+  exseq: 116
+  exdose: 0
+  exstdtc: 2014-09-02
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-07
+  exseq: 117
+  exdose: 0
+  exstdtc: 2014-09-09
+ABC1-201-08:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-08
+  exseq: 118
+  exdose: 20
+  exstdtc: 2014-05-07
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-08
+  exseq: 119
+  exdose: 20
+  exstdtc: 2014-05-14
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-08
+  exseq: 120
+  exdose: 20
+  exstdtc: 2014-05-22
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-08
+  exseq: 121
+  exdose: 20
+  exstdtc: 2014-05-28
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-08
+  exseq: 122
+  exdose: 20
+  exstdtc: 2014-06-03
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-08
+  exseq: 123
+  exdose: 20
+  exstdtc: 2014-06-09
+ABC1-201-09:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-09
+  exseq: 124
+  exdose: 10
+  exstdtc: 2014-07-21
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-09
+  exseq: 125
+  exdose: 10
+  exstdtc: 2014-07-28
+ABC1-201-10:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-10
+  exseq: 126
+  exdose: 50
+  exstdtc: 2014-12-05
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-10
+  exseq: 127
+  exdose: 50
+  exstdtc: 2014-12-12
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-10
+  exseq: 128
+  exdose: 50
+  exstdtc: 2014-12-18
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-10
+  exseq: 129
+  exdose: 50
+  exstdtc: 2014-12-24
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-10
+  exseq: 130
+  exdose: 50
+  exstdtc: 2014-12-31
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-10
+  exseq: 131
+  exdose: 50
+  exstdtc: 2015-01-06
+ABC1-201-11:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-11
+  exseq: 132
+  exdose: 10
+  exstdtc: 2014-07-22
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-11
+  exseq: 133
+  exdose: 10
+  exstdtc: 2014-07-30
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-11
+  exseq: 134
+  exdose: 10
+  exstdtc: 2014-08-06
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-11
+  exseq: 135
+  exdose: 10
+  exstdtc: 2014-08-13
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-11
+  exseq: 136
+  exdose: 10
+  exstdtc: 2014-08-20
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-11
+  exseq: 137
+  exdose: 10
+  exstdtc: 2014-08-27
+ABC1-201-12:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-12
+  exseq: 138
+  exdose: 20
+  exstdtc: 2014-09-08
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-12
+  exseq: 139
+  exdose: 20
+  exstdtc: 2014-09-15
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-12
+  exseq: 140
+  exdose: 20
+  exstdtc: 2014-09-21
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-12
+  exseq: 141
+  exdose: 20
+  exstdtc: 2014-09-28
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-12
+  exseq: 142
+  exdose: 20
+  exstdtc: 2014-10-02
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-12
+  exseq: 143
+  exdose: 20
+  exstdtc: 2014-10-09
+ABC1-201-14:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-14
+  exseq: 144
+  exdose: 0
+  exstdtc: 2014-11-01
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-14
+  exseq: 145
+  exdose: 0
+  exstdtc: 2014-11-08
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-14
+  exseq: 146
+  exdose: 0
+  exstdtc: 2014-11-15
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-14
+  exseq: 147
+  exdose: 0
+  exstdtc: 2014-11-23
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-14
+  exseq: 148
+  exdose: 0
+  exstdtc: 2014-11-30
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-14
+  exseq: 149
+  exdose: 0
+  exstdtc: 2014-12-06
+ABC1-201-15:
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-201-15
-  exseq: 359
+  exseq: 150
+  exdose: 50
   exstdtc: 2014-03-29
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-201-15
-  exseq: 360
-  exstdtc: 2014-04-05
+  exseq: 151
+  exdose: 50
+  exstdtc: 2014-04-03
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-201-15
-  exseq: 361
-  exstdtc: 2014-04-12
+  exseq: 152
+  exdose: 50
+  exstdtc: 2014-04-11
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-201-15
-  exseq: 362
-  exstdtc: 2014-04-19
+  exseq: 153
+  exdose: 50
+  exstdtc: 2014-04-17
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-201-15
-  exseq: 363
-  exstdtc: 2014-04-24
+  exseq: 154
+  exdose: 50
+  exstdtc: 2014-04-25
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-201-15
-  exseq: 364
-  exstdtc: 2014-05-01
+  exseq: 155
+  exdose: 50
+  exstdtc: 2014-05-02
+ABC1-201-16:
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-201-16
-  exseq: 365
+  exseq: 156
+  exdose: 10
   exstdtc: 2014-04-28
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-201-16
-  exseq: 366
+  exseq: 157
+  exdose: 10
   exstdtc: 2014-05-05
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-201-16
-  exseq: 367
+  exseq: 158
+  exdose: 10
   exstdtc: 2014-05-12
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-201-16
-  exseq: 368
+  exseq: 159
+  exdose: 10
   exstdtc: 2014-05-18
 - !ruby/object:SdtmEx
   studyid: ABC1
+  usubjid: ABC1-201-16
+  exseq: 160
+  exdose: 10
+  exstdtc: 2014-05-24
+ABC1-201-17:
+- !ruby/object:SdtmEx
+  studyid: ABC1
   usubjid: ABC1-201-17
-  exseq: 369
+  exseq: 161
+  exdose: 50
   exstdtc: 2014-04-13
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-201-17
-  exseq: 370
-  exstdtc: 2014-04-21
+  exseq: 162
+  exdose: 50
+  exstdtc: 2014-04-19
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-201-17
-  exseq: 371
-  exstdtc: 2014-04-28
+  exseq: 163
+  exdose: 50
+  exstdtc: 2014-04-26
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-201-17
-  exseq: 372
-  exstdtc: 2014-05-04
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-17
-  exseq: 373
-  exstdtc: 2014-05-09
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-17
-  exseq: 374
-  exstdtc: 2014-05-15
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-10
-  exseq: 375
-  exstdtc: 2014-03-08
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-10
-  exseq: 376
-  exstdtc: 2014-03-15
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-10
-  exseq: 377
-  exstdtc: 2014-03-22
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-10
-  exseq: 378
-  exstdtc: 2014-03-29
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-10
-  exseq: 379
-  exstdtc: 2014-04-05
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-301-10
-  exseq: 380
-  exstdtc: 2014-04-11
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-12
-  exseq: 381
-  exstdtc: 2014-09-15
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-12
-  exseq: 382
-  exstdtc: 2014-09-22
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-12
-  exseq: 383
-  exstdtc: 2014-09-27
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-12
-  exseq: 384
-  exstdtc: 2014-10-04
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-12
-  exseq: 385
-  exstdtc: 2014-10-12
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-303-12
-  exseq: 386
-  exstdtc: 2014-10-19
+  exseq: 164
+  exdose: 50
+  exstdtc: 2014-05-01
+ABC1-201-18:
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-201-18
-  exseq: 387
+  exseq: 165
+  exdose: 10
   exstdtc: 2014-03-09
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-201-18
-  exseq: 388
-  exstdtc: 2014-03-15
+  exseq: 166
+  exdose: 10
+  exstdtc: 2014-03-16
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-201-18
-  exseq: 389
-  exstdtc: 2014-03-21
+  exseq: 167
+  exdose: 10
+  exstdtc: 2014-03-23
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-201-18
-  exseq: 390
-  exstdtc: 2014-03-27
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-18
-  exseq: 391
-  exstdtc: 2014-04-03
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-18
-  exseq: 392
-  exstdtc: 2014-04-10
+  exseq: 168
+  exdose: 10
+  exstdtc: 2014-03-31
+ABC1-201-19:
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-201-19
-  exseq: 393
+  exseq: 169
+  exdose: 0
   exstdtc: 2014-10-11
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-201-19
-  exseq: 394
-  exstdtc: 2014-10-18
+  exseq: 170
+  exdose: 0
+  exstdtc: 2014-10-17
+ABC1-201-20:
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-201-19
-  exseq: 395
-  exstdtc: 2014-10-25
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-19
-  exseq: 396
-  exstdtc: 2014-10-31
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-19
-  exseq: 397
-  exstdtc: 2014-11-06
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-201-19
-  exseq: 398
-  exstdtc: 2014-11-14
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-21
-  exseq: 399
-  exstdtc: 2014-09-16
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-21
-  exseq: 400
-  exstdtc: 2014-09-21
-- !ruby/object:SdtmEx
-  studyid: ABC1
-  usubjid: ABC1-202-21
-  exseq: 401
+  usubjid: ABC1-201-20
+  exseq: 171
+  exdose: 50
   exstdtc: 2014-09-27
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-202-21
-  exseq: 402
+  usubjid: ABC1-201-20
+  exseq: 172
+  exdose: 50
   exstdtc: 2014-10-04
 - !ruby/object:SdtmEx
   studyid: ABC1
   usubjid: ABC1-201-20
-  exseq: 403
+  exseq: 173
+  exdose: 50
+  exstdtc: 2014-10-11
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-20
+  exseq: 174
+  exdose: 50
+  exstdtc: 2014-10-18
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-20
+  exseq: 175
+  exdose: 50
+  exstdtc: 2014-10-24
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-201-20
+  exseq: 176
+  exdose: 50
+  exstdtc: 2014-10-30
+ABC1-202-01:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-01
+  exseq: 177
+  exdose: 10
+  exstdtc: 2014-05-24
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-01
+  exseq: 178
+  exdose: 10
+  exstdtc: 2014-05-30
+ABC1-202-02:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-02
+  exseq: 179
+  exdose: 50
+  exstdtc: 2014-08-13
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-02
+  exseq: 180
+  exdose: 50
+  exstdtc: 2014-08-21
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-02
+  exseq: 181
+  exdose: 50
+  exstdtc: 2014-08-28
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-02
+  exseq: 182
+  exdose: 50
+  exstdtc: 2014-09-02
+ABC1-202-03:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-03
+  exseq: 183
+  exdose: 20
+  exstdtc: 2014-08-07
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-03
+  exseq: 184
+  exdose: 20
+  exstdtc: 2014-08-14
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-03
+  exseq: 185
+  exdose: 20
+  exstdtc: 2014-08-21
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-03
+  exseq: 186
+  exdose: 20
+  exstdtc: 2014-08-28
+ABC1-202-04:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-04
+  exseq: 187
+  exdose: 50
+  exstdtc: 2014-06-04
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-04
+  exseq: 188
+  exdose: 50
+  exstdtc: 2014-06-10
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-04
+  exseq: 189
+  exdose: 50
+  exstdtc: 2014-06-17
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-04
+  exseq: 190
+  exdose: 50
+  exstdtc: 2014-06-23
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-04
+  exseq: 191
+  exdose: 50
+  exstdtc: 2014-06-30
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-04
+  exseq: 192
+  exdose: 50
+  exstdtc: 2014-07-07
+ABC1-202-05:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-05
+  exseq: 193
+  exdose: 10
+  exstdtc: 2014-03-17
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-05
+  exseq: 194
+  exdose: 10
+  exstdtc: 2014-03-25
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-05
+  exseq: 195
+  exdose: 10
+  exstdtc: 2014-03-30
+ABC1-202-06:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-06
+  exseq: 196
+  exdose: 20
+  exstdtc: 2014-03-01
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-06
+  exseq: 197
+  exdose: 20
+  exstdtc: 2014-03-08
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-06
+  exseq: 198
+  exdose: 20
+  exstdtc: 2014-03-15
+ABC1-202-07:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-07
+  exseq: 199
+  exdose: 0
+  exstdtc: 2014-05-11
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-07
+  exseq: 200
+  exdose: 0
+  exstdtc: 2014-05-17
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-07
+  exseq: 201
+  exdose: 0
+  exstdtc: 2014-05-25
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-07
+  exseq: 202
+  exdose: 0
+  exstdtc: 2014-06-01
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-07
+  exseq: 203
+  exdose: 0
+  exstdtc: 2014-06-07
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-07
+  exseq: 204
+  exdose: 0
+  exstdtc: 2014-06-14
+ABC1-202-08:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-08
+  exseq: 205
+  exdose: 20
+  exstdtc: 2014-04-25
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-08
+  exseq: 206
+  exdose: 20
+  exstdtc: 2014-05-02
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-08
+  exseq: 207
+  exdose: 20
+  exstdtc: 2014-05-08
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-08
+  exseq: 208
+  exdose: 20
+  exstdtc: 2014-05-13
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-08
+  exseq: 209
+  exdose: 20
+  exstdtc: 2014-05-20
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-08
+  exseq: 210
+  exdose: 20
+  exstdtc: 2014-05-25
+ABC1-202-09:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-09
+  exseq: 211
+  exdose: 0
+  exstdtc: 2014-07-07
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-09
+  exseq: 212
+  exdose: 0
+  exstdtc: 2014-07-12
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-09
+  exseq: 213
+  exdose: 0
+  exstdtc: 2014-07-18
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-09
+  exseq: 214
+  exdose: 0
+  exstdtc: 2014-07-25
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-09
+  exseq: 215
+  exdose: 0
+  exstdtc: 2014-07-30
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-09
+  exseq: 216
+  exdose: 0
+  exstdtc: 2014-08-05
+ABC1-202-10:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-10
+  exseq: 217
+  exdose: 10
+  exstdtc: 2014-08-22
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-10
+  exseq: 218
+  exdose: 10
+  exstdtc: 2014-08-28
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-10
+  exseq: 219
+  exdose: 10
+  exstdtc: 2014-09-01
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-10
+  exseq: 220
+  exdose: 10
+  exstdtc: 2014-09-08
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-10
+  exseq: 221
+  exdose: 10
+  exstdtc: 2014-09-14
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-10
+  exseq: 222
+  exdose: 10
+  exstdtc: 2014-09-20
+ABC1-202-11:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-11
+  exseq: 223
+  exdose: 0
+  exstdtc: 2014-04-23
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-11
+  exseq: 224
+  exdose: 0
+  exstdtc: 2014-04-30
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-11
+  exseq: 225
+  exdose: 0
+  exstdtc: 2014-05-07
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-11
+  exseq: 226
+  exdose: 0
+  exstdtc: 2014-05-15
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-11
+  exseq: 227
+  exdose: 0
+  exstdtc: 2014-05-22
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-11
+  exseq: 228
+  exdose: 0
+  exstdtc: 2014-05-30
+ABC1-202-12:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-12
+  exseq: 229
+  exdose: 20
+  exstdtc: 2014-07-26
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-12
+  exseq: 230
+  exdose: 20
+  exstdtc: 2014-08-02
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-12
+  exseq: 231
+  exdose: 20
+  exstdtc: 2014-08-07
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-12
+  exseq: 232
+  exdose: 20
+  exstdtc: 2014-08-12
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-12
+  exseq: 233
+  exdose: 20
+  exstdtc: 2014-08-19
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-12
+  exseq: 234
+  exdose: 20
+  exstdtc: 2014-08-26
+ABC1-202-13:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-13
+  exseq: 235
+  exdose: 10
+  exstdtc: 2014-03-15
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-13
+  exseq: 236
+  exdose: 10
+  exstdtc: 2014-03-20
+ABC1-202-14:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-14
+  exseq: 237
+  exdose: 50
+  exstdtc: 2014-03-12
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-14
+  exseq: 238
+  exdose: 50
+  exstdtc: 2014-03-19
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-14
+  exseq: 239
+  exdose: 50
+  exstdtc: 2014-03-26
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-14
+  exseq: 240
+  exdose: 50
+  exstdtc: 2014-04-03
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-14
+  exseq: 241
+  exdose: 50
+  exstdtc: 2014-04-10
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-14
+  exseq: 242
+  exdose: 50
+  exstdtc: 2014-04-17
+ABC1-202-15:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-15
+  exseq: 243
+  exdose: 50
+  exstdtc: 2014-09-02
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-15
+  exseq: 244
+  exdose: 50
+  exstdtc: 2014-09-09
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-15
+  exseq: 245
+  exdose: 50
+  exstdtc: 2014-09-16
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-15
+  exseq: 246
+  exdose: 50
+  exstdtc: 2014-09-23
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-15
+  exseq: 247
+  exdose: 50
+  exstdtc: 2014-10-01
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-15
+  exseq: 248
+  exdose: 50
+  exstdtc: 2014-10-07
+ABC1-202-17:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-17
+  exseq: 249
+  exdose: 50
+  exstdtc: 2014-05-19
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-17
+  exseq: 250
+  exdose: 50
+  exstdtc: 2014-05-25
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-17
+  exseq: 251
+  exdose: 50
+  exstdtc: 2014-05-31
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-17
+  exseq: 252
+  exdose: 50
+  exstdtc: 2014-06-06
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-17
+  exseq: 253
+  exdose: 50
+  exstdtc: 2014-06-13
+ABC1-202-18:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-18
+  exseq: 254
+  exdose: 20
+  exstdtc: 2014-11-24
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-18
+  exseq: 255
+  exdose: 20
+  exstdtc: 2014-12-01
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-18
+  exseq: 256
+  exdose: 20
+  exstdtc: 2014-12-08
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-18
+  exseq: 257
+  exdose: 20
+  exstdtc: 2014-12-14
+ABC1-202-19:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-19
+  exseq: 258
+  exdose: 0
+  exstdtc: 2014-04-24
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-19
+  exseq: 259
+  exdose: 0
+  exstdtc: 2014-04-30
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-19
+  exseq: 260
+  exdose: 0
+  exstdtc: 2014-05-07
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-19
+  exseq: 261
+  exdose: 0
+  exstdtc: 2014-05-13
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-19
+  exseq: 262
+  exdose: 0
+  exstdtc: 2014-05-18
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-19
+  exseq: 263
+  exdose: 0
+  exstdtc: 2014-05-24
+ABC1-202-21:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-21
+  exseq: 264
+  exdose: 20
+  exstdtc: 2014-09-16
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-21
+  exseq: 265
+  exdose: 20
+  exstdtc: 2014-09-23
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-202-21
+  exseq: 266
+  exdose: 20
   exstdtc: 2014-09-27
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-201-20
-  exseq: 404
-  exstdtc: 2014-10-03
+  usubjid: ABC1-202-21
+  exseq: 267
+  exdose: 20
+  exstdtc: 2014-10-04
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-201-20
-  exseq: 405
+  usubjid: ABC1-202-21
+  exseq: 268
+  exdose: 20
   exstdtc: 2014-10-10
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-201-20
-  exseq: 406
+  usubjid: ABC1-202-21
+  exseq: 269
+  exdose: 20
+  exstdtc: 2014-10-17
+ABC1-301-02:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-02
+  exseq: 270
+  exdose: 0
+  exstdtc: 2014-05-11
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-02
+  exseq: 271
+  exdose: 0
+  exstdtc: 2014-05-19
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-02
+  exseq: 272
+  exdose: 0
+  exstdtc: 2014-05-26
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-02
+  exseq: 273
+  exdose: 0
+  exstdtc: 2014-06-01
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-02
+  exseq: 274
+  exdose: 0
+  exstdtc: 2014-06-08
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-02
+  exseq: 275
+  exdose: 0
+  exstdtc: 2014-06-15
+ABC1-301-03:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-03
+  exseq: 276
+  exdose: 20
+  exstdtc: 2014-05-12
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-03
+  exseq: 277
+  exdose: 20
+  exstdtc: 2014-05-18
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-03
+  exseq: 278
+  exdose: 20
+  exstdtc: 2014-05-25
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-03
+  exseq: 279
+  exdose: 20
+  exstdtc: 2014-05-31
+ABC1-301-04:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-04
+  exseq: 280
+  exdose: 20
+  exstdtc: 2014-04-01
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-04
+  exseq: 281
+  exdose: 20
+  exstdtc: 2014-04-07
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-04
+  exseq: 282
+  exdose: 20
+  exstdtc: 2014-04-13
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-04
+  exseq: 283
+  exdose: 20
+  exstdtc: 2014-04-20
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-04
+  exseq: 284
+  exdose: 20
+  exstdtc: 2014-04-27
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-04
+  exseq: 285
+  exdose: 20
+  exstdtc: 2014-05-01
+ABC1-301-05:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-05
+  exseq: 286
+  exdose: 10
+  exstdtc: 2014-06-20
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-05
+  exseq: 287
+  exdose: 10
+  exstdtc: 2014-06-26
+ABC1-301-06:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-06
+  exseq: 288
+  exdose: 50
+  exstdtc: 2014-04-06
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-06
+  exseq: 289
+  exdose: 50
+  exstdtc: 2014-04-13
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-06
+  exseq: 290
+  exdose: 50
+  exstdtc: 2014-04-20
+ABC1-301-08:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-08
+  exseq: 291
+  exdose: 10
+  exstdtc: 2014-06-13
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-08
+  exseq: 292
+  exdose: 10
+  exstdtc: 2014-06-21
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-08
+  exseq: 293
+  exdose: 10
+  exstdtc: 2014-06-27
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-08
+  exseq: 294
+  exdose: 10
+  exstdtc: 2014-07-04
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-08
+  exseq: 295
+  exdose: 10
+  exstdtc: 2014-07-11
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-08
+  exseq: 296
+  exdose: 10
+  exstdtc: 2014-07-17
+ABC1-301-09:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-09
+  exseq: 297
+  exdose: 0
+  exstdtc: 2014-08-13
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-09
+  exseq: 298
+  exdose: 0
+  exstdtc: 2014-08-20
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-09
+  exseq: 299
+  exdose: 0
+  exstdtc: 2014-08-27
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-09
+  exseq: 300
+  exdose: 0
+  exstdtc: 2014-09-02
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-09
+  exseq: 301
+  exdose: 0
+  exstdtc: 2014-09-07
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-09
+  exseq: 302
+  exdose: 0
+  exstdtc: 2014-09-13
+ABC1-301-10:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-10
+  exseq: 303
+  exdose: 0
+  exstdtc: 2014-03-08
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-10
+  exseq: 304
+  exdose: 0
+  exstdtc: 2014-03-14
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-10
+  exseq: 305
+  exdose: 0
+  exstdtc: 2014-03-19
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-10
+  exseq: 306
+  exdose: 0
+  exstdtc: 2014-03-27
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-10
+  exseq: 307
+  exdose: 0
+  exstdtc: 2014-04-04
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-301-10
+  exseq: 308
+  exdose: 0
+  exstdtc: 2014-04-10
+ABC1-302-01:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-01
+  exseq: 309
+  exdose: 20
+  exstdtc: 2014-04-12
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-01
+  exseq: 310
+  exdose: 20
+  exstdtc: 2014-04-19
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-01
+  exseq: 311
+  exdose: 20
+  exstdtc: 2014-04-26
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-01
+  exseq: 312
+  exdose: 20
+  exstdtc: 2014-05-03
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-01
+  exseq: 313
+  exdose: 20
+  exstdtc: 2014-05-09
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-01
+  exseq: 314
+  exdose: 20
+  exstdtc: 2014-05-16
+ABC1-302-02:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-02
+  exseq: 315
+  exdose: 0
+  exstdtc: 2014-11-12
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-02
+  exseq: 316
+  exdose: 0
+  exstdtc: 2014-11-19
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-02
+  exseq: 317
+  exdose: 0
+  exstdtc: 2014-11-26
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-02
+  exseq: 318
+  exdose: 0
+  exstdtc: 2014-12-02
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-02
+  exseq: 319
+  exdose: 0
+  exstdtc: 2014-12-10
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-02
+  exseq: 320
+  exdose: 0
+  exstdtc: 2014-12-17
+ABC1-302-03:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-03
+  exseq: 321
+  exdose: 20
+  exstdtc: 2014-03-04
+ABC1-302-04:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-04
+  exseq: 322
+  exdose: 0
+  exstdtc: 2014-04-17
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-04
+  exseq: 323
+  exdose: 0
+  exstdtc: 2014-04-24
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-04
+  exseq: 324
+  exdose: 0
+  exstdtc: 2014-05-01
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-04
+  exseq: 325
+  exdose: 0
+  exstdtc: 2014-05-09
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-04
+  exseq: 326
+  exdose: 0
+  exstdtc: 2014-05-15
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-04
+  exseq: 327
+  exdose: 0
+  exstdtc: 2014-05-21
+ABC1-302-05:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-05
+  exseq: 328
+  exdose: 0
+  exstdtc: 2014-10-03
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-05
+  exseq: 329
+  exdose: 0
+  exstdtc: 2014-10-11
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-05
+  exseq: 330
+  exdose: 0
+  exstdtc: 2014-10-18
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-05
+  exseq: 331
+  exdose: 0
+  exstdtc: 2014-10-24
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-05
+  exseq: 332
+  exdose: 0
+  exstdtc: 2014-10-30
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-05
+  exseq: 333
+  exdose: 0
+  exstdtc: 2014-11-06
+ABC1-302-06:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-06
+  exseq: 334
+  exdose: 0
+  exstdtc: 2014-06-04
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-06
+  exseq: 335
+  exdose: 0
+  exstdtc: 2014-06-09
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-06
+  exseq: 336
+  exdose: 0
+  exstdtc: 2014-06-15
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-06
+  exseq: 337
+  exdose: 0
+  exstdtc: 2014-06-22
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-06
+  exseq: 338
+  exdose: 0
+  exstdtc: 2014-06-30
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-06
+  exseq: 339
+  exdose: 0
+  exstdtc: 2014-07-05
+ABC1-302-07:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-07
+  exseq: 340
+  exdose: 0
+  exstdtc: 2014-03-12
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-07
+  exseq: 341
+  exdose: 0
+  exstdtc: 2014-03-20
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-07
+  exseq: 342
+  exdose: 0
+  exstdtc: 2014-03-27
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-07
+  exseq: 343
+  exdose: 0
+  exstdtc: 2014-04-03
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-07
+  exseq: 344
+  exdose: 0
+  exstdtc: 2014-04-10
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-07
+  exseq: 345
+  exdose: 0
+  exstdtc: 2014-04-17
+ABC1-302-08:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-08
+  exseq: 346
+  exdose: 20
+  exstdtc: 2014-09-21
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-08
+  exseq: 347
+  exdose: 20
+  exstdtc: 2014-09-28
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-08
+  exseq: 348
+  exdose: 20
+  exstdtc: 2014-10-05
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-08
+  exseq: 349
+  exdose: 20
+  exstdtc: 2014-10-12
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-08
+  exseq: 350
+  exdose: 20
+  exstdtc: 2014-10-19
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-302-08
+  exseq: 351
+  exdose: 20
+  exstdtc: 2014-10-25
+ABC1-303-01:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-01
+  exseq: 352
+  exdose: 10
+  exstdtc: 2014-06-17
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-01
+  exseq: 353
+  exdose: 10
+  exstdtc: 2014-06-24
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-01
+  exseq: 354
+  exdose: 10
+  exstdtc: 2014-06-30
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-01
+  exseq: 355
+  exdose: 10
+  exstdtc: 2014-07-06
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-01
+  exseq: 356
+  exdose: 10
+  exstdtc: 2014-07-13
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-01
+  exseq: 357
+  exdose: 10
+  exstdtc: 2014-07-20
+ABC1-303-02:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-02
+  exseq: 358
+  exdose: 50
+  exstdtc: 2014-03-28
+ABC1-303-03:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-03
+  exseq: 359
+  exdose: 50
+  exstdtc: 2014-10-11
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-03
+  exseq: 360
+  exdose: 50
   exstdtc: 2014-10-17
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-201-20
-  exseq: 407
-  exstdtc: 2014-10-23
+  usubjid: ABC1-303-03
+  exseq: 361
+  exdose: 50
+  exstdtc: 2014-10-24
 - !ruby/object:SdtmEx
   studyid: ABC1
-  usubjid: ABC1-201-20
-  exseq: 408
-  exstdtc: 2014-10-30
+  usubjid: ABC1-303-03
+  exseq: 362
+  exdose: 50
+  exstdtc: 2014-10-31
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-03
+  exseq: 363
+  exdose: 50
+  exstdtc: 2014-11-07
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-03
+  exseq: 364
+  exdose: 50
+  exstdtc: 2014-11-12
+ABC1-303-04:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-04
+  exseq: 365
+  exdose: 20
+  exstdtc: 2014-04-01
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-04
+  exseq: 366
+  exdose: 20
+  exstdtc: 2014-04-08
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-04
+  exseq: 367
+  exdose: 20
+  exstdtc: 2014-04-15
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-04
+  exseq: 368
+  exdose: 20
+  exstdtc: 2014-04-22
+ABC1-303-05:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-05
+  exseq: 369
+  exdose: 10
+  exstdtc: 2014-05-31
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-05
+  exseq: 370
+  exdose: 10
+  exstdtc: 2014-06-07
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-05
+  exseq: 371
+  exdose: 10
+  exstdtc: 2014-06-15
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-05
+  exseq: 372
+  exdose: 10
+  exstdtc: 2014-06-22
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-05
+  exseq: 373
+  exdose: 10
+  exstdtc: 2014-06-28
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-05
+  exseq: 374
+  exdose: 10
+  exstdtc: 2014-07-03
+ABC1-303-06:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-06
+  exseq: 375
+  exdose: 50
+  exstdtc: 2014-03-08
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-06
+  exseq: 376
+  exdose: 50
+  exstdtc: 2014-03-15
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-06
+  exseq: 377
+  exdose: 50
+  exstdtc: 2014-03-22
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-06
+  exseq: 378
+  exdose: 50
+  exstdtc: 2014-03-29
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-06
+  exseq: 379
+  exdose: 50
+  exstdtc: 2014-04-05
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-06
+  exseq: 380
+  exdose: 50
+  exstdtc: 2014-04-12
+ABC1-303-08:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-08
+  exseq: 381
+  exdose: 50
+  exstdtc: 2014-09-24
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-08
+  exseq: 382
+  exdose: 50
+  exstdtc: 2014-10-01
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-08
+  exseq: 383
+  exdose: 50
+  exstdtc: 2014-10-06
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-08
+  exseq: 384
+  exdose: 50
+  exstdtc: 2014-10-13
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-08
+  exseq: 385
+  exdose: 50
+  exstdtc: 2014-10-21
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-08
+  exseq: 386
+  exdose: 50
+  exstdtc: 2014-10-28
+ABC1-303-09:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-09
+  exseq: 387
+  exdose: 10
+  exstdtc: 2014-03-09
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-09
+  exseq: 388
+  exdose: 10
+  exstdtc: 2014-03-15
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-09
+  exseq: 389
+  exdose: 10
+  exstdtc: 2014-03-21
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-09
+  exseq: 390
+  exdose: 10
+  exstdtc: 2014-03-27
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-09
+  exseq: 391
+  exdose: 10
+  exstdtc: 2014-04-03
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-09
+  exseq: 392
+  exdose: 10
+  exstdtc: 2014-04-10
+ABC1-303-10:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-10
+  exseq: 393
+  exdose: 0
+  exstdtc: 2014-03-06
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-10
+  exseq: 394
+  exdose: 0
+  exstdtc: 2014-03-13
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-10
+  exseq: 395
+  exdose: 0
+  exstdtc: 2014-03-20
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-10
+  exseq: 396
+  exdose: 0
+  exstdtc: 2014-03-26
+ABC1-303-11:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-11
+  exseq: 397
+  exdose: 50
+  exstdtc: 2014-07-21
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-11
+  exseq: 398
+  exdose: 50
+  exstdtc: 2014-07-29
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-11
+  exseq: 399
+  exdose: 50
+  exstdtc: 2014-08-05
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-11
+  exseq: 400
+  exdose: 50
+  exstdtc: 2014-08-10
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-11
+  exseq: 401
+  exdose: 50
+  exstdtc: 2014-08-16
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-11
+  exseq: 402
+  exdose: 50
+  exstdtc: 2014-08-23
+ABC1-303-12:
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-12
+  exseq: 403
+  exdose: 0
+  exstdtc: 2014-09-15
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-12
+  exseq: 404
+  exdose: 0
+  exstdtc: 2014-09-21
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-12
+  exseq: 405
+  exdose: 0
+  exstdtc: 2014-09-28
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-12
+  exseq: 406
+  exdose: 0
+  exstdtc: 2014-10-05
+- !ruby/object:SdtmEx
+  studyid: ABC1
+  usubjid: ABC1-303-12
+  exseq: 407
+  exdose: 0
+  exstdtc: 2014-10-11

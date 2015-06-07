@@ -1,124 +1,10 @@
 ---
-- &1 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '302'
-  subjid: '01'
-  usubjid: ABC1-302-01
-  invnam: Dr. Felicity Streich MD
-  country: DEU
-  sex: F
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-04-12
-  rfendtc: "--placeholder--"
-  age: 48
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *1
-    messages: {}
-- &2 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '301'
-  subjid: '01'
-  usubjid: ABC1-301-01
-  invnam: Dr. Mauricio Weissnat
-  country: FRA
-  sex: F
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *2
-    messages: {}
-- &3 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '102'
-  subjid: '01'
-  usubjid: ABC1-102-01
-  invnam: Dr. Gavin Will
-  country: DEU
-  sex: F
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *3
-    messages: {}
-- &4 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '301'
-  subjid: '02'
-  usubjid: ABC1-301-02
-  invnam: Dr. Mauricio Weissnat
-  country: FRA
-  sex: M
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-05-11
-  rfendtc: "--placeholder--"
-  age: 18
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *4
-    messages: {}
-- &5 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '202'
-  subjid: '01'
-  usubjid: ABC1-202-01
-  invnam: Dr. Tristin Towne DDS
-  country: DEU
-  sex: F
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-05-24
-  rfendtc: "--placeholder--"
-  age: 32
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *5
-    messages: {}
-- &6 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '103'
-  subjid: '01'
-  usubjid: ABC1-103-01
-  invnam: Dr. Aniyah Stiedemann
-  country: GBR
-  sex: M
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *6
-    messages: {}
-- &7 !ruby/object:SdtmDm
+ABC1-101-01: &1 !ruby/object:SdtmDm
   studyid: ABC1
   siteid: '101'
   subjid: '01'
   usubjid: ABC1-101-01
-  invnam: Dr. Manuel Hudson
+  invnam: Dr. Dr. Cielo Wintheiser
   country: FRA
   sex: F
   armcd: TRTB
@@ -126,163 +12,20 @@
   actarmcd: TRTB
   actarm: Treatment B
   rfstdtc: 2014-05-10
-  rfendtc: "--placeholder--"
+  rfendtc: 2014-06-11
   age: 43
   ageu: years
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
-    base: *7
+    base: *1
     messages: {}
-- &8 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '102'
-  subjid: '02'
-  usubjid: ABC1-102-02
-  invnam: Dr. Gavin Will
-  country: DEU
-  sex: F
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-05-23
-  rfendtc: "--placeholder--"
-  age: 37
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *8
-    messages: {}
-- &9 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '201'
-  subjid: '01'
-  usubjid: ABC1-201-01
-  invnam: Dr. Miss Wilmer Beatty
-  country: FRA
-  sex: M
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-05-22
-  rfendtc: "--placeholder--"
-  age: 23
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *9
-    messages: {}
-- &10 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '303'
-  subjid: '01'
-  usubjid: ABC1-303-01
-  invnam: Dr. Thad Rice
-  country: GBR
-  sex: F
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-06-17
-  rfendtc: "--placeholder--"
-  age: 57
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *10
-    messages: {}
-- &11 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '202'
-  subjid: '02'
-  usubjid: ABC1-202-02
-  invnam: Dr. Tristin Towne DDS
-  country: DEU
-  sex: M
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-08-13
-  rfendtc: "--placeholder--"
-  age: 18
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *11
-    messages: {}
-- &12 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '201'
-  subjid: '02'
-  usubjid: ABC1-201-02
-  invnam: Dr. Miss Wilmer Beatty
-  country: FRA
-  sex: M
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-11-01
-  rfendtc: "--placeholder--"
-  age: 57
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *12
-    messages: {}
-- &13 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '201'
-  subjid: '03'
-  usubjid: ABC1-201-03
-  invnam: Dr. Miss Wilmer Beatty
-  country: FRA
-  sex: F
-  armcd: PBO
-  arm: Placebo
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *13
-    messages: {}
-- &14 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '202'
-  subjid: '03'
-  usubjid: ABC1-202-03
-  invnam: Dr. Tristin Towne DDS
-  country: DEU
-  sex: F
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-08-07
-  rfendtc: "--placeholder--"
-  age: 50
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *14
-    messages: {}
-- &15 !ruby/object:SdtmDm
+ABC1-101-02: &2 !ruby/object:SdtmDm
   studyid: ABC1
   siteid: '101'
   subjid: '02'
   usubjid: ABC1-101-02
-  invnam: Dr. Manuel Hudson
+  invnam: Dr. Dr. Cielo Wintheiser
   country: FRA
   sex: F
   armcd: PBO
@@ -290,268 +33,20 @@
   actarmcd: PBO
   actarm: Placebo
   rfstdtc: 2014-08-21
-  rfendtc: "--placeholder--"
+  rfendtc: 2014-09-21
   age: 59
   ageu: years
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
-    base: *15
+    base: *2
     messages: {}
-- &16 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '103'
-  subjid: '02'
-  usubjid: ABC1-103-02
-  invnam: Dr. Aniyah Stiedemann
-  country: GBR
-  sex: F
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-04-13
-  rfendtc: "--placeholder--"
-  age: 54
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *16
-    messages: {}
-- &17 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '102'
-  subjid: '03'
-  usubjid: ABC1-102-03
-  invnam: Dr. Gavin Will
-  country: DEU
-  sex: M
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *17
-    messages: {}
-- &18 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '301'
-  subjid: '03'
-  usubjid: ABC1-301-03
-  invnam: Dr. Mauricio Weissnat
-  country: FRA
-  sex: M
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-05-12
-  rfendtc: "--placeholder--"
-  age: 34
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *18
-    messages: {}
-- &19 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '102'
-  subjid: '04'
-  usubjid: ABC1-102-04
-  invnam: Dr. Gavin Will
-  country: DEU
-  sex: M
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-06-12
-  rfendtc: "--placeholder--"
-  age: 45
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *19
-    messages: {}
-- &20 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '202'
-  subjid: '04'
-  usubjid: ABC1-202-04
-  invnam: Dr. Tristin Towne DDS
-  country: DEU
-  sex: F
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-06-04
-  rfendtc: "--placeholder--"
-  age: 48
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *20
-    messages: {}
-- &21 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '303'
-  subjid: '02'
-  usubjid: ABC1-303-02
-  invnam: Dr. Thad Rice
-  country: GBR
-  sex: M
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-03-28
-  rfendtc: "--placeholder--"
-  age: 41
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *21
-    messages: {}
-- &22 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '202'
-  subjid: '05'
-  usubjid: ABC1-202-05
-  invnam: Dr. Tristin Towne DDS
-  country: DEU
-  sex: M
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-03-17
-  rfendtc: "--placeholder--"
-  age: 36
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *22
-    messages: {}
-- &23 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '201'
-  subjid: '04'
-  usubjid: ABC1-201-04
-  invnam: Dr. Miss Wilmer Beatty
-  country: FRA
-  sex: M
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-03-02
-  rfendtc: "--placeholder--"
-  age: 61
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *23
-    messages: {}
-- &24 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '103'
-  subjid: '03'
-  usubjid: ABC1-103-03
-  invnam: Dr. Aniyah Stiedemann
-  country: GBR
-  sex: F
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-07-08
-  rfendtc: "--placeholder--"
-  age: 45
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *24
-    messages: {}
-- &25 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '301'
-  subjid: '04'
-  usubjid: ABC1-301-04
-  invnam: Dr. Mauricio Weissnat
-  country: FRA
-  sex: M
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-04-01
-  rfendtc: "--placeholder--"
-  age: 59
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *25
-    messages: {}
-- &26 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '303'
-  subjid: '03'
-  usubjid: ABC1-303-03
-  invnam: Dr. Thad Rice
-  country: GBR
-  sex: M
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-10-11
-  rfendtc: "--placeholder--"
-  age: 60
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *26
-    messages: {}
-- &27 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '201'
-  subjid: '05'
-  usubjid: ABC1-201-05
-  invnam: Dr. Miss Wilmer Beatty
-  country: FRA
-  sex: M
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-04-04
-  rfendtc: "--placeholder--"
-  age: 37
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *27
-    messages: {}
-- &28 !ruby/object:SdtmDm
+ABC1-101-03: &3 !ruby/object:SdtmDm
   studyid: ABC1
   siteid: '101'
   subjid: '03'
   usubjid: ABC1-101-03
-  invnam: Dr. Manuel Hudson
+  invnam: Dr. Dr. Cielo Wintheiser
   country: FRA
   sex: F
   armcd: TRTC
@@ -559,62 +54,20 @@
   actarmcd: TRTC
   actarm: Treatment C
   rfstdtc: 2014-06-11
-  rfendtc: "--placeholder--"
+  rfendtc: 2014-06-26
   age: 59
   ageu: years
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
-    base: *28
+    base: *3
     messages: {}
-- &29 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '202'
-  subjid: '06'
-  usubjid: ABC1-202-06
-  invnam: Dr. Tristin Towne DDS
-  country: DEU
-  sex: F
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-03-01
-  rfendtc: "--placeholder--"
-  age: 63
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *29
-    messages: {}
-- &30 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '201'
-  subjid: '06'
-  usubjid: ABC1-201-06
-  invnam: Dr. Miss Wilmer Beatty
-  country: FRA
-  sex: F
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-09-04
-  rfendtc: "--placeholder--"
-  age: 27
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *30
-    messages: {}
-- &31 !ruby/object:SdtmDm
+ABC1-101-04: &4 !ruby/object:SdtmDm
   studyid: ABC1
   siteid: '101'
   subjid: '04'
   usubjid: ABC1-101-04
-  invnam: Dr. Manuel Hudson
+  invnam: Dr. Dr. Cielo Wintheiser
   country: FRA
   sex: F
   armcd: TRTB
@@ -622,163 +75,20 @@
   actarmcd: TRTB
   actarm: Treatment B
   rfstdtc: 2014-04-09
-  rfendtc: "--placeholder--"
+  rfendtc: 2014-04-30
   age: 42
   ageu: years
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
-    base: *31
+    base: *4
     messages: {}
-- &32 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '302'
-  subjid: '02'
-  usubjid: ABC1-302-02
-  invnam: Dr. Felicity Streich MD
-  country: DEU
-  sex: M
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-11-12
-  rfendtc: "--placeholder--"
-  age: 22
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *32
-    messages: {}
-- &33 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '303'
-  subjid: '04'
-  usubjid: ABC1-303-04
-  invnam: Dr. Thad Rice
-  country: GBR
-  sex: M
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-04-01
-  rfendtc: "--placeholder--"
-  age: 58
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *33
-    messages: {}
-- &34 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '201'
-  subjid: '07'
-  usubjid: ABC1-201-07
-  invnam: Dr. Miss Wilmer Beatty
-  country: FRA
-  sex: F
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-08-11
-  rfendtc: "--placeholder--"
-  age: 60
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *34
-    messages: {}
-- &35 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '202'
-  subjid: '07'
-  usubjid: ABC1-202-07
-  invnam: Dr. Tristin Towne DDS
-  country: DEU
-  sex: F
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-05-11
-  rfendtc: "--placeholder--"
-  age: 43
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *35
-    messages: {}
-- &36 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '102'
-  subjid: '05'
-  usubjid: ABC1-102-05
-  invnam: Dr. Gavin Will
-  country: DEU
-  sex: M
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-05-13
-  rfendtc: "--placeholder--"
-  age: 35
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *36
-    messages: {}
-- &37 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '102'
-  subjid: '06'
-  usubjid: ABC1-102-06
-  invnam: Dr. Gavin Will
-  country: DEU
-  sex: F
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-03-14
-  rfendtc: "--placeholder--"
-  age: 54
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *37
-    messages: {}
-- &38 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '102'
-  subjid: '07'
-  usubjid: ABC1-102-07
-  invnam: Dr. Gavin Will
-  country: DEU
-  sex: F
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *38
-    messages: {}
-- &39 !ruby/object:SdtmDm
+ABC1-101-05: &5 !ruby/object:SdtmDm
   studyid: ABC1
   siteid: '101'
   subjid: '05'
   usubjid: ABC1-101-05
-  invnam: Dr. Manuel Hudson
+  invnam: Dr. Dr. Cielo Wintheiser
   country: FRA
   sex: M
   armcd: PBO
@@ -786,20 +96,20 @@
   actarmcd: PBO
   actarm: Placebo
   rfstdtc: 2014-06-25
-  rfendtc: "--placeholder--"
+  rfendtc: 2014-07-27
   age: 53
   ageu: years
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
-    base: *39
+    base: *5
     messages: {}
-- &40 !ruby/object:SdtmDm
+ABC1-101-06: &6 !ruby/object:SdtmDm
   studyid: ABC1
   siteid: '101'
   subjid: '06'
   usubjid: ABC1-101-06
-  invnam: Dr. Manuel Hudson
+  invnam: Dr. Dr. Cielo Wintheiser
   country: FRA
   sex: F
   armcd: TRTC
@@ -807,348 +117,20 @@
   actarmcd: TRTC
   actarm: Treatment C
   rfstdtc: 2014-03-02
-  rfendtc: "--placeholder--"
+  rfendtc: 2014-04-05
   age: 51
   ageu: years
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
-    base: *40
+    base: *6
     messages: {}
-- &41 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '103'
-  subjid: '04'
-  usubjid: ABC1-103-04
-  invnam: Dr. Aniyah Stiedemann
-  country: GBR
-  sex: M
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *41
-    messages: {}
-- &42 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '201'
-  subjid: 08
-  usubjid: ABC1-201-08
-  invnam: Dr. Miss Wilmer Beatty
-  country: FRA
-  sex: F
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-05-07
-  rfendtc: "--placeholder--"
-  age: 19
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *42
-    messages: {}
-- &43 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '202'
-  subjid: 08
-  usubjid: ABC1-202-08
-  invnam: Dr. Tristin Towne DDS
-  country: DEU
-  sex: F
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-04-25
-  rfendtc: "--placeholder--"
-  age: 64
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *43
-    messages: {}
-- &44 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '201'
-  subjid: 09
-  usubjid: ABC1-201-09
-  invnam: Dr. Miss Wilmer Beatty
-  country: FRA
-  sex: M
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-07-21
-  rfendtc: "--placeholder--"
-  age: 48
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *44
-    messages: {}
-- &45 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '303'
-  subjid: '05'
-  usubjid: ABC1-303-05
-  invnam: Dr. Thad Rice
-  country: GBR
-  sex: M
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-05-31
-  rfendtc: "--placeholder--"
-  age: 24
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *45
-    messages: {}
-- &46 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '303'
-  subjid: '06'
-  usubjid: ABC1-303-06
-  invnam: Dr. Thad Rice
-  country: GBR
-  sex: F
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-03-08
-  rfendtc: "--placeholder--"
-  age: 48
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *46
-    messages: {}
-- &47 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '201'
-  subjid: '10'
-  usubjid: ABC1-201-10
-  invnam: Dr. Miss Wilmer Beatty
-  country: FRA
-  sex: M
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-12-05
-  rfendtc: "--placeholder--"
-  age: 42
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *47
-    messages: {}
-- &48 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '301'
-  subjid: '05'
-  usubjid: ABC1-301-05
-  invnam: Dr. Mauricio Weissnat
-  country: FRA
-  sex: M
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-06-20
-  rfendtc: "--placeholder--"
-  age: 48
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *48
-    messages: {}
-- &49 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '302'
-  subjid: '03'
-  usubjid: ABC1-302-03
-  invnam: Dr. Felicity Streich MD
-  country: DEU
-  sex: F
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-03-04
-  rfendtc: "--placeholder--"
-  age: 59
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *49
-    messages: {}
-- &50 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '303'
-  subjid: '07'
-  usubjid: ABC1-303-07
-  invnam: Dr. Thad Rice
-  country: GBR
-  sex: M
-  armcd: PBO
-  arm: Placebo
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *50
-    messages: {}
-- &51 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '301'
-  subjid: '06'
-  usubjid: ABC1-301-06
-  invnam: Dr. Mauricio Weissnat
-  country: FRA
-  sex: F
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-04-06
-  rfendtc: "--placeholder--"
-  age: 19
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *51
-    messages: {}
-- &52 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '201'
-  subjid: '11'
-  usubjid: ABC1-201-11
-  invnam: Dr. Miss Wilmer Beatty
-  country: FRA
-  sex: F
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-07-22
-  rfendtc: "--placeholder--"
-  age: 35
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *52
-    messages: {}
-- &53 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '202'
-  subjid: 09
-  usubjid: ABC1-202-09
-  invnam: Dr. Tristin Towne DDS
-  country: DEU
-  sex: F
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-07-07
-  rfendtc: "--placeholder--"
-  age: 22
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *53
-    messages: {}
-- &54 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '102'
-  subjid: 08
-  usubjid: ABC1-102-08
-  invnam: Dr. Gavin Will
-  country: DEU
-  sex: M
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-05-19
-  rfendtc: "--placeholder--"
-  age: 61
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *54
-    messages: {}
-- &55 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '202'
-  subjid: '10'
-  usubjid: ABC1-202-10
-  invnam: Dr. Tristin Towne DDS
-  country: DEU
-  sex: F
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-08-22
-  rfendtc: "--placeholder--"
-  age: 49
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *55
-    messages: {}
-- &56 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '303'
-  subjid: 08
-  usubjid: ABC1-303-08
-  invnam: Dr. Thad Rice
-  country: GBR
-  sex: M
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-09-24
-  rfendtc: "--placeholder--"
-  age: 43
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *56
-    messages: {}
-- &57 !ruby/object:SdtmDm
+ABC1-101-07: &7 !ruby/object:SdtmDm
   studyid: ABC1
   siteid: '101'
   subjid: '07'
   usubjid: ABC1-101-07
-  invnam: Dr. Manuel Hudson
+  invnam: Dr. Dr. Cielo Wintheiser
   country: FRA
   sex: M
   armcd: TRTA
@@ -1158,237 +140,14 @@
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
-    base: *57
+    base: *7
     messages: {}
-- &58 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '102'
-  subjid: 09
-  usubjid: ABC1-102-09
-  invnam: Dr. Gavin Will
-  country: DEU
-  sex: M
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-06-03
-  rfendtc: "--placeholder--"
-  age: 63
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *58
-    messages: {}
-- &59 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '302'
-  subjid: '04'
-  usubjid: ABC1-302-04
-  invnam: Dr. Felicity Streich MD
-  country: DEU
-  sex: M
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-04-17
-  rfendtc: "--placeholder--"
-  age: 25
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *59
-    messages: {}
-- &60 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '202'
-  subjid: '11'
-  usubjid: ABC1-202-11
-  invnam: Dr. Tristin Towne DDS
-  country: DEU
-  sex: F
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-04-23
-  rfendtc: "--placeholder--"
-  age: 58
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *60
-    messages: {}
-- &61 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '201'
-  subjid: '12'
-  usubjid: ABC1-201-12
-  invnam: Dr. Miss Wilmer Beatty
-  country: FRA
-  sex: F
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-09-08
-  rfendtc: "--placeholder--"
-  age: 64
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *61
-    messages: {}
-- &62 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '302'
-  subjid: '05'
-  usubjid: ABC1-302-05
-  invnam: Dr. Felicity Streich MD
-  country: DEU
-  sex: F
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-10-03
-  rfendtc: "--placeholder--"
-  age: 65
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *62
-    messages: {}
-- &63 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '102'
-  subjid: '10'
-  usubjid: ABC1-102-10
-  invnam: Dr. Gavin Will
-  country: DEU
-  sex: M
-  armcd: PBO
-  arm: Placebo
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *63
-    messages: {}
-- &64 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '202'
-  subjid: '12'
-  usubjid: ABC1-202-12
-  invnam: Dr. Tristin Towne DDS
-  country: DEU
-  sex: M
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-07-26
-  rfendtc: "--placeholder--"
-  age: 50
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *64
-    messages: {}
-- &65 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '201'
-  subjid: '13'
-  usubjid: ABC1-201-13
-  invnam: Dr. Miss Wilmer Beatty
-  country: FRA
-  sex: F
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *65
-    messages: {}
-- &66 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '302'
-  subjid: '06'
-  usubjid: ABC1-302-06
-  invnam: Dr. Felicity Streich MD
-  country: DEU
-  sex: F
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-06-04
-  rfendtc: "--placeholder--"
-  age: 23
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *66
-    messages: {}
-- &67 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '201'
-  subjid: '14'
-  usubjid: ABC1-201-14
-  invnam: Dr. Miss Wilmer Beatty
-  country: FRA
-  sex: F
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-11-01
-  rfendtc: "--placeholder--"
-  age: 35
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *67
-    messages: {}
-- &68 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '202'
-  subjid: '13'
-  usubjid: ABC1-202-13
-  invnam: Dr. Tristin Towne DDS
-  country: DEU
-  sex: F
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-03-15
-  rfendtc: "--placeholder--"
-  age: 47
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *68
-    messages: {}
-- &69 !ruby/object:SdtmDm
+ABC1-101-08: &8 !ruby/object:SdtmDm
   studyid: ABC1
   siteid: '101'
   subjid: 08
   usubjid: ABC1-101-08
-  invnam: Dr. Manuel Hudson
+  invnam: Dr. Dr. Cielo Wintheiser
   country: FRA
   sex: M
   armcd: TRTB
@@ -1396,163 +155,20 @@
   actarmcd: TRTB
   actarm: Treatment B
   rfstdtc: 2014-03-15
-  rfendtc: "--placeholder--"
+  rfendtc: 2014-04-18
   age: 27
   ageu: years
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
-    base: *69
+    base: *8
     messages: {}
-- &70 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '303'
-  subjid: 09
-  usubjid: ABC1-303-09
-  invnam: Dr. Thad Rice
-  country: GBR
-  sex: F
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-03-09
-  rfendtc: "--placeholder--"
-  age: 57
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *70
-    messages: {}
-- &71 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '102'
-  subjid: '11'
-  usubjid: ABC1-102-11
-  invnam: Dr. Gavin Will
-  country: DEU
-  sex: M
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-03-12
-  rfendtc: "--placeholder--"
-  age: 27
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *71
-    messages: {}
-- &72 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '301'
-  subjid: '07'
-  usubjid: ABC1-301-07
-  invnam: Dr. Mauricio Weissnat
-  country: FRA
-  sex: M
-  armcd: PBO
-  arm: Placebo
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *72
-    messages: {}
-- &73 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '301'
-  subjid: 08
-  usubjid: ABC1-301-08
-  invnam: Dr. Mauricio Weissnat
-  country: FRA
-  sex: M
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-06-13
-  rfendtc: "--placeholder--"
-  age: 26
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *73
-    messages: {}
-- &74 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '202'
-  subjid: '14'
-  usubjid: ABC1-202-14
-  invnam: Dr. Tristin Towne DDS
-  country: DEU
-  sex: M
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-03-12
-  rfendtc: "--placeholder--"
-  age: 46
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *74
-    messages: {}
-- &75 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '202'
-  subjid: '15'
-  usubjid: ABC1-202-15
-  invnam: Dr. Tristin Towne DDS
-  country: DEU
-  sex: M
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-09-02
-  rfendtc: "--placeholder--"
-  age: 35
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *75
-    messages: {}
-- &76 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '303'
-  subjid: '10'
-  usubjid: ABC1-303-10
-  invnam: Dr. Thad Rice
-  country: GBR
-  sex: F
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-03-06
-  rfendtc: "--placeholder--"
-  age: 44
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *76
-    messages: {}
-- &77 !ruby/object:SdtmDm
+ABC1-101-09: &9 !ruby/object:SdtmDm
   studyid: ABC1
   siteid: '101'
   subjid: 09
   usubjid: ABC1-101-09
-  invnam: Dr. Manuel Hudson
+  invnam: Dr. Dr. Cielo Wintheiser
   country: FRA
   sex: F
   armcd: TRTA
@@ -1560,184 +176,20 @@
   actarmcd: TRTA
   actarm: Treatment A
   rfstdtc: 2014-07-22
-  rfendtc: "--placeholder--"
+  rfendtc: 2014-08-25
   age: 65
   ageu: years
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
-    base: *77
+    base: *9
     messages: {}
-- &78 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '202'
-  subjid: '16'
-  usubjid: ABC1-202-16
-  invnam: Dr. Tristin Towne DDS
-  country: DEU
-  sex: F
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: SCRNFAIL
-  actarm: Screen Failure
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *78
-    messages: {}
-- &79 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '303'
-  subjid: '11'
-  usubjid: ABC1-303-11
-  invnam: Dr. Thad Rice
-  country: GBR
-  sex: F
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-07-21
-  rfendtc: "--placeholder--"
-  age: 36
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *79
-    messages: {}
-- &80 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '102'
-  subjid: '12'
-  usubjid: ABC1-102-12
-  invnam: Dr. Gavin Will
-  country: DEU
-  sex: F
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-05-18
-  rfendtc: "--placeholder--"
-  age: 65
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *80
-    messages: {}
-- &81 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '202'
-  subjid: '17'
-  usubjid: ABC1-202-17
-  invnam: Dr. Tristin Towne DDS
-  country: DEU
-  sex: F
-  armcd: TRTC
-  arm: Treatment C
-  actarmcd: TRTC
-  actarm: Treatment C
-  rfstdtc: 2014-05-19
-  rfendtc: "--placeholder--"
-  age: 25
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *81
-    messages: {}
-- &82 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '302'
-  subjid: '07'
-  usubjid: ABC1-302-07
-  invnam: Dr. Felicity Streich MD
-  country: DEU
-  sex: M
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-03-12
-  rfendtc: "--placeholder--"
-  age: 42
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *82
-    messages: {}
-- &83 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '102'
-  subjid: '13'
-  usubjid: ABC1-102-13
-  invnam: Dr. Gavin Will
-  country: DEU
-  sex: M
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-03-17
-  rfendtc: "--placeholder--"
-  age: 53
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *83
-    messages: {}
-- &84 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '302'
-  subjid: 08
-  usubjid: ABC1-302-08
-  invnam: Dr. Felicity Streich MD
-  country: DEU
-  sex: M
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-09-21
-  rfendtc: "--placeholder--"
-  age: 27
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *84
-    messages: {}
-- &85 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '301'
-  subjid: 09
-  usubjid: ABC1-301-09
-  invnam: Dr. Mauricio Weissnat
-  country: FRA
-  sex: M
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-08-13
-  rfendtc: "--placeholder--"
-  age: 59
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *85
-    messages: {}
-- &86 !ruby/object:SdtmDm
+ABC1-101-10: &10 !ruby/object:SdtmDm
   studyid: ABC1
   siteid: '101'
   subjid: '10'
   usubjid: ABC1-101-10
-  invnam: Dr. Manuel Hudson
+  invnam: Dr. Dr. Cielo Wintheiser
   country: FRA
   sex: M
   armcd: TRTB
@@ -1745,104 +197,138 @@
   actarmcd: TRTB
   actarm: Treatment B
   rfstdtc: 2014-04-03
-  rfendtc: "--placeholder--"
+  rfendtc: 2014-04-03
   age: 26
   ageu: years
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
-    base: *86
+    base: *10
     messages: {}
-- &87 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '202'
-  subjid: '18'
-  usubjid: ABC1-202-18
-  invnam: Dr. Tristin Towne DDS
-  country: DEU
-  sex: M
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-11-24
-  rfendtc: "--placeholder--"
-  age: 29
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *87
-    messages: {}
-- &88 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '103'
-  subjid: '05'
-  usubjid: ABC1-103-05
-  invnam: Dr. Aniyah Stiedemann
-  country: GBR
-  sex: F
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-03-13
-  rfendtc: "--placeholder--"
-  age: 52
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *88
-    messages: {}
-- &89 !ruby/object:SdtmDm
+ABC1-102-01: &11 !ruby/object:SdtmDm
   studyid: ABC1
   siteid: '102'
-  subjid: '14'
-  usubjid: ABC1-102-14
-  invnam: Dr. Gavin Will
+  subjid: '01'
+  usubjid: ABC1-102-01
+  invnam: Dr. Kirstin O'Kon
   country: DEU
-  sex: M
-  armcd: TRTA
-  arm: Treatment A
-  actarmcd: TRTA
-  actarm: Treatment A
-  rfstdtc: 2014-08-17
-  rfendtc: "--placeholder--"
-  age: 55
-  ageu: years
+  sex: F
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: SCRNFAIL
+  actarm: Screen Failure
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
-    base: *89
+    base: *11
     messages: {}
-- &90 !ruby/object:SdtmDm
+ABC1-102-02: &12 !ruby/object:SdtmDm
   studyid: ABC1
-  siteid: '202'
-  subjid: '19'
-  usubjid: ABC1-202-19
-  invnam: Dr. Tristin Towne DDS
+  siteid: '102'
+  subjid: '02'
+  usubjid: ABC1-102-02
+  invnam: Dr. Kirstin O'Kon
   country: DEU
   sex: F
   armcd: PBO
   arm: Placebo
   actarmcd: PBO
   actarm: Placebo
-  rfstdtc: 2014-04-24
-  rfendtc: "--placeholder--"
-  age: 64
+  rfstdtc: 2014-05-23
+  rfendtc: 2014-06-29
+  age: 37
   ageu: years
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
-    base: *90
+    base: *12
     messages: {}
-- &91 !ruby/object:SdtmDm
+ABC1-102-03: &13 !ruby/object:SdtmDm
   studyid: ABC1
-  siteid: '202'
-  subjid: '20'
-  usubjid: ABC1-202-20
-  invnam: Dr. Tristin Towne DDS
+  siteid: '102'
+  subjid: '03'
+  usubjid: ABC1-102-03
+  invnam: Dr. Kirstin O'Kon
+  country: DEU
+  sex: M
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: SCRNFAIL
+  actarm: Screen Failure
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *13
+    messages: {}
+ABC1-102-04: &14 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '102'
+  subjid: '04'
+  usubjid: ABC1-102-04
+  invnam: Dr. Kirstin O'Kon
+  country: DEU
+  sex: M
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-06-12
+  rfendtc: 2014-07-17
+  age: 45
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *14
+    messages: {}
+ABC1-102-05: &15 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '102'
+  subjid: '05'
+  usubjid: ABC1-102-05
+  invnam: Dr. Kirstin O'Kon
+  country: DEU
+  sex: M
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-05-13
+  rfendtc: 2014-05-26
+  age: 35
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *15
+    messages: {}
+ABC1-102-06: &16 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '102'
+  subjid: '06'
+  usubjid: ABC1-102-06
+  invnam: Dr. Kirstin O'Kon
+  country: DEU
+  sex: F
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-03-14
+  rfendtc: 2014-04-17
+  age: 54
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *16
+    messages: {}
+ABC1-102-07: &17 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '102'
+  subjid: '07'
+  usubjid: ABC1-102-07
+  invnam: Dr. Kirstin O'Kon
   country: DEU
   sex: F
   armcd: TRTC
@@ -1852,14 +338,540 @@
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
-    base: *91
+    base: *17
     messages: {}
-- &92 !ruby/object:SdtmDm
+ABC1-102-08: &18 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '102'
+  subjid: 08
+  usubjid: ABC1-102-08
+  invnam: Dr. Kirstin O'Kon
+  country: DEU
+  sex: M
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-05-19
+  rfendtc: 2014-06-14
+  age: 61
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *18
+    messages: {}
+ABC1-102-09: &19 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '102'
+  subjid: 09
+  usubjid: ABC1-102-09
+  invnam: Dr. Kirstin O'Kon
+  country: DEU
+  sex: M
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-06-03
+  rfendtc: 2014-06-03
+  age: 63
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *19
+    messages: {}
+ABC1-102-10: &20 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '102'
+  subjid: '10'
+  usubjid: ABC1-102-10
+  invnam: Dr. Kirstin O'Kon
+  country: DEU
+  sex: M
+  armcd: PBO
+  arm: Placebo
+  actarmcd: SCRNFAIL
+  actarm: Screen Failure
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *20
+    messages: {}
+ABC1-102-11: &21 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '102'
+  subjid: '11'
+  usubjid: ABC1-102-11
+  invnam: Dr. Kirstin O'Kon
+  country: DEU
+  sex: M
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-03-12
+  rfendtc: 2014-03-12
+  age: 27
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *21
+    messages: {}
+ABC1-102-12: &22 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '102'
+  subjid: '12'
+  usubjid: ABC1-102-12
+  invnam: Dr. Kirstin O'Kon
+  country: DEU
+  sex: F
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-05-18
+  rfendtc: 2014-05-31
+  age: 65
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *22
+    messages: {}
+ABC1-102-13: &23 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '102'
+  subjid: '13'
+  usubjid: ABC1-102-13
+  invnam: Dr. Kirstin O'Kon
+  country: DEU
+  sex: M
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-03-17
+  rfendtc: 2014-04-21
+  age: 53
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *23
+    messages: {}
+ABC1-102-14: &24 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '102'
+  subjid: '14'
+  usubjid: ABC1-102-14
+  invnam: Dr. Kirstin O'Kon
+  country: DEU
+  sex: M
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-08-17
+  rfendtc: 2014-08-24
+  age: 55
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *24
+    messages: {}
+ABC1-103-01: &25 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '103'
+  subjid: '01'
+  usubjid: ABC1-103-01
+  invnam: Dr. Domenick Cormier
+  country: GBR
+  sex: M
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: SCRNFAIL
+  actarm: Screen Failure
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *25
+    messages: {}
+ABC1-103-02: &26 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '103'
+  subjid: '02'
+  usubjid: ABC1-103-02
+  invnam: Dr. Domenick Cormier
+  country: GBR
+  sex: F
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-04-13
+  rfendtc: 2014-05-12
+  age: 54
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *26
+    messages: {}
+ABC1-103-03: &27 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '103'
+  subjid: '03'
+  usubjid: ABC1-103-03
+  invnam: Dr. Domenick Cormier
+  country: GBR
+  sex: F
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-07-08
+  rfendtc: 2014-07-08
+  age: 45
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *27
+    messages: {}
+ABC1-103-04: &28 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '103'
+  subjid: '04'
+  usubjid: ABC1-103-04
+  invnam: Dr. Domenick Cormier
+  country: GBR
+  sex: M
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: SCRNFAIL
+  actarm: Screen Failure
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *28
+    messages: {}
+ABC1-103-05: &29 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '103'
+  subjid: '05'
+  usubjid: ABC1-103-05
+  invnam: Dr. Domenick Cormier
+  country: GBR
+  sex: F
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-03-13
+  rfendtc: 2014-03-18
+  age: 52
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *29
+    messages: {}
+ABC1-201-01: &30 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '201'
+  subjid: '01'
+  usubjid: ABC1-201-01
+  invnam: Dr. Cleora Hills
+  country: FRA
+  sex: M
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-05-22
+  rfendtc: 2014-06-24
+  age: 23
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *30
+    messages: {}
+ABC1-201-02: &31 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '201'
+  subjid: '02'
+  usubjid: ABC1-201-02
+  invnam: Dr. Cleora Hills
+  country: FRA
+  sex: M
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-11-01
+  rfendtc: 2014-11-14
+  age: 57
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *31
+    messages: {}
+ABC1-201-03: &32 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '201'
+  subjid: '03'
+  usubjid: ABC1-201-03
+  invnam: Dr. Cleora Hills
+  country: FRA
+  sex: F
+  armcd: PBO
+  arm: Placebo
+  actarmcd: SCRNFAIL
+  actarm: Screen Failure
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *32
+    messages: {}
+ABC1-201-04: &33 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '201'
+  subjid: '04'
+  usubjid: ABC1-201-04
+  invnam: Dr. Cleora Hills
+  country: FRA
+  sex: M
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-03-02
+  rfendtc: 2014-04-05
+  age: 61
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *33
+    messages: {}
+ABC1-201-05: &34 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '201'
+  subjid: '05'
+  usubjid: ABC1-201-05
+  invnam: Dr. Cleora Hills
+  country: FRA
+  sex: M
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-04-04
+  rfendtc: 2014-04-30
+  age: 37
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *34
+    messages: {}
+ABC1-201-06: &35 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '201'
+  subjid: '06'
+  usubjid: ABC1-201-06
+  invnam: Dr. Cleora Hills
+  country: FRA
+  sex: F
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-09-04
+  rfendtc: 2014-09-04
+  age: 27
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *35
+    messages: {}
+ABC1-201-07: &36 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '201'
+  subjid: '07'
+  usubjid: ABC1-201-07
+  invnam: Dr. Cleora Hills
+  country: FRA
+  sex: F
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-08-11
+  rfendtc: 2014-09-09
+  age: 60
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *36
+    messages: {}
+ABC1-201-08: &37 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '201'
+  subjid: 08
+  usubjid: ABC1-201-08
+  invnam: Dr. Cleora Hills
+  country: FRA
+  sex: F
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-05-07
+  rfendtc: 2014-06-09
+  age: 19
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *37
+    messages: {}
+ABC1-201-09: &38 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '201'
+  subjid: 09
+  usubjid: ABC1-201-09
+  invnam: Dr. Cleora Hills
+  country: FRA
+  sex: M
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-07-21
+  rfendtc: 2014-07-28
+  age: 48
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *38
+    messages: {}
+ABC1-201-10: &39 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '201'
+  subjid: '10'
+  usubjid: ABC1-201-10
+  invnam: Dr. Cleora Hills
+  country: FRA
+  sex: M
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-12-05
+  rfendtc: 2015-01-06
+  age: 42
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *39
+    messages: {}
+ABC1-201-11: &40 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '201'
+  subjid: '11'
+  usubjid: ABC1-201-11
+  invnam: Dr. Cleora Hills
+  country: FRA
+  sex: F
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-07-22
+  rfendtc: 2014-08-27
+  age: 35
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *40
+    messages: {}
+ABC1-201-12: &41 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '201'
+  subjid: '12'
+  usubjid: ABC1-201-12
+  invnam: Dr. Cleora Hills
+  country: FRA
+  sex: F
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-09-08
+  rfendtc: 2014-10-09
+  age: 64
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *41
+    messages: {}
+ABC1-201-13: &42 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '201'
+  subjid: '13'
+  usubjid: ABC1-201-13
+  invnam: Dr. Cleora Hills
+  country: FRA
+  sex: F
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: SCRNFAIL
+  actarm: Screen Failure
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *42
+    messages: {}
+ABC1-201-14: &43 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '201'
+  subjid: '14'
+  usubjid: ABC1-201-14
+  invnam: Dr. Cleora Hills
+  country: FRA
+  sex: F
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-11-01
+  rfendtc: 2014-12-06
+  age: 35
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *43
+    messages: {}
+ABC1-201-15: &44 !ruby/object:SdtmDm
   studyid: ABC1
   siteid: '201'
   subjid: '15'
   usubjid: ABC1-201-15
-  invnam: Dr. Miss Wilmer Beatty
+  invnam: Dr. Cleora Hills
   country: FRA
   sex: M
   armcd: TRTC
@@ -1867,20 +879,20 @@
   actarmcd: TRTC
   actarm: Treatment C
   rfstdtc: 2014-03-29
-  rfendtc: "--placeholder--"
+  rfendtc: 2014-05-02
   age: 19
   ageu: years
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
-    base: *92
+    base: *44
     messages: {}
-- &93 !ruby/object:SdtmDm
+ABC1-201-16: &45 !ruby/object:SdtmDm
   studyid: ABC1
   siteid: '201'
   subjid: '16'
   usubjid: ABC1-201-16
-  invnam: Dr. Miss Wilmer Beatty
+  invnam: Dr. Cleora Hills
   country: FRA
   sex: M
   armcd: TRTA
@@ -1888,20 +900,20 @@
   actarmcd: TRTA
   actarm: Treatment A
   rfstdtc: 2014-04-28
-  rfendtc: "--placeholder--"
+  rfendtc: 2014-05-24
   age: 40
   ageu: years
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
-    base: *93
+    base: *45
     messages: {}
-- &94 !ruby/object:SdtmDm
+ABC1-201-17: &46 !ruby/object:SdtmDm
   studyid: ABC1
   siteid: '201'
   subjid: '17'
   usubjid: ABC1-201-17
-  invnam: Dr. Miss Wilmer Beatty
+  invnam: Dr. Cleora Hills
   country: FRA
   sex: M
   armcd: TRTC
@@ -1909,62 +921,20 @@
   actarmcd: TRTC
   actarm: Treatment C
   rfstdtc: 2014-04-13
-  rfendtc: "--placeholder--"
+  rfendtc: 2014-05-01
   age: 28
   ageu: years
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
-    base: *94
+    base: *46
     messages: {}
-- &95 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '301'
-  subjid: '10'
-  usubjid: ABC1-301-10
-  invnam: Dr. Mauricio Weissnat
-  country: FRA
-  sex: M
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-03-08
-  rfendtc: "--placeholder--"
-  age: 58
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *95
-    messages: {}
-- &96 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '303'
-  subjid: '12'
-  usubjid: ABC1-303-12
-  invnam: Dr. Thad Rice
-  country: GBR
-  sex: F
-  armcd: PBO
-  arm: Placebo
-  actarmcd: PBO
-  actarm: Placebo
-  rfstdtc: 2014-09-15
-  rfendtc: "--placeholder--"
-  age: 30
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *96
-    messages: {}
-- &97 !ruby/object:SdtmDm
+ABC1-201-18: &47 !ruby/object:SdtmDm
   studyid: ABC1
   siteid: '201'
   subjid: '18'
   usubjid: ABC1-201-18
-  invnam: Dr. Miss Wilmer Beatty
+  invnam: Dr. Cleora Hills
   country: FRA
   sex: F
   armcd: TRTA
@@ -1972,20 +942,20 @@
   actarmcd: TRTA
   actarm: Treatment A
   rfstdtc: 2014-03-09
-  rfendtc: "--placeholder--"
+  rfendtc: 2014-03-31
   age: 46
   ageu: years
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
-    base: *97
+    base: *47
     messages: {}
-- &98 !ruby/object:SdtmDm
+ABC1-201-19: &48 !ruby/object:SdtmDm
   studyid: ABC1
   siteid: '201'
   subjid: '19'
   usubjid: ABC1-201-19
-  invnam: Dr. Miss Wilmer Beatty
+  invnam: Dr. Cleora Hills
   country: FRA
   sex: F
   armcd: PBO
@@ -1993,41 +963,20 @@
   actarmcd: PBO
   actarm: Placebo
   rfstdtc: 2014-10-11
-  rfendtc: "--placeholder--"
+  rfendtc: 2014-10-17
   age: 55
   ageu: years
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
-    base: *98
+    base: *48
     messages: {}
-- &99 !ruby/object:SdtmDm
-  studyid: ABC1
-  siteid: '202'
-  subjid: '21'
-  usubjid: ABC1-202-21
-  invnam: Dr. Tristin Towne DDS
-  country: DEU
-  sex: M
-  armcd: TRTB
-  arm: Treatment B
-  actarmcd: TRTB
-  actarm: Treatment B
-  rfstdtc: 2014-09-16
-  rfendtc: "--placeholder--"
-  age: 37
-  ageu: years
-  domain: DM
-  validation_context: 
-  errors: !ruby/object:ActiveModel::Errors
-    base: *99
-    messages: {}
-- &100 !ruby/object:SdtmDm
+ABC1-201-20: &49 !ruby/object:SdtmDm
   studyid: ABC1
   siteid: '201'
   subjid: '20'
   usubjid: ABC1-201-20
-  invnam: Dr. Miss Wilmer Beatty
+  invnam: Dr. Cleora Hills
   country: FRA
   sex: M
   armcd: TRTC
@@ -2035,8 +984,1059 @@
   actarmcd: TRTC
   actarm: Treatment C
   rfstdtc: 2014-09-27
-  rfendtc: "--placeholder--"
+  rfendtc: 2014-10-30
   age: 40
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *49
+    messages: {}
+ABC1-202-01: &50 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '202'
+  subjid: '01'
+  usubjid: ABC1-202-01
+  invnam: Dr. Dr. Armando Heidenreich
+  country: DEU
+  sex: F
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-05-24
+  rfendtc: 2014-05-30
+  age: 32
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *50
+    messages: {}
+ABC1-202-02: &51 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '202'
+  subjid: '02'
+  usubjid: ABC1-202-02
+  invnam: Dr. Dr. Armando Heidenreich
+  country: DEU
+  sex: M
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-08-13
+  rfendtc: 2014-09-02
+  age: 18
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *51
+    messages: {}
+ABC1-202-03: &52 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '202'
+  subjid: '03'
+  usubjid: ABC1-202-03
+  invnam: Dr. Dr. Armando Heidenreich
+  country: DEU
+  sex: F
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-08-07
+  rfendtc: 2014-08-28
+  age: 50
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *52
+    messages: {}
+ABC1-202-04: &53 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '202'
+  subjid: '04'
+  usubjid: ABC1-202-04
+  invnam: Dr. Dr. Armando Heidenreich
+  country: DEU
+  sex: F
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-06-04
+  rfendtc: 2014-07-07
+  age: 48
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *53
+    messages: {}
+ABC1-202-05: &54 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '202'
+  subjid: '05'
+  usubjid: ABC1-202-05
+  invnam: Dr. Dr. Armando Heidenreich
+  country: DEU
+  sex: M
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-03-17
+  rfendtc: 2014-03-30
+  age: 36
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *54
+    messages: {}
+ABC1-202-06: &55 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '202'
+  subjid: '06'
+  usubjid: ABC1-202-06
+  invnam: Dr. Dr. Armando Heidenreich
+  country: DEU
+  sex: F
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-03-01
+  rfendtc: 2014-03-15
+  age: 63
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *55
+    messages: {}
+ABC1-202-07: &56 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '202'
+  subjid: '07'
+  usubjid: ABC1-202-07
+  invnam: Dr. Dr. Armando Heidenreich
+  country: DEU
+  sex: F
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-05-11
+  rfendtc: 2014-06-14
+  age: 43
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *56
+    messages: {}
+ABC1-202-08: &57 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '202'
+  subjid: 08
+  usubjid: ABC1-202-08
+  invnam: Dr. Dr. Armando Heidenreich
+  country: DEU
+  sex: F
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-04-25
+  rfendtc: 2014-05-25
+  age: 64
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *57
+    messages: {}
+ABC1-202-09: &58 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '202'
+  subjid: 09
+  usubjid: ABC1-202-09
+  invnam: Dr. Dr. Armando Heidenreich
+  country: DEU
+  sex: F
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-07-07
+  rfendtc: 2014-08-05
+  age: 22
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *58
+    messages: {}
+ABC1-202-10: &59 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '202'
+  subjid: '10'
+  usubjid: ABC1-202-10
+  invnam: Dr. Dr. Armando Heidenreich
+  country: DEU
+  sex: F
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-08-22
+  rfendtc: 2014-09-20
+  age: 49
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *59
+    messages: {}
+ABC1-202-11: &60 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '202'
+  subjid: '11'
+  usubjid: ABC1-202-11
+  invnam: Dr. Dr. Armando Heidenreich
+  country: DEU
+  sex: F
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-04-23
+  rfendtc: 2014-05-30
+  age: 58
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *60
+    messages: {}
+ABC1-202-12: &61 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '202'
+  subjid: '12'
+  usubjid: ABC1-202-12
+  invnam: Dr. Dr. Armando Heidenreich
+  country: DEU
+  sex: M
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-07-26
+  rfendtc: 2014-08-26
+  age: 50
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *61
+    messages: {}
+ABC1-202-13: &62 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '202'
+  subjid: '13'
+  usubjid: ABC1-202-13
+  invnam: Dr. Dr. Armando Heidenreich
+  country: DEU
+  sex: F
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-03-15
+  rfendtc: 2014-03-20
+  age: 47
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *62
+    messages: {}
+ABC1-202-14: &63 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '202'
+  subjid: '14'
+  usubjid: ABC1-202-14
+  invnam: Dr. Dr. Armando Heidenreich
+  country: DEU
+  sex: M
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-03-12
+  rfendtc: 2014-04-17
+  age: 46
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *63
+    messages: {}
+ABC1-202-15: &64 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '202'
+  subjid: '15'
+  usubjid: ABC1-202-15
+  invnam: Dr. Dr. Armando Heidenreich
+  country: DEU
+  sex: M
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-09-02
+  rfendtc: 2014-10-07
+  age: 35
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *64
+    messages: {}
+ABC1-202-16: &65 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '202'
+  subjid: '16'
+  usubjid: ABC1-202-16
+  invnam: Dr. Dr. Armando Heidenreich
+  country: DEU
+  sex: F
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: SCRNFAIL
+  actarm: Screen Failure
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *65
+    messages: {}
+ABC1-202-17: &66 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '202'
+  subjid: '17'
+  usubjid: ABC1-202-17
+  invnam: Dr. Dr. Armando Heidenreich
+  country: DEU
+  sex: F
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-05-19
+  rfendtc: 2014-06-13
+  age: 25
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *66
+    messages: {}
+ABC1-202-18: &67 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '202'
+  subjid: '18'
+  usubjid: ABC1-202-18
+  invnam: Dr. Dr. Armando Heidenreich
+  country: DEU
+  sex: M
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-11-24
+  rfendtc: 2014-12-14
+  age: 29
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *67
+    messages: {}
+ABC1-202-19: &68 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '202'
+  subjid: '19'
+  usubjid: ABC1-202-19
+  invnam: Dr. Dr. Armando Heidenreich
+  country: DEU
+  sex: F
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-04-24
+  rfendtc: 2014-05-24
+  age: 64
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *68
+    messages: {}
+ABC1-202-20: &69 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '202'
+  subjid: '20'
+  usubjid: ABC1-202-20
+  invnam: Dr. Dr. Armando Heidenreich
+  country: DEU
+  sex: F
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: SCRNFAIL
+  actarm: Screen Failure
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *69
+    messages: {}
+ABC1-202-21: &70 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '202'
+  subjid: '21'
+  usubjid: ABC1-202-21
+  invnam: Dr. Dr. Armando Heidenreich
+  country: DEU
+  sex: M
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-09-16
+  rfendtc: 2014-10-17
+  age: 37
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *70
+    messages: {}
+ABC1-301-01: &71 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '301'
+  subjid: '01'
+  usubjid: ABC1-301-01
+  invnam: Dr. Haley Stoltenberg
+  country: FRA
+  sex: F
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: SCRNFAIL
+  actarm: Screen Failure
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *71
+    messages: {}
+ABC1-301-02: &72 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '301'
+  subjid: '02'
+  usubjid: ABC1-301-02
+  invnam: Dr. Haley Stoltenberg
+  country: FRA
+  sex: M
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-05-11
+  rfendtc: 2014-06-15
+  age: 18
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *72
+    messages: {}
+ABC1-301-03: &73 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '301'
+  subjid: '03'
+  usubjid: ABC1-301-03
+  invnam: Dr. Haley Stoltenberg
+  country: FRA
+  sex: M
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-05-12
+  rfendtc: 2014-05-31
+  age: 34
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *73
+    messages: {}
+ABC1-301-04: &74 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '301'
+  subjid: '04'
+  usubjid: ABC1-301-04
+  invnam: Dr. Haley Stoltenberg
+  country: FRA
+  sex: M
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-04-01
+  rfendtc: 2014-05-01
+  age: 59
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *74
+    messages: {}
+ABC1-301-05: &75 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '301'
+  subjid: '05'
+  usubjid: ABC1-301-05
+  invnam: Dr. Haley Stoltenberg
+  country: FRA
+  sex: M
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-06-20
+  rfendtc: 2014-06-26
+  age: 48
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *75
+    messages: {}
+ABC1-301-06: &76 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '301'
+  subjid: '06'
+  usubjid: ABC1-301-06
+  invnam: Dr. Haley Stoltenberg
+  country: FRA
+  sex: F
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-04-06
+  rfendtc: 2014-04-20
+  age: 19
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *76
+    messages: {}
+ABC1-301-07: &77 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '301'
+  subjid: '07'
+  usubjid: ABC1-301-07
+  invnam: Dr. Haley Stoltenberg
+  country: FRA
+  sex: M
+  armcd: PBO
+  arm: Placebo
+  actarmcd: SCRNFAIL
+  actarm: Screen Failure
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *77
+    messages: {}
+ABC1-301-08: &78 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '301'
+  subjid: 08
+  usubjid: ABC1-301-08
+  invnam: Dr. Haley Stoltenberg
+  country: FRA
+  sex: M
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-06-13
+  rfendtc: 2014-07-17
+  age: 26
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *78
+    messages: {}
+ABC1-301-09: &79 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '301'
+  subjid: 09
+  usubjid: ABC1-301-09
+  invnam: Dr. Haley Stoltenberg
+  country: FRA
+  sex: M
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-08-13
+  rfendtc: 2014-09-13
+  age: 59
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *79
+    messages: {}
+ABC1-301-10: &80 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '301'
+  subjid: '10'
+  usubjid: ABC1-301-10
+  invnam: Dr. Haley Stoltenberg
+  country: FRA
+  sex: M
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-03-08
+  rfendtc: 2014-04-10
+  age: 58
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *80
+    messages: {}
+ABC1-302-01: &81 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '302'
+  subjid: '01'
+  usubjid: ABC1-302-01
+  invnam: Dr. Jensen Emard II
+  country: DEU
+  sex: F
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-04-12
+  rfendtc: 2014-05-16
+  age: 48
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *81
+    messages: {}
+ABC1-302-02: &82 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '302'
+  subjid: '02'
+  usubjid: ABC1-302-02
+  invnam: Dr. Jensen Emard II
+  country: DEU
+  sex: M
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-11-12
+  rfendtc: 2014-12-17
+  age: 22
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *82
+    messages: {}
+ABC1-302-03: &83 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '302'
+  subjid: '03'
+  usubjid: ABC1-302-03
+  invnam: Dr. Jensen Emard II
+  country: DEU
+  sex: F
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-03-04
+  rfendtc: 2014-03-04
+  age: 59
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *83
+    messages: {}
+ABC1-302-04: &84 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '302'
+  subjid: '04'
+  usubjid: ABC1-302-04
+  invnam: Dr. Jensen Emard II
+  country: DEU
+  sex: M
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-04-17
+  rfendtc: 2014-05-21
+  age: 25
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *84
+    messages: {}
+ABC1-302-05: &85 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '302'
+  subjid: '05'
+  usubjid: ABC1-302-05
+  invnam: Dr. Jensen Emard II
+  country: DEU
+  sex: F
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-10-03
+  rfendtc: 2014-11-06
+  age: 65
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *85
+    messages: {}
+ABC1-302-06: &86 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '302'
+  subjid: '06'
+  usubjid: ABC1-302-06
+  invnam: Dr. Jensen Emard II
+  country: DEU
+  sex: F
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-06-04
+  rfendtc: 2014-07-05
+  age: 23
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *86
+    messages: {}
+ABC1-302-07: &87 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '302'
+  subjid: '07'
+  usubjid: ABC1-302-07
+  invnam: Dr. Jensen Emard II
+  country: DEU
+  sex: M
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-03-12
+  rfendtc: 2014-04-17
+  age: 42
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *87
+    messages: {}
+ABC1-302-08: &88 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '302'
+  subjid: 08
+  usubjid: ABC1-302-08
+  invnam: Dr. Jensen Emard II
+  country: DEU
+  sex: M
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-09-21
+  rfendtc: 2014-10-25
+  age: 27
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *88
+    messages: {}
+ABC1-303-01: &89 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '303'
+  subjid: '01'
+  usubjid: ABC1-303-01
+  invnam: Dr. Armando Goodwin
+  country: GBR
+  sex: F
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-06-17
+  rfendtc: 2014-07-20
+  age: 57
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *89
+    messages: {}
+ABC1-303-02: &90 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '303'
+  subjid: '02'
+  usubjid: ABC1-303-02
+  invnam: Dr. Armando Goodwin
+  country: GBR
+  sex: M
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-03-28
+  rfendtc: 2014-03-28
+  age: 41
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *90
+    messages: {}
+ABC1-303-03: &91 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '303'
+  subjid: '03'
+  usubjid: ABC1-303-03
+  invnam: Dr. Armando Goodwin
+  country: GBR
+  sex: M
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-10-11
+  rfendtc: 2014-11-12
+  age: 60
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *91
+    messages: {}
+ABC1-303-04: &92 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '303'
+  subjid: '04'
+  usubjid: ABC1-303-04
+  invnam: Dr. Armando Goodwin
+  country: GBR
+  sex: M
+  armcd: TRTB
+  arm: Treatment B
+  actarmcd: TRTB
+  actarm: Treatment B
+  rfstdtc: 2014-04-01
+  rfendtc: 2014-04-22
+  age: 58
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *92
+    messages: {}
+ABC1-303-05: &93 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '303'
+  subjid: '05'
+  usubjid: ABC1-303-05
+  invnam: Dr. Armando Goodwin
+  country: GBR
+  sex: M
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-05-31
+  rfendtc: 2014-07-03
+  age: 24
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *93
+    messages: {}
+ABC1-303-06: &94 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '303'
+  subjid: '06'
+  usubjid: ABC1-303-06
+  invnam: Dr. Armando Goodwin
+  country: GBR
+  sex: F
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-03-08
+  rfendtc: 2014-04-12
+  age: 48
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *94
+    messages: {}
+ABC1-303-07: &95 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '303'
+  subjid: '07'
+  usubjid: ABC1-303-07
+  invnam: Dr. Armando Goodwin
+  country: GBR
+  sex: M
+  armcd: PBO
+  arm: Placebo
+  actarmcd: SCRNFAIL
+  actarm: Screen Failure
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *95
+    messages: {}
+ABC1-303-08: &96 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '303'
+  subjid: 08
+  usubjid: ABC1-303-08
+  invnam: Dr. Armando Goodwin
+  country: GBR
+  sex: M
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-09-24
+  rfendtc: 2014-10-28
+  age: 43
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *96
+    messages: {}
+ABC1-303-09: &97 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '303'
+  subjid: 09
+  usubjid: ABC1-303-09
+  invnam: Dr. Armando Goodwin
+  country: GBR
+  sex: F
+  armcd: TRTA
+  arm: Treatment A
+  actarmcd: TRTA
+  actarm: Treatment A
+  rfstdtc: 2014-03-09
+  rfendtc: 2014-04-10
+  age: 57
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *97
+    messages: {}
+ABC1-303-10: &98 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '303'
+  subjid: '10'
+  usubjid: ABC1-303-10
+  invnam: Dr. Armando Goodwin
+  country: GBR
+  sex: F
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-03-06
+  rfendtc: 2014-03-26
+  age: 44
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *98
+    messages: {}
+ABC1-303-11: &99 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '303'
+  subjid: '11'
+  usubjid: ABC1-303-11
+  invnam: Dr. Armando Goodwin
+  country: GBR
+  sex: F
+  armcd: TRTC
+  arm: Treatment C
+  actarmcd: TRTC
+  actarm: Treatment C
+  rfstdtc: 2014-07-21
+  rfendtc: 2014-08-23
+  age: 36
+  ageu: years
+  domain: DM
+  validation_context: 
+  errors: !ruby/object:ActiveModel::Errors
+    base: *99
+    messages: {}
+ABC1-303-12: &100 !ruby/object:SdtmDm
+  studyid: ABC1
+  siteid: '303'
+  subjid: '12'
+  usubjid: ABC1-303-12
+  invnam: Dr. Armando Goodwin
+  country: GBR
+  sex: F
+  armcd: PBO
+  arm: Placebo
+  actarmcd: PBO
+  actarm: Placebo
+  rfstdtc: 2014-09-15
+  rfendtc: 2014-10-11
+  age: 30
   ageu: years
   domain: DM
   validation_context: 

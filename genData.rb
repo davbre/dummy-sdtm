@@ -22,35 +22,7 @@ lab_parameters = YAML::load_file "config/lab_parameters.yml"
 
 dm = gen_dm(study,controlled_terms)
 sv = gen_sv(study,controlled_terms,dm)
-
-def gen_ex(study,controlled_terms,sv)
-
-  s = study
-  ct = controlled_terms
-  rng = SimpleRandom.new
-  ex_dataset = []
-  exseq = 0
- 
-  sv.each do |sbjvis|
-
-    next if sbjvis.visitnum < 2
-    exseq += 1
-    exstdtc = sbjvis.svstdtc
-
-    ex_row = SdtmEx.new(
-      # domain is automatically assigned
-      studyid:  s.studyid, usubjid: sbjvis.usubjid, exseq: exseq,
-      exstdtc: exstdtc
-    )
-
-    ex_dataset << ex_row
-  end
-
-  ex_dataset
-
-end
-
-ex = gen_ex(study,controlled_terms,sv)
+ex = gen_ex(study,controlled_terms,dm,sv)
 lb = gen_lb(study,controlled_terms,sv,lab_parameters)
 
 File.open("output/#{study.studyid}_dm.yml", 'w') {|f| f.write(YAML.dump(dm)) }
