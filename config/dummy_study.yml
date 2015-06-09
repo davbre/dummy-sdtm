@@ -1,5 +1,5 @@
 --- !ruby/object:Study
-  studyid: ABC1
+  studyid: "ABC001"
   treatments:
   - Placebo
   - Treatment A

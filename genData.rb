@@ -27,7 +27,7 @@ ex = gen_ex(study,dm,sv)
 lb = gen_lb(study,sv,lab_parameters)
 ae = gen_ae(study,dm,sv,12) # last parameter is mean AEs per year
 
-csv_stem = "output/#{study.studyid}_"
+csv_stem = "output/"
 
 dm.write_csv(csv_stem + "dm.csv")
 sv.write_csv(csv_stem + "sv.csv")

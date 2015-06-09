@@ -1,0 +1,21 @@
+studyid,siteid,subjid,usubjid,invnam,country,sex,armcd,arm,actarmcd,actarm,rfstdtc,rfendtc,age,ageu,domain
+ABC001,101,01,ABC001-101-01,Dr. Miss Wilber Raynor,FRA,F,TRTB,Treatment B,TRTB,Treatment B,2014-08-09,2014-09-10,49,years,DM
+ABC001,101,02,ABC001-101-02,Dr. Miss Wilber Raynor,FRA,M,PBO,Placebo,PBO,Placebo,2014-06-12,2014-07-13,37,years,DM
+ABC001,102,01,ABC001-102-01,Dr. Mrs. Arnulfo Bauch,DEU,F,PBO,Placebo,PBO,Placebo,2014-05-23,2014-06-30,62,years,DM
+ABC001,103,01,ABC001-103-01,Dr. Rogelio Orn,GBR,M,TRTB,Treatment B,TRTB,Treatment B,2014-04-01,2014-05-04,34,years,DM
+ABC001,103,02,ABC001-103-02,Dr. Rogelio Orn,GBR,F,TRTC,Treatment C,TRTC,Treatment C,2014-05-12,2014-06-01,34,years,DM
+ABC001,201,01,ABC001-201-01,Dr. Albina Ritchie Sr.,FRA,M,TRTA,Treatment A,TRTA,Treatment A,2014-06-19,2014-07-24,63,years,DM
+ABC001,201,02,ABC001-201-02,Dr. Albina Ritchie Sr.,FRA,M,TRTB,Treatment B,TRTB,Treatment B,2014-04-21,2014-05-04,22,years,DM
+ABC001,201,03,ABC001-201-03,Dr. Albina Ritchie Sr.,FRA,M,TRTC,Treatment C,TRTC,Treatment C,2014-07-17,2014-07-17,32,years,DM
+ABC001,202,01,ABC001-202-01,Dr. Leslie Berge,DEU,F,TRTA,Treatment A,TRTA,Treatment A,2014-05-24,2014-05-31,30,years,DM
+ABC001,202,02,ABC001-202-02,Dr. Leslie Berge,DEU,F,TRTC,Treatment C,TRTC,Treatment C,2014-06-12,2014-07-13,19,years,DM
+ABC001,202,03,ABC001-202-03,Dr. Leslie Berge,DEU,F,TRTA,Treatment A,SCRNFAIL,Screen Failure,,2014-04-24,65,years,DM
+ABC001,301,01,ABC001-301-01,Dr. Anne Hodkiewicz,FRA,F,TRTC,Treatment C,TRTC,Treatment C,2014-03-25,2014-04-16,46,years,DM
+ABC001,301,02,ABC001-301-02,Dr. Anne Hodkiewicz,FRA,M,PBO,Placebo,PBO,Placebo,2014-08-18,2014-09-13,56,years,DM
+ABC001,301,03,ABC001-301-03,Dr. Anne Hodkiewicz,FRA,F,TRTB,Treatment B,SCRNFAIL,Screen Failure,,2014-06-30,35,years,DM
+ABC001,301,04,ABC001-301-04,Dr. Anne Hodkiewicz,FRA,F,TRTC,Treatment C,TRTC,Treatment C,2014-03-10,2014-04-13,28,years,DM
+ABC001,301,05,ABC001-301-05,Dr. Anne Hodkiewicz,FRA,F,TRTC,Treatment C,TRTC,Treatment C,2014-07-06,2014-07-06,40,years,DM
+ABC001,302,01,ABC001-302-01,Dr. Clement Glover,DEU,F,TRTB,Treatment B,TRTB,Treatment B,2014-05-04,2014-06-04,33,years,DM
+ABC001,302,02,ABC001-302-02,Dr. Clement Glover,DEU,F,TRTB,Treatment B,TRTB,Treatment B,2014-06-22,2014-07-26,30,years,DM
+ABC001,303,01,ABC001-303-01,Dr. Domenic Klocko,GBR,M,PBO,Placebo,PBO,Placebo,2014-08-07,2014-09-08,59,years,DM
+ABC001,303,02,ABC001-303-02,Dr. Domenic Klocko,GBR,M,TRTA,Treatment A,TRTA,Treatment A,2014-03-01,2014-03-29,51,years,DM

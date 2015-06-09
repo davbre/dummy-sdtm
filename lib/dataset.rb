@@ -22,7 +22,7 @@ class Dataset
 
   def write_csv(outfile)
     variables_present = @meta.keys
-    CSV.open(outfile, "wb", force_quotes: true) do |csv|
+    CSV.open(outfile, "wb") do |csv|
       csv << variables_present
 
       @rows.each do |key,value|
@@ -30,7 +30,7 @@ class Dataset
         objarr.each do |obj|
           csvrow = []
           variables_present.each do |ovar|
-            csvrow << (obj.send(ovar).nil? ? " " : obj.send(ovar))
+            csvrow << (obj.send(ovar).nil? ? nil : obj.send(ovar))
           end
           csv << csvrow
         end

@@ -26,6 +26,8 @@ def gen_dm(study,controlled_terms)
     arm = s.treatments[arm_array_index]
 
     race = ct["race"][rand(0..ct.length-1)]
+    age = rand(s.age_range[0]..s.age_range[1])
+    ageu = "years"
 
     
     # certain percentage screen failures
@@ -40,10 +42,8 @@ def gen_dm(study,controlled_terms)
     unless actarmcd == "SCRNFAIL"
       rfstdtc = hlp_rand_start_date(s.ref_date)
       rfendtc = "--placeholder--"
-
-      age = rand(s.age_range[0]..s.age_range[1])
-      ageu = "years"
     end
+
 
     dm_row = SdtmDm.new(
                     studyid:  s.studyid,
