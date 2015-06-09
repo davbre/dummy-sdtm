@@ -4,7 +4,7 @@ ABC1-101-01: &1 !ruby/object:SdtmDm
   siteid: '101'
   subjid: '01'
   usubjid: ABC1-101-01
-  invnam: Dr. Dr. Cielo Wintheiser
+  invnam: Dr. Aiyana Rath
   country: FRA
   sex: F
   armcd: TRTB
@@ -25,7 +25,7 @@ ABC1-101-02: &2 !ruby/object:SdtmDm
   siteid: '101'
   subjid: '02'
   usubjid: ABC1-101-02
-  invnam: Dr. Dr. Cielo Wintheiser
+  invnam: Dr. Aiyana Rath
   country: FRA
   sex: F
   armcd: PBO
@@ -46,7 +46,7 @@ ABC1-101-03: &3 !ruby/object:SdtmDm
   siteid: '101'
   subjid: '03'
   usubjid: ABC1-101-03
-  invnam: Dr. Dr. Cielo Wintheiser
+  invnam: Dr. Aiyana Rath
   country: FRA
   sex: F
   armcd: TRTC
@@ -67,7 +67,7 @@ ABC1-101-04: &4 !ruby/object:SdtmDm
   siteid: '101'
   subjid: '04'
   usubjid: ABC1-101-04
-  invnam: Dr. Dr. Cielo Wintheiser
+  invnam: Dr. Aiyana Rath
   country: FRA
   sex: F
   armcd: TRTB
@@ -88,7 +88,7 @@ ABC1-101-05: &5 !ruby/object:SdtmDm
   siteid: '101'
   subjid: '05'
   usubjid: ABC1-101-05
-  invnam: Dr. Dr. Cielo Wintheiser
+  invnam: Dr. Aiyana Rath
   country: FRA
   sex: M
   armcd: PBO
@@ -109,7 +109,7 @@ ABC1-101-06: &6 !ruby/object:SdtmDm
   siteid: '101'
   subjid: '06'
   usubjid: ABC1-101-06
-  invnam: Dr. Dr. Cielo Wintheiser
+  invnam: Dr. Aiyana Rath
   country: FRA
   sex: F
   armcd: TRTC
@@ -130,13 +130,14 @@ ABC1-101-07: &7 !ruby/object:SdtmDm
   siteid: '101'
   subjid: '07'
   usubjid: ABC1-101-07
-  invnam: Dr. Dr. Cielo Wintheiser
+  invnam: Dr. Aiyana Rath
   country: FRA
   sex: M
   armcd: TRTA
   arm: Treatment A
   actarmcd: SCRNFAIL
   actarm: Screen Failure
+  rfendtc: 2014-04-24
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
@@ -147,7 +148,7 @@ ABC1-101-08: &8 !ruby/object:SdtmDm
   siteid: '101'
   subjid: 08
   usubjid: ABC1-101-08
-  invnam: Dr. Dr. Cielo Wintheiser
+  invnam: Dr. Aiyana Rath
   country: FRA
   sex: M
   armcd: TRTB
@@ -168,7 +169,7 @@ ABC1-101-09: &9 !ruby/object:SdtmDm
   siteid: '101'
   subjid: 09
   usubjid: ABC1-101-09
-  invnam: Dr. Dr. Cielo Wintheiser
+  invnam: Dr. Aiyana Rath
   country: FRA
   sex: F
   armcd: TRTA
@@ -189,7 +190,7 @@ ABC1-101-10: &10 !ruby/object:SdtmDm
   siteid: '101'
   subjid: '10'
   usubjid: ABC1-101-10
-  invnam: Dr. Dr. Cielo Wintheiser
+  invnam: Dr. Aiyana Rath
   country: FRA
   sex: M
   armcd: TRTB
@@ -210,13 +211,14 @@ ABC1-102-01: &11 !ruby/object:SdtmDm
   siteid: '102'
   subjid: '01'
   usubjid: ABC1-102-01
-  invnam: Dr. Kirstin O'Kon
+  invnam: Dr. Queen Welch
   country: DEU
   sex: F
   armcd: TRTB
   arm: Treatment B
   actarmcd: SCRNFAIL
   actarm: Screen Failure
+  rfendtc: 2014-08-20
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
@@ -227,7 +229,7 @@ ABC1-102-02: &12 !ruby/object:SdtmDm
   siteid: '102'
   subjid: '02'
   usubjid: ABC1-102-02
-  invnam: Dr. Kirstin O'Kon
+  invnam: Dr. Queen Welch
   country: DEU
   sex: F
   armcd: PBO
@@ -248,13 +250,14 @@ ABC1-102-03: &13 !ruby/object:SdtmDm
   siteid: '102'
   subjid: '03'
   usubjid: ABC1-102-03
-  invnam: Dr. Kirstin O'Kon
+  invnam: Dr. Queen Welch
   country: DEU
   sex: M
   armcd: TRTA
   arm: Treatment A
   actarmcd: SCRNFAIL
   actarm: Screen Failure
+  rfendtc: 2014-04-24
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
@@ -265,7 +268,7 @@ ABC1-102-04: &14 !ruby/object:SdtmDm
   siteid: '102'
   subjid: '04'
   usubjid: ABC1-102-04
-  invnam: Dr. Kirstin O'Kon
+  invnam: Dr. Queen Welch
   country: DEU
   sex: M
   armcd: TRTB
@@ -286,7 +289,7 @@ ABC1-102-05: &15 !ruby/object:SdtmDm
   siteid: '102'
   subjid: '05'
   usubjid: ABC1-102-05
-  invnam: Dr. Kirstin O'Kon
+  invnam: Dr. Queen Welch
   country: DEU
   sex: M
   armcd: TRTC
@@ -307,7 +310,7 @@ ABC1-102-06: &16 !ruby/object:SdtmDm
   siteid: '102'
   subjid: '06'
   usubjid: ABC1-102-06
-  invnam: Dr. Kirstin O'Kon
+  invnam: Dr. Queen Welch
   country: DEU
   sex: F
   armcd: TRTC
@@ -328,13 +331,14 @@ ABC1-102-07: &17 !ruby/object:SdtmDm
   siteid: '102'
   subjid: '07'
   usubjid: ABC1-102-07
-  invnam: Dr. Kirstin O'Kon
+  invnam: Dr. Queen Welch
   country: DEU
   sex: F
   armcd: TRTC
   arm: Treatment C
   actarmcd: SCRNFAIL
   actarm: Screen Failure
+  rfendtc: 2014-05-15
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
@@ -345,7 +349,7 @@ ABC1-102-08: &18 !ruby/object:SdtmDm
   siteid: '102'
   subjid: 08
   usubjid: ABC1-102-08
-  invnam: Dr. Kirstin O'Kon
+  invnam: Dr. Queen Welch
   country: DEU
   sex: M
   armcd: PBO
@@ -366,7 +370,7 @@ ABC1-102-09: &19 !ruby/object:SdtmDm
   siteid: '102'
   subjid: 09
   usubjid: ABC1-102-09
-  invnam: Dr. Kirstin O'Kon
+  invnam: Dr. Queen Welch
   country: DEU
   sex: M
   armcd: PBO
@@ -387,13 +391,14 @@ ABC1-102-10: &20 !ruby/object:SdtmDm
   siteid: '102'
   subjid: '10'
   usubjid: ABC1-102-10
-  invnam: Dr. Kirstin O'Kon
+  invnam: Dr. Queen Welch
   country: DEU
   sex: M
   armcd: PBO
   arm: Placebo
   actarmcd: SCRNFAIL
   actarm: Screen Failure
+  rfendtc: 2014-04-11
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
@@ -404,7 +409,7 @@ ABC1-102-11: &21 !ruby/object:SdtmDm
   siteid: '102'
   subjid: '11'
   usubjid: ABC1-102-11
-  invnam: Dr. Kirstin O'Kon
+  invnam: Dr. Queen Welch
   country: DEU
   sex: M
   armcd: TRTB
@@ -425,7 +430,7 @@ ABC1-102-12: &22 !ruby/object:SdtmDm
   siteid: '102'
   subjid: '12'
   usubjid: ABC1-102-12
-  invnam: Dr. Kirstin O'Kon
+  invnam: Dr. Queen Welch
   country: DEU
   sex: F
   armcd: TRTB
@@ -446,7 +451,7 @@ ABC1-102-13: &23 !ruby/object:SdtmDm
   siteid: '102'
   subjid: '13'
   usubjid: ABC1-102-13
-  invnam: Dr. Kirstin O'Kon
+  invnam: Dr. Queen Welch
   country: DEU
   sex: M
   armcd: PBO
@@ -467,7 +472,7 @@ ABC1-102-14: &24 !ruby/object:SdtmDm
   siteid: '102'
   subjid: '14'
   usubjid: ABC1-102-14
-  invnam: Dr. Kirstin O'Kon
+  invnam: Dr. Queen Welch
   country: DEU
   sex: M
   armcd: TRTA
@@ -488,13 +493,14 @@ ABC1-103-01: &25 !ruby/object:SdtmDm
   siteid: '103'
   subjid: '01'
   usubjid: ABC1-103-01
-  invnam: Dr. Domenick Cormier
+  invnam: Dr. Miss Annette Bartell
   country: GBR
   sex: M
   armcd: TRTA
   arm: Treatment A
   actarmcd: SCRNFAIL
   actarm: Screen Failure
+  rfendtc: 2014-04-18
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
@@ -505,7 +511,7 @@ ABC1-103-02: &26 !ruby/object:SdtmDm
   siteid: '103'
   subjid: '02'
   usubjid: ABC1-103-02
-  invnam: Dr. Domenick Cormier
+  invnam: Dr. Miss Annette Bartell
   country: GBR
   sex: F
   armcd: PBO
@@ -526,7 +532,7 @@ ABC1-103-03: &27 !ruby/object:SdtmDm
   siteid: '103'
   subjid: '03'
   usubjid: ABC1-103-03
-  invnam: Dr. Domenick Cormier
+  invnam: Dr. Miss Annette Bartell
   country: GBR
   sex: F
   armcd: PBO
@@ -547,13 +553,14 @@ ABC1-103-04: &28 !ruby/object:SdtmDm
   siteid: '103'
   subjid: '04'
   usubjid: ABC1-103-04
-  invnam: Dr. Domenick Cormier
+  invnam: Dr. Miss Annette Bartell
   country: GBR
   sex: M
   armcd: TRTB
   arm: Treatment B
   actarmcd: SCRNFAIL
   actarm: Screen Failure
+  rfendtc: 2014-05-02
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
@@ -564,7 +571,7 @@ ABC1-103-05: &29 !ruby/object:SdtmDm
   siteid: '103'
   subjid: '05'
   usubjid: ABC1-103-05
-  invnam: Dr. Domenick Cormier
+  invnam: Dr. Miss Annette Bartell
   country: GBR
   sex: F
   armcd: TRTA
@@ -585,7 +592,7 @@ ABC1-201-01: &30 !ruby/object:SdtmDm
   siteid: '201'
   subjid: '01'
   usubjid: ABC1-201-01
-  invnam: Dr. Cleora Hills
+  invnam: Dr. Paula Rath
   country: FRA
   sex: M
   armcd: TRTA
@@ -606,7 +613,7 @@ ABC1-201-02: &31 !ruby/object:SdtmDm
   siteid: '201'
   subjid: '02'
   usubjid: ABC1-201-02
-  invnam: Dr. Cleora Hills
+  invnam: Dr. Paula Rath
   country: FRA
   sex: M
   armcd: PBO
@@ -627,13 +634,14 @@ ABC1-201-03: &32 !ruby/object:SdtmDm
   siteid: '201'
   subjid: '03'
   usubjid: ABC1-201-03
-  invnam: Dr. Cleora Hills
+  invnam: Dr. Paula Rath
   country: FRA
   sex: F
   armcd: PBO
   arm: Placebo
   actarmcd: SCRNFAIL
   actarm: Screen Failure
+  rfendtc: 2014-03-04
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
@@ -644,7 +652,7 @@ ABC1-201-04: &33 !ruby/object:SdtmDm
   siteid: '201'
   subjid: '04'
   usubjid: ABC1-201-04
-  invnam: Dr. Cleora Hills
+  invnam: Dr. Paula Rath
   country: FRA
   sex: M
   armcd: TRTA
@@ -665,7 +673,7 @@ ABC1-201-05: &34 !ruby/object:SdtmDm
   siteid: '201'
   subjid: '05'
   usubjid: ABC1-201-05
-  invnam: Dr. Cleora Hills
+  invnam: Dr. Paula Rath
   country: FRA
   sex: M
   armcd: TRTC
@@ -686,7 +694,7 @@ ABC1-201-06: &35 !ruby/object:SdtmDm
   siteid: '201'
   subjid: '06'
   usubjid: ABC1-201-06
-  invnam: Dr. Cleora Hills
+  invnam: Dr. Paula Rath
   country: FRA
   sex: F
   armcd: PBO
@@ -707,7 +715,7 @@ ABC1-201-07: &36 !ruby/object:SdtmDm
   siteid: '201'
   subjid: '07'
   usubjid: ABC1-201-07
-  invnam: Dr. Cleora Hills
+  invnam: Dr. Paula Rath
   country: FRA
   sex: F
   armcd: PBO
@@ -728,7 +736,7 @@ ABC1-201-08: &37 !ruby/object:SdtmDm
   siteid: '201'
   subjid: 08
   usubjid: ABC1-201-08
-  invnam: Dr. Cleora Hills
+  invnam: Dr. Paula Rath
   country: FRA
   sex: F
   armcd: TRTB
@@ -749,7 +757,7 @@ ABC1-201-09: &38 !ruby/object:SdtmDm
   siteid: '201'
   subjid: 09
   usubjid: ABC1-201-09
-  invnam: Dr. Cleora Hills
+  invnam: Dr. Paula Rath
   country: FRA
   sex: M
   armcd: TRTA
@@ -770,7 +778,7 @@ ABC1-201-10: &39 !ruby/object:SdtmDm
   siteid: '201'
   subjid: '10'
   usubjid: ABC1-201-10
-  invnam: Dr. Cleora Hills
+  invnam: Dr. Paula Rath
   country: FRA
   sex: M
   armcd: TRTC
@@ -791,7 +799,7 @@ ABC1-201-11: &40 !ruby/object:SdtmDm
   siteid: '201'
   subjid: '11'
   usubjid: ABC1-201-11
-  invnam: Dr. Cleora Hills
+  invnam: Dr. Paula Rath
   country: FRA
   sex: F
   armcd: TRTA
@@ -812,7 +820,7 @@ ABC1-201-12: &41 !ruby/object:SdtmDm
   siteid: '201'
   subjid: '12'
   usubjid: ABC1-201-12
-  invnam: Dr. Cleora Hills
+  invnam: Dr. Paula Rath
   country: FRA
   sex: F
   armcd: TRTB
@@ -833,13 +841,14 @@ ABC1-201-13: &42 !ruby/object:SdtmDm
   siteid: '201'
   subjid: '13'
   usubjid: ABC1-201-13
-  invnam: Dr. Cleora Hills
+  invnam: Dr. Paula Rath
   country: FRA
   sex: F
   armcd: TRTA
   arm: Treatment A
   actarmcd: SCRNFAIL
   actarm: Screen Failure
+  rfendtc: 2014-09-30
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
@@ -850,7 +859,7 @@ ABC1-201-14: &43 !ruby/object:SdtmDm
   siteid: '201'
   subjid: '14'
   usubjid: ABC1-201-14
-  invnam: Dr. Cleora Hills
+  invnam: Dr. Paula Rath
   country: FRA
   sex: F
   armcd: PBO
@@ -871,7 +880,7 @@ ABC1-201-15: &44 !ruby/object:SdtmDm
   siteid: '201'
   subjid: '15'
   usubjid: ABC1-201-15
-  invnam: Dr. Cleora Hills
+  invnam: Dr. Paula Rath
   country: FRA
   sex: M
   armcd: TRTC
@@ -892,7 +901,7 @@ ABC1-201-16: &45 !ruby/object:SdtmDm
   siteid: '201'
   subjid: '16'
   usubjid: ABC1-201-16
-  invnam: Dr. Cleora Hills
+  invnam: Dr. Paula Rath
   country: FRA
   sex: M
   armcd: TRTA
@@ -913,7 +922,7 @@ ABC1-201-17: &46 !ruby/object:SdtmDm
   siteid: '201'
   subjid: '17'
   usubjid: ABC1-201-17
-  invnam: Dr. Cleora Hills
+  invnam: Dr. Paula Rath
   country: FRA
   sex: M
   armcd: TRTC
@@ -934,7 +943,7 @@ ABC1-201-18: &47 !ruby/object:SdtmDm
   siteid: '201'
   subjid: '18'
   usubjid: ABC1-201-18
-  invnam: Dr. Cleora Hills
+  invnam: Dr. Paula Rath
   country: FRA
   sex: F
   armcd: TRTA
@@ -955,7 +964,7 @@ ABC1-201-19: &48 !ruby/object:SdtmDm
   siteid: '201'
   subjid: '19'
   usubjid: ABC1-201-19
-  invnam: Dr. Cleora Hills
+  invnam: Dr. Paula Rath
   country: FRA
   sex: F
   armcd: PBO
@@ -976,7 +985,7 @@ ABC1-201-20: &49 !ruby/object:SdtmDm
   siteid: '201'
   subjid: '20'
   usubjid: ABC1-201-20
-  invnam: Dr. Cleora Hills
+  invnam: Dr. Paula Rath
   country: FRA
   sex: M
   armcd: TRTC
@@ -997,7 +1006,7 @@ ABC1-202-01: &50 !ruby/object:SdtmDm
   siteid: '202'
   subjid: '01'
   usubjid: ABC1-202-01
-  invnam: Dr. Dr. Armando Heidenreich
+  invnam: Dr. Kiel Hills
   country: DEU
   sex: F
   armcd: TRTA
@@ -1018,7 +1027,7 @@ ABC1-202-02: &51 !ruby/object:SdtmDm
   siteid: '202'
   subjid: '02'
   usubjid: ABC1-202-02
-  invnam: Dr. Dr. Armando Heidenreich
+  invnam: Dr. Kiel Hills
   country: DEU
   sex: M
   armcd: TRTC
@@ -1039,7 +1048,7 @@ ABC1-202-03: &52 !ruby/object:SdtmDm
   siteid: '202'
   subjid: '03'
   usubjid: ABC1-202-03
-  invnam: Dr. Dr. Armando Heidenreich
+  invnam: Dr. Kiel Hills
   country: DEU
   sex: F
   armcd: TRTB
@@ -1060,7 +1069,7 @@ ABC1-202-04: &53 !ruby/object:SdtmDm
   siteid: '202'
   subjid: '04'
   usubjid: ABC1-202-04
-  invnam: Dr. Dr. Armando Heidenreich
+  invnam: Dr. Kiel Hills
   country: DEU
   sex: F
   armcd: TRTC
@@ -1081,7 +1090,7 @@ ABC1-202-05: &54 !ruby/object:SdtmDm
   siteid: '202'
   subjid: '05'
   usubjid: ABC1-202-05
-  invnam: Dr. Dr. Armando Heidenreich
+  invnam: Dr. Kiel Hills
   country: DEU
   sex: M
   armcd: TRTA
@@ -1102,7 +1111,7 @@ ABC1-202-06: &55 !ruby/object:SdtmDm
   siteid: '202'
   subjid: '06'
   usubjid: ABC1-202-06
-  invnam: Dr. Dr. Armando Heidenreich
+  invnam: Dr. Kiel Hills
   country: DEU
   sex: F
   armcd: TRTB
@@ -1123,7 +1132,7 @@ ABC1-202-07: &56 !ruby/object:SdtmDm
   siteid: '202'
   subjid: '07'
   usubjid: ABC1-202-07
-  invnam: Dr. Dr. Armando Heidenreich
+  invnam: Dr. Kiel Hills
   country: DEU
   sex: F
   armcd: PBO
@@ -1144,7 +1153,7 @@ ABC1-202-08: &57 !ruby/object:SdtmDm
   siteid: '202'
   subjid: 08
   usubjid: ABC1-202-08
-  invnam: Dr. Dr. Armando Heidenreich
+  invnam: Dr. Kiel Hills
   country: DEU
   sex: F
   armcd: TRTB
@@ -1165,7 +1174,7 @@ ABC1-202-09: &58 !ruby/object:SdtmDm
   siteid: '202'
   subjid: 09
   usubjid: ABC1-202-09
-  invnam: Dr. Dr. Armando Heidenreich
+  invnam: Dr. Kiel Hills
   country: DEU
   sex: F
   armcd: PBO
@@ -1186,7 +1195,7 @@ ABC1-202-10: &59 !ruby/object:SdtmDm
   siteid: '202'
   subjid: '10'
   usubjid: ABC1-202-10
-  invnam: Dr. Dr. Armando Heidenreich
+  invnam: Dr. Kiel Hills
   country: DEU
   sex: F
   armcd: TRTA
@@ -1207,7 +1216,7 @@ ABC1-202-11: &60 !ruby/object:SdtmDm
   siteid: '202'
   subjid: '11'
   usubjid: ABC1-202-11
-  invnam: Dr. Dr. Armando Heidenreich
+  invnam: Dr. Kiel Hills
   country: DEU
   sex: F
   armcd: PBO
@@ -1228,7 +1237,7 @@ ABC1-202-12: &61 !ruby/object:SdtmDm
   siteid: '202'
   subjid: '12'
   usubjid: ABC1-202-12
-  invnam: Dr. Dr. Armando Heidenreich
+  invnam: Dr. Kiel Hills
   country: DEU
   sex: M
   armcd: TRTB
@@ -1249,7 +1258,7 @@ ABC1-202-13: &62 !ruby/object:SdtmDm
   siteid: '202'
   subjid: '13'
   usubjid: ABC1-202-13
-  invnam: Dr. Dr. Armando Heidenreich
+  invnam: Dr. Kiel Hills
   country: DEU
   sex: F
   armcd: TRTA
@@ -1270,7 +1279,7 @@ ABC1-202-14: &63 !ruby/object:SdtmDm
   siteid: '202'
   subjid: '14'
   usubjid: ABC1-202-14
-  invnam: Dr. Dr. Armando Heidenreich
+  invnam: Dr. Kiel Hills
   country: DEU
   sex: M
   armcd: TRTC
@@ -1291,7 +1300,7 @@ ABC1-202-15: &64 !ruby/object:SdtmDm
   siteid: '202'
   subjid: '15'
   usubjid: ABC1-202-15
-  invnam: Dr. Dr. Armando Heidenreich
+  invnam: Dr. Kiel Hills
   country: DEU
   sex: M
   armcd: TRTC
@@ -1312,13 +1321,14 @@ ABC1-202-16: &65 !ruby/object:SdtmDm
   siteid: '202'
   subjid: '16'
   usubjid: ABC1-202-16
-  invnam: Dr. Dr. Armando Heidenreich
+  invnam: Dr. Kiel Hills
   country: DEU
   sex: F
   armcd: TRTC
   arm: Treatment C
   actarmcd: SCRNFAIL
   actarm: Screen Failure
+  rfendtc: 2014-08-07
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
@@ -1329,7 +1339,7 @@ ABC1-202-17: &66 !ruby/object:SdtmDm
   siteid: '202'
   subjid: '17'
   usubjid: ABC1-202-17
-  invnam: Dr. Dr. Armando Heidenreich
+  invnam: Dr. Kiel Hills
   country: DEU
   sex: F
   armcd: TRTC
@@ -1350,7 +1360,7 @@ ABC1-202-18: &67 !ruby/object:SdtmDm
   siteid: '202'
   subjid: '18'
   usubjid: ABC1-202-18
-  invnam: Dr. Dr. Armando Heidenreich
+  invnam: Dr. Kiel Hills
   country: DEU
   sex: M
   armcd: TRTB
@@ -1371,7 +1381,7 @@ ABC1-202-19: &68 !ruby/object:SdtmDm
   siteid: '202'
   subjid: '19'
   usubjid: ABC1-202-19
-  invnam: Dr. Dr. Armando Heidenreich
+  invnam: Dr. Kiel Hills
   country: DEU
   sex: F
   armcd: PBO
@@ -1392,13 +1402,14 @@ ABC1-202-20: &69 !ruby/object:SdtmDm
   siteid: '202'
   subjid: '20'
   usubjid: ABC1-202-20
-  invnam: Dr. Dr. Armando Heidenreich
+  invnam: Dr. Kiel Hills
   country: DEU
   sex: F
   armcd: TRTC
   arm: Treatment C
   actarmcd: SCRNFAIL
   actarm: Screen Failure
+  rfendtc: 2014-04-07
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
@@ -1409,7 +1420,7 @@ ABC1-202-21: &70 !ruby/object:SdtmDm
   siteid: '202'
   subjid: '21'
   usubjid: ABC1-202-21
-  invnam: Dr. Dr. Armando Heidenreich
+  invnam: Dr. Kiel Hills
   country: DEU
   sex: M
   armcd: TRTB
@@ -1430,13 +1441,14 @@ ABC1-301-01: &71 !ruby/object:SdtmDm
   siteid: '301'
   subjid: '01'
   usubjid: ABC1-301-01
-  invnam: Dr. Haley Stoltenberg
+  invnam: Dr. Dr. Judah West
   country: FRA
   sex: F
   armcd: TRTC
   arm: Treatment C
   actarmcd: SCRNFAIL
   actarm: Screen Failure
+  rfendtc: 2014-03-21
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
@@ -1447,7 +1459,7 @@ ABC1-301-02: &72 !ruby/object:SdtmDm
   siteid: '301'
   subjid: '02'
   usubjid: ABC1-301-02
-  invnam: Dr. Haley Stoltenberg
+  invnam: Dr. Dr. Judah West
   country: FRA
   sex: M
   armcd: PBO
@@ -1468,7 +1480,7 @@ ABC1-301-03: &73 !ruby/object:SdtmDm
   siteid: '301'
   subjid: '03'
   usubjid: ABC1-301-03
-  invnam: Dr. Haley Stoltenberg
+  invnam: Dr. Dr. Judah West
   country: FRA
   sex: M
   armcd: TRTB
@@ -1489,7 +1501,7 @@ ABC1-301-04: &74 !ruby/object:SdtmDm
   siteid: '301'
   subjid: '04'
   usubjid: ABC1-301-04
-  invnam: Dr. Haley Stoltenberg
+  invnam: Dr. Dr. Judah West
   country: FRA
   sex: M
   armcd: TRTB
@@ -1510,7 +1522,7 @@ ABC1-301-05: &75 !ruby/object:SdtmDm
   siteid: '301'
   subjid: '05'
   usubjid: ABC1-301-05
-  invnam: Dr. Haley Stoltenberg
+  invnam: Dr. Dr. Judah West
   country: FRA
   sex: M
   armcd: TRTA
@@ -1531,7 +1543,7 @@ ABC1-301-06: &76 !ruby/object:SdtmDm
   siteid: '301'
   subjid: '06'
   usubjid: ABC1-301-06
-  invnam: Dr. Haley Stoltenberg
+  invnam: Dr. Dr. Judah West
   country: FRA
   sex: F
   armcd: TRTC
@@ -1552,13 +1564,14 @@ ABC1-301-07: &77 !ruby/object:SdtmDm
   siteid: '301'
   subjid: '07'
   usubjid: ABC1-301-07
-  invnam: Dr. Haley Stoltenberg
+  invnam: Dr. Dr. Judah West
   country: FRA
   sex: M
   armcd: PBO
   arm: Placebo
   actarmcd: SCRNFAIL
   actarm: Screen Failure
+  rfendtc: 2014-03-04
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
@@ -1569,7 +1582,7 @@ ABC1-301-08: &78 !ruby/object:SdtmDm
   siteid: '301'
   subjid: 08
   usubjid: ABC1-301-08
-  invnam: Dr. Haley Stoltenberg
+  invnam: Dr. Dr. Judah West
   country: FRA
   sex: M
   armcd: TRTA
@@ -1590,7 +1603,7 @@ ABC1-301-09: &79 !ruby/object:SdtmDm
   siteid: '301'
   subjid: 09
   usubjid: ABC1-301-09
-  invnam: Dr. Haley Stoltenberg
+  invnam: Dr. Dr. Judah West
   country: FRA
   sex: M
   armcd: PBO
@@ -1611,7 +1624,7 @@ ABC1-301-10: &80 !ruby/object:SdtmDm
   siteid: '301'
   subjid: '10'
   usubjid: ABC1-301-10
-  invnam: Dr. Haley Stoltenberg
+  invnam: Dr. Dr. Judah West
   country: FRA
   sex: M
   armcd: PBO
@@ -1632,7 +1645,7 @@ ABC1-302-01: &81 !ruby/object:SdtmDm
   siteid: '302'
   subjid: '01'
   usubjid: ABC1-302-01
-  invnam: Dr. Jensen Emard II
+  invnam: Dr. Herman Gutmann IV
   country: DEU
   sex: F
   armcd: TRTB
@@ -1653,7 +1666,7 @@ ABC1-302-02: &82 !ruby/object:SdtmDm
   siteid: '302'
   subjid: '02'
   usubjid: ABC1-302-02
-  invnam: Dr. Jensen Emard II
+  invnam: Dr. Herman Gutmann IV
   country: DEU
   sex: M
   armcd: PBO
@@ -1674,7 +1687,7 @@ ABC1-302-03: &83 !ruby/object:SdtmDm
   siteid: '302'
   subjid: '03'
   usubjid: ABC1-302-03
-  invnam: Dr. Jensen Emard II
+  invnam: Dr. Herman Gutmann IV
   country: DEU
   sex: F
   armcd: TRTB
@@ -1695,7 +1708,7 @@ ABC1-302-04: &84 !ruby/object:SdtmDm
   siteid: '302'
   subjid: '04'
   usubjid: ABC1-302-04
-  invnam: Dr. Jensen Emard II
+  invnam: Dr. Herman Gutmann IV
   country: DEU
   sex: M
   armcd: PBO
@@ -1716,7 +1729,7 @@ ABC1-302-05: &85 !ruby/object:SdtmDm
   siteid: '302'
   subjid: '05'
   usubjid: ABC1-302-05
-  invnam: Dr. Jensen Emard II
+  invnam: Dr. Herman Gutmann IV
   country: DEU
   sex: F
   armcd: PBO
@@ -1737,7 +1750,7 @@ ABC1-302-06: &86 !ruby/object:SdtmDm
   siteid: '302'
   subjid: '06'
   usubjid: ABC1-302-06
-  invnam: Dr. Jensen Emard II
+  invnam: Dr. Herman Gutmann IV
   country: DEU
   sex: F
   armcd: PBO
@@ -1758,7 +1771,7 @@ ABC1-302-07: &87 !ruby/object:SdtmDm
   siteid: '302'
   subjid: '07'
   usubjid: ABC1-302-07
-  invnam: Dr. Jensen Emard II
+  invnam: Dr. Herman Gutmann IV
   country: DEU
   sex: M
   armcd: PBO
@@ -1779,7 +1792,7 @@ ABC1-302-08: &88 !ruby/object:SdtmDm
   siteid: '302'
   subjid: 08
   usubjid: ABC1-302-08
-  invnam: Dr. Jensen Emard II
+  invnam: Dr. Herman Gutmann IV
   country: DEU
   sex: M
   armcd: TRTB
@@ -1800,7 +1813,7 @@ ABC1-303-01: &89 !ruby/object:SdtmDm
   siteid: '303'
   subjid: '01'
   usubjid: ABC1-303-01
-  invnam: Dr. Armando Goodwin
+  invnam: Dr. Domingo Gulgowski
   country: GBR
   sex: F
   armcd: TRTA
@@ -1821,7 +1834,7 @@ ABC1-303-02: &90 !ruby/object:SdtmDm
   siteid: '303'
   subjid: '02'
   usubjid: ABC1-303-02
-  invnam: Dr. Armando Goodwin
+  invnam: Dr. Domingo Gulgowski
   country: GBR
   sex: M
   armcd: TRTC
@@ -1842,7 +1855,7 @@ ABC1-303-03: &91 !ruby/object:SdtmDm
   siteid: '303'
   subjid: '03'
   usubjid: ABC1-303-03
-  invnam: Dr. Armando Goodwin
+  invnam: Dr. Domingo Gulgowski
   country: GBR
   sex: M
   armcd: TRTC
@@ -1863,7 +1876,7 @@ ABC1-303-04: &92 !ruby/object:SdtmDm
   siteid: '303'
   subjid: '04'
   usubjid: ABC1-303-04
-  invnam: Dr. Armando Goodwin
+  invnam: Dr. Domingo Gulgowski
   country: GBR
   sex: M
   armcd: TRTB
@@ -1884,7 +1897,7 @@ ABC1-303-05: &93 !ruby/object:SdtmDm
   siteid: '303'
   subjid: '05'
   usubjid: ABC1-303-05
-  invnam: Dr. Armando Goodwin
+  invnam: Dr. Domingo Gulgowski
   country: GBR
   sex: M
   armcd: TRTA
@@ -1905,7 +1918,7 @@ ABC1-303-06: &94 !ruby/object:SdtmDm
   siteid: '303'
   subjid: '06'
   usubjid: ABC1-303-06
-  invnam: Dr. Armando Goodwin
+  invnam: Dr. Domingo Gulgowski
   country: GBR
   sex: F
   armcd: TRTC
@@ -1926,13 +1939,14 @@ ABC1-303-07: &95 !ruby/object:SdtmDm
   siteid: '303'
   subjid: '07'
   usubjid: ABC1-303-07
-  invnam: Dr. Armando Goodwin
+  invnam: Dr. Domingo Gulgowski
   country: GBR
   sex: M
   armcd: PBO
   arm: Placebo
   actarmcd: SCRNFAIL
   actarm: Screen Failure
+  rfendtc: 2014-03-10
   domain: DM
   validation_context: 
   errors: !ruby/object:ActiveModel::Errors
@@ -1943,7 +1957,7 @@ ABC1-303-08: &96 !ruby/object:SdtmDm
   siteid: '303'
   subjid: 08
   usubjid: ABC1-303-08
-  invnam: Dr. Armando Goodwin
+  invnam: Dr. Domingo Gulgowski
   country: GBR
   sex: M
   armcd: TRTC
@@ -1964,7 +1978,7 @@ ABC1-303-09: &97 !ruby/object:SdtmDm
   siteid: '303'
   subjid: 09
   usubjid: ABC1-303-09
-  invnam: Dr. Armando Goodwin
+  invnam: Dr. Domingo Gulgowski
   country: GBR
   sex: F
   armcd: TRTA
@@ -1985,7 +1999,7 @@ ABC1-303-10: &98 !ruby/object:SdtmDm
   siteid: '303'
   subjid: '10'
   usubjid: ABC1-303-10
-  invnam: Dr. Armando Goodwin
+  invnam: Dr. Domingo Gulgowski
   country: GBR
   sex: F
   armcd: PBO
@@ -2006,7 +2020,7 @@ ABC1-303-11: &99 !ruby/object:SdtmDm
   siteid: '303'
   subjid: '11'
   usubjid: ABC1-303-11
-  invnam: Dr. Armando Goodwin
+  invnam: Dr. Domingo Gulgowski
   country: GBR
   sex: F
   armcd: TRTC
@@ -2027,7 +2041,7 @@ ABC1-303-12: &100 !ruby/object:SdtmDm
   siteid: '303'
   subjid: '12'
   usubjid: ABC1-303-12
-  invnam: Dr. Armando Goodwin
+  invnam: Dr. Domingo Gulgowski
   country: GBR
   sex: F
   armcd: PBO

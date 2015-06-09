@@ -1,13 +1,11 @@
-def gen_lb(study,controlled_terms,sv,lab_params)
+def gen_lb(study,sv,lab_params)
 
   s = study
-  ct = controlled_terms
   rng = SimpleRandom.new
-  lb_dataset = {}
+  ds = Dataset.new("lb")
   lbseq = 0
  
-  sv.each do |key,sbj_visits|
-
+  sv.rows.each do |usubjid,sbj_visits|
 
     sbj_lb_rows = []
 
@@ -25,7 +23,7 @@ def gen_lb(study,controlled_terms,sv,lab_params)
 
         sbj_vis_param_row = SdtmLb.new(
           # domain is automatically assigned
-          studyid:  s.studyid, usubjid: key, lbseq: lbseq,
+          studyid:  s.studyid, usubjid: usubjid, lbseq: lbseq,
           lbtestcd: lbtestcd,  lbtest:  lbtest,         visitnum: vis.visitnum,
           visit: vis.visit, visitdy: vis.visitdy, lbstresn: lbstresn,
           lbstnrlo: lbstnrlo,  lbstnrhi: lbstnrhi
@@ -38,7 +36,7 @@ def gen_lb(study,controlled_terms,sv,lab_params)
       end
     end
 
-    lb_dataset[key] = sbj_lb_rows
+    ds.add(usubjid, sbj_lb_rows)
     # :studyid, :domain, :usubjid, :lbseq, :lbgrpid, :lbrefid,
     # :lbspid, :lbtestcd, :lbtest, :lbcat, :lbscat, :lborres, :lborresu,
     # :lbornrlo, :lbornrhi, :lbstresc, :lbstresc, :lbstresn, :lbstresu,
@@ -48,6 +46,6 @@ def gen_lb(study,controlled_terms,sv,lab_params)
     # :lbtpt, :lbtptnum, :lbeltm, :lbtptref, :lbrftdtc    
   end
 
-  lb_dataset
+  ds
 
 end

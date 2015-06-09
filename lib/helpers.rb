@@ -1,4 +1,5 @@
 
+# http://stackoverflow.com/questions/2410639/best-way-to-create-random-datetime-in-rails
 def hlp_rand_in_range(from, to)
   rand * (to - from) + from
 end
@@ -10,6 +11,8 @@ end
 def hlp_rand_start_date(ref_date)
   hlp_rand_time(ref_date, ref_date + rand(0..365).days).to_date
 end
+
+
 
 def check_treatment_ratios
 

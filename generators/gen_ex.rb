@@ -1,12 +1,11 @@
-def gen_ex(study,controlled_terms,dm,sv)
+def gen_ex(study,dm,sv)
 
   s = study
-  ct = controlled_terms
   rng = SimpleRandom.new
-  ex_dataset = {}
+  ds = Dataset.new("ex") #{name: "ex", meta: {}}
   exseq = 0
  
-  sv.each do |key,sbj_visits|
+  sv.rows.each do |usubjid,sbj_visits|
 
     sbj_ex_rows = []
 
@@ -15,19 +14,20 @@ def gen_ex(study,controlled_terms,dm,sv)
       next if vis.visitnum < 2
       exseq += 1
       exstdtc = vis.svstdtc
-      exdose = study.treatment_doses[study.treatment_codes.find_index(dm[key].armcd)]
+      exdose = study.treatment_doses[study.treatment_codes.find_index(dm.rows[usubjid].armcd)]
       ex_row = SdtmEx.new(
         # domain is automatically assigned
-        studyid:  s.studyid, usubjid: key, exseq: exseq,
+        studyid:  s.studyid, usubjid: usubjid, exseq: exseq,
         exstdtc: exstdtc, exdose: exdose
       )
 
       sbj_ex_rows << ex_row
+
     end
 
-    ex_dataset[key] = sbj_ex_rows
+    ds.add(usubjid, sbj_ex_rows)
   end
 
-  ex_dataset
+  ds
 
 end

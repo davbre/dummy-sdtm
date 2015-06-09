@@ -20,7 +20,7 @@
   - 10
   - 20
   - 50
-  total_subjects: 100
+  total_subjects: 20
   num_visits: 6
   visit_duration: 7
   visit_unit: week

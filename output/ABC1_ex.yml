@@ -1,4 +1,11 @@
 ---
+:name: ex
+:meta:
+  studyid: 407
+  usubjid: 407
+  exseq: 407
+  exdose: 407
+  exstdtc: 407
 ABC1-101-01:
 - !ruby/object:SdtmEx
   studyid: ABC1
@@ -191,6 +198,7 @@ ABC1-101-06:
   exseq: 31
   exdose: 50
   exstdtc: 2014-04-05
+ABC1-101-07: []
 ABC1-101-08:
 - !ruby/object:SdtmEx
   studyid: ABC1
@@ -272,6 +280,7 @@ ABC1-101-10:
   exseq: 44
   exdose: 20
   exstdtc: 2014-04-03
+ABC1-102-01: []
 ABC1-102-02:
 - !ruby/object:SdtmEx
   studyid: ABC1
@@ -309,6 +318,7 @@ ABC1-102-02:
   exseq: 50
   exdose: 0
   exstdtc: 2014-06-29
+ABC1-102-03: []
 ABC1-102-04:
 - !ruby/object:SdtmEx
   studyid: ABC1
@@ -402,6 +412,7 @@ ABC1-102-06:
   exseq: 65
   exdose: 50
   exstdtc: 2014-04-17
+ABC1-102-07: []
 ABC1-102-08:
 - !ruby/object:SdtmEx
   studyid: ABC1
@@ -440,6 +451,7 @@ ABC1-102-09:
   exseq: 71
   exdose: 0
   exstdtc: 2014-06-03
+ABC1-102-10: []
 ABC1-102-11:
 - !ruby/object:SdtmEx
   studyid: ABC1
@@ -516,6 +528,7 @@ ABC1-102-14:
   exseq: 83
   exdose: 10
   exstdtc: 2014-08-24
+ABC1-103-01: []
 ABC1-103-02:
 - !ruby/object:SdtmEx
   studyid: ABC1
@@ -554,6 +567,7 @@ ABC1-103-03:
   exseq: 89
   exdose: 0
   exstdtc: 2014-07-08
+ABC1-103-04: []
 ABC1-103-05:
 - !ruby/object:SdtmEx
   studyid: ABC1
@@ -623,6 +637,7 @@ ABC1-201-02:
   exseq: 100
   exdose: 0
   exstdtc: 2014-11-14
+ABC1-201-03: []
 ABC1-201-04:
 - !ruby/object:SdtmEx
   studyid: ABC1
@@ -890,6 +905,7 @@ ABC1-201-12:
   exseq: 143
   exdose: 20
   exstdtc: 2014-10-09
+ABC1-201-13: []
 ABC1-201-14:
 - !ruby/object:SdtmEx
   studyid: ABC1
@@ -1542,6 +1558,7 @@ ABC1-202-15:
   exseq: 248
   exdose: 50
   exstdtc: 2014-10-07
+ABC1-202-16: []
 ABC1-202-17:
 - !ruby/object:SdtmEx
   studyid: ABC1
@@ -1635,6 +1652,7 @@ ABC1-202-19:
   exseq: 263
   exdose: 0
   exstdtc: 2014-05-24
+ABC1-202-20: []
 ABC1-202-21:
 - !ruby/object:SdtmEx
   studyid: ABC1
@@ -1672,6 +1690,7 @@ ABC1-202-21:
   exseq: 269
   exdose: 20
   exstdtc: 2014-10-17
+ABC1-301-01: []
 ABC1-301-02:
 - !ruby/object:SdtmEx
   studyid: ABC1
@@ -1803,6 +1822,7 @@ ABC1-301-06:
   exseq: 290
   exdose: 50
   exstdtc: 2014-04-20
+ABC1-301-07: []
 ABC1-301-08:
 - !ruby/object:SdtmEx
   studyid: ABC1
@@ -2360,6 +2380,7 @@ ABC1-303-06:
   exseq: 380
   exdose: 50
   exstdtc: 2014-04-12
+ABC1-303-07: []
 ABC1-303-08:
 - !ruby/object:SdtmEx
   studyid: ABC1

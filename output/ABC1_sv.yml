@@ -375,6 +375,15 @@ ABC1-101-06:
   svendtc: 2014-04-05
   svstdy: 34
   svendy: 34
+ABC1-101-07:
+- !ruby/object:SdtmSv
+  studyid: ABC1
+  usubjid: ABC1-101-07
+  visitnum: 1
+  visit: SCREENING
+  visitdy: 14
+  svstdtc: 2014-04-24
+  svendtc: 2014-04-24
 ABC1-101-08:
 - !ruby/object:SdtmSv
   studyid: ABC1
@@ -538,6 +547,15 @@ ABC1-101-10:
   svendtc: 2014-04-03
   svstdy: 0
   svendy: 0
+ABC1-102-01:
+- !ruby/object:SdtmSv
+  studyid: ABC1
+  usubjid: ABC1-102-01
+  visitnum: 1
+  visit: SCREENING
+  visitdy: 14
+  svstdtc: 2014-08-20
+  svendtc: 2014-08-20
 ABC1-102-02:
 - !ruby/object:SdtmSv
   studyid: ABC1
@@ -609,6 +627,15 @@ ABC1-102-02:
   svendtc: 2014-06-29
   svstdy: 37
   svendy: 37
+ABC1-102-03:
+- !ruby/object:SdtmSv
+  studyid: ABC1
+  usubjid: ABC1-102-03
+  visitnum: 1
+  visit: SCREENING
+  visitdy: 14
+  svstdtc: 2014-04-24
+  svendtc: 2014-04-24
 ABC1-102-04:
 - !ruby/object:SdtmSv
   studyid: ABC1
@@ -792,6 +819,15 @@ ABC1-102-06:
   svendtc: 2014-04-17
   svstdy: 34
   svendy: 34
+ABC1-102-07:
+- !ruby/object:SdtmSv
+  studyid: ABC1
+  usubjid: ABC1-102-07
+  visitnum: 1
+  visit: SCREENING
+  visitdy: 14
+  svstdtc: 2014-05-15
+  svendtc: 2014-05-15
 ABC1-102-08:
 - !ruby/object:SdtmSv
   studyid: ABC1
@@ -874,6 +910,15 @@ ABC1-102-09:
   svendtc: 2014-06-03
   svstdy: 0
   svendy: 0
+ABC1-102-10:
+- !ruby/object:SdtmSv
+  studyid: ABC1
+  usubjid: ABC1-102-10
+  visitnum: 1
+  visit: SCREENING
+  visitdy: 14
+  svstdtc: 2014-04-11
+  svendtc: 2014-04-11
 ABC1-102-11:
 - !ruby/object:SdtmSv
   studyid: ABC1
@@ -1038,6 +1083,15 @@ ABC1-102-14:
   svendtc: 2014-08-24
   svstdy: 7
   svendy: 7
+ABC1-103-01:
+- !ruby/object:SdtmSv
+  studyid: ABC1
+  usubjid: ABC1-103-01
+  visitnum: 1
+  visit: SCREENING
+  visitdy: 14
+  svstdtc: 2014-04-18
+  svendtc: 2014-04-18
 ABC1-103-02:
 - !ruby/object:SdtmSv
   studyid: ABC1
@@ -1120,6 +1174,15 @@ ABC1-103-03:
   svendtc: 2014-07-08
   svstdy: 0
   svendy: 0
+ABC1-103-04:
+- !ruby/object:SdtmSv
+  studyid: ABC1
+  usubjid: ABC1-103-04
+  visitnum: 1
+  visit: SCREENING
+  visitdy: 14
+  svstdtc: 2014-05-02
+  svendtc: 2014-05-02
 ABC1-103-05:
 - !ruby/object:SdtmSv
   studyid: ABC1
@@ -1263,6 +1326,15 @@ ABC1-201-02:
   svendtc: 2014-11-14
   svstdy: 13
   svendy: 13
+ABC1-201-03:
+- !ruby/object:SdtmSv
+  studyid: ABC1
+  usubjid: ABC1-201-03
+  visitnum: 1
+  visit: SCREENING
+  visitdy: 14
+  svstdtc: 2014-03-04
+  svendtc: 2014-03-04
 ABC1-201-04:
 - !ruby/object:SdtmSv
   studyid: ABC1
@@ -1792,6 +1864,15 @@ ABC1-201-12:
   svendtc: 2014-10-09
   svstdy: 31
   svendy: 31
+ABC1-201-13:
+- !ruby/object:SdtmSv
+  studyid: ABC1
+  usubjid: ABC1-201-13
+  visitnum: 1
+  visit: SCREENING
+  visitdy: 14
+  svstdtc: 2014-09-30
+  svendtc: 2014-09-30
 ABC1-201-14:
 - !ruby/object:SdtmSv
   studyid: ABC1
@@ -3084,6 +3165,15 @@ ABC1-202-15:
   svendtc: 2014-10-07
   svstdy: 35
   svendy: 35
+ABC1-202-16:
+- !ruby/object:SdtmSv
+  studyid: ABC1
+  usubjid: ABC1-202-16
+  visitnum: 1
+  visit: SCREENING
+  visitdy: 14
+  svstdtc: 2014-08-07
+  svendtc: 2014-08-07
 ABC1-202-17:
 - !ruby/object:SdtmSv
   studyid: ABC1
@@ -3267,6 +3357,15 @@ ABC1-202-19:
   svendtc: 2014-05-24
   svstdy: 30
   svendy: 30
+ABC1-202-20:
+- !ruby/object:SdtmSv
+  studyid: ABC1
+  usubjid: ABC1-202-20
+  visitnum: 1
+  visit: SCREENING
+  visitdy: 14
+  svstdtc: 2014-04-07
+  svendtc: 2014-04-07
 ABC1-202-21:
 - !ruby/object:SdtmSv
   studyid: ABC1
@@ -3338,6 +3437,15 @@ ABC1-202-21:
   svendtc: 2014-10-17
   svstdy: 31
   svendy: 31
+ABC1-301-01:
+- !ruby/object:SdtmSv
+  studyid: ABC1
+  usubjid: ABC1-301-01
+  visitnum: 1
+  visit: SCREENING
+  visitdy: 14
+  svstdtc: 2014-03-21
+  svendtc: 2014-03-21
 ABC1-301-02:
 - !ruby/object:SdtmSv
   studyid: ABC1
@@ -3603,6 +3711,15 @@ ABC1-301-06:
   svendtc: 2014-04-20
   svstdy: 14
   svendy: 14
+ABC1-301-07:
+- !ruby/object:SdtmSv
+  studyid: ABC1
+  usubjid: ABC1-301-07
+  visitnum: 1
+  visit: SCREENING
+  visitdy: 14
+  svstdtc: 2014-03-04
+  svendtc: 2014-03-04
 ABC1-301-08:
 - !ruby/object:SdtmSv
   studyid: ABC1
@@ -4690,6 +4807,15 @@ ABC1-303-06:
   svendtc: 2014-04-12
   svstdy: 35
   svendy: 35
+ABC1-303-07:
+- !ruby/object:SdtmSv
+  studyid: ABC1
+  usubjid: ABC1-303-07
+  visitnum: 1
+  visit: SCREENING
+  visitdy: 14
+  svstdtc: 2014-03-10
+  svendtc: 2014-03-10
 ABC1-303-08:
 - !ruby/object:SdtmSv
   studyid: ABC1

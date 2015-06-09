@@ -1,13 +1,12 @@
-def gen_sv(study,controlled_terms,dm)
+def gen_sv(study,dm)
 
   s = study
-  ct = controlled_terms
   rng = SimpleRandom.new
-  sv_dataset = {}
+  ds = Dataset.new("sv")
 
+  acntr=0
  
-  dm.each do |key,sbj|
-
+  dm.rows.each do |usubjid,sbj|
     sbj_row_set = []
     # Screening visit
     screening_length = rng.weibull(s.screening_days, s.screening_days).round # same shape and scale seems to give reasonable results
@@ -53,14 +52,13 @@ def gen_sv(study,controlled_terms,dm)
         sbj_row_set << sbj_visit_row
 
       end
-
-      sv_dataset[key] = sbj_row_set # contains all visit rows for a single subject (screening + others)
-      dm[key].rfendtc = svendtc # at this point we have the last visit date
-
     end
-
+    
+    ds.add(usubjid, sbj_row_set)
+    #ds.row[key] = sbj_row_set # contains all visit rows for a single subject (screening + others)
+    dm.rows[usubjid].rfendtc = svendtc # at this point we have the last visit date
   end
 
-  sv_dataset
+  ds
 
 end

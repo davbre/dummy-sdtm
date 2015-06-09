@@ -2,7 +2,7 @@ def gen_dm(study,controlled_terms)
 
   s = study
   ct = controlled_terms
-  dm_dataset = {} # create a hash as will need to look-up later when generating other data sets
+  ds = Dataset.new("dm")
 
   s.total_subjects.times do |i|
 
@@ -67,11 +67,13 @@ def gen_dm(study,controlled_terms)
 
     begin
       raise "DM observation is not valid" unless dm_row.valid?
-      dm_dataset[usubjid] = dm_row
+      ds.add(usubjid,dm_row)
     rescue Exception => e
       puts e.message
       puts dm_row.errors.full_messages
     end
   end
-  dm_dataset = dm_dataset.sort.to_h # sort dm dataset now so other data sets will automatically be sorted
+  #dm_dataset = dm_dataset.sort.to_h # sort dm dataset now so other data sets will automatically be sorted
+  ds.sort
+  ds
 end

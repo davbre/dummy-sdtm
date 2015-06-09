@@ -8,6 +8,7 @@ require 'time'
 require 'yaml'
 require 'pp'
 require 'simple-random'
+require 'csv'
 
 require_relative 'lib/init.rb'
 require_relative 'generators/init.rb'
@@ -21,14 +22,28 @@ controlled_terms = YAML::load_file "config/controlled_terms.yml"
 lab_parameters = YAML::load_file "config/lab_parameters.yml"
 
 dm = gen_dm(study,controlled_terms)
-sv = gen_sv(study,controlled_terms,dm)
-ex = gen_ex(study,controlled_terms,dm,sv)
-lb = gen_lb(study,controlled_terms,sv,lab_parameters)
+sv = gen_sv(study,dm)
+ex = gen_ex(study,dm,sv)
+lb = gen_lb(study,sv,lab_parameters)
+ae = gen_ae(study,dm,sv,12) # last parameter is mean AEs per year
 
-File.open("output/#{study.studyid}_dm.yml", 'w') {|f| f.write(YAML.dump(dm)) }
-File.open("output/#{study.studyid}_sv.yml", 'w') {|f| f.write(YAML.dump(sv)) }
-File.open("output/#{study.studyid}_ex.yml", 'w') {|f| f.write(YAML.dump(ex)) }
-File.open("output/#{study.studyid}_lb.yml", 'w') {|f| f.write(YAML.dump(lb)) }
+csv_stem = "output/#{study.studyid}_"
+
+dm.write_csv(csv_stem + "dm.csv")
+sv.write_csv(csv_stem + "sv.csv")
+ex.write_csv(csv_stem + "ex.csv")
+lb.write_csv(csv_stem + "lb.csv")
+ae.write_csv(csv_stem + "ae.csv")
+
+# write_dataset_to_csv(ex,csv_stem)
+
+# binding.pry
+
+# File.open("output/#{study.studyid}_dm.yml", 'w') {|f| f.write(YAML.dump(dm)) }
+# File.open("output/#{study.studyid}_sv.yml", 'w') {|f| f.write(YAML.dump(sv)) }
+# File.open("output/#{study.studyid}_ex.yml", 'w') {|f| f.write(YAML.dump(ex)) }
+# File.open("output/#{study.studyid}_lb.yml", 'w') {|f| f.write(YAML.dump(lb)) }
+# File.open("output/#{study.studyid}_ae.yml", 'w') {|f| f.write(YAML.dump(ae)) }
 
 # usbjids
 # binding.pry
