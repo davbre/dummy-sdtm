@@ -14,7 +14,10 @@ def gen_sv(study,dm)
     visit = "SCREENING"
     svstdtc = sbj.actarmcd == "SCRNFAIL" ? hlp_rand_start_date(s.ref_date) : sbj.rfstdtc - screening_length
     svendtc = svstdtc
-    visitdy = s.screening_days
+    if sbj.actarmcd != "SCRNFAIL"
+      visitdy = (svstdtc - sbj.rfstdtc).to_i
+      visitdy += 1 if (visitdy >= 0)
+    end
     svstdy = (svstdtc - sbj.rfstdtc).to_i if sbj.rfstdtc != nil
     svendy = svstdy
 
@@ -39,6 +42,8 @@ def gen_sv(study,dm)
         svendtc = svstdtc
         svstdy = (svstdtc - sbj.rfstdtc).to_i
         svendy = (svendtc - sbj.rfstdtc).to_i
+        visitdy = svstdy
+        visitdy += 1 if (visitdy >= 0)
         prev_svstdtc = svstdtc
 
         sbj_visit_row = SdtmSv.new(

@@ -26,6 +26,7 @@ sv = gen_sv(study,dm)
 ex = gen_ex(study,dm,sv)
 lb = gen_lb(study,sv,lab_parameters)
 ae = gen_ae(study,dm,sv,12) # last parameter is mean AEs per year
+aedm = gen_add_dm(study,dm,ae,["age","sex","country","arm","invnam","siteid"])
 
 csv_stem = "output/"
 
@@ -34,6 +35,7 @@ sv.write_csv(csv_stem + "sv.csv")
 ex.write_csv(csv_stem + "ex.csv")
 lb.write_csv(csv_stem + "lb.csv")
 ae.write_csv(csv_stem + "ae.csv")
+aedm.write_csv(csv_stem + "aedm.csv")
 
 # write_dataset_to_csv(ex,csv_stem)
 

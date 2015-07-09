@@ -1,4 +1,4 @@
-class SdtmEx
+class SdtmEx < BaseSdtm
   include ActiveModel::Validations
 
   attr_accessor :studyid, :domain, :usubjid,

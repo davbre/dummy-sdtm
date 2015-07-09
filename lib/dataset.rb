@@ -39,6 +39,7 @@ class Dataset
     end
   end
 
+
   private
   def update_meta(rows)
     rowarr = rows.is_a?(Array) ? rows : [rows]

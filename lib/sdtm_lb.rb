@@ -1,4 +1,4 @@
-class SdtmLb
+class SdtmLb < BaseSdtm
   include ActiveModel::Validations
 
   attr_accessor :studyid, :domain, :usubjid, :lbseq, :lbgrpid, :lbrefid,
