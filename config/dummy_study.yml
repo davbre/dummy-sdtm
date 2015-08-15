@@ -20,9 +20,9 @@
   - 10
   - 20
   - 50
-  total_subjects: 20
+  total_subjects: 100
   num_visits: 6
-  visit_duration: 7
+  visit_duration: 14
   visit_unit: week
   age_range:
   - 18
@@ -31,11 +31,24 @@
   - - FRA
     - Paris
     - Nice
+    - Nantes
   - - DEU
     - Berlin
   - - GBR
     - London
     - Manchester
+    - Birmingham
+    - Cardiff
+    - Edinburgh
+  - - ESP
+    - Madrid
+    - Barcelona
+    - Málaga
+    - Valencia
+  - - IRL
+    - Dublin
+    - Cork
+    - Galway
   ref_date: 2014-03-01T00:00:00+00:00
   screen_fail_proportion: 0.1
   screening_days: 14

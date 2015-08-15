@@ -20,12 +20,11 @@ srand 1234                         # set a seed to give reproducability of 'rand
 # ref_date = DateTime.new(2014,3,1)  # reference date/study start
 controlled_terms = YAML::load_file "config/controlled_terms.yml"
 lab_parameters = YAML::load_file "config/lab_parameters.yml"
-
 dm = gen_dm(study,controlled_terms)
 sv = gen_sv(study,dm)
 ex = gen_ex(study,dm,sv)
 lb = gen_lb(study,sv,lab_parameters)
-ae = gen_ae(study,dm,sv,12) # last parameter is mean AEs per year
+ae = gen_ae(study,dm,sv,20) # last parameter is mean AEs per year
 aedm = gen_add_dm(study,dm,ae,["age","sex","country","arm","invnam","siteid"])
 
 csv_stem = "output/"

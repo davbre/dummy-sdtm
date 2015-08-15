@@ -5,10 +5,8 @@ def gen_dm(study,controlled_terms)
   ds = Dataset.new("dm")
 
   s.total_subjects.times do |i|
-
     country_num = rand(1..s.sites.length)
-    site_num = rand(1..s.sites[country_num-1].length)
-
+    site_num = rand(1..s.sites[country_num-1].length-1)
     siteid = country_num.to_s + \
              site_num.to_s.rjust(s.max_sites.to_s.size+1,"0")
     subjnum = (s.investigators[country_num-1][site_num-1][1] += 1)
