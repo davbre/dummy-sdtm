@@ -1,0 +1,442 @@
+{
+  "name": "--NAME--",
+  "title": "--TITLE--",
+  "resources": [
+    {
+      "path": "sv.csv",
+      "format": "csv",
+      "dialect": {
+        "delimiter": ","
+      },
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "studyid",
+            "type": "string"
+          },
+          {
+            "name": "usubjid",
+            "type": "string"
+          },
+          {
+            "name": "visitnum",
+            "type": "integer",
+            "constraints": {
+              "minimum": "1",
+              "maximum": "7"
+            }
+          },
+          {
+            "name": "visit",
+            "type": "string"
+          },
+          {
+            "name": "visitdy",
+            "type": "integer",
+            "constraints": {
+              "minimum": "-16",
+              "maximum": "73"
+            }
+          },
+          {
+            "name": "svstdtc",
+            "type": "date",
+            "constraints": {
+              "minimum": "2014-02-15",
+              "maximum": "2015-02-02"
+            }
+          },
+          {
+            "name": "svendtc",
+            "type": "date",
+            "constraints": {
+              "minimum": "2014-02-15",
+              "maximum": "2015-02-02"
+            }
+          },
+          {
+            "name": "svstdy",
+            "type": "integer",
+            "constraints": {
+              "minimum": "-16",
+              "maximum": "72"
+            }
+          },
+          {
+            "name": "svendy",
+            "type": "integer",
+            "constraints": {
+              "minimum": "-16",
+              "maximum": "72"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "path": "ex.csv",
+      "format": "csv",
+      "dialect": {
+        "delimiter": ","
+      },
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "studyid",
+            "type": "string"
+          },
+          {
+            "name": "usubjid",
+            "type": "string"
+          },
+          {
+            "name": "exseq",
+            "type": "integer",
+            "constraints": {
+              "minimum": "1",
+              "maximum": "406"
+            }
+          },
+          {
+            "name": "exdose",
+            "type": "integer",
+            "constraints": {
+              "minimum": "0",
+              "maximum": "50"
+            }
+          },
+          {
+            "name": "exstdtc",
+            "type": "date",
+            "constraints": {
+              "minimum": "2014-03-01",
+              "maximum": "2015-02-02"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "path": "aedm.csv",
+      "format": "csv",
+      "dialect": {
+        "delimiter": ","
+      },
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "studyid",
+            "type": "string"
+          },
+          {
+            "name": "usubjid",
+            "type": "string"
+          },
+          {
+            "name": "aeterm",
+            "type": "string"
+          },
+          {
+            "name": "aedecod",
+            "type": "string"
+          },
+          {
+            "name": "aebodsys",
+            "type": "string"
+          },
+          {
+            "name": "aestdtc",
+            "type": "date",
+            "constraints": {
+              "minimum": "2014-02-24",
+              "maximum": "2015-01-21"
+            }
+          },
+          {
+            "name": "aeendtc",
+            "type": "date",
+            "constraints": {
+              "minimum": "2014-03-04",
+              "maximum": "2014-12-10"
+            }
+          },
+          {
+            "name": "aeseq",
+            "type": "integer",
+            "constraints": {
+              "minimum": "1",
+              "maximum": "241"
+            }
+          },
+          {
+            "name": "age",
+            "type": "integer",
+            "constraints": {
+              "minimum": "20",
+              "maximum": "65"
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string"
+          },
+          {
+            "name": "country",
+            "type": "string"
+          },
+          {
+            "name": "arm",
+            "type": "string"
+          },
+          {
+            "name": "invnam",
+            "type": "string"
+          },
+          {
+            "name": "siteid",
+            "type": "integer",
+            "constraints": {
+              "minimum": "101",
+              "maximum": "503"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "path": "ae.csv",
+      "format": "csv",
+      "dialect": {
+        "delimiter": ","
+      },
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "studyid",
+            "type": "string"
+          },
+          {
+            "name": "usubjid",
+            "type": "string"
+          },
+          {
+            "name": "aeterm",
+            "type": "string"
+          },
+          {
+            "name": "aedecod",
+            "type": "string"
+          },
+          {
+            "name": "aebodsys",
+            "type": "string"
+          },
+          {
+            "name": "aestdtc",
+            "type": "date",
+            "constraints": {
+              "minimum": "2014-02-24",
+              "maximum": "2015-01-21"
+            }
+          },
+          {
+            "name": "aeendtc",
+            "type": "date",
+            "constraints": {
+              "minimum": "2014-03-04",
+              "maximum": "2014-12-10"
+            }
+          },
+          {
+            "name": "aeseq",
+            "type": "integer",
+            "constraints": {
+              "minimum": "1",
+              "maximum": "241"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "path": "lb.csv",
+      "format": "csv",
+      "dialect": {
+        "delimiter": ","
+      },
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "studyid",
+            "type": "string"
+          },
+          {
+            "name": "usubjid",
+            "type": "string"
+          },
+          {
+            "name": "lbseq",
+            "type": "integer",
+            "constraints": {
+              "minimum": "1",
+              "maximum": "506"
+            }
+          },
+          {
+            "name": "lbtestcd",
+            "type": "string"
+          },
+          {
+            "name": "lbtest",
+            "type": "string"
+          },
+          {
+            "name": "lbstresn",
+            "type": "number",
+            "constraints": {
+              "minimum": "3.1",
+              "maximum": "124.1"
+            }
+          },
+          {
+            "name": "lbstnrlo",
+            "type": "number",
+            "constraints": {
+              "minimum": "3.4",
+              "maximum": "60.0"
+            }
+          },
+          {
+            "name": "lbstnrhi",
+            "type": "number",
+            "constraints": {
+              "minimum": "4.7",
+              "maximum": "115.0"
+            }
+          },
+          {
+            "name": "visitnum",
+            "type": "integer",
+            "constraints": {
+              "minimum": "1",
+              "maximum": "7"
+            }
+          },
+          {
+            "name": "visit",
+            "type": "string"
+          },
+          {
+            "name": "visitdy",
+            "type": "integer",
+            "constraints": {
+              "minimum": "-16",
+              "maximum": "73"
+            }
+          },
+          {
+            "name": "lbnrind",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "path": "dm.csv",
+      "format": "csv",
+      "dialect": {
+        "delimiter": ","
+      },
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "studyid",
+            "type": "string"
+          },
+          {
+            "name": "siteid",
+            "type": "integer",
+            "constraints": {
+              "minimum": "101",
+              "maximum": "503"
+            }
+          },
+          {
+            "name": "subjid",
+            "type": "string"
+          },
+          {
+            "name": "usubjid",
+            "type": "string"
+          },
+          {
+            "name": "invnam",
+            "type": "string"
+          },
+          {
+            "name": "country",
+            "type": "string"
+          },
+          {
+            "name": "sex",
+            "type": "string"
+          },
+          {
+            "name": "armcd",
+            "type": "string"
+          },
+          {
+            "name": "arm",
+            "type": "string"
+          },
+          {
+            "name": "actarmcd",
+            "type": "string"
+          },
+          {
+            "name": "actarm",
+            "type": "string"
+          },
+          {
+            "name": "rfstdtc",
+            "type": "date",
+            "constraints": {
+              "minimum": "2014-03-01",
+              "maximum": "2014-11-29"
+            }
+          },
+          {
+            "name": "rfendtc",
+            "type": "date",
+            "constraints": {
+              "minimum": "2014-03-01",
+              "maximum": "2015-02-02"
+            }
+          },
+          {
+            "name": "age",
+            "type": "integer",
+            "constraints": {
+              "minimum": "20",
+              "maximum": "65"
+            }
+          },
+          {
+            "name": "ageu",
+            "type": "string"
+          },
+          {
+            "name": "domain",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
