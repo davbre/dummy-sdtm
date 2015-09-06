@@ -19,13 +19,14 @@ def gen_lb(study,sv,lab_params)
         lbtest = details["LBTEST"]
         lbstnrlo = details["LBSTNRLO"]
         lbstnrhi = details["LBSTNRHI"]
+        lbstresu = details["LBSTRESU"]
         lbstresn = rng.normal((lbstnrhi+lbstnrlo)/2, (lbstnrhi-lbstnrlo)/4).round(details["PRECISION"]) # ~95% will fall within range
 
         sbj_vis_param_row = SdtmLb.new(
           # domain is automatically assigned
           studyid:  s.studyid, usubjid: usubjid, lbseq: lbseq,
-          lbtestcd: lbtestcd,  lbtest:  lbtest,         visitnum: vis.visitnum,
-          visit: vis.visit, visitdy: vis.visitdy, lbstresn: lbstresn,
+          lbtestcd: lbtestcd,  lbtest:  lbtest, visitnum: vis.visitnum,
+          visit: vis.visit, visitdy: vis.visitdy, lbstresn: lbstresn, lbstresu: lbstresu,
           lbstnrlo: lbstnrlo,  lbstnrhi: lbstnrhi
           )
         

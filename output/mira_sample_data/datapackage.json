@@ -304,6 +304,10 @@
             }
           },
           {
+            "name": "lbstresu",
+            "type": "string"
+          },
+          {
             "name": "lbstnrlo",
             "type": "number",
             "constraints": {
