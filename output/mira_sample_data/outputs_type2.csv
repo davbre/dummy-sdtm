@@ -1,0 +1,149 @@
+type,ord,outid,itemcd,item,value
+header,,AE1,PBO_B,Big N value,Placebo N = 17
+header,,AE1,TRTA_B,Big N value,Treatment A N = 25
+header,,AE1,TRTB_B,Big N value,Treatment B N = 30
+header,,AE1,TRTC_B,Big N value,Treatment C N = 28
+row,1,AE1,COL1,Column 1,At least one
+row,1,AE1,PBO_N,Number of Subjects Placebo,11
+row,1,AE1,TRTA_N,Number of Subjects Treatment A,17
+row,1,AE1,TRTB_N,Number of Subjects Treatment B,21
+row,1,AE1,TRTC_N,Number of Subjects Treatment C,20
+row,1,AE1,PBO_E,Number of Events Placebo,48
+row,1,AE1,TRTA_E,Number of Events Treatment A,59
+row,1,AE1,TRTB_E,Number of Events Treatment B,56
+row,1,AE1,TRTC_E,Number of Events Treatment C,75
+row,1,AE1,TRTA_P,Percentage of Subjects Placebo,64.705882353
+row,1,AE1,TRTA_P,Percentage of Subjects Treatment A,68
+row,1,AE1,TRTB_P,Percentage of Subjects Treatment B,70
+row,1,AE1,TRTC_P,Percentage of Subjects Treatment C,71.428571429
+row,2,AE1,COL1,Column 1,AE Decode 1
+row,2,AE1,PBO_N,Number of Subjects Placebo,5
+row,2,AE1,TRTA_N,Number of Subjects Treatment A,5
+row,2,AE1,TRTB_N,Number of Subjects Treatment B,6
+row,2,AE1,TRTC_N,Number of Subjects Treatment C,3
+row,2,AE1,PBO_E,Number of Events Placebo,6
+row,2,AE1,TRTA_E,Number of Events Treatment A,5
+row,2,AE1,TRTB_E,Number of Events Treatment B,7
+row,2,AE1,TRTC_E,Number of Events Treatment C,4
+row,2,AE1,TRTA_P,Percentage of Subjects Placebo,29.411764706
+row,2,AE1,TRTA_P,Percentage of Subjects Treatment A,20
+row,2,AE1,TRTB_P,Percentage of Subjects Treatment B,20
+row,2,AE1,TRTC_P,Percentage of Subjects Treatment C,10.714285714
+row,3,AE1,COL1,Column 1,AE Decode 10
+row,3,AE1,PBO_N,Number of Subjects Placebo,5
+row,3,AE1,TRTA_N,Number of Subjects Treatment A,4
+row,3,AE1,TRTB_N,Number of Subjects Treatment B,8
+row,3,AE1,TRTC_N,Number of Subjects Treatment C,8
+row,3,AE1,PBO_E,Number of Events Placebo,5
+row,3,AE1,TRTA_E,Number of Events Treatment A,5
+row,3,AE1,TRTB_E,Number of Events Treatment B,10
+row,3,AE1,TRTC_E,Number of Events Treatment C,11
+row,3,AE1,TRTA_P,Percentage of Subjects Placebo,29.411764706
+row,3,AE1,TRTA_P,Percentage of Subjects Treatment A,16
+row,3,AE1,TRTB_P,Percentage of Subjects Treatment B,26.666666667
+row,3,AE1,TRTC_P,Percentage of Subjects Treatment C,28.571428571
+row,4,AE1,COL1,Column 1,AE Decode 2
+row,4,AE1,PBO_N,Number of Subjects Placebo,4
+row,4,AE1,TRTA_N,Number of Subjects Treatment A,5
+row,4,AE1,TRTB_N,Number of Subjects Treatment B,4
+row,4,AE1,TRTC_N,Number of Subjects Treatment C,8
+row,4,AE1,PBO_E,Number of Events Placebo,5
+row,4,AE1,TRTA_E,Number of Events Treatment A,6
+row,4,AE1,TRTB_E,Number of Events Treatment B,4
+row,4,AE1,TRTC_E,Number of Events Treatment C,9
+row,4,AE1,TRTA_P,Percentage of Subjects Placebo,23.529411765
+row,4,AE1,TRTA_P,Percentage of Subjects Treatment A,20
+row,4,AE1,TRTB_P,Percentage of Subjects Treatment B,13.333333333
+row,4,AE1,TRTC_P,Percentage of Subjects Treatment C,28.571428571
+row,5,AE1,COL1,Column 1,AE Decode 3
+row,5,AE1,PBO_N,Number of Subjects Placebo,4
+row,5,AE1,TRTA_N,Number of Subjects Treatment A,6
+row,5,AE1,TRTB_N,Number of Subjects Treatment B,3
+row,5,AE1,TRTC_N,Number of Subjects Treatment C,7
+row,5,AE1,PBO_E,Number of Events Placebo,4
+row,5,AE1,TRTA_E,Number of Events Treatment A,7
+row,5,AE1,TRTB_E,Number of Events Treatment B,4
+row,5,AE1,TRTC_E,Number of Events Treatment C,9
+row,5,AE1,TRTA_P,Percentage of Subjects Placebo,23.529411765
+row,5,AE1,TRTA_P,Percentage of Subjects Treatment A,24
+row,5,AE1,TRTB_P,Percentage of Subjects Treatment B,10
+row,5,AE1,TRTC_P,Percentage of Subjects Treatment C,25
+row,6,AE1,COL1,Column 1,AE Decode 4
+row,6,AE1,PBO_N,Number of Subjects Placebo,6
+row,6,AE1,TRTA_N,Number of Subjects Treatment A,4
+row,6,AE1,TRTB_N,Number of Subjects Treatment B,5
+row,6,AE1,TRTC_N,Number of Subjects Treatment C,6
+row,6,AE1,PBO_E,Number of Events Placebo,8
+row,6,AE1,TRTA_E,Number of Events Treatment A,5
+row,6,AE1,TRTB_E,Number of Events Treatment B,6
+row,6,AE1,TRTC_E,Number of Events Treatment C,8
+row,6,AE1,TRTA_P,Percentage of Subjects Placebo,35.294117647
+row,6,AE1,TRTA_P,Percentage of Subjects Treatment A,16
+row,6,AE1,TRTB_P,Percentage of Subjects Treatment B,16.666666667
+row,6,AE1,TRTC_P,Percentage of Subjects Treatment C,21.428571429
+row,7,AE1,COL1,Column 1,AE Decode 5
+row,7,AE1,PBO_N,Number of Subjects Placebo,2
+row,7,AE1,TRTA_N,Number of Subjects Treatment A,4
+row,7,AE1,TRTB_N,Number of Subjects Treatment B,5
+row,7,AE1,TRTC_N,Number of Subjects Treatment C,4
+row,7,AE1,PBO_E,Number of Events Placebo,2
+row,7,AE1,TRTA_E,Number of Events Treatment A,7
+row,7,AE1,TRTB_E,Number of Events Treatment B,5
+row,7,AE1,TRTC_E,Number of Events Treatment C,4
+row,7,AE1,TRTA_P,Percentage of Subjects Placebo,11.764705882
+row,7,AE1,TRTA_P,Percentage of Subjects Treatment A,16
+row,7,AE1,TRTB_P,Percentage of Subjects Treatment B,16.666666667
+row,7,AE1,TRTC_P,Percentage of Subjects Treatment C,14.285714286
+row,8,AE1,COL1,Column 1,AE Decode 6
+row,8,AE1,PBO_N,Number of Subjects Placebo,3
+row,8,AE1,TRTA_N,Number of Subjects Treatment A,3
+row,8,AE1,TRTB_N,Number of Subjects Treatment B,5
+row,8,AE1,TRTC_N,Number of Subjects Treatment C,6
+row,8,AE1,PBO_E,Number of Events Placebo,4
+row,8,AE1,TRTA_E,Number of Events Treatment A,3
+row,8,AE1,TRTB_E,Number of Events Treatment B,6
+row,8,AE1,TRTC_E,Number of Events Treatment C,7
+row,8,AE1,TRTA_P,Percentage of Subjects Placebo,17.647058824
+row,8,AE1,TRTA_P,Percentage of Subjects Treatment A,12
+row,8,AE1,TRTB_P,Percentage of Subjects Treatment B,16.666666667
+row,8,AE1,TRTC_P,Percentage of Subjects Treatment C,21.428571429
+row,9,AE1,COL1,Column 1,AE Decode 7
+row,9,AE1,PBO_N,Number of Subjects Placebo,3
+row,9,AE1,TRTA_N,Number of Subjects Treatment A,6
+row,9,AE1,TRTB_N,Number of Subjects Treatment B,9
+row,9,AE1,TRTC_N,Number of Subjects Treatment C,8
+row,9,AE1,PBO_E,Number of Events Placebo,4
+row,9,AE1,TRTA_E,Number of Events Treatment A,8
+row,9,AE1,TRTB_E,Number of Events Treatment B,9
+row,9,AE1,TRTC_E,Number of Events Treatment C,12
+row,9,AE1,TRTA_P,Percentage of Subjects Placebo,17.647058824
+row,9,AE1,TRTA_P,Percentage of Subjects Treatment A,24
+row,9,AE1,TRTB_P,Percentage of Subjects Treatment B,30
+row,9,AE1,TRTC_P,Percentage of Subjects Treatment C,28.571428571
+row,10,AE1,COL1,Column 1,AE Decode 8
+row,10,AE1,PBO_N,Number of Subjects Placebo,2
+row,10,AE1,TRTA_N,Number of Subjects Treatment A,3
+row,10,AE1,TRTB_N,Number of Subjects Treatment B,3
+row,10,AE1,TRTC_N,Number of Subjects Treatment C,5
+row,10,AE1,PBO_E,Number of Events Placebo,2
+row,10,AE1,TRTA_E,Number of Events Treatment A,5
+row,10,AE1,TRTB_E,Number of Events Treatment B,3
+row,10,AE1,TRTC_E,Number of Events Treatment C,6
+row,10,AE1,TRTA_P,Percentage of Subjects Placebo,11.764705882
+row,10,AE1,TRTA_P,Percentage of Subjects Treatment A,12
+row,10,AE1,TRTB_P,Percentage of Subjects Treatment B,10
+row,10,AE1,TRTC_P,Percentage of Subjects Treatment C,17.857142857
+row,11,AE1,COL1,Column 1,AE Decode 9
+row,11,AE1,PBO_N,Number of Subjects Placebo,6
+row,11,AE1,TRTA_N,Number of Subjects Treatment A,7
+row,11,AE1,TRTB_N,Number of Subjects Treatment B,2
+row,11,AE1,TRTC_N,Number of Subjects Treatment C,5
+row,11,AE1,PBO_E,Number of Events Placebo,8
+row,11,AE1,TRTA_E,Number of Events Treatment A,8
+row,11,AE1,TRTB_E,Number of Events Treatment B,2
+row,11,AE1,TRTC_E,Number of Events Treatment C,5
+row,11,AE1,TRTA_P,Percentage of Subjects Placebo,35.294117647
+row,11,AE1,TRTA_P,Percentage of Subjects Treatment A,28
+row,11,AE1,TRTB_P,Percentage of Subjects Treatment B,6.6666666667
+row,11,AE1,TRTC_P,Percentage of Subjects Treatment C,17.857142857
+

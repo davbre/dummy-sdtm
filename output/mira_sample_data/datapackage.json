@@ -192,6 +192,10 @@
             "type": "string"
           },
           {
+            "name": "armcd",
+            "type": "string"
+          },
+          {
             "name": "invnam",
             "type": "string"
           },
@@ -257,6 +261,130 @@
             "constraints": {
               "minimum": "1",
               "maximum": "241"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "path": "outputs.csv",
+      "format": "csv",
+      "dialect": {
+        "delimiter": ","
+      },
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "outname",
+            "type": "string"
+          },
+          {
+            "name": "ord",
+            "type": "integer",
+            "constraints": {
+              "minimum": "1",
+              "maximum": "11"
+            }
+          },
+          {
+            "name": "col1",
+            "type": "string"
+          },
+          {
+            "name": "pbo_2",
+            "type": "integer",
+            "constraints": {
+              "minimum": "2",
+              "maximum": "48"
+            }
+          },
+          {
+            "name": "trta_2",
+            "type": "integer",
+            "constraints": {
+              "minimum": "3",
+              "maximum": "59"
+            }
+          },
+          {
+            "name": "trtb_2",
+            "type": "integer",
+            "constraints": {
+              "minimum": "2",
+              "maximum": "56"
+            }
+          },
+          {
+            "name": "trtc_2",
+            "type": "integer",
+            "constraints": {
+              "minimum": "4",
+              "maximum": "75"
+            }
+          },
+          {
+            "name": "pbo_1",
+            "type": "integer",
+            "constraints": {
+              "minimum": "2",
+              "maximum": "11"
+            }
+          },
+          {
+            "name": "trta_1",
+            "type": "integer",
+            "constraints": {
+              "minimum": "3",
+              "maximum": "17"
+            }
+          },
+          {
+            "name": "trtb_1",
+            "type": "integer",
+            "constraints": {
+              "minimum": "2",
+              "maximum": "21"
+            }
+          },
+          {
+            "name": "trtc_1",
+            "type": "integer",
+            "constraints": {
+              "minimum": "3",
+              "maximum": "20"
+            }
+          },
+          {
+            "name": "pbo_3",
+            "type": "number",
+            "constraints": {
+              "minimum": "11.8",
+              "maximum": "64.7"
+            }
+          },
+          {
+            "name": "trta_3",
+            "type": "integer",
+            "constraints": {
+              "minimum": "12",
+              "maximum": "68"
+            }
+          },
+          {
+            "name": "trtb_3",
+            "type": "number",
+            "constraints": {
+              "minimum": "6.7",
+              "maximum": "70.0"
+            }
+          },
+          {
+            "name": "trtc_3",
+            "type": "number",
+            "constraints": {
+              "minimum": "10.7",
+              "maximum": "71.4"
             }
           }
         ]
@@ -437,6 +565,90 @@
           },
           {
             "name": "domain",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "path": "outputs_type2.csv",
+      "format": "csv",
+      "dialect": {
+        "delimiter": ","
+      },
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "type",
+            "type": "string"
+          },
+          {
+            "name": "ord",
+            "type": "integer",
+            "constraints": {
+              "minimum": "1",
+              "maximum": "11"
+            }
+          },
+          {
+            "name": "outid",
+            "type": "string"
+          },
+          {
+            "name": "itemcd",
+            "type": "string"
+          },
+          {
+            "name": "item",
+            "type": "string"
+          },
+          {
+            "name": "value",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "path": "tables.csv",
+      "format": "csv",
+      "dialect": {
+        "delimiter": ","
+      },
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string"
+          },
+          {
+            "name": "ord",
+            "type": "integer",
+            "constraints": {
+              "minimum": "1",
+              "maximum": "11"
+            }
+          },
+          {
+            "name": "col1",
+            "type": "string"
+          },
+          {
+            "name": "pbo",
+            "type": "string"
+          },
+          {
+            "name": "trta",
+            "type": "string"
+          },
+          {
+            "name": "trtb",
+            "type": "string"
+          },
+          {
+            "name": "trtc",
             "type": "string"
           }
         ]
