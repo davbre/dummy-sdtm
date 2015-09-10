@@ -24,8 +24,8 @@ dm = gen_dm(study,controlled_terms)
 sv = gen_sv(study,dm)
 ex = gen_ex(study,dm,sv)
 lb = gen_lb(study,sv,lab_parameters)
-ae = gen_ae(study,dm,sv,20) # last parameter is mean AEs per year
-aedm = gen_add_dm(study,dm,ae,["age","sex","country","arm","armcd","invnam","siteid"])
+ae = gen_ae(study,dm,sv) # last parameter is mean AEs per year
+aedm = gen_add_dm(study,dm,ae,["age","sex","country","arm","armcd","actarmcd","invnam","siteid"])
 
 csv_stem = "output/"
 

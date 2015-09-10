@@ -2,9 +2,9 @@
   studyid: "ABC001"
   treatments:
   - Placebo
-  - Treatment A
-  - Treatment B
-  - Treatment C
+  - Treatment 10mg
+  - Treatment 50mg
+  - Treatment 100mg
   treatment_codes:
   - PBO
   - TRTA
@@ -49,7 +49,39 @@
     - Dublin
     - Cork
     - Galway
+  - - AUT
+    - Vienna
+    - Salzburg
   ref_date: 2014-03-01T00:00:00+00:00
   screen_fail_proportion: 0.1
   screening_days: 14
   discontinue_proportion: 0.2 # proportion of those who do not screen fail
+  mean_aes_per_year:
+  - 20
+  - 22
+  - 24
+  - 35
+  default_mean_aes_per_year: 20
+  ae_serious_proportion:
+  - 0.1
+  - 0.1
+  - 0.12
+  - 0.18
+  default_ae_serious_proportion: 0.1
+  ae_severity_proportions: # mild, moderate, severe for each treatment group
+  - - 0.8
+    - 0.15
+    - 0.05
+  - - 0.9
+    - 0.05
+    - 0.05
+  - - 0.75
+    - 0.15
+    - 0.1
+  - - 0.75
+    - 0.15
+    - 0.1
+  default_ae_severity_proportions:
+  - - 0.8
+    - 0.15
+    - 0.05
