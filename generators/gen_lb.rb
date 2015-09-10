@@ -1,4 +1,4 @@
-def gen_lb(study,sv,lab_params)
+def gen_lb(study,dm,sv,lab_params)
 
   s = study
   rng = SimpleRandom.new
@@ -6,6 +6,9 @@ def gen_lb(study,sv,lab_params)
   lbseq = 0
  
   sv.rows.each do |usubjid,sbj_visits|
+
+    sbj_dm = dm.rows[usubjid]
+    trt_index = s.treatment_codes.index(sbj_dm.actarmcd)
 
     sbj_lb_rows = []
 
@@ -20,7 +23,9 @@ def gen_lb(study,sv,lab_params)
         lbstnrlo = details["LBSTNRLO"]
         lbstnrhi = details["LBSTNRHI"]
         lbstresu = details["LBSTRESU"]
-        lbstresn = rng.normal((lbstnrhi+lbstnrlo)/2, (lbstnrhi-lbstnrlo)/4).round(details["PRECISION"]) # ~95% will fall within range
+
+        shift_mean = (details.key?("SHIFT_MEAN") && !trt_index.nil?)  ? details["SHIFT_MEAN"][trt_index] : 0
+        lbstresn = rng.normal((lbstnrhi+lbstnrlo)/2+shift_mean, (lbstnrhi-lbstnrlo)/4).round(details["PRECISION"]) # ~95% will fall within range          
 
         sbj_vis_param_row = SdtmLb.new(
           # domain is automatically assigned

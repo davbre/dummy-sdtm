@@ -1,0 +1,28 @@
+SOC weights:
+  Systemic disorders: 0.3
+  Behavioural disorders: 0.15
+  Neurological disorders: 0.4
+  Respiratory tract disorders: 0.1
+  Skin and appendages disorders: 0.05
+Terms:
+  Systemic disorders:
+    Lethargy: 0.5
+    Malaise: 0.3
+    Recumbency: 0.2
+  Behavioural disorders:
+    Disorientation: 0.7
+    Teeth grinding: 0.2
+    Vocalisation: 0.1
+  Neurological disorders:
+    Headache: 0.4
+    Migraine: 0.3
+    Increased intracranial pressure: 0.1
+    Dizziness: 0.07
+    Impaired consciousness: 0.03
+    Sedation: 0.1
+  Respiratory tract disorders:
+    Dyspnoea: 0.3
+    Apnoea: 0.7
+  Skin and appendages disorders:
+    Pruritus: 0.5
+    Dermatitis and eczema: 0.5

@@ -1,0 +1,101 @@
+studyid,siteid,subjid,usubjid,invnam,country,sex,armcd,arm,actarmcd,actarm,rfstdtc,rfendtc,age,ageu,domain
+ABC001,101,01,ABC001-101-01,Dr. Guillermo Watsica,FRA,M,PBO,Placebo,PBO,Placebo,2014-06-12,2014-07-09,37,years,DM
+ABC001,101,02,ABC001-101-02,Dr. Guillermo Watsica,FRA,M,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-10-11,2014-11-05,37,years,DM
+ABC001,101,03,ABC001-101-03,Dr. Guillermo Watsica,FRA,F,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-04-04,2014-06-09,56,years,DM
+ABC001,101,04,ABC001-101-04,Dr. Guillermo Watsica,FRA,F,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-04-09,2014-06-21,49,years,DM
+ABC001,101,05,ABC001-101-05,Dr. Guillermo Watsica,FRA,F,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-03-21,2014-05-14,36,years,DM
+ABC001,102,01,ABC001-102-01,Dr. Fae Abernathy DDS,FRA,F,PBO,Placebo,PBO,Placebo,2014-05-19,2014-06-01,40,years,DM
+ABC001,102,02,ABC001-102-02,Dr. Fae Abernathy DDS,FRA,F,TRTB,Treatment 50mg,TRTB,Treatment 50mg,2014-07-23,2014-09-29,54,years,DM
+ABC001,102,03,ABC001-102-03,Dr. Fae Abernathy DDS,FRA,F,TRTB,Treatment 50mg,SCRNFAIL,Screen Failure,,2014-04-19,37,years,DM
+ABC001,102,04,ABC001-102-04,Dr. Fae Abernathy DDS,FRA,F,PBO,Placebo,PBO,Placebo,2014-08-13,2014-10-21,49,years,DM
+ABC001,102,05,ABC001-102-05,Dr. Fae Abernathy DDS,FRA,M,TRTC,Treatment 100mg,TRTC,Treatment 100mg,2014-03-27,2014-06-04,37,years,DM
+ABC001,103,01,ABC001-103-01,Dr. Cassidy Swift III,FRA,M,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-03-07,2014-05-18,61,years,DM
+ABC001,103,02,ABC001-103-02,Dr. Cassidy Swift III,FRA,M,TRTB,Treatment 50mg,TRTB,Treatment 50mg,2014-04-01,2014-04-15,34,years,DM
+ABC001,103,03,ABC001-103-03,Dr. Cassidy Swift III,FRA,M,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-11-12,2014-11-24,50,years,DM
+ABC001,103,04,ABC001-103-04,Dr. Cassidy Swift III,FRA,F,TRTB,Treatment 50mg,TRTB,Treatment 50mg,2014-06-20,2014-08-30,41,years,DM
+ABC001,201,01,ABC001-201-01,Dr. Charley Ortiz,DEU,F,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-03-06,2014-03-06,36,years,DM
+ABC001,201,02,ABC001-201-02,Dr. Charley Ortiz,DEU,M,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-05-13,2014-07-21,64,years,DM
+ABC001,201,03,ABC001-201-03,Dr. Charley Ortiz,DEU,M,TRTB,Treatment 50mg,TRTB,Treatment 50mg,2014-03-14,2014-05-21,44,years,DM
+ABC001,201,04,ABC001-201-04,Dr. Charley Ortiz,DEU,M,TRTC,Treatment 100mg,SCRNFAIL,Screen Failure,,2014-08-20,25,years,DM
+ABC001,201,05,ABC001-201-05,Dr. Charley Ortiz,DEU,F,TRTC,Treatment 100mg,TRTC,Treatment 100mg,2014-06-20,2014-08-28,20,years,DM
+ABC001,202,01,ABC001-202-01,Dr. Mr. Gustave Cartwright,DEU,F,TRTB,Treatment 50mg,TRTB,Treatment 50mg,2014-11-19,2014-11-19,31,years,DM
+ABC001,202,02,ABC001-202-02,Dr. Mr. Gustave Cartwright,DEU,F,PBO,Placebo,PBO,Placebo,2014-12-29,2015-01-26,22,years,DM
+ABC001,202,03,ABC001-202-03,Dr. Mr. Gustave Cartwright,DEU,F,TRTB,Treatment 50mg,SCRNFAIL,Screen Failure,,2014-03-26,21,years,DM
+ABC001,203,01,ABC001-203-01,Dr. Chelsie Legros,DEU,F,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-04-01,2014-04-28,21,years,DM
+ABC001,203,02,ABC001-203-02,Dr. Chelsie Legros,DEU,F,PBO,Placebo,SCRNFAIL,Screen Failure,,2014-04-01,52,years,DM
+ABC001,203,03,ABC001-203-03,Dr. Chelsie Legros,DEU,F,TRTB,Treatment 50mg,TRTB,Treatment 50mg,2014-07-08,2014-09-17,30,years,DM
+ABC001,203,04,ABC001-203-04,Dr. Chelsie Legros,DEU,F,TRTB,Treatment 50mg,SCRNFAIL,Screen Failure,,2014-05-19,19,years,DM
+ABC001,203,05,ABC001-203-05,Dr. Chelsie Legros,DEU,M,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-05-03,2014-05-03,62,years,DM
+ABC001,301,01,ABC001-301-01,Dr. Martine Ratke,GBR,F,TRTC,Treatment 100mg,TRTC,Treatment 100mg,2014-07-06,2014-08-03,40,years,DM
+ABC001,301,02,ABC001-301-02,Dr. Martine Ratke,GBR,M,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-06-03,2014-07-26,62,years,DM
+ABC001,301,03,ABC001-301-03,Dr. Martine Ratke,GBR,M,TRTC,Treatment 100mg,TRTC,Treatment 100mg,2014-04-22,2014-05-20,23,years,DM
+ABC001,302,01,ABC001-302-01,Dr. Jazmin Reinger,GBR,F,PBO,Placebo,PBO,Placebo,2014-04-21,2014-05-19,25,years,DM
+ABC001,302,02,ABC001-302-02,Dr. Jazmin Reinger,GBR,M,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-05-11,2014-07-18,35,years,DM
+ABC001,302,03,ABC001-302-03,Dr. Jazmin Reinger,GBR,M,TRTC,Treatment 100mg,TRTC,Treatment 100mg,2014-03-15,2014-03-27,23,years,DM
+ABC001,302,04,ABC001-302-04,Dr. Jazmin Reinger,GBR,M,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-07-01,2014-08-25,41,years,DM
+ABC001,303,01,ABC001-303-01,Dr. Kaitlin Mertz,GBR,M,TRTC,Treatment 100mg,TRTC,Treatment 100mg,2014-04-30,2014-07-08,44,years,DM
+ABC001,303,02,ABC001-303-02,Dr. Kaitlin Mertz,GBR,F,TRTC,Treatment 100mg,TRTC,Treatment 100mg,2014-07-06,2014-08-31,35,years,DM
+ABC001,303,03,ABC001-303-03,Dr. Kaitlin Mertz,GBR,M,PBO,Placebo,PBO,Placebo,2014-10-25,2014-10-25,32,years,DM
+ABC001,303,04,ABC001-303-04,Dr. Kaitlin Mertz,GBR,F,PBO,Placebo,SCRNFAIL,Screen Failure,,2014-05-02,49,years,DM
+ABC001,304,01,ABC001-304-01,Dr. Jake Lueilwitz,GBR,M,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-06-22,2014-07-05,22,years,DM
+ABC001,304,02,ABC001-304-02,Dr. Jake Lueilwitz,GBR,M,TRTB,Treatment 50mg,TRTB,Treatment 50mg,2014-04-06,2014-06-16,21,years,DM
+ABC001,304,03,ABC001-304-03,Dr. Jake Lueilwitz,GBR,M,TRTB,Treatment 50mg,TRTB,Treatment 50mg,2014-03-05,2014-04-01,58,years,DM
+ABC001,304,04,ABC001-304-04,Dr. Jake Lueilwitz,GBR,F,TRTB,Treatment 50mg,SCRNFAIL,Screen Failure,,2014-03-04,50,years,DM
+ABC001,304,05,ABC001-304-05,Dr. Jake Lueilwitz,GBR,M,TRTC,Treatment 100mg,TRTC,Treatment 100mg,2014-03-04,2014-05-12,18,years,DM
+ABC001,401,01,ABC001-401-01,Dr. Giuseppe Kulas,ESP,M,TRTC,Treatment 100mg,TRTC,Treatment 100mg,2014-06-22,2014-08-13,21,years,DM
+ABC001,401,02,ABC001-401-02,Dr. Giuseppe Kulas,ESP,F,TRTC,Treatment 100mg,SCRNFAIL,Screen Failure,,2014-03-01,29,years,DM
+ABC001,402,01,ABC001-402-01,Dr. Destiney Schultz,ESP,F,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-03-06,2014-05-16,47,years,DM
+ABC001,402,02,ABC001-402-02,Dr. Destiney Schultz,ESP,F,PBO,Placebo,PBO,Placebo,2014-03-17,2014-05-10,55,years,DM
+ABC001,402,03,ABC001-402-03,Dr. Destiney Schultz,ESP,F,PBO,Placebo,PBO,Placebo,2014-04-25,2014-07-02,27,years,DM
+ABC001,403,01,ABC001-403-01,Dr. Mr. Dana Johnson,ESP,M,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-05-14,2014-05-28,38,years,DM
+ABC001,403,02,ABC001-403-02,Dr. Mr. Dana Johnson,ESP,M,TRTC,Treatment 100mg,TRTC,Treatment 100mg,2014-07-23,2014-09-28,56,years,DM
+ABC001,404,01,ABC001-404-01,Dr. August Hermann,ESP,M,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-06-04,2014-08-13,46,years,DM
+ABC001,404,02,ABC001-404-02,Dr. August Hermann,ESP,F,PBO,Placebo,PBO,Placebo,2014-05-13,2014-07-21,44,years,DM
+ABC001,404,03,ABC001-404-03,Dr. August Hermann,ESP,F,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-03-04,2014-05-13,34,years,DM
+ABC001,404,04,ABC001-404-04,Dr. August Hermann,ESP,M,TRTB,Treatment 50mg,TRTB,Treatment 50mg,2014-08-26,2014-11-04,20,years,DM
+ABC001,404,05,ABC001-404-05,Dr. August Hermann,ESP,M,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-10-23,2014-12-16,27,years,DM
+ABC001,501,01,ABC001-501-01,Dr. Jeanne Donnelly MD,IRL,M,TRTB,Treatment 50mg,TRTB,Treatment 50mg,2014-04-30,2014-05-12,37,years,DM
+ABC001,502,01,ABC001-502-01,Dr. Deshaun Kohler,IRL,F,PBO,Placebo,PBO,Placebo,2014-03-24,2014-05-28,29,years,DM
+ABC001,503,01,ABC001-503-01,Dr. Ms. Blair Wolff,IRL,M,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-04-14,2014-06-01,41,years,DM
+ABC001,503,02,ABC001-503-02,Dr. Ms. Blair Wolff,IRL,M,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-05-21,2014-06-30,46,years,DM
+ABC001,503,03,ABC001-503-03,Dr. Ms. Blair Wolff,IRL,M,TRTC,Treatment 100mg,TRTC,Treatment 100mg,2014-05-26,2014-07-08,65,years,DM
+ABC001,504,01,ABC001-504-01,Dr. Kian Price,IRL,F,TRTC,Treatment 100mg,TRTC,Treatment 100mg,2014-05-12,2014-05-25,35,years,DM
+ABC001,601,01,ABC001-601-01,Dr. Mrs. Garth Mayert,AUT,M,TRTC,Treatment 100mg,SCRNFAIL,Screen Failure,,2014-05-07,65,years,DM
+ABC001,601,02,ABC001-601-02,Dr. Mrs. Garth Mayert,AUT,F,TRTB,Treatment 50mg,TRTB,Treatment 50mg,2014-03-02,2014-03-14,25,years,DM
+ABC001,601,03,ABC001-601-03,Dr. Mrs. Garth Mayert,AUT,M,TRTC,Treatment 100mg,TRTC,Treatment 100mg,2014-07-17,2014-08-25,32,years,DM
+ABC001,601,04,ABC001-601-04,Dr. Mrs. Garth Mayert,AUT,M,TRTB,Treatment 50mg,TRTB,Treatment 50mg,2014-04-03,2014-05-16,56,years,DM
+ABC001,601,05,ABC001-601-05,Dr. Mrs. Garth Mayert,AUT,M,PBO,Placebo,SCRNFAIL,Screen Failure,,2014-03-21,57,years,DM
+ABC001,601,06,ABC001-601-06,Dr. Mrs. Garth Mayert,AUT,F,TRTC,Treatment 100mg,TRTC,Treatment 100mg,2014-04-01,2014-04-28,38,years,DM
+ABC001,601,07,ABC001-601-07,Dr. Mrs. Garth Mayert,AUT,M,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-03-02,2014-05-11,20,years,DM
+ABC001,601,08,ABC001-601-08,Dr. Mrs. Garth Mayert,AUT,M,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-04-05,2014-06-12,23,years,DM
+ABC001,601,09,ABC001-601-09,Dr. Mrs. Garth Mayert,AUT,M,TRTB,Treatment 50mg,SCRNFAIL,Screen Failure,,2014-05-05,44,years,DM
+ABC001,602,01,ABC001-602-01,Dr. Johathan Wolf,AUT,M,TRTC,Treatment 100mg,SCRNFAIL,Screen Failure,,2014-05-20,43,years,DM
+ABC001,602,02,ABC001-602-02,Dr. Johathan Wolf,AUT,F,PBO,Placebo,PBO,Placebo,2014-06-07,2014-08-11,26,years,DM
+ABC001,602,03,ABC001-602-03,Dr. Johathan Wolf,AUT,M,PBO,Placebo,PBO,Placebo,2014-03-11,2014-05-15,23,years,DM
+ABC001,602,04,ABC001-602-04,Dr. Johathan Wolf,AUT,M,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-07-26,2014-10-04,33,years,DM
+ABC001,602,05,ABC001-602-05,Dr. Johathan Wolf,AUT,M,TRTB,Treatment 50mg,TRTB,Treatment 50mg,2014-06-24,2014-08-30,53,years,DM
+ABC001,602,06,ABC001-602-06,Dr. Johathan Wolf,AUT,F,TRTB,Treatment 50mg,TRTB,Treatment 50mg,2014-03-18,2014-03-18,23,years,DM
+ABC001,602,07,ABC001-602-07,Dr. Johathan Wolf,AUT,F,TRTB,Treatment 50mg,TRTB,Treatment 50mg,2014-06-10,2014-07-21,40,years,DM
+ABC001,602,08,ABC001-602-08,Dr. Johathan Wolf,AUT,F,TRTC,Treatment 100mg,TRTC,Treatment 100mg,2014-07-28,2014-10-04,55,years,DM
+ABC001,701,01,ABC001-701-01,Dr. Lyda Kerluke,ITA,F,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-08-11,2014-10-05,38,years,DM
+ABC001,701,02,ABC001-701-02,Dr. Lyda Kerluke,ITA,M,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-07-11,2014-09-17,20,years,DM
+ABC001,701,03,ABC001-701-03,Dr. Lyda Kerluke,ITA,F,TRTB,Treatment 50mg,TRTB,Treatment 50mg,2014-06-16,2014-08-22,26,years,DM
+ABC001,702,01,ABC001-702-01,Dr. Mrs. Amelie Carter,ITA,M,PBO,Placebo,SCRNFAIL,Screen Failure,,2014-03-21,37,years,DM
+ABC001,702,02,ABC001-702-02,Dr. Mrs. Amelie Carter,ITA,F,TRTC,Treatment 100mg,TRTC,Treatment 100mg,2014-12-05,2015-02-12,63,years,DM
+ABC001,702,03,ABC001-702-03,Dr. Mrs. Amelie Carter,ITA,F,TRTC,Treatment 100mg,TRTC,Treatment 100mg,2014-04-06,2014-05-17,30,years,DM
+ABC001,703,01,ABC001-703-01,Dr. Lenna Roberts,ITA,M,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-03-01,2014-05-11,51,years,DM
+ABC001,703,02,ABC001-703-02,Dr. Lenna Roberts,ITA,F,TRTB,Treatment 50mg,TRTB,Treatment 50mg,2014-03-28,2014-04-12,42,years,DM
+ABC001,703,03,ABC001-703-03,Dr. Lenna Roberts,ITA,F,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-03-24,2014-04-20,43,years,DM
+ABC001,703,04,ABC001-703-04,Dr. Lenna Roberts,ITA,F,TRTC,Treatment 100mg,TRTC,Treatment 100mg,2014-05-10,2014-07-15,38,years,DM
+ABC001,703,05,ABC001-703-05,Dr. Lenna Roberts,ITA,M,TRTB,Treatment 50mg,TRTB,Treatment 50mg,2014-03-04,2014-05-10,33,years,DM
+ABC001,703,06,ABC001-703-06,Dr. Lenna Roberts,ITA,M,PBO,Placebo,PBO,Placebo,2014-03-08,2014-04-19,34,years,DM
+ABC001,801,01,ABC001-801-01,Dr. Chelsey Weimann,BEL,M,TRTB,Treatment 50mg,TRTB,Treatment 50mg,2014-04-18,2014-06-28,42,years,DM
+ABC001,801,02,ABC001-801-02,Dr. Chelsey Weimann,BEL,M,TRTC,Treatment 100mg,TRTC,Treatment 100mg,2014-03-17,2014-05-23,63,years,DM
+ABC001,801,03,ABC001-801-03,Dr. Chelsey Weimann,BEL,M,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-06-02,2014-08-10,19,years,DM
+ABC001,801,04,ABC001-801-04,Dr. Chelsey Weimann,BEL,M,TRTC,Treatment 100mg,TRTC,Treatment 100mg,2014-04-02,2014-06-09,53,years,DM
+ABC001,801,05,ABC001-801-05,Dr. Chelsey Weimann,BEL,F,TRTB,Treatment 50mg,TRTB,Treatment 50mg,2014-11-29,2015-02-05,59,years,DM
+ABC001,801,06,ABC001-801-06,Dr. Chelsey Weimann,BEL,F,TRTC,Treatment 100mg,TRTC,Treatment 100mg,2014-03-07,2014-03-07,31,years,DM
+ABC001,801,07,ABC001-801-07,Dr. Chelsey Weimann,BEL,M,PBO,Placebo,PBO,Placebo,2014-05-12,2014-07-19,60,years,DM
+ABC001,801,08,ABC001-801-08,Dr. Chelsey Weimann,BEL,M,PBO,Placebo,SCRNFAIL,Screen Failure,,2014-03-23,31,years,DM
+ABC001,801,09,ABC001-801-09,Dr. Chelsey Weimann,BEL,F,TRTA,Treatment 10mg,TRTA,Treatment 10mg,2014-08-31,2014-11-09,42,years,DM
+ABC001,801,10,ABC001-801-10,Dr. Chelsey Weimann,BEL,M,TRTB,Treatment 50mg,TRTB,Treatment 50mg,2014-06-03,2014-08-09,33,years,DM

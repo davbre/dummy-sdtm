@@ -34,7 +34,7 @@ def gen_sv(study,dm)
     # all other visits
     prev_svstdtc=0 # just needs to be initialized at this point
     if sbj.actarmcd != "SCRNFAIL"
-      sbj_visits = rand(0..1) > s.discontinue_proportion ? s.num_visits : rand(1..s.num_visits)
+      sbj_visits = rand(0..1) > s.discontinue_weight ? s.num_visits : rand(1..s.num_visits)
       sbj_visits.times do |i|
         visitnum=i+2
         visit = i==0 ? "BASELINE" : "VISIT " + "#{i+1}"

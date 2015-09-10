@@ -4,18 +4,18 @@ class Study
   attr_accessor :studyid, :treatments, :treatment_codes, :treatment_ratios,
     :treatment_doses, :total_subjects, :num_visits, :visit_duration,
     :visit_unit, :age_range, :sites, :investigators, :ref_date,
-    :screen_fail_proportion, :screening_days , :discontinue_proportion,
+    :screen_fail_weight, :screening_days , :discontinue_weight,
     :mean_aes_per_year, :default_mean_aes_per_year,
-    :ae_serious_proportion, :default_ae_serious_proportion,
-    :ae_severity_proportions, :default_ae_severity_proportions
+    :ae_serious_weight, :default_ae_serious_weight,
+    :ae_severity_weights, :default_ae_severity_weights
 
-  validate :check_treatments, :check_ae_serious_proportion, :check_ae_severity_proportions
+  validate :check_treatments, :check_ae_serious_weight, :check_ae_severity_weights
 
   def initialize(studyid: nil, treatments: nil, treatment_codes: nil,
     treatment_ratios: nil, treatment_doses: nil,total_subjects: nil,
     num_visits: nil, visit_duration: nil, visit_unit: nil, age_range: nil,
-    sites: nil, screen_fail_proportion: 0.1, screening_days: 14,
-    discontinue_proportion: 0.15)
+    sites: nil, screen_fail_weight: 0.1, screening_days: 14,
+    discontinue_weight: 0.15)
     local_variables.each do |k|
       v = eval(k.to_s)
       instance_variable_set("@#{k}", v) unless v.nil?
@@ -43,12 +43,12 @@ class Study
   end
 
   # TODO
-  def check_ae_serious_proportion
+  def check_ae_serious_weight
     true
   end
 
   # TODO
-  def check_ae_severity_proportions
+  def check_ae_severity_weights
     true
   end
   

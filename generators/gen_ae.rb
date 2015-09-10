@@ -1,4 +1,4 @@
-def gen_ae(study,dm,sv) # mean = mean number of AEs
+def gen_ae(study,dm,sv,aeterms) # mean = mean number of AEs
 
   s = study
   rng = SimpleRandom.new
@@ -13,8 +13,8 @@ def gen_ae(study,dm,sv) # mean = mean number of AEs
     latest_ae_dt = sv.rows[usubjid].last.svendtc
     trt_index = s.treatment_codes.index(sbj_dm.actarmcd)
     mean_per_year = trt_index.nil? ? s.default_mean_aes_per_year : s.mean_aes_per_year[trt_index]
-    serious_proportion = trt_index.nil? ? s.default_ae_serious_proportion : s.ae_serious_proportion[trt_index]
-    severity_proportions = trt_index.nil? ? s.default_ae_severity_proportions[0] : s.ae_severity_proportions[trt_index]
+    serious_weight = trt_index.nil? ? s.default_ae_serious_weight : s.ae_serious_weight[trt_index]
+    severity_weights = trt_index.nil? ? s.default_ae_severity_weights[0] : s.ae_severity_weights[trt_index]
 
     mean_per_sbj_period = (latest_ae_dt-earliest_ae_dt)/365.25*mean_per_year
     chi_square_mean = [mean_per_sbj_period,1].max
@@ -33,20 +33,13 @@ def gen_ae(study,dm,sv) # mean = mean number of AEs
       aeendy = (aeendtc - sbj_dm.rfstdtc).to_i if (aeendtc != nil && sbj_dm.rfstdtc != nil)
 
       aeterm = Faker::Lorem.sentence(2)
-      aebodsys = "Body System " + rand(1..10).to_s
-      aedecod = "AE Decode " + rand(1..10).to_s
 
-      aeser = (rand < serious_proportion) ? "Y" : "N"
+      aebodsys = pick_term(aeterms["SOC weights"])
+      aedecod = pick_term(aeterms["Terms"][aebodsys])
+
+      aeser = (rand < serious_weight) ? "Y" : "N"
       
-      sevrand = rand
-      if sevrand < severity_proportions[0]
-        aesev = "Mild"
-      elsif sevrand < severity_proportions[1]
-        aesev = "Moderate"
-      else
-        aesev = "Severe"
-      end
-
+      aesev = pick_severity(severity_weights)
 
       ae_row = SdtmAe.new(
         # domain is automatically assigned
@@ -71,4 +64,32 @@ def gen_ae(study,dm,sv) # mean = mean number of AEs
   end
 
   ds
+end
+
+def pick_term(terms_with_weights)
+  weights = terms_with_weights.values
+  terms = terms_with_weights.keys
+  normalised_weights = weights.map { |w| w/weights.sum }
+  terms = terms_with_weights.keys
+  cumulative_sum = 0
+  cumulative_weights = normalised_weights.map{|x| cumulative_sum += x}
+  randval = rand
+  cumulative_weights.each_index do |i|
+    return terms[i] if randval < cumulative_weights[i]
+  end
+  puts "Something wrong in pick_term method if this is printed!!"
+end
+
+def pick_severity(weights)
+  normalised_weights = weights.map { |w| w/weights.sum }
+  cumulative_sum = 0
+  cumulative_weights = normalised_weights.map{|x| cumulative_sum += x}
+  sevrand = rand
+  if sevrand < cumulative_weights[0]
+    aesev = "Mild"
+  elsif sevrand < cumulative_weights[1]
+    aesev = "Moderate"
+  else
+    aesev = "Severe"
+  end
 end

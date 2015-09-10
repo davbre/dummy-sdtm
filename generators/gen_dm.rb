@@ -16,7 +16,7 @@ def gen_dm(study,controlled_terms)
     # increment running count of subjects assinged to investigator
     # country = s.sites[country_num-1]
     usubjid = s.studyid + "-" + siteid + "-" + subjid
-    country = s.sites[site_num-1][0]
+    country = s.sites[country_num-1][0]
     sex = ct["sex"][rand(0..1)]
 
     arm_array_index = rand*s.treatments.length.floor
@@ -29,7 +29,7 @@ def gen_dm(study,controlled_terms)
 
     
     # certain percentage screen failures
-    if rand < s.screen_fail_proportion then
+    if rand < s.screen_fail_weight then
       actarmcd = "SCRNFAIL"
       actarm = "Screen Failure"
     else
