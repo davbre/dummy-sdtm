@@ -6,10 +6,11 @@ class Study
     :visit_unit, :age_range, :sites, :investigators, :ref_date,
     :screen_fail_weight, :screening_days , :discontinue_weight,
     :mean_aes_per_year, :default_mean_aes_per_year,
-    :ae_serious_weight, :default_ae_serious_weight,
-    :ae_severity_weights, :default_ae_severity_weights
+    :weights
+    # :ae_serious_weight, :default_ae_serious_weight,
+    # :ae_severity_weights, :default_ae_severity_weights
 
-  validate :check_treatments, :check_ae_serious_weight, :check_ae_severity_weights
+  validate :check_treatments
 
   def initialize(studyid: nil, treatments: nil, treatment_codes: nil,
     treatment_ratios: nil, treatment_doses: nil,total_subjects: nil,
@@ -42,15 +43,6 @@ class Study
     end
   end
 
-  # TODO
-  def check_ae_serious_weight
-    true
-  end
-
-  # TODO
-  def check_ae_severity_weights
-    true
-  end
   
 
   # Assign investigator names to sites and initialize a count of subjects

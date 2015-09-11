@@ -70,26 +70,32 @@
   - 24
   - 35
   default_mean_aes_per_year: 20
-  ae_serious_weight:
-  - 0.1
-  - 0.1
-  - 0.12
-  - 0.18
-  default_ae_serious_weight: 0.1
-  ae_severity_weights: # mild, moderate, severe for each treatment group
-  - - 0.8
-    - 0.15
-    - 0.05
-  - - 0.9
-    - 0.05
-    - 0.05
-  - - 0.75
-    - 0.15
-    - 0.1
-  - - 0.75
-    - 0.15
-    - 0.1
-  default_ae_severity_weights:
-  - - 0.8
-    - 0.15
-    - 0.05
+  weights:
+    default:
+      aeser: 0.1
+      aesev:
+      - 0.8
+      - 0.15
+      - 0.05  
+    arm:
+      aeser:
+      # as dose increases number of serious AEs declines
+      - 0.1
+      - 0.15
+      - 0.1
+      - 0.06
+      aesev:
+      # as dose increases severity increases
+      - - 0.8
+        - 0.15
+        - 0.05
+      - - 0.9
+        - 0.05
+        - 0.05
+      - - 0.75
+        - 0.15
+        - 0.1
+      - - 0.7
+        - 0.2
+        - 0.1
+

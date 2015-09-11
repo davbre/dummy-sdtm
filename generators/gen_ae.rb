@@ -13,14 +13,16 @@ def gen_ae(study,dm,sv,aeterms) # mean = mean number of AEs
     latest_ae_dt = sv.rows[usubjid].last.svendtc
     trt_index = s.treatment_codes.index(sbj_dm.actarmcd)
     mean_per_year = trt_index.nil? ? s.default_mean_aes_per_year : s.mean_aes_per_year[trt_index]
-    serious_weight = trt_index.nil? ? s.default_ae_serious_weight : s.ae_serious_weight[trt_index]
-    severity_weights = trt_index.nil? ? s.default_ae_severity_weights[0] : s.ae_severity_weights[trt_index]
+
+    serious_weight = trt_index.nil? ? s.weights["default"]["aeser"] : s.weights["arm"]["aeser"][trt_index]
+    severity_weights = trt_index.nil? ? s.weights["default"]["aesev"] : s.weights["arm"]["aesev"][trt_index]
 
     mean_per_sbj_period = (latest_ae_dt-earliest_ae_dt)/365.25*mean_per_year
     chi_square_mean = [mean_per_sbj_period,1].max
     number_of_aes = rng.chi_square(chi_square_mean).floor
 
     number_of_aes.times do
+
       aestdtc = rand(earliest_ae_dt..latest_ae_dt)
       if rand(0..1)>0.1
         aeendtc = rand(aestdtc..latest_ae_dt)

@@ -1,6 +1,6 @@
 
 # Use this to create a new data set with variables added from DM
-def gen_add_dm(study,dm,inputDs,addVariableArray) # mean = mean number of AEs
+def gen_add_dm(dm,inputDs,addVariableArray) # mean = mean number of AEs
 
   # take a deep copy of the input data set. Otherwise we will end up overwriting
   # its nested objects. Using Marshal load and dump as per:
