@@ -40,11 +40,11 @@ ae.write_csv(csv_stem + "ae.csv")
 adae.write_csv(csv_stem + "adae.csv")
 adlb.write_csv(csv_stem + "adlb.csv")
 
-adlb_pc = gen_subset(inDs: lb,keep: ["lbstresn","actarm","sex","country","lbnrind","visit","lbtest"]) # dataset for parallel coordinates graph
+# adlb_pc = gen_subset(inDs: lb,keep: ["lbstresn","actarm","lbnrind","visit","lbtest"]) # dataset for parallel coordinates graph
 
 adlb_csv = CSV.read(csv_stem + "adlb.csv", :headers => true)
 
-adlb_pc_keep = ["lbstresn","actarm","sex","country","lbnrind","visit","lbtest"]
+adlb_pc_keep = ["lbstresn","actarm","lbnrind","visit","lbtest"]
 adlb_pc = adlb_csv.by_col!.delete_if { |col_name,col_values| !adlb_pc_keep.include? col_name }
 File.open(csv_stem + "adlb_pc.csv", 'w') { |file| file.write(adlb_pc.to_csv) }
 

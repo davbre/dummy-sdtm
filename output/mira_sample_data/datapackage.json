@@ -36,23 +36,23 @@
             "type": "integer",
             "constraints": {
               "minimum": "-16",
-              "maximum": "73"
+              "maximum": "74"
             }
           },
           {
             "name": "svstdtc",
             "type": "date",
             "constraints": {
-              "minimum": "2014-02-15",
-              "maximum": "2015-02-02"
+              "minimum": "2014-02-16",
+              "maximum": "2015-02-12"
             }
           },
           {
             "name": "svendtc",
             "type": "date",
             "constraints": {
-              "minimum": "2014-02-15",
-              "maximum": "2015-02-02"
+              "minimum": "2014-02-16",
+              "maximum": "2015-02-12"
             }
           },
           {
@@ -60,7 +60,7 @@
             "type": "integer",
             "constraints": {
               "minimum": "-16",
-              "maximum": "72"
+              "maximum": "73"
             }
           },
           {
@@ -68,7 +68,7 @@
             "type": "integer",
             "constraints": {
               "minimum": "-16",
-              "maximum": "72"
+              "maximum": "73"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "type": "integer",
             "constraints": {
               "minimum": "1",
-              "maximum": "406"
+              "maximum": "393"
             }
           },
           {
@@ -112,14 +112,58 @@
             "type": "date",
             "constraints": {
               "minimum": "2014-03-01",
-              "maximum": "2015-02-02"
+              "maximum": "2015-02-12"
+            }
+          },
+          {
+            "name": "exstdy",
+            "type": "integer",
+            "constraints": {
+              "minimum": "0",
+              "maximum": "73"
             }
           }
         ]
       }
     },
     {
-      "path": "aedm.csv",
+      "path": "adlb_pc.csv",
+      "format": "csv",
+      "dialect": {
+        "delimiter": ","
+      },
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "lbtest",
+            "type": "string"
+          },
+          {
+            "name": "lbstresn",
+            "type": "number",
+            "constraints": {
+              "minimum": "3.1",
+              "maximum": "160.9"
+            }
+          },
+          {
+            "name": "visit",
+            "type": "string"
+          },
+          {
+            "name": "lbnrind",
+            "type": "string"
+          },
+          {
+            "name": "actarm",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "path": "adae.csv",
       "format": "csv",
       "dialect": {
         "delimiter": ","
@@ -148,19 +192,27 @@
             "type": "string"
           },
           {
+            "name": "aesev",
+            "type": "string"
+          },
+          {
+            "name": "aeser",
+            "type": "string"
+          },
+          {
             "name": "aestdtc",
             "type": "date",
             "constraints": {
-              "minimum": "2014-02-24",
-              "maximum": "2015-01-21"
+              "minimum": "2014-02-22",
+              "maximum": "2015-01-28"
             }
           },
           {
-            "name": "aeendtc",
-            "type": "date",
+            "name": "aestdy",
+            "type": "integer",
             "constraints": {
-              "minimum": "2014-03-04",
-              "maximum": "2014-12-10"
+              "minimum": "-14",
+              "maximum": "72"
             }
           },
           {
@@ -168,14 +220,30 @@
             "type": "integer",
             "constraints": {
               "minimum": "1",
-              "maximum": "241"
+              "maximum": "299"
+            }
+          },
+          {
+            "name": "aeendtc",
+            "type": "date",
+            "constraints": {
+              "minimum": "2014-03-04",
+              "maximum": "2015-02-05"
+            }
+          },
+          {
+            "name": "aeendy",
+            "type": "integer",
+            "constraints": {
+              "minimum": "-13",
+              "maximum": "73"
             }
           },
           {
             "name": "age",
             "type": "integer",
             "constraints": {
-              "minimum": "20",
+              "minimum": "18",
               "maximum": "65"
             }
           },
@@ -196,6 +264,14 @@
             "type": "string"
           },
           {
+            "name": "actarm",
+            "type": "string"
+          },
+          {
+            "name": "actarmcd",
+            "type": "string"
+          },
+          {
             "name": "invnam",
             "type": "string"
           },
@@ -204,7 +280,7 @@
             "type": "integer",
             "constraints": {
               "minimum": "101",
-              "maximum": "503"
+              "maximum": "801"
             }
           }
         ]
@@ -240,19 +316,27 @@
             "type": "string"
           },
           {
+            "name": "aesev",
+            "type": "string"
+          },
+          {
+            "name": "aeser",
+            "type": "string"
+          },
+          {
             "name": "aestdtc",
             "type": "date",
             "constraints": {
-              "minimum": "2014-02-24",
-              "maximum": "2015-01-21"
+              "minimum": "2014-02-22",
+              "maximum": "2015-01-28"
             }
           },
           {
-            "name": "aeendtc",
-            "type": "date",
+            "name": "aestdy",
+            "type": "integer",
             "constraints": {
-              "minimum": "2014-03-04",
-              "maximum": "2014-12-10"
+              "minimum": "-14",
+              "maximum": "72"
             }
           },
           {
@@ -260,131 +344,23 @@
             "type": "integer",
             "constraints": {
               "minimum": "1",
-              "maximum": "241"
+              "maximum": "299"
             }
-          }
-        ]
-      }
-    },
-    {
-      "path": "outputs.csv",
-      "format": "csv",
-      "dialect": {
-        "delimiter": ","
-      },
-      "mediatype": "text/csv",
-      "schema": {
-        "fields": [
-          {
-            "name": "outname",
-            "type": "string"
           },
           {
-            "name": "ord",
+            "name": "aeendtc",
+            "type": "date",
+            "constraints": {
+              "minimum": "2014-03-04",
+              "maximum": "2015-02-05"
+            }
+          },
+          {
+            "name": "aeendy",
             "type": "integer",
             "constraints": {
-              "minimum": "1",
-              "maximum": "11"
-            }
-          },
-          {
-            "name": "col1",
-            "type": "string"
-          },
-          {
-            "name": "pbo_2",
-            "type": "integer",
-            "constraints": {
-              "minimum": "2",
-              "maximum": "48"
-            }
-          },
-          {
-            "name": "trta_2",
-            "type": "integer",
-            "constraints": {
-              "minimum": "3",
-              "maximum": "59"
-            }
-          },
-          {
-            "name": "trtb_2",
-            "type": "integer",
-            "constraints": {
-              "minimum": "2",
-              "maximum": "56"
-            }
-          },
-          {
-            "name": "trtc_2",
-            "type": "integer",
-            "constraints": {
-              "minimum": "4",
-              "maximum": "75"
-            }
-          },
-          {
-            "name": "pbo_1",
-            "type": "integer",
-            "constraints": {
-              "minimum": "2",
-              "maximum": "11"
-            }
-          },
-          {
-            "name": "trta_1",
-            "type": "integer",
-            "constraints": {
-              "minimum": "3",
-              "maximum": "17"
-            }
-          },
-          {
-            "name": "trtb_1",
-            "type": "integer",
-            "constraints": {
-              "minimum": "2",
-              "maximum": "21"
-            }
-          },
-          {
-            "name": "trtc_1",
-            "type": "integer",
-            "constraints": {
-              "minimum": "3",
-              "maximum": "20"
-            }
-          },
-          {
-            "name": "pbo_3",
-            "type": "number",
-            "constraints": {
-              "minimum": "11.8",
-              "maximum": "64.7"
-            }
-          },
-          {
-            "name": "trta_3",
-            "type": "integer",
-            "constraints": {
-              "minimum": "12",
-              "maximum": "68"
-            }
-          },
-          {
-            "name": "trtb_3",
-            "type": "number",
-            "constraints": {
-              "minimum": "6.7",
-              "maximum": "70.0"
-            }
-          },
-          {
-            "name": "trtc_3",
-            "type": "number",
-            "constraints": {
-              "minimum": "10.7",
-              "maximum": "71.4"
+              "minimum": "-13",
+              "maximum": "73"
             }
           }
         ]
@@ -412,7 +388,7 @@
             "type": "integer",
             "constraints": {
               "minimum": "1",
-              "maximum": "506"
+              "maximum": "493"
             }
           },
           {
@@ -428,7 +404,7 @@
             "type": "number",
             "constraints": {
               "minimum": "3.1",
-              "maximum": "124.1"
+              "maximum": "160.9"
             }
           },
           {
@@ -468,7 +444,7 @@
             "type": "integer",
             "constraints": {
               "minimum": "-16",
-              "maximum": "73"
+              "maximum": "74"
             }
           },
           {
@@ -496,7 +472,7 @@
             "type": "integer",
             "constraints": {
               "minimum": "101",
-              "maximum": "503"
+              "maximum": "801"
             }
           },
           {
@@ -540,7 +516,7 @@
             "type": "date",
             "constraints": {
               "minimum": "2014-03-01",
-              "maximum": "2014-11-29"
+              "maximum": "2014-12-29"
             }
           },
           {
@@ -548,14 +524,14 @@
             "type": "date",
             "constraints": {
               "minimum": "2014-03-01",
-              "maximum": "2015-02-02"
+              "maximum": "2015-02-12"
             }
           },
           {
             "name": "age",
             "type": "integer",
             "constraints": {
-              "minimum": "20",
+              "minimum": "18",
               "maximum": "65"
             }
           },
@@ -571,7 +547,7 @@
       }
     },
     {
-      "path": "outputs_type2.csv",
+      "path": "reports.csv",
       "format": "csv",
       "dialect": {
         "delimiter": ","
@@ -579,56 +555,16 @@
       "mediatype": "text/csv",
       "schema": {
         "fields": [
-          {
-            "name": "type",
-            "type": "string"
-          },
-          {
-            "name": "ord",
-            "type": "integer",
-            "constraints": {
-              "minimum": "1",
-              "maximum": "11"
-            }
-          },
           {
             "name": "outid",
             "type": "string"
           },
           {
-            "name": "itemcd",
-            "type": "string"
-          },
-          {
-            "name": "item",
-            "type": "string"
-          },
-          {
-            "name": "value",
-            "type": "string"
-          }
-        ]
-      }
-    },
-    {
-      "path": "tables.csv",
-      "format": "csv",
-      "dialect": {
-        "delimiter": ","
-      },
-      "mediatype": "text/csv",
-      "schema": {
-        "fields": [
-          {
-            "name": "id",
-            "type": "string"
-          },
-          {
             "name": "ord",
             "type": "integer",
             "constraints": {
               "minimum": "1",
-              "maximum": "11"
+              "maximum": "17"
             }
           },
           {
@@ -636,19 +572,283 @@
             "type": "string"
           },
           {
-            "name": "pbo",
+            "name": "pbo_1",
+            "type": "integer",
+            "constraints": {
+              "minimum": "1",
+              "maximum": "13"
+            }
+          },
+          {
+            "name": "trta_1",
+            "type": "integer",
+            "constraints": {
+              "minimum": "1",
+              "maximum": "25"
+            }
+          },
+          {
+            "name": "trtb_1",
+            "type": "integer",
+            "constraints": {
+              "minimum": "1",
+              "maximum": "15"
+            }
+          },
+          {
+            "name": "trtc_1",
+            "type": "integer",
+            "constraints": {
+              "minimum": "1",
+              "maximum": "21"
+            }
+          },
+          {
+            "name": "pbo_2",
+            "type": "integer",
+            "constraints": {
+              "minimum": "1",
+              "maximum": "39"
+            }
+          },
+          {
+            "name": "trta_2",
+            "type": "integer",
+            "constraints": {
+              "minimum": "1",
+              "maximum": "79"
+            }
+          },
+          {
+            "name": "trtb_2",
+            "type": "integer",
+            "constraints": {
+              "minimum": "1",
+              "maximum": "68"
+            }
+          },
+          {
+            "name": "trtc_2",
+            "type": "integer",
+            "constraints": {
+              "minimum": "1",
+              "maximum": "108"
+            }
+          },
+          {
+            "name": "pbo_3",
+            "type": "number",
+            "constraints": {
+              "minimum": "7.1",
+              "maximum": "92.9"
+            }
+          },
+          {
+            "name": "trta_3",
+            "type": "number",
+            "constraints": {
+              "minimum": "3.3",
+              "maximum": "83.3"
+            }
+          },
+          {
+            "name": "trtb_3",
+            "type": "number",
+            "constraints": {
+              "minimum": "4.8",
+              "maximum": "71.4"
+            }
+          },
+          {
+            "name": "trtc_3",
+            "type": "number",
+            "constraints": {
+              "minimum": "4.8",
+              "maximum": "100.0"
+            }
+          },
+          {
+            "name": "b_pbo",
+            "type": "integer",
+            "constraints": {
+              "minimum": "5",
+              "maximum": "14"
+            }
+          },
+          {
+            "name": "b_trta",
+            "type": "integer",
+            "constraints": {
+              "minimum": "10",
+              "maximum": "30"
+            }
+          },
+          {
+            "name": "b_trtb",
+            "type": "integer",
+            "constraints": {
+              "minimum": "10",
+              "maximum": "21"
+            }
+          },
+          {
+            "name": "b_trtc",
+            "type": "integer",
+            "constraints": {
+              "minimum": "10",
+              "maximum": "21"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "path": "adlb.csv",
+      "format": "csv",
+      "dialect": {
+        "delimiter": ","
+      },
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "studyid",
             "type": "string"
           },
           {
-            "name": "trta",
+            "name": "usubjid",
             "type": "string"
           },
           {
-            "name": "trtb",
+            "name": "lbseq",
+            "type": "integer",
+            "constraints": {
+              "minimum": "1",
+              "maximum": "493"
+            }
+          },
+          {
+            "name": "lbtestcd",
             "type": "string"
           },
           {
-            "name": "trtc",
+            "name": "lbtest",
+            "type": "string"
+          },
+          {
+            "name": "lbstresn",
+            "type": "number",
+            "constraints": {
+              "minimum": "3.1",
+              "maximum": "160.9"
+            }
+          },
+          {
+            "name": "lbstresu",
+            "type": "string"
+          },
+          {
+            "name": "lbstnrlo",
+            "type": "number",
+            "constraints": {
+              "minimum": "3.4",
+              "maximum": "60.0"
+            }
+          },
+          {
+            "name": "lbstnrhi",
+            "type": "number",
+            "constraints": {
+              "minimum": "4.7",
+              "maximum": "115.0"
+            }
+          },
+          {
+            "name": "visitnum",
+            "type": "integer",
+            "constraints": {
+              "minimum": "1",
+              "maximum": "7"
+            }
+          },
+          {
+            "name": "visit",
+            "type": "string"
+          },
+          {
+            "name": "visitdy",
+            "type": "integer",
+            "constraints": {
+              "minimum": "-16",
+              "maximum": "74"
+            }
+          },
+          {
+            "name": "lbnrind",
+            "type": "string"
+          },
+          {
+            "name": "age",
+            "type": "integer",
+            "constraints": {
+              "minimum": "18",
+              "maximum": "65"
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string"
+          },
+          {
+            "name": "country",
+            "type": "string"
+          },
+          {
+            "name": "arm",
+            "type": "string"
+          },
+          {
+            "name": "armcd",
+            "type": "string"
+          },
+          {
+            "name": "actarm",
+            "type": "string"
+          },
+          {
+            "name": "actarmcd",
+            "type": "string"
+          },
+          {
+            "name": "invnam",
+            "type": "string"
+          },
+          {
+            "name": "siteid",
+            "type": "integer",
+            "constraints": {
+              "minimum": "101",
+              "maximum": "801"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "path": "report_titles.csv",
+      "format": "csv",
+      "dialect": {
+        "delimiter": ","
+      },
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "outid",
+            "type": "string"
+          },
+          {
+            "name": "title",
             "type": "string"
           }
         ]

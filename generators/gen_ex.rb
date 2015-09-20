@@ -14,11 +14,12 @@ def gen_ex(study,dm,sv)
       next if vis.visitnum < 2
       exseq += 1
       exstdtc = vis.svstdtc
+      exstdy = (exstdtc - dm.rows[vis.usubjid].rfstdtc).to_i
       exdose = study.treatment_doses[study.treatment_codes.find_index(dm.rows[usubjid].armcd)]
       ex_row = SdtmEx.new(
         # domain is automatically assigned
         studyid:  s.studyid, usubjid: usubjid, exseq: exseq,
-        exstdtc: exstdtc, exdose: exdose
+        exstdtc: exstdtc, exstdy: exstdy, exdose: exdose
       )
 
       sbj_ex_rows << ex_row

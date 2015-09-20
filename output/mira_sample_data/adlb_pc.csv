@@ -1,0 +1,1973 @@
+lbtest,lbstresn,visit,lbnrind,actarm
+Albumin,4.2,SCREENING,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),13.1,SCREENING,NORMAL,Placebo
+Calcium,8.43,SCREENING,LOW,Placebo
+Glucose,66.6,SCREENING,NORMAL,Placebo
+Albumin,4.0,BASELINE,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),15.2,BASELINE,NORMAL,Placebo
+Calcium,8.77,BASELINE,NORMAL,Placebo
+Glucose,106.8,BASELINE,NORMAL,Placebo
+Albumin,4.2,VISIT 2,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),13.9,VISIT 2,NORMAL,Placebo
+Calcium,8.22,VISIT 2,LOW,Placebo
+Glucose,79.1,VISIT 2,NORMAL,Placebo
+Albumin,3.9,VISIT 3,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),11.9,VISIT 3,NORMAL,Placebo
+Calcium,8.25,VISIT 3,LOW,Placebo
+Glucose,52.5,VISIT 3,LOW,Placebo
+Albumin,4.8,SCREENING,HIGH,Treatment 10mg
+Blood Urea Nitrogen (BUN),19.8,SCREENING,NORMAL,Treatment 10mg
+Calcium,8.97,SCREENING,NORMAL,Treatment 10mg
+Glucose,103.0,SCREENING,NORMAL,Treatment 10mg
+Albumin,4.7,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),12.5,BASELINE,NORMAL,Treatment 10mg
+Calcium,8.65,BASELINE,NORMAL,Treatment 10mg
+Glucose,103.1,BASELINE,NORMAL,Treatment 10mg
+Albumin,4.3,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),17.1,VISIT 2,NORMAL,Treatment 10mg
+Calcium,8.82,VISIT 2,NORMAL,Treatment 10mg
+Glucose,97.8,VISIT 2,NORMAL,Treatment 10mg
+Albumin,4.1,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),16.9,VISIT 3,NORMAL,Treatment 10mg
+Calcium,8.04,VISIT 3,LOW,Treatment 10mg
+Glucose,111.1,VISIT 3,NORMAL,Treatment 10mg
+Albumin,3.8,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),11.9,SCREENING,NORMAL,Treatment 10mg
+Calcium,8.89,SCREENING,NORMAL,Treatment 10mg
+Glucose,112.8,SCREENING,NORMAL,Treatment 10mg
+Albumin,4.0,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),16.3,BASELINE,NORMAL,Treatment 10mg
+Calcium,9.73,BASELINE,NORMAL,Treatment 10mg
+Glucose,78.1,BASELINE,NORMAL,Treatment 10mg
+Albumin,4.1,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.6,VISIT 2,NORMAL,Treatment 10mg
+Calcium,9.34,VISIT 2,NORMAL,Treatment 10mg
+Glucose,86.0,VISIT 2,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),18.8,VISIT 3,NORMAL,Treatment 10mg
+Calcium,10.02,VISIT 3,NORMAL,Treatment 10mg
+Glucose,81.2,VISIT 3,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 4,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),19.2,VISIT 4,NORMAL,Treatment 10mg
+Calcium,8.93,VISIT 4,NORMAL,Treatment 10mg
+Glucose,94.6,VISIT 4,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 5,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),19.0,VISIT 5,NORMAL,Treatment 10mg
+Calcium,7.82,VISIT 5,LOW,Treatment 10mg
+Glucose,105.9,VISIT 5,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 6,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.8,VISIT 6,NORMAL,Treatment 10mg
+Calcium,8.95,VISIT 6,NORMAL,Treatment 10mg
+Glucose,95.2,VISIT 6,NORMAL,Treatment 10mg
+Albumin,4.1,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.7,SCREENING,NORMAL,Treatment 10mg
+Calcium,8.89,SCREENING,NORMAL,Treatment 10mg
+Glucose,93.5,SCREENING,NORMAL,Treatment 10mg
+Albumin,3.9,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),13.4,BASELINE,NORMAL,Treatment 10mg
+Calcium,9.18,BASELINE,NORMAL,Treatment 10mg
+Glucose,77.5,BASELINE,NORMAL,Treatment 10mg
+Albumin,4.0,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.6,VISIT 2,NORMAL,Treatment 10mg
+Calcium,9.56,VISIT 2,NORMAL,Treatment 10mg
+Glucose,82.1,VISIT 2,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),11.6,VISIT 3,NORMAL,Treatment 10mg
+Calcium,8.98,VISIT 3,NORMAL,Treatment 10mg
+Glucose,80.5,VISIT 3,NORMAL,Treatment 10mg
+Albumin,4.2,VISIT 4,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.0,VISIT 4,NORMAL,Treatment 10mg
+Calcium,8.53,VISIT 4,NORMAL,Treatment 10mg
+Glucose,90.6,VISIT 4,NORMAL,Treatment 10mg
+Albumin,3.3,VISIT 5,LOW,Treatment 10mg
+Blood Urea Nitrogen (BUN),13.8,VISIT 5,NORMAL,Treatment 10mg
+Calcium,8.99,VISIT 5,NORMAL,Treatment 10mg
+Glucose,78.2,VISIT 5,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 6,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.5,VISIT 6,NORMAL,Treatment 10mg
+Calcium,9.03,VISIT 6,NORMAL,Treatment 10mg
+Glucose,93.4,VISIT 6,NORMAL,Treatment 10mg
+Albumin,4.0,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.3,SCREENING,NORMAL,Treatment 10mg
+Calcium,9.69,SCREENING,NORMAL,Treatment 10mg
+Glucose,69.9,SCREENING,NORMAL,Treatment 10mg
+Albumin,3.8,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.9,BASELINE,NORMAL,Treatment 10mg
+Calcium,10.56,BASELINE,HIGH,Treatment 10mg
+Glucose,95.4,BASELINE,NORMAL,Treatment 10mg
+Albumin,3.7,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),11.2,VISIT 2,NORMAL,Treatment 10mg
+Calcium,8.96,VISIT 2,NORMAL,Treatment 10mg
+Glucose,99.1,VISIT 2,NORMAL,Treatment 10mg
+Albumin,4.2,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),11.4,VISIT 3,NORMAL,Treatment 10mg
+Calcium,8.84,VISIT 3,NORMAL,Treatment 10mg
+Glucose,105.0,VISIT 3,NORMAL,Treatment 10mg
+Albumin,4.1,VISIT 4,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),9.5,VISIT 4,NORMAL,Treatment 10mg
+Calcium,8.23,VISIT 4,LOW,Treatment 10mg
+Glucose,79.8,VISIT 4,NORMAL,Treatment 10mg
+Albumin,4.0,VISIT 5,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.6,VISIT 5,NORMAL,Treatment 10mg
+Calcium,8.82,VISIT 5,NORMAL,Treatment 10mg
+Glucose,82.3,VISIT 5,NORMAL,Treatment 10mg
+Albumin,4.1,SCREENING,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),14.0,SCREENING,NORMAL,Placebo
+Calcium,7.62,SCREENING,LOW,Placebo
+Glucose,83.8,SCREENING,NORMAL,Placebo
+Albumin,4.5,BASELINE,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),17.9,BASELINE,NORMAL,Placebo
+Calcium,7.69,BASELINE,LOW,Placebo
+Glucose,79.3,BASELINE,NORMAL,Placebo
+Albumin,4.0,VISIT 2,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),11.1,VISIT 2,NORMAL,Placebo
+Calcium,8.37,VISIT 2,LOW,Placebo
+Glucose,81.3,VISIT 2,NORMAL,Placebo
+Albumin,4.1,SCREENING,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),11.7,SCREENING,NORMAL,Treatment 50mg
+Calcium,9.39,SCREENING,NORMAL,Treatment 50mg
+Glucose,99.1,SCREENING,NORMAL,Treatment 50mg
+Albumin,4.0,BASELINE,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),10.5,BASELINE,NORMAL,Treatment 50mg
+Calcium,9.29,BASELINE,NORMAL,Treatment 50mg
+Glucose,100.8,BASELINE,NORMAL,Treatment 50mg
+Albumin,4.0,VISIT 2,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),12.6,VISIT 2,NORMAL,Treatment 50mg
+Calcium,9.74,VISIT 2,NORMAL,Treatment 50mg
+Glucose,93.5,VISIT 2,NORMAL,Treatment 50mg
+Albumin,4.2,VISIT 3,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),15.6,VISIT 3,NORMAL,Treatment 50mg
+Calcium,9.64,VISIT 3,NORMAL,Treatment 50mg
+Glucose,106.6,VISIT 3,NORMAL,Treatment 50mg
+Albumin,4.5,VISIT 4,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),9.6,VISIT 4,NORMAL,Treatment 50mg
+Calcium,9.93,VISIT 4,NORMAL,Treatment 50mg
+Glucose,79.2,VISIT 4,NORMAL,Treatment 50mg
+Albumin,4.2,VISIT 5,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),12.3,VISIT 5,NORMAL,Treatment 50mg
+Calcium,9.32,VISIT 5,NORMAL,Treatment 50mg
+Glucose,111.0,VISIT 5,NORMAL,Treatment 50mg
+Albumin,4.0,VISIT 6,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),12.1,VISIT 6,NORMAL,Treatment 50mg
+Calcium,9.1,VISIT 6,NORMAL,Treatment 50mg
+Glucose,67.0,VISIT 6,NORMAL,Treatment 50mg
+Albumin,3.3,SCREENING,LOW,Screen Failure
+Blood Urea Nitrogen (BUN),17.2,SCREENING,NORMAL,Screen Failure
+Calcium,9.75,SCREENING,NORMAL,Screen Failure
+Glucose,104.8,SCREENING,NORMAL,Screen Failure
+Albumin,4.0,SCREENING,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),15.9,SCREENING,NORMAL,Placebo
+Calcium,8.41,SCREENING,LOW,Placebo
+Glucose,106.2,SCREENING,NORMAL,Placebo
+Albumin,4.0,BASELINE,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),16.7,BASELINE,NORMAL,Placebo
+Calcium,7.89,BASELINE,LOW,Placebo
+Glucose,70.1,BASELINE,NORMAL,Placebo
+Albumin,3.7,VISIT 2,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),15.0,VISIT 2,NORMAL,Placebo
+Calcium,9.19,VISIT 2,NORMAL,Placebo
+Glucose,86.8,VISIT 2,NORMAL,Placebo
+Albumin,4.4,VISIT 3,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),12.9,VISIT 3,NORMAL,Placebo
+Calcium,8.84,VISIT 3,NORMAL,Placebo
+Glucose,73.1,VISIT 3,NORMAL,Placebo
+Albumin,4.1,VISIT 4,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),13.8,VISIT 4,NORMAL,Placebo
+Calcium,8.4,VISIT 4,LOW,Placebo
+Glucose,78.5,VISIT 4,NORMAL,Placebo
+Albumin,4.1,VISIT 5,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),11.7,VISIT 5,NORMAL,Placebo
+Calcium,9.01,VISIT 5,NORMAL,Placebo
+Glucose,74.9,VISIT 5,NORMAL,Placebo
+Albumin,3.9,VISIT 6,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),11.1,VISIT 6,NORMAL,Placebo
+Calcium,8.91,VISIT 6,NORMAL,Placebo
+Glucose,81.2,VISIT 6,NORMAL,Placebo
+Albumin,4.4,SCREENING,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),17.4,SCREENING,NORMAL,Treatment 100mg
+Calcium,11.3,SCREENING,HIGH,Treatment 100mg
+Glucose,140.3,SCREENING,HIGH,Treatment 100mg
+Albumin,4.0,BASELINE,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),15.4,BASELINE,NORMAL,Treatment 100mg
+Calcium,10.38,BASELINE,NORMAL,Treatment 100mg
+Glucose,130.0,BASELINE,HIGH,Treatment 100mg
+Albumin,3.4,VISIT 2,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),12.8,VISIT 2,NORMAL,Treatment 100mg
+Calcium,11.8,VISIT 2,HIGH,Treatment 100mg
+Glucose,143.1,VISIT 2,HIGH,Treatment 100mg
+Albumin,3.8,VISIT 3,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),17.8,VISIT 3,NORMAL,Treatment 100mg
+Calcium,10.96,VISIT 3,HIGH,Treatment 100mg
+Glucose,155.4,VISIT 3,HIGH,Treatment 100mg
+Albumin,3.2,VISIT 4,LOW,Treatment 100mg
+Blood Urea Nitrogen (BUN),11.7,VISIT 4,NORMAL,Treatment 100mg
+Calcium,11.58,VISIT 4,HIGH,Treatment 100mg
+Glucose,123.8,VISIT 4,HIGH,Treatment 100mg
+Albumin,3.6,VISIT 5,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),15.3,VISIT 5,NORMAL,Treatment 100mg
+Calcium,10.94,VISIT 5,HIGH,Treatment 100mg
+Glucose,124.7,VISIT 5,HIGH,Treatment 100mg
+Albumin,3.6,VISIT 6,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),17.1,VISIT 6,NORMAL,Treatment 100mg
+Calcium,11.0,VISIT 6,HIGH,Treatment 100mg
+Glucose,126.6,VISIT 6,HIGH,Treatment 100mg
+Albumin,4.6,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),17.2,SCREENING,NORMAL,Treatment 10mg
+Calcium,8.3,SCREENING,LOW,Treatment 10mg
+Glucose,105.8,SCREENING,NORMAL,Treatment 10mg
+Albumin,3.6,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),13.4,BASELINE,NORMAL,Treatment 10mg
+Calcium,9.0,BASELINE,NORMAL,Treatment 10mg
+Glucose,86.0,BASELINE,NORMAL,Treatment 10mg
+Albumin,4.2,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),11.0,VISIT 2,NORMAL,Treatment 10mg
+Calcium,8.55,VISIT 2,NORMAL,Treatment 10mg
+Glucose,106.5,VISIT 2,NORMAL,Treatment 10mg
+Albumin,4.3,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),18.6,VISIT 3,NORMAL,Treatment 10mg
+Calcium,9.05,VISIT 3,NORMAL,Treatment 10mg
+Glucose,103.1,VISIT 3,NORMAL,Treatment 10mg
+Albumin,3.7,VISIT 4,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),21.8,VISIT 4,HIGH,Treatment 10mg
+Calcium,9.17,VISIT 4,NORMAL,Treatment 10mg
+Glucose,98.3,VISIT 4,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 5,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),17.5,VISIT 5,NORMAL,Treatment 10mg
+Calcium,9.34,VISIT 5,NORMAL,Treatment 10mg
+Glucose,101.7,VISIT 5,NORMAL,Treatment 10mg
+Albumin,4.3,VISIT 6,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.5,VISIT 6,NORMAL,Treatment 10mg
+Calcium,9.08,VISIT 6,NORMAL,Treatment 10mg
+Glucose,84.1,VISIT 6,NORMAL,Treatment 10mg
+Albumin,4.4,SCREENING,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),13.7,SCREENING,NORMAL,Treatment 50mg
+Calcium,10.3,SCREENING,NORMAL,Treatment 50mg
+Glucose,95.1,SCREENING,NORMAL,Treatment 50mg
+Albumin,4.1,BASELINE,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),14.5,BASELINE,NORMAL,Treatment 50mg
+Calcium,9.81,BASELINE,NORMAL,Treatment 50mg
+Glucose,107.9,BASELINE,NORMAL,Treatment 50mg
+Albumin,4.1,VISIT 2,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),12.2,VISIT 2,NORMAL,Treatment 50mg
+Calcium,8.78,VISIT 2,NORMAL,Treatment 50mg
+Glucose,91.0,VISIT 2,NORMAL,Treatment 50mg
+Albumin,4.4,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.5,SCREENING,NORMAL,Treatment 10mg
+Calcium,8.66,SCREENING,NORMAL,Treatment 10mg
+Glucose,102.0,SCREENING,NORMAL,Treatment 10mg
+Albumin,3.5,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),19.8,BASELINE,NORMAL,Treatment 10mg
+Calcium,9.22,BASELINE,NORMAL,Treatment 10mg
+Glucose,82.6,BASELINE,NORMAL,Treatment 10mg
+Albumin,4.0,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.4,VISIT 2,NORMAL,Treatment 10mg
+Calcium,9.12,VISIT 2,NORMAL,Treatment 10mg
+Glucose,95.3,VISIT 2,NORMAL,Treatment 10mg
+Albumin,3.9,SCREENING,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),11.9,SCREENING,NORMAL,Treatment 50mg
+Calcium,9.94,SCREENING,NORMAL,Treatment 50mg
+Glucose,70.7,SCREENING,NORMAL,Treatment 50mg
+Albumin,4.0,BASELINE,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),15.9,BASELINE,NORMAL,Treatment 50mg
+Calcium,10.52,BASELINE,HIGH,Treatment 50mg
+Glucose,95.3,BASELINE,NORMAL,Treatment 50mg
+Albumin,4.0,VISIT 2,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),16.2,VISIT 2,NORMAL,Treatment 50mg
+Calcium,9.98,VISIT 2,NORMAL,Treatment 50mg
+Glucose,95.9,VISIT 2,NORMAL,Treatment 50mg
+Albumin,3.6,VISIT 3,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),11.1,VISIT 3,NORMAL,Treatment 50mg
+Calcium,9.38,VISIT 3,NORMAL,Treatment 50mg
+Glucose,77.3,VISIT 3,NORMAL,Treatment 50mg
+Albumin,4.0,VISIT 4,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),16.3,VISIT 4,NORMAL,Treatment 50mg
+Calcium,8.9,VISIT 4,NORMAL,Treatment 50mg
+Glucose,75.7,VISIT 4,NORMAL,Treatment 50mg
+Albumin,4.2,VISIT 5,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),12.5,VISIT 5,NORMAL,Treatment 50mg
+Calcium,9.82,VISIT 5,NORMAL,Treatment 50mg
+Glucose,80.9,VISIT 5,NORMAL,Treatment 50mg
+Albumin,4.5,VISIT 6,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),14.4,VISIT 6,NORMAL,Treatment 50mg
+Calcium,10.41,VISIT 6,NORMAL,Treatment 50mg
+Glucose,95.4,VISIT 6,NORMAL,Treatment 50mg
+Albumin,3.7,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),16.2,SCREENING,NORMAL,Treatment 10mg
+Calcium,8.73,SCREENING,NORMAL,Treatment 10mg
+Glucose,91.1,SCREENING,NORMAL,Treatment 10mg
+Albumin,4.3,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.5,BASELINE,NORMAL,Treatment 10mg
+Calcium,9.22,BASELINE,NORMAL,Treatment 10mg
+Glucose,78.2,BASELINE,NORMAL,Treatment 10mg
+Albumin,4.0,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.0,SCREENING,NORMAL,Treatment 10mg
+Calcium,8.41,SCREENING,LOW,Treatment 10mg
+Glucose,93.4,SCREENING,NORMAL,Treatment 10mg
+Albumin,4.1,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),13.9,BASELINE,NORMAL,Treatment 10mg
+Calcium,8.79,BASELINE,NORMAL,Treatment 10mg
+Glucose,89.9,BASELINE,NORMAL,Treatment 10mg
+Albumin,4.3,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),16.8,VISIT 2,NORMAL,Treatment 10mg
+Calcium,9.27,VISIT 2,NORMAL,Treatment 10mg
+Glucose,98.9,VISIT 2,NORMAL,Treatment 10mg
+Albumin,4.1,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),13.4,VISIT 3,NORMAL,Treatment 10mg
+Calcium,9.0,VISIT 3,NORMAL,Treatment 10mg
+Glucose,78.1,VISIT 3,NORMAL,Treatment 10mg
+Albumin,4.7,VISIT 4,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.8,VISIT 4,NORMAL,Treatment 10mg
+Calcium,8.77,VISIT 4,NORMAL,Treatment 10mg
+Glucose,92.9,VISIT 4,NORMAL,Treatment 10mg
+Albumin,3.5,VISIT 5,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),8.7,VISIT 5,NORMAL,Treatment 10mg
+Calcium,9.41,VISIT 5,NORMAL,Treatment 10mg
+Glucose,92.3,VISIT 5,NORMAL,Treatment 10mg
+Albumin,4.3,VISIT 6,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.2,VISIT 6,NORMAL,Treatment 10mg
+Calcium,9.88,VISIT 6,NORMAL,Treatment 10mg
+Glucose,101.4,VISIT 6,NORMAL,Treatment 10mg
+Albumin,4.3,SCREENING,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),19.6,SCREENING,NORMAL,Treatment 50mg
+Calcium,10.11,SCREENING,NORMAL,Treatment 50mg
+Glucose,101.6,SCREENING,NORMAL,Treatment 50mg
+Albumin,3.8,BASELINE,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),16.0,BASELINE,NORMAL,Treatment 50mg
+Calcium,9.21,BASELINE,NORMAL,Treatment 50mg
+Glucose,88.1,BASELINE,NORMAL,Treatment 50mg
+Albumin,3.8,VISIT 2,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),19.0,VISIT 2,NORMAL,Treatment 50mg
+Calcium,8.55,VISIT 2,NORMAL,Treatment 50mg
+Glucose,113.8,VISIT 2,NORMAL,Treatment 50mg
+Albumin,3.5,VISIT 3,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),14.3,VISIT 3,NORMAL,Treatment 50mg
+Calcium,10.23,VISIT 3,NORMAL,Treatment 50mg
+Glucose,122.6,VISIT 3,HIGH,Treatment 50mg
+Albumin,4.0,VISIT 4,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),11.0,VISIT 4,NORMAL,Treatment 50mg
+Calcium,9.83,VISIT 4,NORMAL,Treatment 50mg
+Glucose,95.1,VISIT 4,NORMAL,Treatment 50mg
+Albumin,4.5,VISIT 5,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),12.6,VISIT 5,NORMAL,Treatment 50mg
+Calcium,9.69,VISIT 5,NORMAL,Treatment 50mg
+Glucose,104.6,VISIT 5,NORMAL,Treatment 50mg
+Albumin,3.8,VISIT 6,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),15.7,VISIT 6,NORMAL,Treatment 50mg
+Calcium,9.3,VISIT 6,NORMAL,Treatment 50mg
+Glucose,100.5,VISIT 6,NORMAL,Treatment 50mg
+Albumin,4.3,SCREENING,NORMAL,Screen Failure
+Blood Urea Nitrogen (BUN),14.4,SCREENING,NORMAL,Screen Failure
+Calcium,9.18,SCREENING,NORMAL,Screen Failure
+Glucose,101.3,SCREENING,NORMAL,Screen Failure
+Albumin,4.5,SCREENING,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),14.8,SCREENING,NORMAL,Treatment 100mg
+Calcium,11.95,SCREENING,HIGH,Treatment 100mg
+Glucose,122.0,SCREENING,HIGH,Treatment 100mg
+Albumin,4.4,BASELINE,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),14.1,BASELINE,NORMAL,Treatment 100mg
+Calcium,11.36,BASELINE,HIGH,Treatment 100mg
+Glucose,133.4,BASELINE,HIGH,Treatment 100mg
+Albumin,3.9,VISIT 2,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),14.1,VISIT 2,NORMAL,Treatment 100mg
+Calcium,10.66,VISIT 2,HIGH,Treatment 100mg
+Glucose,124.6,VISIT 2,HIGH,Treatment 100mg
+Albumin,4.0,VISIT 3,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),14.7,VISIT 3,NORMAL,Treatment 100mg
+Calcium,10.84,VISIT 3,HIGH,Treatment 100mg
+Glucose,117.5,VISIT 3,HIGH,Treatment 100mg
+Albumin,3.8,VISIT 4,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),13.9,VISIT 4,NORMAL,Treatment 100mg
+Calcium,11.37,VISIT 4,HIGH,Treatment 100mg
+Glucose,148.7,VISIT 4,HIGH,Treatment 100mg
+Albumin,3.6,VISIT 5,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),12.4,VISIT 5,NORMAL,Treatment 100mg
+Calcium,11.23,VISIT 5,HIGH,Treatment 100mg
+Glucose,136.8,VISIT 5,HIGH,Treatment 100mg
+Albumin,4.0,VISIT 6,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),11.5,VISIT 6,NORMAL,Treatment 100mg
+Calcium,10.51,VISIT 6,HIGH,Treatment 100mg
+Glucose,121.5,VISIT 6,HIGH,Treatment 100mg
+Albumin,4.3,SCREENING,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),9.3,SCREENING,NORMAL,Treatment 50mg
+Calcium,9.41,SCREENING,NORMAL,Treatment 50mg
+Glucose,119.8,SCREENING,HIGH,Treatment 50mg
+Albumin,3.9,BASELINE,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),19.2,BASELINE,NORMAL,Treatment 50mg
+Calcium,8.92,BASELINE,NORMAL,Treatment 50mg
+Glucose,86.7,BASELINE,NORMAL,Treatment 50mg
+Albumin,4.1,SCREENING,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),14.7,SCREENING,NORMAL,Placebo
+Calcium,9.06,SCREENING,NORMAL,Placebo
+Glucose,101.8,SCREENING,NORMAL,Placebo
+Albumin,4.3,BASELINE,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),8.3,BASELINE,NORMAL,Placebo
+Calcium,8.41,BASELINE,LOW,Placebo
+Glucose,75.4,BASELINE,NORMAL,Placebo
+Albumin,4.2,VISIT 2,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),17.8,VISIT 2,NORMAL,Placebo
+Calcium,8.59,VISIT 2,NORMAL,Placebo
+Glucose,92.7,VISIT 2,NORMAL,Placebo
+Albumin,3.9,VISIT 3,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),16.4,VISIT 3,NORMAL,Placebo
+Calcium,8.43,VISIT 3,LOW,Placebo
+Glucose,83.9,VISIT 3,NORMAL,Placebo
+Albumin,4.0,SCREENING,NORMAL,Screen Failure
+Blood Urea Nitrogen (BUN),16.4,SCREENING,NORMAL,Screen Failure
+Calcium,9.29,SCREENING,NORMAL,Screen Failure
+Glucose,87.5,SCREENING,NORMAL,Screen Failure
+Albumin,4.3,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),12.6,SCREENING,NORMAL,Treatment 10mg
+Calcium,9.68,SCREENING,NORMAL,Treatment 10mg
+Glucose,83.9,SCREENING,NORMAL,Treatment 10mg
+Albumin,3.8,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),13.7,BASELINE,NORMAL,Treatment 10mg
+Calcium,9.4,BASELINE,NORMAL,Treatment 10mg
+Glucose,90.6,BASELINE,NORMAL,Treatment 10mg
+Albumin,3.6,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),13.9,VISIT 2,NORMAL,Treatment 10mg
+Calcium,8.87,VISIT 2,NORMAL,Treatment 10mg
+Glucose,65.7,VISIT 2,NORMAL,Treatment 10mg
+Albumin,3.8,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),5.4,VISIT 3,LOW,Treatment 10mg
+Calcium,8.62,VISIT 3,NORMAL,Treatment 10mg
+Glucose,102.5,VISIT 3,NORMAL,Treatment 10mg
+Albumin,3.8,SCREENING,NORMAL,Screen Failure
+Blood Urea Nitrogen (BUN),14.8,SCREENING,NORMAL,Screen Failure
+Calcium,9.36,SCREENING,NORMAL,Screen Failure
+Glucose,82.1,SCREENING,NORMAL,Screen Failure
+Albumin,4.2,SCREENING,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),8.5,SCREENING,NORMAL,Treatment 50mg
+Calcium,8.63,SCREENING,NORMAL,Treatment 50mg
+Glucose,112.8,SCREENING,NORMAL,Treatment 50mg
+Albumin,4.0,BASELINE,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),20.3,BASELINE,HIGH,Treatment 50mg
+Calcium,9.2,BASELINE,NORMAL,Treatment 50mg
+Glucose,91.7,BASELINE,NORMAL,Treatment 50mg
+Albumin,4.1,VISIT 2,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),12.0,VISIT 2,NORMAL,Treatment 50mg
+Calcium,9.81,VISIT 2,NORMAL,Treatment 50mg
+Glucose,87.3,VISIT 2,NORMAL,Treatment 50mg
+Albumin,3.8,VISIT 3,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),15.1,VISIT 3,NORMAL,Treatment 50mg
+Calcium,9.14,VISIT 3,NORMAL,Treatment 50mg
+Glucose,107.4,VISIT 3,NORMAL,Treatment 50mg
+Albumin,4.0,VISIT 4,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),14.5,VISIT 4,NORMAL,Treatment 50mg
+Calcium,10.18,VISIT 4,NORMAL,Treatment 50mg
+Glucose,121.0,VISIT 4,HIGH,Treatment 50mg
+Albumin,4.1,VISIT 5,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),12.7,VISIT 5,NORMAL,Treatment 50mg
+Calcium,9.32,VISIT 5,NORMAL,Treatment 50mg
+Glucose,119.2,VISIT 5,HIGH,Treatment 50mg
+Albumin,3.9,VISIT 6,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),14.6,VISIT 6,NORMAL,Treatment 50mg
+Calcium,9.54,VISIT 6,NORMAL,Treatment 50mg
+Glucose,105.1,VISIT 6,NORMAL,Treatment 50mg
+Albumin,4.3,SCREENING,NORMAL,Screen Failure
+Blood Urea Nitrogen (BUN),13.6,SCREENING,NORMAL,Screen Failure
+Calcium,9.64,SCREENING,NORMAL,Screen Failure
+Glucose,85.4,SCREENING,NORMAL,Screen Failure
+Albumin,4.4,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),16.1,SCREENING,NORMAL,Treatment 10mg
+Calcium,8.5,SCREENING,NORMAL,Treatment 10mg
+Glucose,67.1,SCREENING,NORMAL,Treatment 10mg
+Albumin,4.2,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),13.2,BASELINE,NORMAL,Treatment 10mg
+Calcium,9.01,BASELINE,NORMAL,Treatment 10mg
+Glucose,93.8,BASELINE,NORMAL,Treatment 10mg
+Albumin,4.1,SCREENING,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),11.3,SCREENING,NORMAL,Treatment 100mg
+Calcium,10.68,SCREENING,HIGH,Treatment 100mg
+Glucose,107.8,SCREENING,NORMAL,Treatment 100mg
+Albumin,4.1,BASELINE,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),19.0,BASELINE,NORMAL,Treatment 100mg
+Calcium,10.97,BASELINE,HIGH,Treatment 100mg
+Glucose,141.3,BASELINE,HIGH,Treatment 100mg
+Albumin,4.3,VISIT 2,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),13.3,VISIT 2,NORMAL,Treatment 100mg
+Calcium,10.61,VISIT 2,HIGH,Treatment 100mg
+Glucose,111.7,VISIT 2,NORMAL,Treatment 100mg
+Albumin,4.3,VISIT 3,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),19.8,VISIT 3,NORMAL,Treatment 100mg
+Calcium,10.85,VISIT 3,HIGH,Treatment 100mg
+Glucose,113.1,VISIT 3,NORMAL,Treatment 100mg
+Albumin,4.2,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),11.4,SCREENING,NORMAL,Treatment 10mg
+Calcium,10.21,SCREENING,NORMAL,Treatment 10mg
+Glucose,94.3,SCREENING,NORMAL,Treatment 10mg
+Albumin,4.3,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.2,BASELINE,NORMAL,Treatment 10mg
+Calcium,9.49,BASELINE,NORMAL,Treatment 10mg
+Glucose,96.4,BASELINE,NORMAL,Treatment 10mg
+Albumin,4.2,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),11.3,VISIT 2,NORMAL,Treatment 10mg
+Calcium,8.78,VISIT 2,NORMAL,Treatment 10mg
+Glucose,78.8,VISIT 2,NORMAL,Treatment 10mg
+Albumin,4.0,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),18.1,VISIT 3,NORMAL,Treatment 10mg
+Calcium,9.7,VISIT 3,NORMAL,Treatment 10mg
+Glucose,95.9,VISIT 3,NORMAL,Treatment 10mg
+Albumin,3.8,VISIT 4,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),10.2,VISIT 4,NORMAL,Treatment 10mg
+Calcium,8.74,VISIT 4,NORMAL,Treatment 10mg
+Glucose,94.7,VISIT 4,NORMAL,Treatment 10mg
+Albumin,4.5,VISIT 5,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),13.6,VISIT 5,NORMAL,Treatment 10mg
+Calcium,9.32,VISIT 5,NORMAL,Treatment 10mg
+Glucose,97.6,VISIT 5,NORMAL,Treatment 10mg
+Albumin,3.7,SCREENING,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),13.3,SCREENING,NORMAL,Treatment 100mg
+Calcium,10.13,SCREENING,NORMAL,Treatment 100mg
+Glucose,120.0,SCREENING,HIGH,Treatment 100mg
+Albumin,3.7,BASELINE,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),11.6,BASELINE,NORMAL,Treatment 100mg
+Calcium,10.89,BASELINE,HIGH,Treatment 100mg
+Glucose,124.9,BASELINE,HIGH,Treatment 100mg
+Albumin,4.3,VISIT 2,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),12.6,VISIT 2,NORMAL,Treatment 100mg
+Calcium,11.23,VISIT 2,HIGH,Treatment 100mg
+Glucose,110.0,VISIT 2,NORMAL,Treatment 100mg
+Albumin,4.1,VISIT 3,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),11.1,VISIT 3,NORMAL,Treatment 100mg
+Calcium,10.83,VISIT 3,HIGH,Treatment 100mg
+Glucose,121.3,VISIT 3,HIGH,Treatment 100mg
+Albumin,4.0,SCREENING,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),14.5,SCREENING,NORMAL,Placebo
+Calcium,8.66,SCREENING,NORMAL,Placebo
+Glucose,89.9,SCREENING,NORMAL,Placebo
+Albumin,4.1,BASELINE,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),16.0,BASELINE,NORMAL,Placebo
+Calcium,8.42,BASELINE,LOW,Placebo
+Glucose,93.2,BASELINE,NORMAL,Placebo
+Albumin,3.6,VISIT 2,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),14.5,VISIT 2,NORMAL,Placebo
+Calcium,8.63,VISIT 2,NORMAL,Placebo
+Glucose,67.2,VISIT 2,NORMAL,Placebo
+Albumin,4.8,VISIT 3,HIGH,Placebo
+Blood Urea Nitrogen (BUN),15.5,VISIT 3,NORMAL,Placebo
+Calcium,9.28,VISIT 3,NORMAL,Placebo
+Glucose,79.6,VISIT 3,NORMAL,Placebo
+Albumin,4.3,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),13.4,SCREENING,NORMAL,Treatment 10mg
+Calcium,9.82,SCREENING,NORMAL,Treatment 10mg
+Glucose,121.3,SCREENING,HIGH,Treatment 10mg
+Albumin,4.3,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),10.1,BASELINE,NORMAL,Treatment 10mg
+Calcium,8.63,BASELINE,NORMAL,Treatment 10mg
+Glucose,102.9,BASELINE,NORMAL,Treatment 10mg
+Albumin,4.1,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),20.4,VISIT 2,HIGH,Treatment 10mg
+Calcium,8.99,VISIT 2,NORMAL,Treatment 10mg
+Glucose,79.3,VISIT 2,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),21.2,VISIT 3,HIGH,Treatment 10mg
+Calcium,9.39,VISIT 3,NORMAL,Treatment 10mg
+Glucose,94.8,VISIT 3,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 4,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.5,VISIT 4,NORMAL,Treatment 10mg
+Calcium,9.21,VISIT 4,NORMAL,Treatment 10mg
+Glucose,90.9,VISIT 4,NORMAL,Treatment 10mg
+Albumin,3.7,VISIT 5,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),17.8,VISIT 5,NORMAL,Treatment 10mg
+Calcium,8.49,VISIT 5,LOW,Treatment 10mg
+Glucose,101.8,VISIT 5,NORMAL,Treatment 10mg
+Albumin,4.1,VISIT 6,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),13.3,VISIT 6,NORMAL,Treatment 10mg
+Calcium,9.83,VISIT 6,NORMAL,Treatment 10mg
+Glucose,92.1,VISIT 6,NORMAL,Treatment 10mg
+Albumin,3.7,SCREENING,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),10.7,SCREENING,NORMAL,Treatment 100mg
+Calcium,11.32,SCREENING,HIGH,Treatment 100mg
+Glucose,99.9,SCREENING,NORMAL,Treatment 100mg
+Albumin,3.9,BASELINE,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),13.4,BASELINE,NORMAL,Treatment 100mg
+Calcium,10.33,BASELINE,NORMAL,Treatment 100mg
+Glucose,141.6,BASELINE,HIGH,Treatment 100mg
+Albumin,4.1,VISIT 2,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),14.9,VISIT 2,NORMAL,Treatment 100mg
+Calcium,11.01,VISIT 2,HIGH,Treatment 100mg
+Glucose,159.8,VISIT 2,HIGH,Treatment 100mg
+Albumin,3.8,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),16.8,SCREENING,NORMAL,Treatment 10mg
+Calcium,8.28,SCREENING,LOW,Treatment 10mg
+Glucose,79.8,SCREENING,NORMAL,Treatment 10mg
+Albumin,4.0,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),12.2,BASELINE,NORMAL,Treatment 10mg
+Calcium,9.51,BASELINE,NORMAL,Treatment 10mg
+Glucose,100.1,BASELINE,NORMAL,Treatment 10mg
+Albumin,4.3,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.2,VISIT 2,NORMAL,Treatment 10mg
+Calcium,8.82,VISIT 2,NORMAL,Treatment 10mg
+Glucose,96.1,VISIT 2,NORMAL,Treatment 10mg
+Albumin,4.2,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),8.1,VISIT 3,NORMAL,Treatment 10mg
+Calcium,8.95,VISIT 3,NORMAL,Treatment 10mg
+Glucose,74.8,VISIT 3,NORMAL,Treatment 10mg
+Albumin,3.3,VISIT 4,LOW,Treatment 10mg
+Blood Urea Nitrogen (BUN),9.0,VISIT 4,NORMAL,Treatment 10mg
+Calcium,7.95,VISIT 4,LOW,Treatment 10mg
+Glucose,77.4,VISIT 4,NORMAL,Treatment 10mg
+Albumin,4.1,VISIT 5,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),12.7,VISIT 5,NORMAL,Treatment 10mg
+Calcium,8.74,VISIT 5,NORMAL,Treatment 10mg
+Glucose,80.4,VISIT 5,NORMAL,Treatment 10mg
+Albumin,3.6,SCREENING,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),11.0,SCREENING,NORMAL,Treatment 100mg
+Calcium,11.22,SCREENING,HIGH,Treatment 100mg
+Glucose,121.5,SCREENING,HIGH,Treatment 100mg
+Albumin,4.4,BASELINE,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),13.0,BASELINE,NORMAL,Treatment 100mg
+Calcium,11.01,BASELINE,HIGH,Treatment 100mg
+Glucose,126.0,BASELINE,HIGH,Treatment 100mg
+Albumin,3.8,VISIT 2,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),15.8,VISIT 2,NORMAL,Treatment 100mg
+Calcium,10.9,VISIT 2,HIGH,Treatment 100mg
+Glucose,132.3,VISIT 2,HIGH,Treatment 100mg
+Albumin,4.2,VISIT 3,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),12.9,VISIT 3,NORMAL,Treatment 100mg
+Calcium,11.36,VISIT 3,HIGH,Treatment 100mg
+Glucose,133.8,VISIT 3,HIGH,Treatment 100mg
+Albumin,4.2,VISIT 4,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),13.6,VISIT 4,NORMAL,Treatment 100mg
+Calcium,10.7,VISIT 4,HIGH,Treatment 100mg
+Glucose,131.2,VISIT 4,HIGH,Treatment 100mg
+Albumin,3.9,VISIT 5,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),18.6,VISIT 5,NORMAL,Treatment 100mg
+Calcium,12.0,VISIT 5,HIGH,Treatment 100mg
+Glucose,127.4,VISIT 5,HIGH,Treatment 100mg
+Albumin,4.4,VISIT 6,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),14.7,VISIT 6,NORMAL,Treatment 100mg
+Calcium,10.76,VISIT 6,HIGH,Treatment 100mg
+Glucose,144.7,VISIT 6,HIGH,Treatment 100mg
+Albumin,3.7,SCREENING,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),10.2,SCREENING,NORMAL,Treatment 100mg
+Calcium,10.88,SCREENING,HIGH,Treatment 100mg
+Glucose,104.3,SCREENING,NORMAL,Treatment 100mg
+Albumin,4.1,BASELINE,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),13.2,BASELINE,NORMAL,Treatment 100mg
+Calcium,10.72,BASELINE,HIGH,Treatment 100mg
+Glucose,129.5,BASELINE,HIGH,Treatment 100mg
+Albumin,3.8,VISIT 2,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),14.8,VISIT 2,NORMAL,Treatment 100mg
+Calcium,9.73,VISIT 2,NORMAL,Treatment 100mg
+Glucose,136.8,VISIT 2,HIGH,Treatment 100mg
+Albumin,4.0,VISIT 3,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),14.9,VISIT 3,NORMAL,Treatment 100mg
+Calcium,11.47,VISIT 3,HIGH,Treatment 100mg
+Glucose,130.8,VISIT 3,HIGH,Treatment 100mg
+Albumin,4.0,VISIT 4,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),15.0,VISIT 4,NORMAL,Treatment 100mg
+Calcium,10.54,VISIT 4,HIGH,Treatment 100mg
+Glucose,136.7,VISIT 4,HIGH,Treatment 100mg
+Albumin,4.2,VISIT 5,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),14.4,VISIT 5,NORMAL,Treatment 100mg
+Calcium,10.36,VISIT 5,NORMAL,Treatment 100mg
+Glucose,130.2,VISIT 5,HIGH,Treatment 100mg
+Albumin,4.0,SCREENING,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),11.2,SCREENING,NORMAL,Placebo
+Calcium,8.5,SCREENING,NORMAL,Placebo
+Glucose,96.4,SCREENING,NORMAL,Placebo
+Albumin,4.1,BASELINE,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),13.4,BASELINE,NORMAL,Placebo
+Calcium,8.75,BASELINE,NORMAL,Placebo
+Glucose,88.2,BASELINE,NORMAL,Placebo
+Albumin,4.4,SCREENING,NORMAL,Screen Failure
+Blood Urea Nitrogen (BUN),12.2,SCREENING,NORMAL,Screen Failure
+Calcium,10.11,SCREENING,NORMAL,Screen Failure
+Glucose,79.3,SCREENING,NORMAL,Screen Failure
+Albumin,3.6,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),17.2,SCREENING,NORMAL,Treatment 10mg
+Calcium,9.1,SCREENING,NORMAL,Treatment 10mg
+Glucose,93.5,SCREENING,NORMAL,Treatment 10mg
+Albumin,4.4,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),10.1,BASELINE,NORMAL,Treatment 10mg
+Calcium,9.26,BASELINE,NORMAL,Treatment 10mg
+Glucose,100.5,BASELINE,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),20.5,VISIT 2,HIGH,Treatment 10mg
+Calcium,9.23,VISIT 2,NORMAL,Treatment 10mg
+Glucose,112.0,VISIT 2,NORMAL,Treatment 10mg
+Albumin,3.9,SCREENING,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),15.4,SCREENING,NORMAL,Treatment 50mg
+Calcium,9.91,SCREENING,NORMAL,Treatment 50mg
+Glucose,98.7,SCREENING,NORMAL,Treatment 50mg
+Albumin,4.0,BASELINE,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),15.8,BASELINE,NORMAL,Treatment 50mg
+Calcium,9.72,BASELINE,NORMAL,Treatment 50mg
+Glucose,88.8,BASELINE,NORMAL,Treatment 50mg
+Albumin,4.2,VISIT 2,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),18.7,VISIT 2,NORMAL,Treatment 50mg
+Calcium,9.28,VISIT 2,NORMAL,Treatment 50mg
+Glucose,92.4,VISIT 2,NORMAL,Treatment 50mg
+Albumin,3.8,VISIT 3,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),10.3,VISIT 3,NORMAL,Treatment 50mg
+Calcium,9.16,VISIT 3,NORMAL,Treatment 50mg
+Glucose,87.0,VISIT 3,NORMAL,Treatment 50mg
+Albumin,4.0,VISIT 4,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),11.8,VISIT 4,NORMAL,Treatment 50mg
+Calcium,9.52,VISIT 4,NORMAL,Treatment 50mg
+Glucose,113.9,VISIT 4,NORMAL,Treatment 50mg
+Albumin,4.2,VISIT 5,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),14.7,VISIT 5,NORMAL,Treatment 50mg
+Calcium,9.45,VISIT 5,NORMAL,Treatment 50mg
+Glucose,94.9,VISIT 5,NORMAL,Treatment 50mg
+Albumin,4.2,VISIT 6,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),12.4,VISIT 6,NORMAL,Treatment 50mg
+Calcium,10.53,VISIT 6,HIGH,Treatment 50mg
+Glucose,118.6,VISIT 6,HIGH,Treatment 50mg
+Albumin,4.0,SCREENING,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),12.1,SCREENING,NORMAL,Treatment 50mg
+Calcium,10.69,SCREENING,HIGH,Treatment 50mg
+Glucose,109.1,SCREENING,NORMAL,Treatment 50mg
+Albumin,4.1,BASELINE,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),10.5,BASELINE,NORMAL,Treatment 50mg
+Calcium,9.35,BASELINE,NORMAL,Treatment 50mg
+Glucose,100.4,BASELINE,NORMAL,Treatment 50mg
+Albumin,3.4,VISIT 2,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),11.5,VISIT 2,NORMAL,Treatment 50mg
+Calcium,9.67,VISIT 2,NORMAL,Treatment 50mg
+Glucose,92.6,VISIT 2,NORMAL,Treatment 50mg
+Albumin,4.2,VISIT 3,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),15.4,VISIT 3,NORMAL,Treatment 50mg
+Calcium,8.49,VISIT 3,LOW,Treatment 50mg
+Glucose,94.5,VISIT 3,NORMAL,Treatment 50mg
+Albumin,3.8,SCREENING,NORMAL,Screen Failure
+Blood Urea Nitrogen (BUN),13.5,SCREENING,NORMAL,Screen Failure
+Calcium,9.54,SCREENING,NORMAL,Screen Failure
+Glucose,99.4,SCREENING,NORMAL,Screen Failure
+Albumin,4.4,SCREENING,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),15.9,SCREENING,NORMAL,Treatment 100mg
+Calcium,10.42,SCREENING,NORMAL,Treatment 100mg
+Glucose,130.2,SCREENING,HIGH,Treatment 100mg
+Albumin,4.0,BASELINE,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),10.5,BASELINE,NORMAL,Treatment 100mg
+Calcium,10.8,BASELINE,HIGH,Treatment 100mg
+Glucose,126.3,BASELINE,HIGH,Treatment 100mg
+Albumin,3.8,VISIT 2,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),9.3,VISIT 2,NORMAL,Treatment 100mg
+Calcium,11.38,VISIT 2,HIGH,Treatment 100mg
+Glucose,130.4,VISIT 2,HIGH,Treatment 100mg
+Albumin,4.1,VISIT 3,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),19.3,VISIT 3,NORMAL,Treatment 100mg
+Calcium,10.41,VISIT 3,NORMAL,Treatment 100mg
+Glucose,116.7,VISIT 3,HIGH,Treatment 100mg
+Albumin,3.7,VISIT 4,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),12.0,VISIT 4,NORMAL,Treatment 100mg
+Calcium,11.49,VISIT 4,HIGH,Treatment 100mg
+Glucose,125.2,VISIT 4,HIGH,Treatment 100mg
+Albumin,3.9,VISIT 5,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),17.9,VISIT 5,NORMAL,Treatment 100mg
+Calcium,11.12,VISIT 5,HIGH,Treatment 100mg
+Glucose,121.8,VISIT 5,HIGH,Treatment 100mg
+Albumin,3.6,VISIT 6,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),12.0,VISIT 6,NORMAL,Treatment 100mg
+Calcium,10.32,VISIT 6,NORMAL,Treatment 100mg
+Glucose,123.8,VISIT 6,HIGH,Treatment 100mg
+Albumin,4.4,SCREENING,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),13.7,SCREENING,NORMAL,Treatment 100mg
+Calcium,10.41,SCREENING,NORMAL,Treatment 100mg
+Glucose,136.1,SCREENING,HIGH,Treatment 100mg
+Albumin,4.5,BASELINE,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),12.8,BASELINE,NORMAL,Treatment 100mg
+Calcium,10.2,BASELINE,NORMAL,Treatment 100mg
+Glucose,116.6,BASELINE,HIGH,Treatment 100mg
+Albumin,3.3,VISIT 2,LOW,Treatment 100mg
+Blood Urea Nitrogen (BUN),17.5,VISIT 2,NORMAL,Treatment 100mg
+Calcium,11.09,VISIT 2,HIGH,Treatment 100mg
+Glucose,133.7,VISIT 2,HIGH,Treatment 100mg
+Albumin,4.1,VISIT 3,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),10.5,VISIT 3,NORMAL,Treatment 100mg
+Calcium,11.7,VISIT 3,HIGH,Treatment 100mg
+Glucose,121.8,VISIT 3,HIGH,Treatment 100mg
+Albumin,3.9,VISIT 4,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),18.8,VISIT 4,NORMAL,Treatment 100mg
+Calcium,10.49,VISIT 4,NORMAL,Treatment 100mg
+Glucose,130.6,VISIT 4,HIGH,Treatment 100mg
+Albumin,4.2,VISIT 5,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),7.8,VISIT 5,LOW,Treatment 100mg
+Calcium,10.9,VISIT 5,HIGH,Treatment 100mg
+Glucose,127.5,VISIT 5,HIGH,Treatment 100mg
+Albumin,4.3,SCREENING,NORMAL,Screen Failure
+Blood Urea Nitrogen (BUN),8.8,SCREENING,NORMAL,Screen Failure
+Calcium,9.42,SCREENING,NORMAL,Screen Failure
+Glucose,83.0,SCREENING,NORMAL,Screen Failure
+Albumin,4.5,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),9.3,SCREENING,NORMAL,Treatment 10mg
+Calcium,8.97,SCREENING,NORMAL,Treatment 10mg
+Glucose,74.9,SCREENING,NORMAL,Treatment 10mg
+Albumin,3.5,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),17.5,BASELINE,NORMAL,Treatment 10mg
+Calcium,8.81,BASELINE,NORMAL,Treatment 10mg
+Glucose,82.9,BASELINE,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),11.2,VISIT 2,NORMAL,Treatment 10mg
+Calcium,8.89,VISIT 2,NORMAL,Treatment 10mg
+Glucose,101.3,VISIT 2,NORMAL,Treatment 10mg
+Albumin,4.0,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),19.8,VISIT 3,NORMAL,Treatment 10mg
+Calcium,8.6,VISIT 3,NORMAL,Treatment 10mg
+Glucose,82.4,VISIT 3,NORMAL,Treatment 10mg
+Albumin,4.1,VISIT 4,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),10.6,VISIT 4,NORMAL,Treatment 10mg
+Calcium,8.59,VISIT 4,NORMAL,Treatment 10mg
+Glucose,106.2,VISIT 4,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 5,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),16.1,VISIT 5,NORMAL,Treatment 10mg
+Calcium,8.53,VISIT 5,NORMAL,Treatment 10mg
+Glucose,108.7,VISIT 5,NORMAL,Treatment 10mg
+Albumin,3.5,VISIT 6,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.9,VISIT 6,NORMAL,Treatment 10mg
+Calcium,9.32,VISIT 6,NORMAL,Treatment 10mg
+Glucose,74.0,VISIT 6,NORMAL,Treatment 10mg
+Albumin,4.6,SCREENING,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),11.7,SCREENING,NORMAL,Placebo
+Calcium,9.02,SCREENING,NORMAL,Placebo
+Glucose,86.9,SCREENING,NORMAL,Placebo
+Albumin,3.9,BASELINE,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),13.8,BASELINE,NORMAL,Placebo
+Calcium,8.42,BASELINE,LOW,Placebo
+Glucose,68.8,BASELINE,NORMAL,Placebo
+Albumin,4.0,VISIT 2,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),10.1,VISIT 2,NORMAL,Placebo
+Calcium,8.94,VISIT 2,NORMAL,Placebo
+Glucose,75.2,VISIT 2,NORMAL,Placebo
+Albumin,3.7,VISIT 3,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),15.4,VISIT 3,NORMAL,Placebo
+Calcium,9.15,VISIT 3,NORMAL,Placebo
+Glucose,78.7,VISIT 3,NORMAL,Placebo
+Albumin,4.2,VISIT 4,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),13.4,VISIT 4,NORMAL,Placebo
+Calcium,8.69,VISIT 4,NORMAL,Placebo
+Glucose,95.8,VISIT 4,NORMAL,Placebo
+Albumin,3.7,VISIT 5,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),16.0,VISIT 5,NORMAL,Placebo
+Calcium,9.0,VISIT 5,NORMAL,Placebo
+Glucose,81.4,VISIT 5,NORMAL,Placebo
+Albumin,4.0,SCREENING,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),16.9,SCREENING,NORMAL,Placebo
+Calcium,8.74,SCREENING,NORMAL,Placebo
+Glucose,89.6,SCREENING,NORMAL,Placebo
+Albumin,4.2,BASELINE,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),14.1,BASELINE,NORMAL,Placebo
+Calcium,8.35,BASELINE,LOW,Placebo
+Glucose,101.3,BASELINE,NORMAL,Placebo
+Albumin,4.2,VISIT 2,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),15.4,VISIT 2,NORMAL,Placebo
+Calcium,7.78,VISIT 2,LOW,Placebo
+Glucose,108.4,VISIT 2,NORMAL,Placebo
+Albumin,4.1,VISIT 3,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),14.5,VISIT 3,NORMAL,Placebo
+Calcium,8.46,VISIT 3,LOW,Placebo
+Glucose,68.5,VISIT 3,NORMAL,Placebo
+Albumin,4.2,VISIT 4,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),10.2,VISIT 4,NORMAL,Placebo
+Calcium,8.06,VISIT 4,LOW,Placebo
+Glucose,96.3,VISIT 4,NORMAL,Placebo
+Albumin,4.4,VISIT 5,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),15.6,VISIT 5,NORMAL,Placebo
+Calcium,8.33,VISIT 5,LOW,Placebo
+Glucose,68.4,VISIT 5,NORMAL,Placebo
+Albumin,4.1,VISIT 6,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),12.5,VISIT 6,NORMAL,Placebo
+Calcium,9.23,VISIT 6,NORMAL,Placebo
+Glucose,83.0,VISIT 6,NORMAL,Placebo
+Albumin,3.7,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),11.4,SCREENING,NORMAL,Treatment 10mg
+Calcium,8.24,SCREENING,LOW,Treatment 10mg
+Glucose,106.4,SCREENING,NORMAL,Treatment 10mg
+Albumin,4.3,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.2,BASELINE,NORMAL,Treatment 10mg
+Calcium,9.45,BASELINE,NORMAL,Treatment 10mg
+Glucose,108.8,BASELINE,NORMAL,Treatment 10mg
+Albumin,4.2,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.5,VISIT 2,NORMAL,Treatment 10mg
+Calcium,8.63,VISIT 2,NORMAL,Treatment 10mg
+Glucose,84.4,VISIT 2,NORMAL,Treatment 10mg
+Albumin,4.3,SCREENING,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),14.8,SCREENING,NORMAL,Treatment 100mg
+Calcium,10.63,SCREENING,HIGH,Treatment 100mg
+Glucose,129.4,SCREENING,HIGH,Treatment 100mg
+Albumin,4.1,BASELINE,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),12.7,BASELINE,NORMAL,Treatment 100mg
+Calcium,10.58,BASELINE,HIGH,Treatment 100mg
+Glucose,109.8,BASELINE,NORMAL,Treatment 100mg
+Albumin,4.6,VISIT 2,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),13.8,VISIT 2,NORMAL,Treatment 100mg
+Calcium,10.69,VISIT 2,HIGH,Treatment 100mg
+Glucose,116.7,VISIT 2,HIGH,Treatment 100mg
+Albumin,4.1,VISIT 3,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),13.1,VISIT 3,NORMAL,Treatment 100mg
+Calcium,10.69,VISIT 3,HIGH,Treatment 100mg
+Glucose,130.1,VISIT 3,HIGH,Treatment 100mg
+Albumin,4.2,VISIT 4,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),19.4,VISIT 4,NORMAL,Treatment 100mg
+Calcium,9.96,VISIT 4,NORMAL,Treatment 100mg
+Glucose,120.9,VISIT 4,HIGH,Treatment 100mg
+Albumin,4.1,VISIT 5,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),14.2,VISIT 5,NORMAL,Treatment 100mg
+Calcium,10.93,VISIT 5,HIGH,Treatment 100mg
+Glucose,136.8,VISIT 5,HIGH,Treatment 100mg
+Albumin,4.1,VISIT 6,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),16.3,VISIT 6,NORMAL,Treatment 100mg
+Calcium,11.1,VISIT 6,HIGH,Treatment 100mg
+Glucose,138.9,VISIT 6,HIGH,Treatment 100mg
+Albumin,4.0,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.4,SCREENING,NORMAL,Treatment 10mg
+Calcium,8.4,SCREENING,LOW,Treatment 10mg
+Glucose,92.2,SCREENING,NORMAL,Treatment 10mg
+Albumin,3.8,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),8.8,BASELINE,NORMAL,Treatment 10mg
+Calcium,9.29,BASELINE,NORMAL,Treatment 10mg
+Glucose,82.5,BASELINE,NORMAL,Treatment 10mg
+Albumin,4.6,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.1,VISIT 2,NORMAL,Treatment 10mg
+Calcium,9.75,VISIT 2,NORMAL,Treatment 10mg
+Glucose,90.3,VISIT 2,NORMAL,Treatment 10mg
+Albumin,4.2,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.2,VISIT 3,NORMAL,Treatment 10mg
+Calcium,8.66,VISIT 3,NORMAL,Treatment 10mg
+Glucose,79.2,VISIT 3,NORMAL,Treatment 10mg
+Albumin,3.6,VISIT 4,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.3,VISIT 4,NORMAL,Treatment 10mg
+Calcium,9.02,VISIT 4,NORMAL,Treatment 10mg
+Glucose,98.7,VISIT 4,NORMAL,Treatment 10mg
+Albumin,4.1,VISIT 5,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.2,VISIT 5,NORMAL,Treatment 10mg
+Calcium,8.79,VISIT 5,NORMAL,Treatment 10mg
+Glucose,100.6,VISIT 5,NORMAL,Treatment 10mg
+Albumin,3.8,VISIT 6,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.4,VISIT 6,NORMAL,Treatment 10mg
+Calcium,9.0,VISIT 6,NORMAL,Treatment 10mg
+Glucose,82.8,VISIT 6,NORMAL,Treatment 10mg
+Albumin,4.6,SCREENING,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),17.0,SCREENING,NORMAL,Placebo
+Calcium,7.97,SCREENING,LOW,Placebo
+Glucose,92.8,SCREENING,NORMAL,Placebo
+Albumin,3.6,BASELINE,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),8.7,BASELINE,NORMAL,Placebo
+Calcium,8.83,BASELINE,NORMAL,Placebo
+Glucose,87.9,BASELINE,NORMAL,Placebo
+Albumin,3.6,VISIT 2,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),12.7,VISIT 2,NORMAL,Placebo
+Calcium,8.99,VISIT 2,NORMAL,Placebo
+Glucose,108.9,VISIT 2,NORMAL,Placebo
+Albumin,3.9,VISIT 3,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),10.3,VISIT 3,NORMAL,Placebo
+Calcium,8.4,VISIT 3,LOW,Placebo
+Glucose,70.5,VISIT 3,NORMAL,Placebo
+Albumin,4.0,VISIT 4,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),11.5,VISIT 4,NORMAL,Placebo
+Calcium,8.18,VISIT 4,LOW,Placebo
+Glucose,92.9,VISIT 4,NORMAL,Placebo
+Albumin,4.2,VISIT 5,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),20.7,VISIT 5,HIGH,Placebo
+Calcium,8.68,VISIT 5,NORMAL,Placebo
+Glucose,58.8,VISIT 5,LOW,Placebo
+Albumin,3.8,VISIT 6,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),12.7,VISIT 6,NORMAL,Placebo
+Calcium,8.36,VISIT 6,LOW,Placebo
+Glucose,90.3,VISIT 6,NORMAL,Placebo
+Albumin,4.1,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),12.7,SCREENING,NORMAL,Treatment 10mg
+Calcium,9.55,SCREENING,NORMAL,Treatment 10mg
+Glucose,78.3,SCREENING,NORMAL,Treatment 10mg
+Albumin,4.0,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),9.3,BASELINE,NORMAL,Treatment 10mg
+Calcium,8.86,BASELINE,NORMAL,Treatment 10mg
+Glucose,107.2,BASELINE,NORMAL,Treatment 10mg
+Albumin,4.0,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),11.3,VISIT 2,NORMAL,Treatment 10mg
+Calcium,8.86,VISIT 2,NORMAL,Treatment 10mg
+Glucose,83.2,VISIT 2,NORMAL,Treatment 10mg
+Albumin,4.5,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),12.3,VISIT 3,NORMAL,Treatment 10mg
+Calcium,8.68,VISIT 3,NORMAL,Treatment 10mg
+Glucose,81.3,VISIT 3,NORMAL,Treatment 10mg
+Albumin,4.1,VISIT 4,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),10.9,VISIT 4,NORMAL,Treatment 10mg
+Calcium,9.9,VISIT 4,NORMAL,Treatment 10mg
+Glucose,64.5,VISIT 4,NORMAL,Treatment 10mg
+Albumin,3.5,VISIT 5,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),9.0,VISIT 5,NORMAL,Treatment 10mg
+Calcium,9.99,VISIT 5,NORMAL,Treatment 10mg
+Glucose,98.1,VISIT 5,NORMAL,Treatment 10mg
+Albumin,3.7,VISIT 6,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),10.6,VISIT 6,NORMAL,Treatment 10mg
+Calcium,9.02,VISIT 6,NORMAL,Treatment 10mg
+Glucose,114.7,VISIT 6,NORMAL,Treatment 10mg
+Albumin,3.6,SCREENING,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),13.5,SCREENING,NORMAL,Treatment 50mg
+Calcium,9.46,SCREENING,NORMAL,Treatment 50mg
+Glucose,104.8,SCREENING,NORMAL,Treatment 50mg
+Albumin,4.4,BASELINE,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),9.4,BASELINE,NORMAL,Treatment 50mg
+Calcium,9.26,BASELINE,NORMAL,Treatment 50mg
+Glucose,82.4,BASELINE,NORMAL,Treatment 50mg
+Albumin,3.9,VISIT 2,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),15.8,VISIT 2,NORMAL,Treatment 50mg
+Calcium,9.77,VISIT 2,NORMAL,Treatment 50mg
+Glucose,90.6,VISIT 2,NORMAL,Treatment 50mg
+Albumin,4.0,VISIT 3,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),15.7,VISIT 3,NORMAL,Treatment 50mg
+Calcium,10.39,VISIT 3,NORMAL,Treatment 50mg
+Glucose,94.4,VISIT 3,NORMAL,Treatment 50mg
+Albumin,3.8,VISIT 4,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),13.3,VISIT 4,NORMAL,Treatment 50mg
+Calcium,9.44,VISIT 4,NORMAL,Treatment 50mg
+Glucose,112.4,VISIT 4,NORMAL,Treatment 50mg
+Albumin,4.5,VISIT 5,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),14.7,VISIT 5,NORMAL,Treatment 50mg
+Calcium,9.78,VISIT 5,NORMAL,Treatment 50mg
+Glucose,121.4,VISIT 5,HIGH,Treatment 50mg
+Albumin,4.1,VISIT 6,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),12.9,VISIT 6,NORMAL,Treatment 50mg
+Calcium,9.92,VISIT 6,NORMAL,Treatment 50mg
+Glucose,89.3,VISIT 6,NORMAL,Treatment 50mg
+Albumin,4.3,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),17.4,SCREENING,NORMAL,Treatment 10mg
+Calcium,8.49,SCREENING,LOW,Treatment 10mg
+Glucose,78.0,SCREENING,NORMAL,Treatment 10mg
+Albumin,3.9,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),9.9,BASELINE,NORMAL,Treatment 10mg
+Calcium,9.05,BASELINE,NORMAL,Treatment 10mg
+Glucose,91.5,BASELINE,NORMAL,Treatment 10mg
+Albumin,3.1,VISIT 2,LOW,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.4,VISIT 2,NORMAL,Treatment 10mg
+Calcium,9.28,VISIT 2,NORMAL,Treatment 10mg
+Glucose,98.5,VISIT 2,NORMAL,Treatment 10mg
+Albumin,4.1,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.0,VISIT 3,NORMAL,Treatment 10mg
+Calcium,9.08,VISIT 3,NORMAL,Treatment 10mg
+Glucose,108.8,VISIT 3,NORMAL,Treatment 10mg
+Albumin,4.0,VISIT 4,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.5,VISIT 4,NORMAL,Treatment 10mg
+Calcium,9.59,VISIT 4,NORMAL,Treatment 10mg
+Glucose,78.2,VISIT 4,NORMAL,Treatment 10mg
+Albumin,4.0,VISIT 5,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),9.2,VISIT 5,NORMAL,Treatment 10mg
+Calcium,8.96,VISIT 5,NORMAL,Treatment 10mg
+Glucose,97.3,VISIT 5,NORMAL,Treatment 10mg
+Albumin,4.1,SCREENING,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),14.1,SCREENING,NORMAL,Treatment 50mg
+Calcium,9.04,SCREENING,NORMAL,Treatment 50mg
+Glucose,102.9,SCREENING,NORMAL,Treatment 50mg
+Albumin,4.0,BASELINE,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),22.5,BASELINE,HIGH,Treatment 50mg
+Calcium,9.42,BASELINE,NORMAL,Treatment 50mg
+Glucose,134.1,BASELINE,HIGH,Treatment 50mg
+Albumin,3.7,VISIT 2,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),15.4,VISIT 2,NORMAL,Treatment 50mg
+Calcium,9.66,VISIT 2,NORMAL,Treatment 50mg
+Glucose,86.7,VISIT 2,NORMAL,Treatment 50mg
+Albumin,3.6,SCREENING,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),9.4,SCREENING,NORMAL,Placebo
+Calcium,8.26,SCREENING,LOW,Placebo
+Glucose,86.8,SCREENING,NORMAL,Placebo
+Albumin,4.0,BASELINE,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),12.6,BASELINE,NORMAL,Placebo
+Calcium,8.79,BASELINE,NORMAL,Placebo
+Glucose,82.4,BASELINE,NORMAL,Placebo
+Albumin,3.9,VISIT 2,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),13.6,VISIT 2,NORMAL,Placebo
+Calcium,8.78,VISIT 2,NORMAL,Placebo
+Glucose,60.1,VISIT 2,NORMAL,Placebo
+Albumin,3.6,VISIT 3,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),12.4,VISIT 3,NORMAL,Placebo
+Calcium,7.99,VISIT 3,LOW,Placebo
+Glucose,74.3,VISIT 3,NORMAL,Placebo
+Albumin,4.4,VISIT 4,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),12.9,VISIT 4,NORMAL,Placebo
+Calcium,8.94,VISIT 4,NORMAL,Placebo
+Glucose,104.3,VISIT 4,NORMAL,Placebo
+Albumin,4.4,VISIT 5,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),10.7,VISIT 5,NORMAL,Placebo
+Calcium,7.52,VISIT 5,LOW,Placebo
+Glucose,97.4,VISIT 5,NORMAL,Placebo
+Albumin,3.7,VISIT 6,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),14.7,VISIT 6,NORMAL,Placebo
+Calcium,8.12,VISIT 6,LOW,Placebo
+Glucose,88.6,VISIT 6,NORMAL,Placebo
+Albumin,4.5,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.9,SCREENING,NORMAL,Treatment 10mg
+Calcium,9.58,SCREENING,NORMAL,Treatment 10mg
+Glucose,88.3,SCREENING,NORMAL,Treatment 10mg
+Albumin,3.7,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),7.5,BASELINE,LOW,Treatment 10mg
+Calcium,9.22,BASELINE,NORMAL,Treatment 10mg
+Glucose,74.9,BASELINE,NORMAL,Treatment 10mg
+Albumin,4.4,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),17.6,VISIT 2,NORMAL,Treatment 10mg
+Calcium,7.77,VISIT 2,LOW,Treatment 10mg
+Glucose,97.1,VISIT 2,NORMAL,Treatment 10mg
+Albumin,3.3,VISIT 3,LOW,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.5,VISIT 3,NORMAL,Treatment 10mg
+Calcium,9.12,VISIT 3,NORMAL,Treatment 10mg
+Glucose,71.4,VISIT 3,NORMAL,Treatment 10mg
+Albumin,3.6,VISIT 4,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),13.2,VISIT 4,NORMAL,Treatment 10mg
+Calcium,8.88,VISIT 4,NORMAL,Treatment 10mg
+Glucose,93.8,VISIT 4,NORMAL,Treatment 10mg
+Albumin,4.4,VISIT 5,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),16.7,VISIT 5,NORMAL,Treatment 10mg
+Calcium,8.97,VISIT 5,NORMAL,Treatment 10mg
+Glucose,61.6,VISIT 5,NORMAL,Treatment 10mg
+Albumin,3.4,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),13.4,SCREENING,NORMAL,Treatment 10mg
+Calcium,8.37,SCREENING,LOW,Treatment 10mg
+Glucose,96.1,SCREENING,NORMAL,Treatment 10mg
+Albumin,4.3,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),17.1,BASELINE,NORMAL,Treatment 10mg
+Calcium,8.13,BASELINE,LOW,Treatment 10mg
+Glucose,86.9,BASELINE,NORMAL,Treatment 10mg
+Albumin,4.2,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),11.9,VISIT 2,NORMAL,Treatment 10mg
+Calcium,8.94,VISIT 2,NORMAL,Treatment 10mg
+Glucose,71.8,VISIT 2,NORMAL,Treatment 10mg
+Albumin,4.0,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),22.3,VISIT 3,HIGH,Treatment 10mg
+Calcium,9.44,VISIT 3,NORMAL,Treatment 10mg
+Glucose,100.1,VISIT 3,NORMAL,Treatment 10mg
+Albumin,4.5,VISIT 4,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),9.8,VISIT 4,NORMAL,Treatment 10mg
+Calcium,8.32,VISIT 4,LOW,Treatment 10mg
+Glucose,94.7,VISIT 4,NORMAL,Treatment 10mg
+Albumin,4.4,SCREENING,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),6.1,SCREENING,LOW,Treatment 100mg
+Calcium,11.08,SCREENING,HIGH,Treatment 100mg
+Glucose,153.7,SCREENING,HIGH,Treatment 100mg
+Albumin,4.2,BASELINE,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),13.5,BASELINE,NORMAL,Treatment 100mg
+Calcium,11.37,BASELINE,HIGH,Treatment 100mg
+Glucose,121.1,BASELINE,HIGH,Treatment 100mg
+Albumin,4.5,VISIT 2,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),9.9,VISIT 2,NORMAL,Treatment 100mg
+Calcium,11.24,VISIT 2,HIGH,Treatment 100mg
+Glucose,119.1,VISIT 2,HIGH,Treatment 100mg
+Albumin,3.6,VISIT 3,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),12.1,VISIT 3,NORMAL,Treatment 100mg
+Calcium,11.93,VISIT 3,HIGH,Treatment 100mg
+Glucose,121.7,VISIT 3,HIGH,Treatment 100mg
+Albumin,4.6,VISIT 4,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),18.7,VISIT 4,NORMAL,Treatment 100mg
+Calcium,10.77,VISIT 4,HIGH,Treatment 100mg
+Glucose,138.8,VISIT 4,HIGH,Treatment 100mg
+Albumin,3.6,SCREENING,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),13.5,SCREENING,NORMAL,Treatment 100mg
+Calcium,11.2,SCREENING,HIGH,Treatment 100mg
+Glucose,102.7,SCREENING,NORMAL,Treatment 100mg
+Albumin,4.2,BASELINE,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),14.1,BASELINE,NORMAL,Treatment 100mg
+Calcium,11.51,BASELINE,HIGH,Treatment 100mg
+Glucose,118.1,BASELINE,HIGH,Treatment 100mg
+Albumin,3.6,VISIT 2,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),13.1,VISIT 2,NORMAL,Treatment 100mg
+Calcium,10.74,VISIT 2,HIGH,Treatment 100mg
+Glucose,113.3,VISIT 2,NORMAL,Treatment 100mg
+Albumin,3.3,SCREENING,LOW,Screen Failure
+Blood Urea Nitrogen (BUN),13.3,SCREENING,NORMAL,Screen Failure
+Calcium,10.01,SCREENING,NORMAL,Screen Failure
+Glucose,71.6,SCREENING,NORMAL,Screen Failure
+Albumin,3.8,SCREENING,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),23.8,SCREENING,HIGH,Treatment 50mg
+Calcium,9.32,SCREENING,NORMAL,Treatment 50mg
+Glucose,113.0,SCREENING,NORMAL,Treatment 50mg
+Albumin,4.1,BASELINE,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),8.9,BASELINE,NORMAL,Treatment 50mg
+Calcium,8.87,BASELINE,NORMAL,Treatment 50mg
+Glucose,79.5,BASELINE,NORMAL,Treatment 50mg
+Albumin,3.4,VISIT 2,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),13.5,VISIT 2,NORMAL,Treatment 50mg
+Calcium,9.84,VISIT 2,NORMAL,Treatment 50mg
+Glucose,90.2,VISIT 2,NORMAL,Treatment 50mg
+Albumin,4.1,SCREENING,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),12.8,SCREENING,NORMAL,Treatment 100mg
+Calcium,11.03,SCREENING,HIGH,Treatment 100mg
+Glucose,107.8,SCREENING,NORMAL,Treatment 100mg
+Albumin,4.4,BASELINE,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),12.2,BASELINE,NORMAL,Treatment 100mg
+Calcium,11.47,BASELINE,HIGH,Treatment 100mg
+Glucose,136.1,BASELINE,HIGH,Treatment 100mg
+Albumin,4.0,VISIT 2,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),12.7,VISIT 2,NORMAL,Treatment 100mg
+Calcium,10.73,VISIT 2,HIGH,Treatment 100mg
+Glucose,119.0,VISIT 2,HIGH,Treatment 100mg
+Albumin,3.5,VISIT 3,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),12.4,VISIT 3,NORMAL,Treatment 100mg
+Calcium,11.11,VISIT 3,HIGH,Treatment 100mg
+Glucose,157.3,VISIT 3,HIGH,Treatment 100mg
+Albumin,4.0,VISIT 4,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),15.8,VISIT 4,NORMAL,Treatment 100mg
+Calcium,11.25,VISIT 4,HIGH,Treatment 100mg
+Glucose,101.7,VISIT 4,NORMAL,Treatment 100mg
+Albumin,3.5,SCREENING,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),24.7,SCREENING,HIGH,Treatment 50mg
+Calcium,9.8,SCREENING,NORMAL,Treatment 50mg
+Glucose,103.8,SCREENING,NORMAL,Treatment 50mg
+Albumin,4.0,BASELINE,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),19.8,BASELINE,NORMAL,Treatment 50mg
+Calcium,9.61,BASELINE,NORMAL,Treatment 50mg
+Glucose,104.8,BASELINE,NORMAL,Treatment 50mg
+Albumin,3.8,VISIT 2,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),14.0,VISIT 2,NORMAL,Treatment 50mg
+Calcium,10.02,VISIT 2,NORMAL,Treatment 50mg
+Glucose,118.2,VISIT 2,HIGH,Treatment 50mg
+Albumin,3.4,VISIT 3,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),16.8,VISIT 3,NORMAL,Treatment 50mg
+Calcium,9.84,VISIT 3,NORMAL,Treatment 50mg
+Glucose,86.7,VISIT 3,NORMAL,Treatment 50mg
+Albumin,4.3,VISIT 4,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),14.2,VISIT 4,NORMAL,Treatment 50mg
+Calcium,9.41,VISIT 4,NORMAL,Treatment 50mg
+Glucose,110.3,VISIT 4,NORMAL,Treatment 50mg
+Albumin,4.1,SCREENING,NORMAL,Screen Failure
+Blood Urea Nitrogen (BUN),12.6,SCREENING,NORMAL,Screen Failure
+Calcium,10.01,SCREENING,NORMAL,Screen Failure
+Glucose,93.4,SCREENING,NORMAL,Screen Failure
+Albumin,4.1,SCREENING,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),12.7,SCREENING,NORMAL,Treatment 100mg
+Calcium,10.33,SCREENING,NORMAL,Treatment 100mg
+Glucose,134.5,SCREENING,HIGH,Treatment 100mg
+Albumin,3.6,BASELINE,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),13.0,BASELINE,NORMAL,Treatment 100mg
+Calcium,10.68,BASELINE,HIGH,Treatment 100mg
+Glucose,142.6,BASELINE,HIGH,Treatment 100mg
+Albumin,3.9,VISIT 2,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),11.6,VISIT 2,NORMAL,Treatment 100mg
+Calcium,10.48,VISIT 2,NORMAL,Treatment 100mg
+Glucose,121.9,VISIT 2,HIGH,Treatment 100mg
+Albumin,4.3,VISIT 3,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),15.3,VISIT 3,NORMAL,Treatment 100mg
+Calcium,11.49,VISIT 3,HIGH,Treatment 100mg
+Glucose,117.0,VISIT 3,HIGH,Treatment 100mg
+Albumin,4.4,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),11.0,SCREENING,NORMAL,Treatment 10mg
+Calcium,9.52,SCREENING,NORMAL,Treatment 10mg
+Glucose,84.7,SCREENING,NORMAL,Treatment 10mg
+Albumin,4.7,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),11.3,BASELINE,NORMAL,Treatment 10mg
+Calcium,9.05,BASELINE,NORMAL,Treatment 10mg
+Glucose,103.8,BASELINE,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),12.9,VISIT 2,NORMAL,Treatment 10mg
+Calcium,9.34,VISIT 2,NORMAL,Treatment 10mg
+Glucose,76.4,VISIT 2,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),7.1,VISIT 3,LOW,Treatment 10mg
+Calcium,8.16,VISIT 3,LOW,Treatment 10mg
+Glucose,111.5,VISIT 3,NORMAL,Treatment 10mg
+Albumin,4.2,VISIT 4,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),11.3,VISIT 4,NORMAL,Treatment 10mg
+Calcium,8.63,VISIT 4,NORMAL,Treatment 10mg
+Glucose,101.1,VISIT 4,NORMAL,Treatment 10mg
+Albumin,4.7,VISIT 5,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.7,VISIT 5,NORMAL,Treatment 10mg
+Calcium,9.79,VISIT 5,NORMAL,Treatment 10mg
+Glucose,94.8,VISIT 5,NORMAL,Treatment 10mg
+Albumin,4.0,VISIT 6,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.4,VISIT 6,NORMAL,Treatment 10mg
+Calcium,9.26,VISIT 6,NORMAL,Treatment 10mg
+Glucose,66.0,VISIT 6,NORMAL,Treatment 10mg
+Albumin,4.2,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),13.9,SCREENING,NORMAL,Treatment 10mg
+Calcium,9.77,SCREENING,NORMAL,Treatment 10mg
+Glucose,92.8,SCREENING,NORMAL,Treatment 10mg
+Albumin,4.1,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),7.4,BASELINE,LOW,Treatment 10mg
+Calcium,9.55,BASELINE,NORMAL,Treatment 10mg
+Glucose,99.9,BASELINE,NORMAL,Treatment 10mg
+Albumin,4.1,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),16.9,VISIT 2,NORMAL,Treatment 10mg
+Calcium,9.05,VISIT 2,NORMAL,Treatment 10mg
+Glucose,86.4,VISIT 2,NORMAL,Treatment 10mg
+Albumin,4.2,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),12.0,VISIT 3,NORMAL,Treatment 10mg
+Calcium,9.66,VISIT 3,NORMAL,Treatment 10mg
+Glucose,104.9,VISIT 3,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 4,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),12.5,VISIT 4,NORMAL,Treatment 10mg
+Calcium,8.24,VISIT 4,LOW,Treatment 10mg
+Glucose,84.5,VISIT 4,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 5,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),11.2,VISIT 5,NORMAL,Treatment 10mg
+Calcium,9.02,VISIT 5,NORMAL,Treatment 10mg
+Glucose,85.0,VISIT 5,NORMAL,Treatment 10mg
+Albumin,4.4,VISIT 6,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),17.3,VISIT 6,NORMAL,Treatment 10mg
+Calcium,8.54,VISIT 6,NORMAL,Treatment 10mg
+Glucose,82.7,VISIT 6,NORMAL,Treatment 10mg
+Albumin,3.7,SCREENING,NORMAL,Screen Failure
+Blood Urea Nitrogen (BUN),10.4,SCREENING,NORMAL,Screen Failure
+Calcium,9.95,SCREENING,NORMAL,Screen Failure
+Glucose,78.4,SCREENING,NORMAL,Screen Failure
+Albumin,3.4,SCREENING,NORMAL,Screen Failure
+Blood Urea Nitrogen (BUN),13.1,SCREENING,NORMAL,Screen Failure
+Calcium,10.04,SCREENING,NORMAL,Screen Failure
+Glucose,92.6,SCREENING,NORMAL,Screen Failure
+Albumin,3.9,SCREENING,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),12.5,SCREENING,NORMAL,Placebo
+Calcium,8.78,SCREENING,NORMAL,Placebo
+Glucose,96.9,SCREENING,NORMAL,Placebo
+Albumin,3.9,BASELINE,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),13.9,BASELINE,NORMAL,Placebo
+Calcium,7.8,BASELINE,LOW,Placebo
+Glucose,86.2,BASELINE,NORMAL,Placebo
+Albumin,3.8,VISIT 2,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),12.2,VISIT 2,NORMAL,Placebo
+Calcium,7.62,VISIT 2,LOW,Placebo
+Glucose,112.5,VISIT 2,NORMAL,Placebo
+Albumin,4.1,VISIT 3,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),14.6,VISIT 3,NORMAL,Placebo
+Calcium,8.24,VISIT 3,LOW,Placebo
+Glucose,94.9,VISIT 3,NORMAL,Placebo
+Albumin,4.7,VISIT 4,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),16.1,VISIT 4,NORMAL,Placebo
+Calcium,8.4,VISIT 4,LOW,Placebo
+Glucose,72.2,VISIT 4,NORMAL,Placebo
+Albumin,4.1,VISIT 5,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),13.2,VISIT 5,NORMAL,Placebo
+Calcium,9.64,VISIT 5,NORMAL,Placebo
+Glucose,101.7,VISIT 5,NORMAL,Placebo
+Albumin,4.6,VISIT 6,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),12.8,VISIT 6,NORMAL,Placebo
+Calcium,7.95,VISIT 6,LOW,Placebo
+Glucose,84.5,VISIT 6,NORMAL,Placebo
+Albumin,3.8,SCREENING,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),13.5,SCREENING,NORMAL,Placebo
+Calcium,8.16,SCREENING,LOW,Placebo
+Glucose,77.7,SCREENING,NORMAL,Placebo
+Albumin,4.0,BASELINE,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),13.4,BASELINE,NORMAL,Placebo
+Calcium,8.39,BASELINE,LOW,Placebo
+Glucose,89.8,BASELINE,NORMAL,Placebo
+Albumin,3.9,VISIT 2,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),17.6,VISIT 2,NORMAL,Placebo
+Calcium,8.21,VISIT 2,LOW,Placebo
+Glucose,87.1,VISIT 2,NORMAL,Placebo
+Albumin,4.2,VISIT 3,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),15.7,VISIT 3,NORMAL,Placebo
+Calcium,7.8,VISIT 3,LOW,Placebo
+Glucose,95.3,VISIT 3,NORMAL,Placebo
+Albumin,3.9,VISIT 4,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),12.4,VISIT 4,NORMAL,Placebo
+Calcium,8.8,VISIT 4,NORMAL,Placebo
+Glucose,117.3,VISIT 4,HIGH,Placebo
+Albumin,3.6,VISIT 5,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),14.0,VISIT 5,NORMAL,Placebo
+Calcium,8.3,VISIT 5,LOW,Placebo
+Glucose,86.3,VISIT 5,NORMAL,Placebo
+Albumin,3.7,VISIT 6,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),13.7,VISIT 6,NORMAL,Placebo
+Calcium,8.22,VISIT 6,LOW,Placebo
+Glucose,97.3,VISIT 6,NORMAL,Placebo
+Albumin,4.2,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),11.5,SCREENING,NORMAL,Treatment 10mg
+Calcium,8.19,SCREENING,LOW,Treatment 10mg
+Glucose,77.8,SCREENING,NORMAL,Treatment 10mg
+Albumin,4.2,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),16.6,BASELINE,NORMAL,Treatment 10mg
+Calcium,9.27,BASELINE,NORMAL,Treatment 10mg
+Glucose,100.2,BASELINE,NORMAL,Treatment 10mg
+Albumin,4.4,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),16.4,VISIT 2,NORMAL,Treatment 10mg
+Calcium,9.76,VISIT 2,NORMAL,Treatment 10mg
+Glucose,81.4,VISIT 2,NORMAL,Treatment 10mg
+Albumin,4.7,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),18.8,VISIT 3,NORMAL,Treatment 10mg
+Calcium,9.96,VISIT 3,NORMAL,Treatment 10mg
+Glucose,96.9,VISIT 3,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 4,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),11.1,VISIT 4,NORMAL,Treatment 10mg
+Calcium,9.32,VISIT 4,NORMAL,Treatment 10mg
+Glucose,111.3,VISIT 4,NORMAL,Treatment 10mg
+Albumin,3.8,VISIT 5,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.6,VISIT 5,NORMAL,Treatment 10mg
+Calcium,9.02,VISIT 5,NORMAL,Treatment 10mg
+Glucose,93.8,VISIT 5,NORMAL,Treatment 10mg
+Albumin,4.6,VISIT 6,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.1,VISIT 6,NORMAL,Treatment 10mg
+Calcium,9.66,VISIT 6,NORMAL,Treatment 10mg
+Glucose,92.4,VISIT 6,NORMAL,Treatment 10mg
+Albumin,3.8,SCREENING,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),9.7,SCREENING,NORMAL,Treatment 50mg
+Calcium,8.88,SCREENING,NORMAL,Treatment 50mg
+Glucose,89.9,SCREENING,NORMAL,Treatment 50mg
+Albumin,4.4,BASELINE,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),22.4,BASELINE,HIGH,Treatment 50mg
+Calcium,10.13,BASELINE,NORMAL,Treatment 50mg
+Glucose,98.5,BASELINE,NORMAL,Treatment 50mg
+Albumin,4.6,VISIT 2,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),9.4,VISIT 2,NORMAL,Treatment 50mg
+Calcium,8.91,VISIT 2,NORMAL,Treatment 50mg
+Glucose,93.8,VISIT 2,NORMAL,Treatment 50mg
+Albumin,3.7,VISIT 3,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),15.3,VISIT 3,NORMAL,Treatment 50mg
+Calcium,9.82,VISIT 3,NORMAL,Treatment 50mg
+Glucose,71.6,VISIT 3,NORMAL,Treatment 50mg
+Albumin,4.0,VISIT 4,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),13.2,VISIT 4,NORMAL,Treatment 50mg
+Calcium,9.7,VISIT 4,NORMAL,Treatment 50mg
+Glucose,105.7,VISIT 4,NORMAL,Treatment 50mg
+Albumin,4.0,VISIT 5,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),15.4,VISIT 5,NORMAL,Treatment 50mg
+Calcium,9.35,VISIT 5,NORMAL,Treatment 50mg
+Glucose,80.0,VISIT 5,NORMAL,Treatment 50mg
+Albumin,4.8,VISIT 6,HIGH,Treatment 50mg
+Blood Urea Nitrogen (BUN),16.1,VISIT 6,NORMAL,Treatment 50mg
+Calcium,10.14,VISIT 6,NORMAL,Treatment 50mg
+Glucose,112.6,VISIT 6,NORMAL,Treatment 50mg
+Albumin,3.9,SCREENING,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),14.4,SCREENING,NORMAL,Treatment 50mg
+Calcium,9.76,SCREENING,NORMAL,Treatment 50mg
+Glucose,79.3,SCREENING,NORMAL,Treatment 50mg
+Albumin,3.9,BASELINE,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),11.1,BASELINE,NORMAL,Treatment 50mg
+Calcium,9.23,BASELINE,NORMAL,Treatment 50mg
+Glucose,106.6,BASELINE,NORMAL,Treatment 50mg
+Albumin,4.1,SCREENING,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),15.4,SCREENING,NORMAL,Treatment 50mg
+Calcium,9.65,SCREENING,NORMAL,Treatment 50mg
+Glucose,101.8,SCREENING,NORMAL,Treatment 50mg
+Albumin,4.0,BASELINE,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),13.5,BASELINE,NORMAL,Treatment 50mg
+Calcium,9.29,BASELINE,NORMAL,Treatment 50mg
+Glucose,103.2,BASELINE,NORMAL,Treatment 50mg
+Albumin,4.0,VISIT 2,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),19.8,VISIT 2,NORMAL,Treatment 50mg
+Calcium,10.15,VISIT 2,NORMAL,Treatment 50mg
+Glucose,99.3,VISIT 2,NORMAL,Treatment 50mg
+Albumin,4.3,VISIT 3,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),20.3,VISIT 3,HIGH,Treatment 50mg
+Calcium,9.66,VISIT 3,NORMAL,Treatment 50mg
+Glucose,98.1,VISIT 3,NORMAL,Treatment 50mg
+Albumin,4.4,VISIT 4,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),5.8,VISIT 4,LOW,Treatment 50mg
+Calcium,9.74,VISIT 4,NORMAL,Treatment 50mg
+Glucose,116.8,VISIT 4,HIGH,Treatment 50mg
+Albumin,4.1,SCREENING,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),15.8,SCREENING,NORMAL,Treatment 100mg
+Calcium,10.81,SCREENING,HIGH,Treatment 100mg
+Glucose,119.0,SCREENING,HIGH,Treatment 100mg
+Albumin,4.1,BASELINE,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),12.9,BASELINE,NORMAL,Treatment 100mg
+Calcium,11.01,BASELINE,HIGH,Treatment 100mg
+Glucose,131.5,BASELINE,HIGH,Treatment 100mg
+Albumin,4.6,VISIT 2,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),12.2,VISIT 2,NORMAL,Treatment 100mg
+Calcium,10.48,VISIT 2,NORMAL,Treatment 100mg
+Glucose,143.6,VISIT 2,HIGH,Treatment 100mg
+Albumin,4.2,VISIT 3,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),11.6,VISIT 3,NORMAL,Treatment 100mg
+Calcium,11.21,VISIT 3,HIGH,Treatment 100mg
+Glucose,110.3,VISIT 3,NORMAL,Treatment 100mg
+Albumin,3.8,VISIT 4,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),9.9,VISIT 4,NORMAL,Treatment 100mg
+Calcium,10.53,VISIT 4,HIGH,Treatment 100mg
+Glucose,118.9,VISIT 4,HIGH,Treatment 100mg
+Albumin,4.0,VISIT 5,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),17.0,VISIT 5,NORMAL,Treatment 100mg
+Calcium,10.22,VISIT 5,NORMAL,Treatment 100mg
+Glucose,118.0,VISIT 5,HIGH,Treatment 100mg
+Albumin,3.8,VISIT 6,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),15.4,VISIT 6,NORMAL,Treatment 100mg
+Calcium,11.45,VISIT 6,HIGH,Treatment 100mg
+Glucose,102.4,VISIT 6,NORMAL,Treatment 100mg
+Albumin,3.8,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),13.5,SCREENING,NORMAL,Treatment 10mg
+Calcium,8.96,SCREENING,NORMAL,Treatment 10mg
+Glucose,102.3,SCREENING,NORMAL,Treatment 10mg
+Albumin,4.6,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.9,BASELINE,NORMAL,Treatment 10mg
+Calcium,8.65,BASELINE,NORMAL,Treatment 10mg
+Glucose,118.0,BASELINE,HIGH,Treatment 10mg
+Albumin,4.4,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),16.2,VISIT 2,NORMAL,Treatment 10mg
+Calcium,10.21,VISIT 2,NORMAL,Treatment 10mg
+Glucose,106.2,VISIT 2,NORMAL,Treatment 10mg
+Albumin,4.2,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),12.9,VISIT 3,NORMAL,Treatment 10mg
+Calcium,8.9,VISIT 3,NORMAL,Treatment 10mg
+Glucose,87.7,VISIT 3,NORMAL,Treatment 10mg
+Albumin,4.1,VISIT 4,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.4,VISIT 4,NORMAL,Treatment 10mg
+Calcium,9.73,VISIT 4,NORMAL,Treatment 10mg
+Glucose,95.0,VISIT 4,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 5,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.2,VISIT 5,NORMAL,Treatment 10mg
+Calcium,9.09,VISIT 5,NORMAL,Treatment 10mg
+Glucose,83.8,VISIT 5,NORMAL,Treatment 10mg
+Albumin,3.7,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),13.2,SCREENING,NORMAL,Treatment 10mg
+Calcium,9.16,SCREENING,NORMAL,Treatment 10mg
+Glucose,62.4,SCREENING,NORMAL,Treatment 10mg
+Albumin,3.9,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.1,BASELINE,NORMAL,Treatment 10mg
+Calcium,8.22,BASELINE,LOW,Treatment 10mg
+Glucose,109.9,BASELINE,NORMAL,Treatment 10mg
+Albumin,4.0,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.2,VISIT 2,NORMAL,Treatment 10mg
+Calcium,9.27,VISIT 2,NORMAL,Treatment 10mg
+Glucose,101.7,VISIT 2,NORMAL,Treatment 10mg
+Albumin,3.4,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),12.3,VISIT 3,NORMAL,Treatment 10mg
+Calcium,8.88,VISIT 3,NORMAL,Treatment 10mg
+Glucose,92.4,VISIT 3,NORMAL,Treatment 10mg
+Albumin,3.7,VISIT 4,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.2,VISIT 4,NORMAL,Treatment 10mg
+Calcium,9.43,VISIT 4,NORMAL,Treatment 10mg
+Glucose,102.2,VISIT 4,NORMAL,Treatment 10mg
+Albumin,4.0,VISIT 5,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),21.8,VISIT 5,HIGH,Treatment 10mg
+Calcium,8.2,VISIT 5,LOW,Treatment 10mg
+Glucose,100.2,VISIT 5,NORMAL,Treatment 10mg
+Albumin,4.4,VISIT 6,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),12.9,VISIT 6,NORMAL,Treatment 10mg
+Calcium,8.55,VISIT 6,NORMAL,Treatment 10mg
+Glucose,88.4,VISIT 6,NORMAL,Treatment 10mg
+Albumin,4.4,SCREENING,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),13.1,SCREENING,NORMAL,Treatment 50mg
+Calcium,8.97,SCREENING,NORMAL,Treatment 50mg
+Glucose,102.0,SCREENING,NORMAL,Treatment 50mg
+Albumin,4.1,BASELINE,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),17.9,BASELINE,NORMAL,Treatment 50mg
+Calcium,9.64,BASELINE,NORMAL,Treatment 50mg
+Glucose,99.4,BASELINE,NORMAL,Treatment 50mg
+Albumin,4.4,VISIT 2,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),13.7,VISIT 2,NORMAL,Treatment 50mg
+Calcium,9.42,VISIT 2,NORMAL,Treatment 50mg
+Glucose,96.3,VISIT 2,NORMAL,Treatment 50mg
+Albumin,4.2,VISIT 3,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),11.9,VISIT 3,NORMAL,Treatment 50mg
+Calcium,9.65,VISIT 3,NORMAL,Treatment 50mg
+Glucose,113.3,VISIT 3,NORMAL,Treatment 50mg
+Albumin,4.0,VISIT 4,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),19.5,VISIT 4,NORMAL,Treatment 50mg
+Calcium,10.65,VISIT 4,HIGH,Treatment 50mg
+Glucose,81.1,VISIT 4,NORMAL,Treatment 50mg
+Albumin,3.7,VISIT 5,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),10.2,VISIT 5,NORMAL,Treatment 50mg
+Calcium,10.08,VISIT 5,NORMAL,Treatment 50mg
+Glucose,128.6,VISIT 5,HIGH,Treatment 50mg
+Albumin,3.9,VISIT 6,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),15.1,VISIT 6,NORMAL,Treatment 50mg
+Calcium,9.32,VISIT 6,NORMAL,Treatment 50mg
+Glucose,86.7,VISIT 6,NORMAL,Treatment 50mg
+Albumin,3.3,SCREENING,LOW,Screen Failure
+Blood Urea Nitrogen (BUN),15.2,SCREENING,NORMAL,Screen Failure
+Calcium,9.23,SCREENING,NORMAL,Screen Failure
+Glucose,78.3,SCREENING,NORMAL,Screen Failure
+Albumin,4.3,SCREENING,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),16.0,SCREENING,NORMAL,Treatment 100mg
+Calcium,11.51,SCREENING,HIGH,Treatment 100mg
+Glucose,133.4,SCREENING,HIGH,Treatment 100mg
+Albumin,3.8,BASELINE,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),14.3,BASELINE,NORMAL,Treatment 100mg
+Calcium,11.37,BASELINE,HIGH,Treatment 100mg
+Glucose,146.1,BASELINE,HIGH,Treatment 100mg
+Albumin,4.2,VISIT 2,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),13.8,VISIT 2,NORMAL,Treatment 100mg
+Calcium,10.89,VISIT 2,HIGH,Treatment 100mg
+Glucose,122.6,VISIT 2,HIGH,Treatment 100mg
+Albumin,3.9,VISIT 3,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),14.1,VISIT 3,NORMAL,Treatment 100mg
+Calcium,11.19,VISIT 3,HIGH,Treatment 100mg
+Glucose,139.5,VISIT 3,HIGH,Treatment 100mg
+Albumin,3.7,VISIT 4,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),17.2,VISIT 4,NORMAL,Treatment 100mg
+Calcium,11.29,VISIT 4,HIGH,Treatment 100mg
+Glucose,119.8,VISIT 4,HIGH,Treatment 100mg
+Albumin,4.3,VISIT 5,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),8.3,VISIT 5,NORMAL,Treatment 100mg
+Calcium,10.27,VISIT 5,NORMAL,Treatment 100mg
+Glucose,154.5,VISIT 5,HIGH,Treatment 100mg
+Albumin,3.8,VISIT 6,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),14.4,VISIT 6,NORMAL,Treatment 100mg
+Calcium,10.72,VISIT 6,HIGH,Treatment 100mg
+Glucose,141.4,VISIT 6,HIGH,Treatment 100mg
+Albumin,4.1,SCREENING,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),16.8,SCREENING,NORMAL,Treatment 100mg
+Calcium,11.39,SCREENING,HIGH,Treatment 100mg
+Glucose,160.9,SCREENING,HIGH,Treatment 100mg
+Albumin,3.7,BASELINE,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),13.0,BASELINE,NORMAL,Treatment 100mg
+Calcium,10.56,BASELINE,HIGH,Treatment 100mg
+Glucose,128.1,BASELINE,HIGH,Treatment 100mg
+Albumin,4.1,VISIT 2,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),16.6,VISIT 2,NORMAL,Treatment 100mg
+Calcium,11.02,VISIT 2,HIGH,Treatment 100mg
+Glucose,124.5,VISIT 2,HIGH,Treatment 100mg
+Albumin,3.3,VISIT 3,LOW,Treatment 100mg
+Blood Urea Nitrogen (BUN),11.0,VISIT 3,NORMAL,Treatment 100mg
+Calcium,11.02,VISIT 3,HIGH,Treatment 100mg
+Glucose,123.0,VISIT 3,HIGH,Treatment 100mg
+Albumin,3.3,VISIT 4,LOW,Treatment 100mg
+Blood Urea Nitrogen (BUN),13.4,VISIT 4,NORMAL,Treatment 100mg
+Calcium,10.42,VISIT 4,NORMAL,Treatment 100mg
+Glucose,128.0,VISIT 4,HIGH,Treatment 100mg
+Albumin,4.8,SCREENING,HIGH,Treatment 10mg
+Blood Urea Nitrogen (BUN),12.1,SCREENING,NORMAL,Treatment 10mg
+Calcium,8.76,SCREENING,NORMAL,Treatment 10mg
+Glucose,79.9,SCREENING,NORMAL,Treatment 10mg
+Albumin,4.0,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),8.9,BASELINE,NORMAL,Treatment 10mg
+Calcium,9.52,BASELINE,NORMAL,Treatment 10mg
+Glucose,117.9,BASELINE,HIGH,Treatment 10mg
+Albumin,4.1,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),12.3,VISIT 2,NORMAL,Treatment 10mg
+Calcium,9.17,VISIT 2,NORMAL,Treatment 10mg
+Glucose,101.2,VISIT 2,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),12.5,VISIT 3,NORMAL,Treatment 10mg
+Calcium,9.47,VISIT 3,NORMAL,Treatment 10mg
+Glucose,97.5,VISIT 3,NORMAL,Treatment 10mg
+Albumin,4.4,VISIT 4,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.8,VISIT 4,NORMAL,Treatment 10mg
+Calcium,7.9,VISIT 4,LOW,Treatment 10mg
+Glucose,66.8,VISIT 4,NORMAL,Treatment 10mg
+Albumin,4.2,VISIT 5,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),13.2,VISIT 5,NORMAL,Treatment 10mg
+Calcium,9.11,VISIT 5,NORMAL,Treatment 10mg
+Glucose,109.9,VISIT 5,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 6,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.1,VISIT 6,NORMAL,Treatment 10mg
+Calcium,8.23,VISIT 6,LOW,Treatment 10mg
+Glucose,99.2,VISIT 6,NORMAL,Treatment 10mg
+Albumin,4.0,SCREENING,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),13.2,SCREENING,NORMAL,Treatment 50mg
+Calcium,9.85,SCREENING,NORMAL,Treatment 50mg
+Glucose,88.4,SCREENING,NORMAL,Treatment 50mg
+Albumin,4.2,BASELINE,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),16.5,BASELINE,NORMAL,Treatment 50mg
+Calcium,9.68,BASELINE,NORMAL,Treatment 50mg
+Glucose,80.3,BASELINE,NORMAL,Treatment 50mg
+Albumin,3.9,VISIT 2,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),12.5,VISIT 2,NORMAL,Treatment 50mg
+Calcium,10.39,VISIT 2,NORMAL,Treatment 50mg
+Glucose,100.6,VISIT 2,NORMAL,Treatment 50mg
+Albumin,3.7,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.6,SCREENING,NORMAL,Treatment 10mg
+Calcium,9.02,SCREENING,NORMAL,Treatment 10mg
+Glucose,87.1,SCREENING,NORMAL,Treatment 10mg
+Albumin,4.3,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),19.2,BASELINE,NORMAL,Treatment 10mg
+Calcium,8.83,BASELINE,NORMAL,Treatment 10mg
+Glucose,86.8,BASELINE,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),12.3,VISIT 2,NORMAL,Treatment 10mg
+Calcium,9.45,VISIT 2,NORMAL,Treatment 10mg
+Glucose,92.8,VISIT 2,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),21.7,VISIT 3,HIGH,Treatment 10mg
+Calcium,9.43,VISIT 3,NORMAL,Treatment 10mg
+Glucose,93.5,VISIT 3,NORMAL,Treatment 10mg
+Albumin,4.2,SCREENING,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),18.6,SCREENING,NORMAL,Treatment 100mg
+Calcium,11.08,SCREENING,HIGH,Treatment 100mg
+Glucose,116.4,SCREENING,HIGH,Treatment 100mg
+Albumin,3.3,BASELINE,LOW,Treatment 100mg
+Blood Urea Nitrogen (BUN),14.2,BASELINE,NORMAL,Treatment 100mg
+Calcium,11.47,BASELINE,HIGH,Treatment 100mg
+Glucose,121.1,BASELINE,HIGH,Treatment 100mg
+Albumin,3.8,VISIT 2,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),17.0,VISIT 2,NORMAL,Treatment 100mg
+Calcium,11.91,VISIT 2,HIGH,Treatment 100mg
+Glucose,136.6,VISIT 2,HIGH,Treatment 100mg
+Albumin,4.2,VISIT 3,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),11.8,VISIT 3,NORMAL,Treatment 100mg
+Calcium,11.14,VISIT 3,HIGH,Treatment 100mg
+Glucose,158.2,VISIT 3,HIGH,Treatment 100mg
+Albumin,3.5,VISIT 4,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),19.8,VISIT 4,NORMAL,Treatment 100mg
+Calcium,10.44,VISIT 4,NORMAL,Treatment 100mg
+Glucose,132.8,VISIT 4,HIGH,Treatment 100mg
+Albumin,3.8,VISIT 5,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),12.9,VISIT 5,NORMAL,Treatment 100mg
+Calcium,11.58,VISIT 5,HIGH,Treatment 100mg
+Glucose,142.1,VISIT 5,HIGH,Treatment 100mg
+Albumin,3.8,VISIT 6,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),11.9,VISIT 6,NORMAL,Treatment 100mg
+Calcium,10.57,VISIT 6,HIGH,Treatment 100mg
+Glucose,129.1,VISIT 6,HIGH,Treatment 100mg
+Albumin,4.2,SCREENING,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),8.8,SCREENING,NORMAL,Treatment 50mg
+Calcium,9.51,SCREENING,NORMAL,Treatment 50mg
+Glucose,107.8,SCREENING,NORMAL,Treatment 50mg
+Albumin,3.5,BASELINE,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),13.5,BASELINE,NORMAL,Treatment 50mg
+Calcium,9.57,BASELINE,NORMAL,Treatment 50mg
+Glucose,110.5,BASELINE,NORMAL,Treatment 50mg
+Albumin,4.0,VISIT 2,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),13.8,VISIT 2,NORMAL,Treatment 50mg
+Calcium,9.58,VISIT 2,NORMAL,Treatment 50mg
+Glucose,121.2,VISIT 2,HIGH,Treatment 50mg
+Albumin,3.7,VISIT 3,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),14.2,VISIT 3,NORMAL,Treatment 50mg
+Calcium,10.61,VISIT 3,HIGH,Treatment 50mg
+Glucose,89.0,VISIT 3,NORMAL,Treatment 50mg
+Albumin,4.3,VISIT 4,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),14.1,VISIT 4,NORMAL,Treatment 50mg
+Calcium,9.63,VISIT 4,NORMAL,Treatment 50mg
+Glucose,103.1,VISIT 4,NORMAL,Treatment 50mg
+Albumin,4.3,VISIT 5,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),14.7,VISIT 5,NORMAL,Treatment 50mg
+Calcium,10.21,VISIT 5,NORMAL,Treatment 50mg
+Glucose,80.4,VISIT 5,NORMAL,Treatment 50mg
+Albumin,3.9,VISIT 6,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),9.5,VISIT 6,NORMAL,Treatment 50mg
+Calcium,9.87,VISIT 6,NORMAL,Treatment 50mg
+Glucose,121.0,VISIT 6,HIGH,Treatment 50mg
+Albumin,3.8,SCREENING,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),13.6,SCREENING,NORMAL,Placebo
+Calcium,8.73,SCREENING,NORMAL,Placebo
+Glucose,82.2,SCREENING,NORMAL,Placebo
+Albumin,3.7,BASELINE,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),15.7,BASELINE,NORMAL,Placebo
+Calcium,7.73,BASELINE,LOW,Placebo
+Glucose,86.1,BASELINE,NORMAL,Placebo
+Albumin,3.5,VISIT 2,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),11.9,VISIT 2,NORMAL,Placebo
+Calcium,8.94,VISIT 2,NORMAL,Placebo
+Glucose,97.3,VISIT 2,NORMAL,Placebo
+Albumin,3.9,VISIT 3,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),11.8,VISIT 3,NORMAL,Placebo
+Calcium,7.82,VISIT 3,LOW,Placebo
+Glucose,86.7,VISIT 3,NORMAL,Placebo
+Albumin,3.5,VISIT 4,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),15.0,VISIT 4,NORMAL,Placebo
+Calcium,8.38,VISIT 4,LOW,Placebo
+Glucose,97.6,VISIT 4,NORMAL,Placebo
+Albumin,4.1,SCREENING,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),9.5,SCREENING,NORMAL,Treatment 50mg
+Calcium,10.03,SCREENING,NORMAL,Treatment 50mg
+Glucose,105.2,SCREENING,NORMAL,Treatment 50mg
+Albumin,4.2,BASELINE,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),13.8,BASELINE,NORMAL,Treatment 50mg
+Calcium,9.39,BASELINE,NORMAL,Treatment 50mg
+Glucose,114.0,BASELINE,NORMAL,Treatment 50mg
+Albumin,4.2,VISIT 2,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),13.1,VISIT 2,NORMAL,Treatment 50mg
+Calcium,10.15,VISIT 2,NORMAL,Treatment 50mg
+Glucose,79.3,VISIT 2,NORMAL,Treatment 50mg
+Albumin,3.9,VISIT 3,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),16.5,VISIT 3,NORMAL,Treatment 50mg
+Calcium,9.74,VISIT 3,NORMAL,Treatment 50mg
+Glucose,116.2,VISIT 3,HIGH,Treatment 50mg
+Albumin,4.5,VISIT 4,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),11.6,VISIT 4,NORMAL,Treatment 50mg
+Calcium,9.79,VISIT 4,NORMAL,Treatment 50mg
+Glucose,79.5,VISIT 4,NORMAL,Treatment 50mg
+Albumin,3.3,VISIT 5,LOW,Treatment 50mg
+Blood Urea Nitrogen (BUN),13.9,VISIT 5,NORMAL,Treatment 50mg
+Calcium,9.96,VISIT 5,NORMAL,Treatment 50mg
+Glucose,115.3,VISIT 5,HIGH,Treatment 50mg
+Albumin,3.3,VISIT 6,LOW,Treatment 50mg
+Blood Urea Nitrogen (BUN),12.2,VISIT 6,NORMAL,Treatment 50mg
+Calcium,10.04,VISIT 6,NORMAL,Treatment 50mg
+Glucose,111.5,VISIT 6,NORMAL,Treatment 50mg
+Albumin,4.1,SCREENING,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),9.1,SCREENING,NORMAL,Treatment 100mg
+Calcium,10.66,SCREENING,HIGH,Treatment 100mg
+Glucose,116.1,SCREENING,HIGH,Treatment 100mg
+Albumin,4.1,BASELINE,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),13.9,BASELINE,NORMAL,Treatment 100mg
+Calcium,10.75,BASELINE,HIGH,Treatment 100mg
+Glucose,105.0,BASELINE,NORMAL,Treatment 100mg
+Albumin,4.2,VISIT 2,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),10.2,VISIT 2,NORMAL,Treatment 100mg
+Calcium,11.28,VISIT 2,HIGH,Treatment 100mg
+Glucose,120.3,VISIT 2,HIGH,Treatment 100mg
+Albumin,4.1,VISIT 3,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),11.0,VISIT 3,NORMAL,Treatment 100mg
+Calcium,10.58,VISIT 3,HIGH,Treatment 100mg
+Glucose,145.0,VISIT 3,HIGH,Treatment 100mg
+Albumin,4.9,VISIT 4,HIGH,Treatment 100mg
+Blood Urea Nitrogen (BUN),10.5,VISIT 4,NORMAL,Treatment 100mg
+Calcium,11.35,VISIT 4,HIGH,Treatment 100mg
+Glucose,133.9,VISIT 4,HIGH,Treatment 100mg
+Albumin,4.3,VISIT 5,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),7.6,VISIT 5,LOW,Treatment 100mg
+Calcium,10.94,VISIT 5,HIGH,Treatment 100mg
+Glucose,120.5,VISIT 5,HIGH,Treatment 100mg
+Albumin,3.5,VISIT 6,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),13.1,VISIT 6,NORMAL,Treatment 100mg
+Calcium,10.94,VISIT 6,HIGH,Treatment 100mg
+Glucose,109.4,VISIT 6,NORMAL,Treatment 100mg
+Albumin,4.2,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),18.9,SCREENING,NORMAL,Treatment 10mg
+Calcium,8.54,SCREENING,NORMAL,Treatment 10mg
+Glucose,103.3,SCREENING,NORMAL,Treatment 10mg
+Albumin,4.5,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),11.4,BASELINE,NORMAL,Treatment 10mg
+Calcium,9.47,BASELINE,NORMAL,Treatment 10mg
+Glucose,96.7,BASELINE,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.1,VISIT 2,NORMAL,Treatment 10mg
+Calcium,9.05,VISIT 2,NORMAL,Treatment 10mg
+Glucose,87.4,VISIT 2,NORMAL,Treatment 10mg
+Albumin,4.0,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.8,VISIT 3,NORMAL,Treatment 10mg
+Calcium,9.5,VISIT 3,NORMAL,Treatment 10mg
+Glucose,87.3,VISIT 3,NORMAL,Treatment 10mg
+Albumin,4.2,VISIT 4,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),13.9,VISIT 4,NORMAL,Treatment 10mg
+Calcium,8.79,VISIT 4,NORMAL,Treatment 10mg
+Glucose,97.4,VISIT 4,NORMAL,Treatment 10mg
+Albumin,3.9,VISIT 5,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),9.7,VISIT 5,NORMAL,Treatment 10mg
+Calcium,8.95,VISIT 5,NORMAL,Treatment 10mg
+Glucose,116.1,VISIT 5,HIGH,Treatment 10mg
+Albumin,4.0,VISIT 6,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),13.9,VISIT 6,NORMAL,Treatment 10mg
+Calcium,8.59,VISIT 6,NORMAL,Treatment 10mg
+Glucose,89.2,VISIT 6,NORMAL,Treatment 10mg
+Albumin,4.0,SCREENING,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),15.8,SCREENING,NORMAL,Treatment 100mg
+Calcium,12.26,SCREENING,HIGH,Treatment 100mg
+Glucose,133.3,SCREENING,HIGH,Treatment 100mg
+Albumin,4.7,BASELINE,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),10.4,BASELINE,NORMAL,Treatment 100mg
+Calcium,12.02,BASELINE,HIGH,Treatment 100mg
+Glucose,123.8,BASELINE,HIGH,Treatment 100mg
+Albumin,4.0,VISIT 2,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),14.7,VISIT 2,NORMAL,Treatment 100mg
+Calcium,11.97,VISIT 2,HIGH,Treatment 100mg
+Glucose,144.1,VISIT 2,HIGH,Treatment 100mg
+Albumin,3.9,VISIT 3,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),13.4,VISIT 3,NORMAL,Treatment 100mg
+Calcium,10.32,VISIT 3,NORMAL,Treatment 100mg
+Glucose,128.9,VISIT 3,HIGH,Treatment 100mg
+Albumin,4.3,VISIT 4,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),10.2,VISIT 4,NORMAL,Treatment 100mg
+Calcium,11.15,VISIT 4,HIGH,Treatment 100mg
+Glucose,132.7,VISIT 4,HIGH,Treatment 100mg
+Albumin,3.9,VISIT 5,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),13.9,VISIT 5,NORMAL,Treatment 100mg
+Calcium,11.18,VISIT 5,HIGH,Treatment 100mg
+Glucose,124.9,VISIT 5,HIGH,Treatment 100mg
+Albumin,3.8,VISIT 6,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),15.4,VISIT 6,NORMAL,Treatment 100mg
+Calcium,10.95,VISIT 6,HIGH,Treatment 100mg
+Glucose,132.4,VISIT 6,HIGH,Treatment 100mg
+Albumin,4.6,SCREENING,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),12.4,SCREENING,NORMAL,Treatment 50mg
+Calcium,10.04,SCREENING,NORMAL,Treatment 50mg
+Glucose,106.1,SCREENING,NORMAL,Treatment 50mg
+Albumin,4.3,BASELINE,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),18.2,BASELINE,NORMAL,Treatment 50mg
+Calcium,9.98,BASELINE,NORMAL,Treatment 50mg
+Glucose,89.3,BASELINE,NORMAL,Treatment 50mg
+Albumin,4.0,VISIT 2,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),16.7,VISIT 2,NORMAL,Treatment 50mg
+Calcium,9.14,VISIT 2,NORMAL,Treatment 50mg
+Glucose,91.9,VISIT 2,NORMAL,Treatment 50mg
+Albumin,4.3,VISIT 3,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),10.0,VISIT 3,NORMAL,Treatment 50mg
+Calcium,9.64,VISIT 3,NORMAL,Treatment 50mg
+Glucose,103.6,VISIT 3,NORMAL,Treatment 50mg
+Albumin,3.9,VISIT 4,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),12.9,VISIT 4,NORMAL,Treatment 50mg
+Calcium,9.31,VISIT 4,NORMAL,Treatment 50mg
+Glucose,117.5,VISIT 4,HIGH,Treatment 50mg
+Albumin,4.0,VISIT 5,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),16.0,VISIT 5,NORMAL,Treatment 50mg
+Calcium,8.9,VISIT 5,NORMAL,Treatment 50mg
+Glucose,77.1,VISIT 5,NORMAL,Treatment 50mg
+Albumin,3.6,VISIT 6,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),19.0,VISIT 6,NORMAL,Treatment 50mg
+Calcium,9.71,VISIT 6,NORMAL,Treatment 50mg
+Glucose,79.3,VISIT 6,NORMAL,Treatment 50mg
+Albumin,3.3,SCREENING,LOW,Treatment 100mg
+Blood Urea Nitrogen (BUN),7.9,SCREENING,LOW,Treatment 100mg
+Calcium,10.57,SCREENING,HIGH,Treatment 100mg
+Glucose,154.8,SCREENING,HIGH,Treatment 100mg
+Albumin,3.9,BASELINE,NORMAL,Treatment 100mg
+Blood Urea Nitrogen (BUN),9.7,BASELINE,NORMAL,Treatment 100mg
+Calcium,10.92,BASELINE,HIGH,Treatment 100mg
+Glucose,130.7,BASELINE,HIGH,Treatment 100mg
+Albumin,4.2,SCREENING,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),14.9,SCREENING,NORMAL,Placebo
+Calcium,8.63,SCREENING,NORMAL,Placebo
+Glucose,71.8,SCREENING,NORMAL,Placebo
+Albumin,3.3,BASELINE,LOW,Placebo
+Blood Urea Nitrogen (BUN),11.9,BASELINE,NORMAL,Placebo
+Calcium,7.42,BASELINE,LOW,Placebo
+Glucose,88.8,BASELINE,NORMAL,Placebo
+Albumin,4.2,VISIT 2,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),12.8,VISIT 2,NORMAL,Placebo
+Calcium,7.88,VISIT 2,LOW,Placebo
+Glucose,85.7,VISIT 2,NORMAL,Placebo
+Albumin,3.7,VISIT 3,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),11.4,VISIT 3,NORMAL,Placebo
+Calcium,8.13,VISIT 3,LOW,Placebo
+Glucose,75.6,VISIT 3,NORMAL,Placebo
+Albumin,3.9,VISIT 4,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),9.9,VISIT 4,NORMAL,Placebo
+Calcium,8.58,VISIT 4,NORMAL,Placebo
+Glucose,85.3,VISIT 4,NORMAL,Placebo
+Albumin,4.2,VISIT 5,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),15.2,VISIT 5,NORMAL,Placebo
+Calcium,8.04,VISIT 5,LOW,Placebo
+Glucose,78.6,VISIT 5,NORMAL,Placebo
+Albumin,4.5,VISIT 6,NORMAL,Placebo
+Blood Urea Nitrogen (BUN),14.2,VISIT 6,NORMAL,Placebo
+Calcium,8.0,VISIT 6,LOW,Placebo
+Glucose,80.5,VISIT 6,NORMAL,Placebo
+Albumin,4.0,SCREENING,NORMAL,Screen Failure
+Blood Urea Nitrogen (BUN),11.0,SCREENING,NORMAL,Screen Failure
+Calcium,9.03,SCREENING,NORMAL,Screen Failure
+Glucose,79.4,SCREENING,NORMAL,Screen Failure
+Albumin,4.2,SCREENING,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),17.7,SCREENING,NORMAL,Treatment 10mg
+Calcium,9.34,SCREENING,NORMAL,Treatment 10mg
+Glucose,76.7,SCREENING,NORMAL,Treatment 10mg
+Albumin,3.7,BASELINE,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.1,BASELINE,NORMAL,Treatment 10mg
+Calcium,9.96,BASELINE,NORMAL,Treatment 10mg
+Glucose,96.4,BASELINE,NORMAL,Treatment 10mg
+Albumin,3.8,VISIT 2,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),16.0,VISIT 2,NORMAL,Treatment 10mg
+Calcium,9.0,VISIT 2,NORMAL,Treatment 10mg
+Glucose,93.7,VISIT 2,NORMAL,Treatment 10mg
+Albumin,4.7,VISIT 3,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.7,VISIT 3,NORMAL,Treatment 10mg
+Calcium,8.82,VISIT 3,NORMAL,Treatment 10mg
+Glucose,78.0,VISIT 3,NORMAL,Treatment 10mg
+Albumin,4.5,VISIT 4,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),16.7,VISIT 4,NORMAL,Treatment 10mg
+Calcium,9.07,VISIT 4,NORMAL,Treatment 10mg
+Glucose,66.5,VISIT 4,NORMAL,Treatment 10mg
+Albumin,4.1,VISIT 5,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),14.3,VISIT 5,NORMAL,Treatment 10mg
+Calcium,9.89,VISIT 5,NORMAL,Treatment 10mg
+Glucose,75.9,VISIT 5,NORMAL,Treatment 10mg
+Albumin,4.2,VISIT 6,NORMAL,Treatment 10mg
+Blood Urea Nitrogen (BUN),15.6,VISIT 6,NORMAL,Treatment 10mg
+Calcium,9.44,VISIT 6,NORMAL,Treatment 10mg
+Glucose,94.3,VISIT 6,NORMAL,Treatment 10mg
+Albumin,4.1,SCREENING,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),18.7,SCREENING,NORMAL,Treatment 50mg
+Calcium,9.73,SCREENING,NORMAL,Treatment 50mg
+Glucose,108.8,SCREENING,NORMAL,Treatment 50mg
+Albumin,3.7,BASELINE,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),16.3,BASELINE,NORMAL,Treatment 50mg
+Calcium,8.68,BASELINE,NORMAL,Treatment 50mg
+Glucose,100.9,BASELINE,NORMAL,Treatment 50mg
+Albumin,3.4,VISIT 2,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),17.8,VISIT 2,NORMAL,Treatment 50mg
+Calcium,9.12,VISIT 2,NORMAL,Treatment 50mg
+Glucose,75.5,VISIT 2,NORMAL,Treatment 50mg
+Albumin,3.5,VISIT 3,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),8.7,VISIT 3,NORMAL,Treatment 50mg
+Calcium,9.91,VISIT 3,NORMAL,Treatment 50mg
+Glucose,102.8,VISIT 3,NORMAL,Treatment 50mg
+Albumin,4.5,VISIT 4,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),17.2,VISIT 4,NORMAL,Treatment 50mg
+Calcium,9.22,VISIT 4,NORMAL,Treatment 50mg
+Glucose,84.3,VISIT 4,NORMAL,Treatment 50mg
+Albumin,3.5,VISIT 5,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),12.9,VISIT 5,NORMAL,Treatment 50mg
+Calcium,9.25,VISIT 5,NORMAL,Treatment 50mg
+Glucose,111.0,VISIT 5,NORMAL,Treatment 50mg
+Albumin,4.0,VISIT 6,NORMAL,Treatment 50mg
+Blood Urea Nitrogen (BUN),11.3,VISIT 6,NORMAL,Treatment 50mg
+Calcium,10.06,VISIT 6,NORMAL,Treatment 50mg
+Glucose,109.9,VISIT 6,NORMAL,Treatment 50mg

@@ -1,242 +1,300 @@
-studyid,usubjid,aeterm,aedecod,aebodsys,aestdtc,aeendtc,aeseq
-ABC001,ABC001-101-01,Impedit voluptates cambiado.,AE Decode 3,Body System 10,2014-06-24,2014-07-17,1
-ABC001,ABC001-101-01,Maxime accusamus ratione ipsam iure aut optio.,AE Decode 10,Body System 8,2014-07-19,2014-07-21,2
-ABC001,ABC001-101-02,Impedit maxime et voluptatum rerum.,AE Decode 3,Body System 7,2014-03-07,2014-03-07,3
-ABC001,ABC001-101-02,Labore sapiente id.,AE Decode 9,Body System 8,2014-03-09,2014-04-24,4
-ABC001,ABC001-101-02,Modi molestias ea.,AE Decode 7,Body System 2,2014-03-18,2014-03-27,5
-ABC001,ABC001-101-02,Adipisci earum et repellat dolorem autem.,AE Decode 4,Body System 10,2014-03-23,,6
-ABC001,ABC001-101-02,Corrupti accusantium itaque eius.,AE Decode 7,Body System 10,2014-04-25,,7
-ABC001,ABC001-101-04,Et culpa quo a nisi exercitationem.,AE Decode 8,Body System 8,2014-04-13,,8
-ABC001,ABC001-101-04,Accusamus sapiente repellendus dolor sit neque.,AE Decode 1,Body System 8,2014-03-30,,9
-ABC001,ABC001-101-05,Praesentium itaque ducimus.,AE Decode 2,Body System 9,2014-05-11,,10
-ABC001,ABC001-101-05,Quidem numquam dignissimos suscipit nisi vero.,AE Decode 3,Body System 3,2014-03-18,2014-04-09,11
-ABC001,ABC001-101-05,Deleniti possimus.,AE Decode 5,Body System 3,2014-04-18,,12
-ABC001,ABC001-101-05,Optio voluptates a enim.,AE Decode 8,Body System 6,2014-04-19,2014-04-21,13
-ABC001,ABC001-102-02,Reiciendis explicabo consequuntur et molestiae.,AE Decode 10,Body System 10,2014-05-21,2014-06-29,14
-ABC001,ABC001-102-03,Nostrum necessitatibus cupiditate repellendus et qui eum.,AE Decode 2,Body System 5,2014-11-29,2014-12-01,15
-ABC001,ABC001-102-05,Architecto aperiam.,AE Decode 10,Body System 4,2014-05-14,,16
-ABC001,ABC001-102-05,Corporis aliquid vero omnis non quia quae.,AE Decode 2,Body System 4,2014-05-07,,17
-ABC001,ABC001-102-05,Ad ipsam animi fuga quia velit et.,AE Decode 7,Body System 9,2014-05-20,,18
-ABC001,ABC001-102-05,Eaque neque vero ea est nihil.,AE Decode 9,Body System 7,2014-05-22,,19
-ABC001,ABC001-102-05,Doloribus dolore fuga autem totam.,AE Decode 3,Body System 5,2014-03-11,2014-03-24,20
-ABC001,ABC001-102-05,Perferendis numquam alias voluptatibus nihil quos.,AE Decode 4,Body System 6,2014-04-24,2014-05-18,21
-ABC001,ABC001-102-05,Voluptas voluptatem voluptas eum autem nesciunt ut.,AE Decode 3,Body System 5,2014-03-04,,22
-ABC001,ABC001-102-05,Ut dicta quaerat.,AE Decode 7,Body System 5,2014-04-08,2014-04-27,23
-ABC001,ABC001-102-06,Accusantium aspernatur.,AE Decode 2,Body System 7,2014-09-15,2014-09-20,24
-ABC001,ABC001-102-10,Ullam sit.,AE Decode 3,Body System 5,2014-06-13,2014-06-15,25
-ABC001,ABC001-102-10,Et excepturi qui deleniti.,AE Decode 8,Body System 10,2014-05-11,2014-06-04,26
-ABC001,ABC001-102-10,Reprehenderit nulla eum.,AE Decode 4,Body System 5,2014-04-23,,27
-ABC001,ABC001-102-10,Cum enim consequatur suscipit.,AE Decode 4,Body System 4,2014-06-14,2014-06-14,28
-ABC001,ABC001-102-10,Quis ab ut molestias.,AE Decode 10,Body System 9,2014-05-06,2014-05-21,29
-ABC001,ABC001-102-10,Tenetur deserunt optio delectus voluptatibus qui.,AE Decode 6,Body System 6,2014-04-10,2014-04-24,30
-ABC001,ABC001-102-10,Reiciendis sint pariatur illum est.,AE Decode 1,Body System 4,2014-04-25,,31
-ABC001,ABC001-102-10,Expedita modi delectus.,AE Decode 8,Body System 5,2014-04-08,,32
-ABC001,ABC001-103-01,Minus beatae est sequi iure in quibusdam.,AE Decode 9,Body System 6,2014-05-22,2014-05-24,33
-ABC001,ABC001-103-01,Impedit sit occaecati quidem.,AE Decode 1,Body System 8,2014-05-19,2014-05-20,34
-ABC001,ABC001-103-01,Temporibus enim aspernatur fugiat minima ut.,AE Decode 5,Body System 4,2014-04-08,,35
-ABC001,ABC001-103-01,Repellat voluptas mollitia ea ut temporibus.,AE Decode 7,Body System 7,2014-03-30,2014-05-23,36
-ABC001,ABC001-201-01,Ipsum inventore corrupti.,AE Decode 7,Body System 4,2014-07-01,2014-07-05,37
-ABC001,ABC001-201-01,Qui aliquam et voluptas autem.,AE Decode 7,Body System 2,2014-06-13,,38
-ABC001,ABC001-201-02,Sit illo doloribus.,AE Decode 1,Body System 9,2014-07-28,,39
-ABC001,ABC001-201-02,Corporis voluptas veniam quidem similique.,AE Decode 8,Body System 5,2014-09-24,,40
-ABC001,ABC001-201-02,Rerum autem sit aut necessitatibus ad consequatur.,AE Decode 1,Body System 9,2014-09-10,,41
-ABC001,ABC001-201-02,Commodi aperiam eligendi debitis nostrum asperiores voluptas.,AE Decode 7,Body System 4,2014-09-01,2014-09-09,42
-ABC001,ABC001-201-03,Ut animi non vel fugit amet maxime.,AE Decode 2,Body System 6,2014-03-17,2014-03-18,43
-ABC001,ABC001-201-03,Sint nobis eligendi consequuntur ut omnis.,AE Decode 7,Body System 10,2014-05-02,,44
-ABC001,ABC001-201-03,Natus aut earum veniam eum sequi commodi.,AE Decode 1,Body System 3,2014-03-30,2014-04-18,45
-ABC001,ABC001-201-03,Tenetur est odit esse fuga.,AE Decode 3,Body System 4,2014-03-27,2014-04-10,46
-ABC001,ABC001-201-03,Voluptas ratione amet qui reprehenderit mollitia.,AE Decode 1,Body System 2,2014-05-25,2014-05-27,47
-ABC001,ABC001-201-03,Amet error reiciendis consequatur illum nemo dolor.,AE Decode 6,Body System 9,2014-04-06,2014-05-27,48
-ABC001,ABC001-201-03,Velit quos omnis veritatis repellat aut nostrum.,AE Decode 8,Body System 3,2014-04-19,2014-04-27,49
-ABC001,ABC001-201-03,Molestiae sed ut molestiae ad sit.,AE Decode 8,Body System 5,2014-04-18,,50
-ABC001,ABC001-201-03,Et aperiam sit dolore quibusdam quidem harum.,AE Decode 7,Body System 9,2014-05-07,2014-05-19,51
-ABC001,ABC001-201-03,Aut omnis.,AE Decode 4,Body System 3,2014-04-05,,52
-ABC001,ABC001-201-05,Ab magni quis deserunt fuga velit.,AE Decode 7,Body System 3,2014-06-07,,53
-ABC001,ABC001-201-07,Provident minus voluptate ea perferendis.,AE Decode 2,Body System 2,2014-06-29,,54
-ABC001,ABC001-201-07,Non doloremque expedita explicabo modi praesentium quod.,AE Decode 7,Body System 5,2014-07-19,2014-08-07,55
-ABC001,ABC001-201-07,Eos iusto cumque.,AE Decode 2,Body System 7,2014-07-29,,56
-ABC001,ABC001-201-12,Asperiores omnis ut.,AE Decode 10,Body System 2,2014-08-11,2014-08-26,57
-ABC001,ABC001-201-12,Quia eveniet numquam voluptatem exercitationem.,AE Decode 10,Body System 9,2014-08-24,,58
-ABC001,ABC001-201-13,Cum nobis doloremque rerum.,AE Decode 2,Body System 5,2014-04-12,2014-04-21,59
-ABC001,ABC001-201-13,Odit itaque assumenda quia velit qui.,AE Decode 4,Body System 4,2014-03-31,,60
-ABC001,ABC001-201-13,Vero corrupti hic ad adipisci est.,AE Decode 1,Body System 10,2014-04-24,2014-05-05,61
-ABC001,ABC001-201-13,Qui voluptas.,AE Decode 4,Body System 10,2014-04-19,,62
-ABC001,ABC001-201-13,Repudiandae est laboriosam doloribus eum.,AE Decode 1,Body System 4,2014-04-10,,63
-ABC001,ABC001-201-15,Ut iure ex eius.,AE Decode 9,Body System 7,2014-04-20,,64
-ABC001,ABC001-201-15,Quia dolore exercitationem distinctio veniam.,AE Decode 4,Body System 10,2014-04-14,2014-05-01,65
-ABC001,ABC001-201-16,In ab voluptatibus dolor eligendi.,AE Decode 3,Body System 5,2014-04-04,,66
-ABC001,ABC001-201-16,Expedita aliquam nesciunt culpa ex.,AE Decode 3,Body System 3,2014-05-05,,67
-ABC001,ABC001-201-17,Iusto assumenda similique sequi non.,AE Decode 2,Body System 7,2014-06-14,,68
-ABC001,ABC001-201-17,Est fugit veniam architecto.,AE Decode 5,Body System 8,2014-06-14,2014-06-15,69
-ABC001,ABC001-201-17,Sed porro optio laboriosam et architecto.,AE Decode 2,Body System 5,2014-07-01,2014-07-17,70
-ABC001,ABC001-201-17,Aliquid culpa sit aut non.,AE Decode 4,Body System 4,2014-05-09,,71
-ABC001,ABC001-201-18,Ut officia labore et incidunt tenetur dolores.,AE Decode 5,Body System 7,2014-11-27,2014-12-07,72
-ABC001,ABC001-201-18,Soluta distinctio eius tempora laboriosam quas exercitationem.,AE Decode 7,Body System 5,2014-11-28,2014-11-29,73
-ABC001,ABC001-201-18,Occaecati qui eos.,AE Decode 1,Body System 1,2014-10-09,2014-11-29,74
-ABC001,ABC001-201-18,Omnis voluptate et quisquam.,AE Decode 10,Body System 5,2014-12-07,2014-12-07,75
-ABC001,ABC001-201-18,Nostrum cumque est.,AE Decode 4,Body System 3,2014-11-04,,76
-ABC001,ABC001-301-01,Expedita cumque repellendus omnis ducimus accusantium odio.,AE Decode 1,Body System 8,2014-08-28,2014-10-16,77
-ABC001,ABC001-301-01,Qui possimus optio tempore.,AE Decode 2,Body System 10,2014-09-04,,78
-ABC001,ABC001-301-01,Architecto officiis voluptas illo.,AE Decode 10,Body System 10,2014-10-06,2014-10-15,79
-ABC001,ABC001-301-01,Reprehenderit quis autem ad suscipit.,AE Decode 4,Body System 2,2014-09-24,2014-09-25,80
-ABC001,ABC001-301-02,Sint ut aut voluptas sed.,AE Decode 2,Body System 9,2014-09-07,,81
-ABC001,ABC001-301-02,Voluptas animi veritatis.,AE Decode 4,Body System 2,2014-08-24,2014-09-08,82
-ABC001,ABC001-301-03,Commodi et voluptatibus eaque cumque perspiciatis.,AE Decode 6,Body System 10,2014-07-15,,83
-ABC001,ABC001-301-03,In animi inventore repellat.,AE Decode 10,Body System 7,2014-08-18,,84
-ABC001,ABC001-301-03,Qui quo corrupti ut ea dolorem.,AE Decode 7,Body System 8,2014-08-06,2014-09-05,85
-ABC001,ABC001-301-03,Iure laudantium consequatur.,AE Decode 2,Body System 3,2014-07-14,2014-07-26,86
-ABC001,ABC001-301-04,Sequi sit commodi fuga qui id.,AE Decode 7,Body System 4,2014-05-29,,87
-ABC001,ABC001-301-05,Quae corrupti aspernatur voluptas distinctio velit recusandae.,AE Decode 7,Body System 4,2014-07-30,,88
-ABC001,ABC001-301-05,Id voluptatem est dolorem.,AE Decode 5,Body System 9,2014-07-23,,89
-ABC001,ABC001-301-05,Et quasi sunt ad.,AE Decode 7,Body System 2,2014-07-09,,90
-ABC001,ABC001-301-05,Dolorum qui beatae dolor.,AE Decode 1,Body System 10,2014-05-20,,91
-ABC001,ABC001-301-06,In qui aut voluptatum et voluptatem quod.,AE Decode 3,Body System 3,2015-01-15,,92
-ABC001,ABC001-301-06,Deserunt ea nostrum.,AE Decode 9,Body System 4,2015-01-21,,93
-ABC001,ABC001-302-01,Nostrum quasi voluptatem est voluptas necessitatibus.,AE Decode 3,Body System 10,2014-07-13,2014-07-15,94
-ABC001,ABC001-302-01,Impedit exercitationem quidem doloribus laboriosam in.,AE Decode 1,Body System 10,2014-07-20,2014-07-20,95
-ABC001,ABC001-302-01,Illo ea maiores omnis possimus soluta.,AE Decode 6,Body System 7,2014-05-16,2014-06-26,96
-ABC001,ABC001-302-02,Sit hic sapiente enim laudantium.,AE Decode 8,Body System 4,2014-06-24,2014-06-24,97
-ABC001,ABC001-302-02,Fuga adipisci quia quo et beatae.,AE Decode 5,Body System 1,2014-06-20,2014-06-23,98
-ABC001,ABC001-302-02,Nisi soluta recusandae et quos possimus.,AE Decode 4,Body System 4,2014-06-23,,99
-ABC001,ABC001-304-01,In beatae at.,AE Decode 10,Body System 2,2014-05-04,,100
-ABC001,ABC001-304-01,Perspiciatis architecto et aliquid distinctio ea.,AE Decode 10,Body System 6,2014-04-15,,101
-ABC001,ABC001-304-01,Quasi laborum accusantium molestias.,AE Decode 2,Body System 9,2014-03-30,2014-04-24,102
-ABC001,ABC001-304-02,Minus corrupti et distinctio.,AE Decode 4,Body System 10,2014-04-30,2014-05-08,103
-ABC001,ABC001-304-05,Deleniti delectus in et voluptatibus non molestias.,AE Decode 9,Body System 6,2014-04-02,2014-04-10,104
-ABC001,ABC001-304-05,Consequatur et voluptatum quidem consequatur adipisci.,AE Decode 2,Body System 7,2014-03-13,,105
-ABC001,ABC001-304-06,Non quia libero.,AE Decode 4,Body System 6,2014-05-31,2014-06-07,106
-ABC001,ABC001-304-06,Quia ut in quia.,AE Decode 4,Body System 10,2014-06-10,,107
-ABC001,ABC001-304-06,Sint recusandae qui aut.,AE Decode 2,Body System 5,2014-06-04,,108
-ABC001,ABC001-304-06,Cupiditate delectus.,AE Decode 6,Body System 5,2014-06-01,,109
-ABC001,ABC001-304-06,Sed dolorem.,AE Decode 2,Body System 7,2014-05-12,2014-06-02,110
-ABC001,ABC001-304-06,Nobis et vero voluptatem eum.,AE Decode 10,Body System 2,2014-05-28,2014-06-02,111
-ABC001,ABC001-304-06,Beatae doloribus rerum ut.,AE Decode 1,Body System 5,2014-04-05,,112
-ABC001,ABC001-304-06,Architecto enim sequi nulla dolores quibusdam.,AE Decode 7,Body System 7,2014-05-22,,113
-ABC001,ABC001-304-06,Quaerat consequatur ullam.,AE Decode 5,Body System 8,2014-04-08,2014-05-18,114
-ABC001,ABC001-305-01,Inventore labore natus ipsam.,AE Decode 3,Body System 2,2014-03-19,2014-03-19,115
-ABC001,ABC001-305-02,Aut neque architecto est delectus nisi quos.,AE Decode 2,Body System 10,2014-03-31,2014-04-04,116
-ABC001,ABC001-305-03,Soluta id tempora voluptate.,AE Decode 5,Body System 5,2014-06-23,2014-06-24,117
-ABC001,ABC001-305-03,Dolores qui eum consequatur.,AE Decode 8,Body System 6,2014-04-10,,118
-ABC001,ABC001-305-03,Reiciendis debitis eum id dicta vitae facilis.,AE Decode 6,Body System 3,2014-06-05,,119
-ABC001,ABC001-305-03,Earum sed libero cupiditate numquam nemo inventore.,AE Decode 9,Body System 5,2014-06-04,,120
-ABC001,ABC001-305-04,Odio quo molestiae quidem porro ipsam et.,AE Decode 9,Body System 5,2014-07-20,,121
-ABC001,ABC001-305-04,Quaerat nemo quae est.,AE Decode 4,Body System 7,2014-06-18,,122
-ABC001,ABC001-305-04,Fugiat et sapiente illum amet odio.,AE Decode 1,Body System 7,2014-06-24,,123
-ABC001,ABC001-305-04,Facilis sint fugit recusandae.,AE Decode 6,Body System 2,2014-07-24,,124
-ABC001,ABC001-305-04,Sit officia aut mollitia laborum voluptatum voluptatem.,AE Decode 6,Body System 9,2014-07-26,2014-07-26,125
-ABC001,ABC001-305-04,Qui perferendis eveniet nemo.,AE Decode 3,Body System 6,2014-06-26,,126
-ABC001,ABC001-401-01,Enim quidem.,AE Decode 1,Body System 9,2014-06-10,,127
-ABC001,ABC001-401-02,Blanditiis accusamus eum excepturi officia.,AE Decode 10,Body System 3,2014-05-10,,128
-ABC001,ABC001-401-02,Vero et.,AE Decode 3,Body System 2,2014-04-05,,129
-ABC001,ABC001-401-02,Sunt consequatur.,AE Decode 8,Body System 7,2014-04-10,,130
-ABC001,ABC001-401-02,Fugiat doloremque expedita tempore repellendus eius.,AE Decode 5,Body System 1,2014-05-25,2014-06-09,131
-ABC001,ABC001-401-02,Maxime sed.,AE Decode 5,Body System 3,2014-05-22,,132
-ABC001,ABC001-401-02,Non quo omnis qui dicta.,AE Decode 10,Body System 7,2014-05-18,2014-05-20,133
-ABC001,ABC001-401-02,A enim deserunt illum ut.,AE Decode 4,Body System 9,2014-04-17,,134
-ABC001,ABC001-401-02,Repellat quae reprehenderit a vitae dolores.,AE Decode 9,Body System 7,2014-04-15,,135
-ABC001,ABC001-401-02,Sapiente ut quia.,AE Decode 7,Body System 7,2014-06-19,,136
-ABC001,ABC001-401-02,Delectus itaque ut eaque.,AE Decode 8,Body System 4,2014-04-20,,137
-ABC001,ABC001-401-03,Rerum sed saepe sunt placeat eaque illum.,AE Decode 3,Body System 5,2014-06-25,2014-07-07,138
-ABC001,ABC001-401-03,Alias harum deleniti odit et eligendi nobis.,AE Decode 3,Body System 3,2014-08-23,,139
-ABC001,ABC001-401-04,Expedita numquam repellendus fuga sit molestias.,AE Decode 9,Body System 9,2014-04-25,,140
-ABC001,ABC001-401-04,Suscipit dolor error molestiae omnis.,AE Decode 8,Body System 1,2014-04-29,,141
-ABC001,ABC001-401-05,Quidem et illum.,AE Decode 10,Body System 9,2014-09-25,,142
-ABC001,ABC001-402-02,Sed dolorem quae perferendis.,AE Decode 10,Body System 7,2014-02-24,,143
-ABC001,ABC001-402-02,Harum ut dolor ut.,AE Decode 7,Body System 8,2014-05-03,2014-05-05,144
-ABC001,ABC001-402-02,Et officiis vel.,AE Decode 6,Body System 4,2014-04-30,,145
-ABC001,ABC001-402-03,Qui mollitia eum qui animi.,AE Decode 10,Body System 5,2014-03-04,,146
-ABC001,ABC001-402-03,Aperiam est ea dolorum.,AE Decode 6,Body System 2,2014-03-28,2014-04-01,147
-ABC001,ABC001-402-04,Explicabo dolor voluptas ipsum rem ut omnis.,AE Decode 7,Body System 1,2014-03-08,2014-04-01,148
-ABC001,ABC001-402-04,Totam et possimus fugiat quasi ut explicabo.,AE Decode 7,Body System 5,2014-05-09,2014-05-09,149
-ABC001,ABC001-402-05,Expedita velit doloribus est aliquid.,AE Decode 1,Body System 8,2014-07-14,,150
-ABC001,ABC001-402-05,Doloremque vitae quam fuga recusandae facere omnis.,AE Decode 5,Body System 7,2014-08-04,,151
-ABC001,ABC001-403-02,Sed distinctio aut consectetur quam dolor deserunt.,AE Decode 9,Body System 5,2014-03-30,2014-05-03,152
-ABC001,ABC001-403-02,Animi saepe pariatur quae sit accusamus.,AE Decode 7,Body System 8,2014-05-28,,153
-ABC001,ABC001-403-02,Eaque quisquam.,AE Decode 10,Body System 7,2014-04-15,,154
-ABC001,ABC001-403-02,Ipsa molestias fuga sapiente in.,AE Decode 1,Body System 5,2014-03-21,,155
-ABC001,ABC001-403-02,Reiciendis dolorem ut officiis corporis.,AE Decode 2,Body System 1,2014-04-18,,156
-ABC001,ABC001-403-02,Cum illum perferendis sunt ratione.,AE Decode 6,Body System 1,2014-03-15,,157
-ABC001,ABC001-403-02,Error et veniam officiis aut omnis.,AE Decode 9,Body System 1,2014-04-21,2014-04-23,158
-ABC001,ABC001-403-03,Rerum incidunt eligendi provident et non.,AE Decode 5,Body System 7,2014-04-15,,159
-ABC001,ABC001-403-04,Voluptate omnis.,AE Decode 4,Body System 6,2014-08-15,,160
-ABC001,ABC001-403-04,Inventore quia quod ab eligendi voluptatem officiis.,AE Decode 6,Body System 3,2014-07-28,,161
-ABC001,ABC001-403-04,Ab nihil.,AE Decode 10,Body System 2,2014-08-26,,162
-ABC001,ABC001-403-05,Voluptates nesciunt.,AE Decode 5,Body System 8,2014-07-26,2014-07-27,163
-ABC001,ABC001-403-05,Dicta dolor sunt.,AE Decode 9,Body System 3,2014-07-03,,164
-ABC001,ABC001-403-05,Sit similique aut.,AE Decode 3,Body System 3,2014-07-18,2014-07-18,165
-ABC001,ABC001-403-06,Ullam quidem qui.,AE Decode 10,Body System 8,2014-03-07,2014-04-06,166
-ABC001,ABC001-403-06,Soluta ad rem omnis id earum error.,AE Decode 7,Body System 5,2014-03-11,,167
-ABC001,ABC001-403-06,Rerum sint voluptatem tempora ut suscipit harum.,AE Decode 10,Body System 4,2014-04-10,,168
-ABC001,ABC001-403-06,Accusantium quia.,AE Decode 1,Body System 8,2014-05-15,,169
-ABC001,ABC001-403-06,Nihil quas omnis cumque aliquam rerum voluptatum.,AE Decode 9,Body System 2,2014-04-13,2014-05-01,170
-ABC001,ABC001-404-01,Ipsa et hic laboriosam itaque sit asperiores.,AE Decode 6,Body System 8,2014-08-14,2014-09-01,171
-ABC001,ABC001-404-01,Qui labore qui impedit in suscipit aut.,AE Decode 10,Body System 2,2014-07-27,2014-09-01,172
-ABC001,ABC001-404-02,Assumenda non omnis sunt eum harum.,AE Decode 9,Body System 8,2014-05-01,2014-06-01,173
-ABC001,ABC001-404-02,Facilis earum repellat hic.,AE Decode 2,Body System 7,2014-04-04,,174
-ABC001,ABC001-404-02,Ratione deleniti dicta et omnis.,AE Decode 3,Body System 8,2014-04-15,,175
-ABC001,ABC001-404-02,Beatae velit molestiae harum natus qui dolores.,AE Decode 9,Body System 9,2014-06-04,2014-06-06,176
-ABC001,ABC001-404-03,Veritatis beatae maxime qui.,AE Decode 7,Body System 2,2014-03-17,,177
-ABC001,ABC001-404-04,Enim et ea cumque dignissimos.,AE Decode 7,Body System 5,2014-03-11,2014-04-04,178
-ABC001,ABC001-404-05,Aut magni quasi dolores maiores eius qui.,AE Decode 2,Body System 8,2014-09-15,,179
-ABC001,ABC001-404-05,Sit dolores omnis officia ut sed.,AE Decode 6,Body System 4,2014-10-19,2014-10-20,180
-ABC001,ABC001-404-05,Rerum maiores impedit animi consequatur.,AE Decode 10,Body System 5,2014-08-20,2014-10-10,181
-ABC001,ABC001-404-05,Similique optio voluptate eius.,AE Decode 4,Body System 10,2014-09-24,2014-10-30,182
-ABC001,ABC001-404-05,Officia quia velit assumenda rerum quisquam iusto.,AE Decode 7,Body System 6,2014-10-31,,183
-ABC001,ABC001-404-05,Et qui corrupti odit.,AE Decode 8,Body System 6,2014-10-20,2014-10-26,184
-ABC001,ABC001-404-05,Veniam ducimus molestiae qui occaecati vel cum.,AE Decode 5,Body System 7,2014-08-30,,185
-ABC001,ABC001-404-05,Neque expedita quisquam est ratione omnis.,AE Decode 4,Body System 2,2014-09-17,2014-09-20,186
-ABC001,ABC001-404-06,Odio et eum non nulla.,AE Decode 2,Body System 6,2014-11-30,2014-12-10,187
-ABC001,ABC001-404-06,Quos et officia praesentium perferendis et.,AE Decode 10,Body System 6,2014-10-23,,188
-ABC001,ABC001-404-07,Inventore soluta labore qui quae.,AE Decode 7,Body System 10,2014-10-02,,189
-ABC001,ABC001-404-08,Totam optio ullam.,AE Decode 9,Body System 2,2014-05-24,2014-05-24,190
-ABC001,ABC001-404-08,Similique molestiae.,AE Decode 6,Body System 2,2014-06-04,2014-06-10,191
-ABC001,ABC001-404-08,Rem veritatis cumque est quisquam.,AE Decode 10,Body System 1,2014-04-04,,192
-ABC001,ABC001-404-08,Facere ex laboriosam ut repudiandae voluptas eaque.,AE Decode 1,Body System 2,2014-06-07,,193
-ABC001,ABC001-501-01,Necessitatibus autem culpa quo rerum adipisci est.,AE Decode 6,Body System 2,2014-03-15,2014-03-24,194
-ABC001,ABC001-501-02,Quia porro amet mollitia molestiae sapiente inventore.,AE Decode 4,Body System 10,2014-05-30,,195
-ABC001,ABC001-501-02,Quidem amet.,AE Decode 10,Body System 2,2014-05-30,2014-06-05,196
-ABC001,ABC001-501-02,Illum dolor doloribus at aut recusandae adipisci.,AE Decode 7,Body System 8,2014-06-09,2014-07-04,197
-ABC001,ABC001-501-02,Nam facilis repellat quia maxime.,AE Decode 8,Body System 6,2014-06-03,2014-06-15,198
-ABC001,ABC001-501-02,Est eveniet quia non aut.,AE Decode 10,Body System 8,2014-06-03,2014-06-28,199
-ABC001,ABC001-501-02,Cumque aliquid atque reprehenderit neque soluta.,AE Decode 3,Body System 3,2014-04-24,,200
-ABC001,ABC001-501-02,Nostrum et ab.,AE Decode 1,Body System 3,2014-05-16,,201
-ABC001,ABC001-501-02,Voluptatem et nulla nemo tempora ea cum.,AE Decode 2,Body System 3,2014-05-28,2014-07-05,202
-ABC001,ABC001-501-03,Et at.,AE Decode 3,Body System 7,2014-03-30,2014-06-04,203
-ABC001,ABC001-501-04,Error et hic cupiditate.,AE Decode 1,Body System 6,2014-05-30,,204
-ABC001,ABC001-501-04,Qui possimus ducimus repellendus aut consectetur sit.,AE Decode 8,Body System 8,2014-05-23,,205
-ABC001,ABC001-501-04,Quae quo.,AE Decode 4,Body System 8,2014-04-21,2014-05-23,206
-ABC001,ABC001-501-04,Deserunt rerum numquam aut enim.,AE Decode 9,Body System 5,2014-03-18,,207
-ABC001,ABC001-501-04,Omnis enim adipisci quae.,AE Decode 4,Body System 2,2014-05-07,,208
-ABC001,ABC001-501-04,Sed dolore a est ut.,AE Decode 4,Body System 7,2014-04-08,2014-04-09,209
-ABC001,ABC001-501-04,Est ut perferendis nisi ratione nostrum.,AE Decode 7,Body System 10,2014-05-18,2014-05-26,210
-ABC001,ABC001-501-05,Quis cupiditate saepe.,AE Decode 3,Body System 5,2014-03-24,,211
-ABC001,ABC001-501-05,Fuga at.,AE Decode 9,Body System 6,2014-04-09,2014-04-12,212
-ABC001,ABC001-502-01,Qui mollitia reiciendis est.,AE Decode 3,Body System 1,2014-03-29,,213
-ABC001,ABC001-502-01,Voluptatibus est.,AE Decode 10,Body System 4,2014-03-13,2014-03-15,214
-ABC001,ABC001-502-02,Nihil esse veritatis temporibus occaecati.,AE Decode 7,Body System 2,2014-08-19,2014-09-17,215
-ABC001,ABC001-502-02,Deserunt occaecati a est ducimus sequi labore.,AE Decode 6,Body System 2,2014-07-06,2014-09-04,216
-ABC001,ABC001-502-02,Aut quia alias occaecati quasi.,AE Decode 6,Body System 5,2014-09-08,2014-09-20,217
-ABC001,ABC001-502-05,At qui hic unde placeat totam.,AE Decode 4,Body System 1,2014-03-26,2014-05-15,218
-ABC001,ABC001-502-05,Dolorum ratione.,AE Decode 6,Body System 5,2014-06-09,,219
-ABC001,ABC001-502-05,Maxime facilis ut amet et exercitationem.,AE Decode 7,Body System 5,2014-05-17,2014-05-26,220
-ABC001,ABC001-502-05,Aliquid qui aperiam sit qui sequi.,AE Decode 6,Body System 8,2014-04-19,,221
-ABC001,ABC001-502-05,Laborum dicta sed voluptatibus non rerum quas.,AE Decode 10,Body System 3,2014-04-15,2014-05-12,222
-ABC001,ABC001-502-05,Dolorem sit et aut.,AE Decode 8,Body System 2,2014-03-25,2014-04-06,223
-ABC001,ABC001-502-05,Neque labore ut.,AE Decode 7,Body System 3,2014-04-17,2014-05-02,224
-ABC001,ABC001-502-06,Veritatis molestias.,AE Decode 5,Body System 2,2014-03-02,,225
-ABC001,ABC001-502-06,Doloremque inventore qui nulla.,AE Decode 10,Body System 2,2014-03-06,2014-04-01,226
-ABC001,ABC001-502-06,Saepe sit.,AE Decode 10,Body System 3,2014-03-20,,227
-ABC001,ABC001-502-06,Consequatur aut suscipit.,AE Decode 7,Body System 8,2014-03-12,,228
-ABC001,ABC001-502-07,Omnis consequatur doloremque adipisci voluptatum.,AE Decode 7,Body System 1,2014-04-03,2014-04-04,229
-ABC001,ABC001-503-01,Laboriosam ut et earum aut dolores officiis.,AE Decode 3,Body System 7,2014-03-20,2014-04-17,230
-ABC001,ABC001-503-01,Nihil officiis.,AE Decode 3,Body System 10,2014-03-13,2014-04-11,231
-ABC001,ABC001-503-01,Qui repellat vitae et dolore.,AE Decode 9,Body System 5,2014-03-22,2014-04-16,232
-ABC001,ABC001-503-02,Ducimus deleniti animi voluptates beatae.,AE Decode 9,Body System 3,2014-04-24,2014-04-24,233
-ABC001,ABC001-503-02,Harum iure.,AE Decode 5,Body System 6,2014-04-26,,234
-ABC001,ABC001-503-02,In fugiat ipsa qui quo voluptatum.,AE Decode 4,Body System 10,2014-04-01,,235
-ABC001,ABC001-503-02,Laudantium dolorum.,AE Decode 5,Body System 7,2014-04-19,2014-05-01,236
-ABC001,ABC001-503-02,Aperiam aut eaque.,AE Decode 2,Body System 6,2014-04-28,2014-04-30,237
-ABC001,ABC001-503-02,Sunt enim necessitatibus et ab.,AE Decode 5,Body System 2,2014-03-02,2014-03-04,238
-ABC001,ABC001-503-04,Natus adipisci accusamus nulla quis omnis.,AE Decode 9,Body System 6,2014-04-19,,239
-ABC001,ABC001-503-04,Omnis nam.,AE Decode 10,Body System 6,2014-04-12,2014-05-03,240
-ABC001,ABC001-503-04,Et inventore quis exercitationem temporibus maiores ut.,AE Decode 9,Body System 3,2014-04-17,2014-04-25,241
+studyid,usubjid,aeterm,aedecod,aebodsys,aesev,aeser,aestdtc,aestdy,aeseq,aeendtc,aeendy
+ABC001,ABC001-101-01,Sed voluptatibus odio tempore consectetur id nam.,Headache,Neurological disorders,Mild,N,2014-06-21,9,1,,
+ABC001,ABC001-101-01,Totam incidunt architecto culpa labore fuga.,Migraine,Neurological disorders,Mild,N,2014-06-13,1,2,,
+ABC001,ABC001-101-02,Aut inventore fuga praesentium quam eligendi.,Dyspnoea,Respiratory tract disorders,Mild,N,2014-09-28,-13,3,,
+ABC001,ABC001-101-02,Nemo et nisi corporis voluptas.,Migraine,Neurological disorders,Mild,N,2014-10-17,6,4,,
+ABC001,ABC001-101-02,Tempora harum illo dicta expedita vero.,Dyspnoea,Respiratory tract disorders,Mild,N,2014-10-04,-7,5,2014-11-02,22
+ABC001,ABC001-101-03,Rerum quibusdam quis.,Lethargy,Systemic disorders,Mild,Y,2014-05-19,45,6,2014-05-20,46
+ABC001,ABC001-101-03,Non possimus quos.,Recumbency,Systemic disorders,Mild,N,2014-06-07,64,7,2014-06-07,64
+ABC001,ABC001-101-04,Eos id sint.,Apnoea,Respiratory tract disorders,Mild,N,2014-04-28,19,8,,
+ABC001,ABC001-101-04,Vitae itaque sapiente cum sunt voluptatem nam.,Headache,Neurological disorders,Mild,N,2014-04-19,10,9,,
+ABC001,ABC001-101-04,Nihil assumenda temporibus quo dolorem qui quas.,Disorientation,Behavioural disorders,Mild,N,2014-06-20,72,10,2014-06-21,73
+ABC001,ABC001-101-04,Laudantium dignissimos.,Migraine,Neurological disorders,Mild,N,2014-03-30,-10,11,,
+ABC001,ABC001-101-04,Facere animi et.,Disorientation,Behavioural disorders,Moderate,Y,2014-04-21,12,12,,
+ABC001,ABC001-101-04,Quo aut animi voluptatibus.,Apnoea,Respiratory tract disorders,Mild,N,2014-06-17,69,13,2014-06-18,70
+ABC001,ABC001-101-05,Rerum id labore consequuntur explicabo.,Lethargy,Systemic disorders,Mild,N,2014-04-05,15,14,2014-04-21,31
+ABC001,ABC001-101-05,Quibusdam hic.,Disorientation,Behavioural disorders,Moderate,N,2014-04-19,29,15,,
+ABC001,ABC001-101-05,Voluptas sunt praesentium dolorem est eum id.,Headache,Neurological disorders,Mild,N,2014-04-03,13,16,,
+ABC001,ABC001-101-05,Et tempore vero facere qui adipisci quae.,Lethargy,Systemic disorders,Mild,N,2014-03-26,5,17,2014-04-20,30
+ABC001,ABC001-101-05,Ad ipsam at accusamus.,Disorientation,Behavioural disorders,Mild,N,2014-03-26,5,18,,
+ABC001,ABC001-101-05,Eaque neque est non est.,Lethargy,Systemic disorders,Mild,N,2014-03-21,0,19,2014-04-28,38
+ABC001,ABC001-102-01,Et dolorum.,Recumbency,Systemic disorders,Mild,N,2014-05-19,0,20,,
+ABC001,ABC001-102-02,Perferendis nemo alias.,Recumbency,Systemic disorders,Mild,N,2014-07-15,-8,21,,
+ABC001,ABC001-102-02,Non in in qui.,Sedation,Neurological disorders,Mild,N,2014-09-27,66,22,2014-09-27,66
+ABC001,ABC001-102-03,Voluptatem et eos necessitatibus est.,Lethargy,Systemic disorders,Mild,N,2014-04-19,,23,,
+ABC001,ABC001-102-04,Harum porro quia esse sit veritatis et.,Dyspnoea,Respiratory tract disorders,Mild,N,2014-08-06,-7,24,2014-09-03,21
+ABC001,ABC001-102-04,Sint eaque rerum excepturi recusandae.,Lethargy,Systemic disorders,Mild,N,2014-10-04,52,25,2014-10-16,64
+ABC001,ABC001-102-04,Voluptatibus autem.,Lethargy,Systemic disorders,Mild,N,2014-08-01,-12,26,2014-08-29,16
+ABC001,ABC001-102-04,Ab quo enim.,Disorientation,Behavioural disorders,Mild,N,2014-09-22,40,27,,
+ABC001,ABC001-102-05,Iste nam et inventore voluptatum sit.,Headache,Neurological disorders,Severe,N,2014-04-14,18,28,2014-05-02,36
+ABC001,ABC001-102-05,In consequatur laborum molestias.,Teeth grinding,Behavioural disorders,Moderate,N,2014-04-09,13,29,2014-05-11,45
+ABC001,ABC001-102-05,Iure doloremque eius minus quia.,Headache,Neurological disorders,Mild,N,2014-03-23,-4,30,2014-04-02,6
+ABC001,ABC001-102-05,Rem ab.,Headache,Neurological disorders,Severe,N,2014-06-03,68,31,2014-06-03,68
+ABC001,ABC001-102-05,Ut est ab in sequi quam.,Disorientation,Behavioural disorders,Mild,N,2014-04-19,23,32,,
+ABC001,ABC001-102-05,Corrupti quo non.,Headache,Neurological disorders,Mild,N,2014-03-15,-12,33,2014-03-15,-12
+ABC001,ABC001-102-05,Dolorem vel facilis cumque sint recusandae.,Malaise,Systemic disorders,Mild,N,2014-04-17,21,34,,
+ABC001,ABC001-102-05,Dolore libero unde placeat dolorem magni quia.,Apnoea,Respiratory tract disorders,Mild,N,2014-04-14,18,35,,
+ABC001,ABC001-102-05,Earum et voluptatem.,Lethargy,Systemic disorders,Mild,N,2014-05-24,58,36,,
+ABC001,ABC001-102-05,Et ipsam eaque.,Pruritus,Skin and appendages disorders,Mild,Y,2014-04-09,13,37,,
+ABC001,ABC001-102-05,In velit dolores.,Pruritus,Skin and appendages disorders,Moderate,N,2014-04-15,19,38,2014-05-19,53
+ABC001,ABC001-102-05,Quia tempore animi perspiciatis aut.,Headache,Neurological disorders,Moderate,N,2014-04-23,27,39,2014-05-21,55
+ABC001,ABC001-102-05,Dolore non sit laudantium atque culpa.,Headache,Neurological disorders,Moderate,N,2014-05-23,57,40,,
+ABC001,ABC001-102-05,Et incidunt.,Migraine,Neurological disorders,Mild,N,2014-04-23,27,41,,
+ABC001,ABC001-102-05,Dolores quasi rerum sit.,Lethargy,Systemic disorders,Moderate,N,2014-04-08,12,42,2014-05-02,36
+ABC001,ABC001-102-05,Iure nobis eligendi est amet dolorum blanditiis.,Apnoea,Respiratory tract disorders,Severe,N,2014-03-16,-11,43,2014-05-25,59
+ABC001,ABC001-102-05,Vel expedita.,Migraine,Neurological disorders,Severe,N,2014-04-19,23,44,2014-05-27,61
+ABC001,ABC001-102-05,Ea dolores libero sit.,Recumbency,Systemic disorders,Mild,N,2014-04-04,8,45,2014-06-02,67
+ABC001,ABC001-102-05,Voluptatum laudantium eligendi non et est.,Lethargy,Systemic disorders,Mild,N,2014-04-05,9,46,2014-06-02,67
+ABC001,ABC001-103-01,Sit ratione.,Disorientation,Behavioural disorders,Mild,Y,2014-04-16,40,47,2014-04-22,46
+ABC001,ABC001-103-01,Aliquam sit.,Malaise,Systemic disorders,Mild,N,2014-02-27,-8,48,,
+ABC001,ABC001-103-02,Qui ea et.,Disorientation,Behavioural disorders,Mild,N,2014-03-18,-14,49,2014-04-08,7
+ABC001,ABC001-103-02,Quam vel qui.,Migraine,Neurological disorders,Moderate,N,2014-04-15,14,50,,
+ABC001,ABC001-103-03,Modi animi autem.,Sedation,Neurological disorders,Mild,Y,2014-11-15,3,51,2014-11-19,7
+ABC001,ABC001-103-04,Et incidunt et itaque asperiores vitae.,Headache,Neurological disorders,Mild,N,2014-08-25,66,52,2014-08-30,71
+ABC001,ABC001-103-04,Vel sint perferendis.,Migraine,Neurological disorders,Mild,N,2014-06-25,5,53,,
+ABC001,ABC001-103-04,Quo nihil accusantium debitis.,Malaise,Systemic disorders,Mild,N,2014-06-19,-1,54,2014-08-24,65
+ABC001,ABC001-103-04,Consequatur corrupti tempore occaecati nisi ut ut.,Migraine,Neurological disorders,Severe,N,2014-07-22,32,55,2014-08-14,55
+ABC001,ABC001-103-04,Consectetur aut facilis dignissimos.,Migraine,Neurological disorders,Mild,N,2014-08-02,43,56,2014-08-29,70
+ABC001,ABC001-103-04,Suscipit nihil.,Migraine,Neurological disorders,Mild,Y,2014-06-29,9,57,2014-07-26,36
+ABC001,ABC001-103-04,Molestiae ab quisquam magni id dolor ipsum.,Migraine,Neurological disorders,Mild,N,2014-07-18,28,58,,
+ABC001,ABC001-103-04,Laudantium libero ut.,Migraine,Neurological disorders,Mild,N,2014-08-04,45,59,2014-08-21,62
+ABC001,ABC001-201-01,Beatae et iusto ut.,Lethargy,Systemic disorders,Mild,N,2014-02-22,-12,60,,
+ABC001,ABC001-201-02,Qui totam.,Teeth grinding,Behavioural disorders,Mild,N,2014-05-31,18,61,,
+ABC001,ABC001-201-02,Inventore tempora quibusdam.,Malaise,Systemic disorders,Mild,N,2014-05-11,-2,62,,
+ABC001,ABC001-201-02,Voluptatem sed consequatur quia sed.,Migraine,Neurological disorders,Mild,Y,2014-06-10,28,63,,
+ABC001,ABC001-201-03,Consequatur iure ipsa et molestiae autem.,Teeth grinding,Behavioural disorders,Moderate,Y,2014-04-14,31,64,2014-05-11,58
+ABC001,ABC001-201-03,Et necessitatibus ab ipsum vitae illo.,Migraine,Neurological disorders,Mild,N,2014-03-03,-11,65,2014-05-07,54
+ABC001,ABC001-201-03,Corrupti quam sunt.,Migraine,Neurological disorders,Mild,N,2014-04-12,29,66,,
+ABC001,ABC001-201-03,Iusto assumenda similique sequi non.,Teeth grinding,Behavioural disorders,Mild,N,2014-03-03,-11,67,2014-03-17,3
+ABC001,ABC001-201-05,Est fugit veniam.,Headache,Neurological disorders,Moderate,N,2014-08-23,64,68,2014-08-25,66
+ABC001,ABC001-201-05,Vel minus mollitia.,Recumbency,Systemic disorders,Mild,N,2014-06-19,-1,69,,
+ABC001,ABC001-201-05,Aliquid delectus sit qui non doloribus consectetur.,Lethargy,Systemic disorders,Mild,N,2014-07-20,30,70,,
+ABC001,ABC001-201-05,Nulla laboriosam.,Lethargy,Systemic disorders,Mild,N,2014-07-27,37,71,2014-08-23,64
+ABC001,ABC001-201-05,Quidem saepe quis hic doloremque.,Headache,Neurological disorders,Mild,N,2014-07-02,12,72,,
+ABC001,ABC001-201-05,Eius unde qui explicabo repellendus maxime modi.,Dermatitis and eczema,Skin and appendages disorders,Moderate,N,2014-08-10,51,73,,
+ABC001,ABC001-201-05,Quidem est dolores.,Disorientation,Behavioural disorders,Mild,N,2014-06-12,-8,74,2014-08-03,44
+ABC001,ABC001-201-05,Ea qui velit.,Disorientation,Behavioural disorders,Mild,N,2014-08-27,68,75,2014-08-27,68
+ABC001,ABC001-202-01,Quo possimus labore dolorem officia.,Dyspnoea,Respiratory tract disorders,Mild,N,2014-11-14,-5,76,2014-11-14,-5
+ABC001,ABC001-202-02,Quisquam nulla atque nihil.,Migraine,Neurological disorders,Mild,N,2015-01-14,16,77,2015-01-15,17
+ABC001,ABC001-202-02,Quod autem.,Disorientation,Behavioural disorders,Mild,Y,2015-01-08,10,78,2015-01-18,20
+ABC001,ABC001-202-02,Quia pariatur aliquid et.,Pruritus,Skin and appendages disorders,Mild,N,2015-01-19,21,79,,
+ABC001,ABC001-202-02,Modi odit.,Malaise,Systemic disorders,Mild,N,2015-01-09,11,80,2015-01-16,18
+ABC001,ABC001-202-02,Non quis velit explicabo.,Headache,Neurological disorders,Mild,N,2014-12-15,-14,81,2014-12-16,-13
+ABC001,ABC001-202-02,Cumque officia.,Headache,Neurological disorders,Mild,N,2014-12-30,1,82,2015-01-09,11
+ABC001,ABC001-203-01,Libero necessitatibus voluptate.,Lethargy,Systemic disorders,Mild,N,2014-04-26,25,83,,
+ABC001,ABC001-203-03,Dicta voluptatum aut ut odit.,Increased intracranial pressure,Neurological disorders,Moderate,N,2014-08-18,41,84,2014-09-12,66
+ABC001,ABC001-203-03,Sed non velit unde sunt cupiditate.,Headache,Neurological disorders,Moderate,N,2014-07-25,17,85,,
+ABC001,ABC001-203-03,Corrupti alias ex fuga asperiores veritatis eum.,Lethargy,Systemic disorders,Moderate,N,2014-08-15,38,86,2014-09-07,61
+ABC001,ABC001-203-03,Est dolore.,Disorientation,Behavioural disorders,Severe,N,2014-08-04,27,87,2014-08-08,31
+ABC001,ABC001-203-03,Voluptatem ipsa maiores enim et.,Migraine,Neurological disorders,Mild,N,2014-08-11,34,88,2014-08-25,48
+ABC001,ABC001-203-03,Quibusdam est praesentium quas aut necessitatibus.,Headache,Neurological disorders,Mild,N,2014-07-15,7,89,,
+ABC001,ABC001-203-03,Necessitatibus dolore quidem corporis ratione vero.,Disorientation,Behavioural disorders,Mild,N,2014-08-25,48,90,2014-09-12,66
+ABC001,ABC001-301-01,Qui quo deleniti quaerat aut nulla.,Disorientation,Behavioural disorders,Mild,N,2014-07-01,-5,91,,
+ABC001,ABC001-301-01,Ut sunt ex perferendis.,Dyspnoea,Respiratory tract disorders,Mild,Y,2014-07-21,15,92,,
+ABC001,ABC001-301-01,Est debitis.,Pruritus,Skin and appendages disorders,Mild,N,2014-07-23,17,93,2014-07-27,21
+ABC001,ABC001-301-01,Unde eos est in et quia.,Migraine,Neurological disorders,Mild,N,2014-07-25,19,94,2014-08-03,28
+ABC001,ABC001-301-02,Id autem qui.,Apnoea,Respiratory tract disorders,Mild,N,2014-05-24,-10,95,,
+ABC001,ABC001-301-02,Sint doloremque ducimus repudiandae.,Disorientation,Behavioural disorders,Mild,Y,2014-07-06,33,96,2014-07-17,44
+ABC001,ABC001-301-02,Reiciendis saepe sint reprehenderit.,Dyspnoea,Respiratory tract disorders,Mild,N,2014-06-19,16,97,,
+ABC001,ABC001-301-02,Impedit hic voluptas ipsam.,Teeth grinding,Behavioural disorders,Mild,N,2014-06-18,15,98,,
+ABC001,ABC001-301-02,Quia error nulla.,Disorientation,Behavioural disorders,Mild,Y,2014-06-25,22,99,,
+ABC001,ABC001-301-02,Est nam expedita autem ut.,Malaise,Systemic disorders,Mild,N,2014-07-18,45,100,2014-07-26,53
+ABC001,ABC001-301-02,Sit quisquam quia.,Migraine,Neurological disorders,Mild,N,2014-06-29,26,101,,
+ABC001,ABC001-301-02,Delectus enim illum animi voluptate sint.,Lethargy,Systemic disorders,Mild,N,2014-06-06,3,102,2014-06-15,12
+ABC001,ABC001-301-02,Suscipit excepturi maiores.,Teeth grinding,Behavioural disorders,Mild,N,2014-06-09,6,103,2014-07-02,29
+ABC001,ABC001-301-02,Consequatur beatae totam sed.,Migraine,Neurological disorders,Mild,N,2014-07-07,34,104,2014-07-21,48
+ABC001,ABC001-301-03,Praesentium corporis debitis.,Sedation,Neurological disorders,Mild,Y,2014-05-13,21,105,2014-05-18,26
+ABC001,ABC001-301-03,Eum excepturi magni dolor eum voluptatem.,Apnoea,Respiratory tract disorders,Moderate,N,2014-04-30,8,106,,
+ABC001,ABC001-302-01,Illum id sequi mollitia voluptatem ex non.,Lethargy,Systemic disorders,Mild,N,2014-05-03,12,107,2014-05-13,22
+ABC001,ABC001-302-02,Aliquid quia tenetur id.,Malaise,Systemic disorders,Mild,N,2014-05-07,-4,108,,
+ABC001,ABC001-302-02,Necessitatibus et tempora cupiditate doloribus veniam.,Migraine,Neurological disorders,Mild,N,2014-06-21,41,109,2014-07-17,67
+ABC001,ABC001-302-02,Beatae asperiores.,Lethargy,Systemic disorders,Mild,N,2014-06-06,26,110,2014-07-02,52
+ABC001,ABC001-302-02,Architecto enim sequi libero.,Disorientation,Behavioural disorders,Mild,N,2014-07-05,55,111,,
+ABC001,ABC001-302-02,Quis in voluptatem qui exercitationem consequatur atque.,Headache,Neurological disorders,Mild,N,2014-05-31,20,112,2014-07-11,61
+ABC001,ABC001-302-03,In sequi consequatur nesciunt qui molestias.,Headache,Neurological disorders,Mild,N,2014-03-17,2,113,,
+ABC001,ABC001-302-03,Ut architecto.,Migraine,Neurological disorders,Moderate,N,2014-03-12,-3,114,2014-03-25,10
+ABC001,ABC001-302-03,Reprehenderit rem consequuntur ea possimus.,Lethargy,Systemic disorders,Mild,N,2014-03-21,6,115,,
+ABC001,ABC001-302-03,Deserunt animi dolores rerum esse.,Headache,Neurological disorders,Mild,N,2014-03-23,8,116,2014-03-23,8
+ABC001,ABC001-302-04,Voluptatem atque doloremque.,Lethargy,Systemic disorders,Mild,N,2014-08-06,36,117,,
+ABC001,ABC001-302-04,Consequatur tempore.,Disorientation,Behavioural disorders,Mild,N,2014-08-14,44,118,2014-08-22,52
+ABC001,ABC001-302-04,Iusto omnis molestiae mollitia distinctio.,Dyspnoea,Respiratory tract disorders,Mild,N,2014-08-14,44,119,,
+ABC001,ABC001-302-04,Dolorum quis sequi autem eos commodi.,Vocalisation,Behavioural disorders,Mild,N,2014-07-23,22,120,2014-08-07,37
+ABC001,ABC001-303-01,Rerum eos.,Headache,Neurological disorders,Mild,N,2014-05-13,13,121,,
+ABC001,ABC001-303-01,Ea est possimus.,Lethargy,Systemic disorders,Mild,N,2014-06-28,59,122,2014-07-07,68
+ABC001,ABC001-303-01,Totam distinctio provident sunt facilis.,Migraine,Neurological disorders,Mild,N,2014-05-13,13,123,2014-06-16,47
+ABC001,ABC001-303-01,Perferendis consequatur.,Lethargy,Systemic disorders,Mild,N,2014-04-20,-10,124,2014-05-24,24
+ABC001,ABC001-303-01,Dolore quas.,Apnoea,Respiratory tract disorders,Mild,N,2014-05-08,8,125,,
+ABC001,ABC001-303-01,Dolorum quidem.,Migraine,Neurological disorders,Mild,N,2014-05-07,7,126,,
+ABC001,ABC001-303-02,Vel quia et.,Teeth grinding,Behavioural disorders,Moderate,N,2014-07-01,-5,127,,
+ABC001,ABC001-303-02,Dolor at distinctio asperiores.,Headache,Neurological disorders,Moderate,N,2014-08-19,44,128,2014-08-28,53
+ABC001,ABC001-303-02,Ad qui exercitationem fuga ab perferendis.,Lethargy,Systemic disorders,Moderate,N,2014-08-12,37,129,,
+ABC001,ABC001-303-02,Porro distinctio qui velit tempore id.,Disorientation,Behavioural disorders,Mild,N,2014-07-20,14,130,,
+ABC001,ABC001-303-03,Commodi est pariatur autem illum.,Headache,Neurological disorders,Mild,N,2014-10-19,-6,131,2014-10-25,0
+ABC001,ABC001-303-04,Dolor voluptatibus harum ut delectus mollitia.,Pruritus,Skin and appendages disorders,Mild,N,2014-05-02,,132,2014-05-02,
+ABC001,ABC001-304-02,Sint distinctio.,Disorientation,Behavioural disorders,Severe,N,2014-05-10,34,133,2014-05-19,43
+ABC001,ABC001-304-02,Consequatur alias et vitae dolorem pariatur maiores.,Recumbency,Systemic disorders,Moderate,N,2014-06-06,61,134,2014-06-14,69
+ABC001,ABC001-304-04,Omnis officia veniam consectetur.,Migraine,Neurological disorders,Mild,N,2014-03-04,,135,,
+ABC001,ABC001-304-04,Velit est.,Increased intracranial pressure,Neurological disorders,Severe,N,2014-03-04,,136,,
+ABC001,ABC001-304-05,Sed culpa ex laudantium debitis voluptatem fuga.,Lethargy,Systemic disorders,Mild,Y,2014-04-17,44,137,,
+ABC001,ABC001-304-05,Consequatur exercitationem non delectus accusamus quam rerum.,Apnoea,Respiratory tract disorders,Mild,N,2014-04-28,55,138,,
+ABC001,ABC001-304-05,Est exercitationem soluta beatae dolor totam doloribus.,Headache,Neurological disorders,Moderate,N,2014-04-25,52,139,,
+ABC001,ABC001-304-05,Et sit ad neque et ipsam.,Malaise,Systemic disorders,Mild,N,2014-03-13,9,140,,
+ABC001,ABC001-304-05,Accusamus est sequi quia esse dolores.,Headache,Neurological disorders,Mild,N,2014-05-11,68,141,,
+ABC001,ABC001-401-01,Animi sed.,Disorientation,Behavioural disorders,Moderate,N,2014-07-30,38,142,,
+ABC001,ABC001-401-01,Distinctio ea aut voluptatum ut eos eaque.,Dyspnoea,Respiratory tract disorders,Mild,N,2014-07-14,22,143,2014-07-27,35
+ABC001,ABC001-401-01,Eaque ratione atque iusto sequi.,Headache,Neurological disorders,Mild,N,2014-08-09,48,144,2014-08-11,50
+ABC001,ABC001-401-01,Dolorem molestias praesentium molestiae et explicabo possimus.,Sedation,Neurological disorders,Mild,N,2014-06-11,-11,145,,
+ABC001,ABC001-401-01,Deserunt ipsam ratione ut.,Increased intracranial pressure,Neurological disorders,Mild,N,2014-07-05,13,146,2014-08-01,40
+ABC001,ABC001-401-01,Optio vel nulla assumenda animi velit ipsa.,Lethargy,Systemic disorders,Mild,N,2014-07-09,17,147,2014-08-13,52
+ABC001,ABC001-402-01,Quisquam id iure nam possimus.,Headache,Neurological disorders,Mild,N,2014-05-08,63,148,2014-05-11,66
+ABC001,ABC001-402-01,Nemo est.,Headache,Neurological disorders,Mild,N,2014-03-20,14,149,,
+ABC001,ABC001-402-01,Distinctio error consequatur explicabo qui.,Pruritus,Skin and appendages disorders,Mild,N,2014-04-08,33,150,,
+ABC001,ABC001-402-01,Modi repellat.,Apnoea,Respiratory tract disorders,Mild,N,2014-03-02,-4,151,,
+ABC001,ABC001-402-02,Exercitationem incidunt dolor in hic necessitatibus quam.,Apnoea,Respiratory tract disorders,Mild,N,2014-03-16,-1,152,2014-04-19,33
+ABC001,ABC001-402-02,Tempore ab dolorem ut impedit.,Lethargy,Systemic disorders,Mild,N,2014-04-06,20,153,,
+ABC001,ABC001-402-02,Debitis ratione repellat occaecati voluptas quae.,Migraine,Neurological disorders,Severe,Y,2014-04-16,30,154,2014-05-07,51
+ABC001,ABC001-403-01,Illo aut quo voluptatem nobis est.,Headache,Neurological disorders,Mild,Y,2014-05-07,-7,155,,
+ABC001,ABC001-403-02,Iste minima rerum.,Lethargy,Systemic disorders,Mild,N,2014-07-24,1,156,,
+ABC001,ABC001-403-02,Perspiciatis voluptatem facere fuga.,Pruritus,Skin and appendages disorders,Mild,N,2014-09-23,62,157,,
+ABC001,ABC001-403-02,Et beatae vel modi est ea dolor.,Lethargy,Systemic disorders,Moderate,N,2014-07-10,-13,158,,
+ABC001,ABC001-403-02,Nihil dolorem.,Migraine,Neurological disorders,Mild,N,2014-07-31,8,159,2014-09-24,63
+ABC001,ABC001-404-01,Facilis autem in deleniti reiciendis ut.,Headache,Neurological disorders,Mild,N,2014-07-08,34,160,2014-08-04,61
+ABC001,ABC001-404-01,Error at qui omnis quos.,Apnoea,Respiratory tract disorders,Mild,N,2014-08-09,66,161,2014-08-12,69
+ABC001,ABC001-404-01,Amet deleniti totam culpa consequuntur ipsa placeat.,Dizziness,Neurological disorders,Mild,Y,2014-06-01,-3,162,,
+ABC001,ABC001-404-01,Delectus magni sint excepturi.,Teeth grinding,Behavioural disorders,Mild,N,2014-08-11,68,163,,
+ABC001,ABC001-404-01,Cum ad.,Malaise,Systemic disorders,Mild,N,2014-06-01,-3,164,,
+ABC001,ABC001-404-02,Ratione quasi voluptate quis nihil.,Lethargy,Systemic disorders,Mild,N,2014-06-24,42,165,2014-06-29,47
+ABC001,ABC001-404-02,Sed corporis similique.,Lethargy,Systemic disorders,Mild,N,2014-05-16,3,166,2014-05-26,13
+ABC001,ABC001-404-02,Rem nihil quae blanditiis distinctio voluptatum dignissimos.,Recumbency,Systemic disorders,Severe,N,2014-05-23,10,167,2014-06-10,28
+ABC001,ABC001-404-02,Aut voluptas assumenda ipsa.,Recumbency,Systemic disorders,Moderate,N,2014-05-20,7,168,2014-07-21,69
+ABC001,ABC001-404-02,Est in nulla incidunt commodi consequatur.,Headache,Neurological disorders,Moderate,Y,2014-05-10,-3,169,2014-06-01,19
+ABC001,ABC001-404-02,Aliquid architecto facere reprehenderit illum.,Recumbency,Systemic disorders,Mild,N,2014-06-07,25,170,,
+ABC001,ABC001-404-02,Qui officiis et provident nihil.,Recumbency,Systemic disorders,Mild,N,2014-05-03,-10,171,2014-07-15,63
+ABC001,ABC001-404-02,Velit praesentium ut laboriosam ut.,Migraine,Neurological disorders,Mild,N,2014-05-15,2,172,2014-06-23,41
+ABC001,ABC001-404-03,Earum est quidem dolorum aut ut adipisci.,Headache,Neurological disorders,Mild,N,2014-03-22,18,173,2014-03-30,26
+ABC001,ABC001-404-03,Eos omnis et ipsum expedita officia iste.,Apnoea,Respiratory tract disorders,Mild,N,2014-03-13,9,174,2014-04-05,32
+ABC001,ABC001-404-03,Voluptas laboriosam dolorem enim alias veritatis.,Recumbency,Systemic disorders,Mild,N,2014-03-03,-1,175,,
+ABC001,ABC001-404-04,Recusandae veritatis beatae eius voluptas illo ut.,Disorientation,Behavioural disorders,Mild,N,2014-10-22,57,176,2014-10-29,64
+ABC001,ABC001-404-04,Voluptas vitae non modi repudiandae dolores ipsa.,Teeth grinding,Behavioural disorders,Moderate,N,2014-10-02,37,177,,
+ABC001,ABC001-404-04,Cumque possimus.,Malaise,Systemic disorders,Mild,N,2014-08-17,-9,178,2014-09-22,27
+ABC001,ABC001-404-04,Et repellendus ut sed.,Lethargy,Systemic disorders,Mild,N,2014-09-12,17,179,,
+ABC001,ABC001-404-04,Enim unde ut consequuntur.,Malaise,Systemic disorders,Mild,N,2014-09-03,8,180,2014-10-31,66
+ABC001,ABC001-404-04,Repellat ad tempore.,Recumbency,Systemic disorders,Severe,N,2014-11-04,70,181,,
+ABC001,ABC001-404-04,Deserunt tenetur.,Headache,Neurological disorders,Mild,Y,2014-08-22,-4,182,2014-09-19,24
+ABC001,ABC001-502-01,Error similique.,Lethargy,Systemic disorders,Mild,N,2014-03-15,-9,183,2014-04-16,23
+ABC001,ABC001-502-01,Qui voluptatum rerum consequatur maxime accusamus voluptas.,Increased intracranial pressure,Neurological disorders,Mild,N,2014-04-15,22,184,,
+ABC001,ABC001-503-01,Totam labore et necessitatibus hic.,Sedation,Neurological disorders,Mild,N,2014-04-26,12,185,2014-05-30,46
+ABC001,ABC001-503-02,Accusamus soluta cumque tempore.,Headache,Neurological disorders,Mild,N,2014-05-07,-14,186,,
+ABC001,ABC001-503-03,Molestiae fugiat.,Malaise,Systemic disorders,Severe,N,2014-06-22,27,187,,
+ABC001,ABC001-503-03,Pariatur modi.,Malaise,Systemic disorders,Mild,N,2014-05-23,-3,188,,
+ABC001,ABC001-503-03,Dicta dolore iusto.,Migraine,Neurological disorders,Mild,N,2014-05-13,-13,189,,
+ABC001,ABC001-503-03,Minus consequuntur.,Lethargy,Systemic disorders,Moderate,N,2014-06-25,30,190,,
+ABC001,ABC001-503-03,Quod esse non voluptatem officiis quia.,Lethargy,Systemic disorders,Moderate,N,2014-05-29,3,191,,
+ABC001,ABC001-503-03,Enim repellendus.,Dizziness,Neurological disorders,Mild,N,2014-06-04,9,192,,
+ABC001,ABC001-504-01,Rerum nam minima vero.,Impaired consciousness,Neurological disorders,Mild,Y,2014-05-11,-1,193,,
+ABC001,ABC001-504-01,Maxime dolorum quae quam odio.,Dermatitis and eczema,Skin and appendages disorders,Mild,N,2014-05-01,-11,194,,
+ABC001,ABC001-601-02,Sequi in quia.,Lethargy,Systemic disorders,Mild,N,2014-03-06,4,195,2014-03-10,8
+ABC001,ABC001-601-02,Dolores est id qui aliquam pariatur.,Malaise,Systemic disorders,Moderate,N,2014-02-27,-3,196,,
+ABC001,ABC001-601-03,Laborum ab eveniet.,Headache,Neurological disorders,Mild,N,2014-07-04,-13,197,2014-08-05,19
+ABC001,ABC001-601-04,Dolor error beatae qui blanditiis non.,Lethargy,Systemic disorders,Mild,N,2014-05-14,41,198,2014-05-14,41
+ABC001,ABC001-601-04,Beatae nemo.,Lethargy,Systemic disorders,Mild,N,2014-04-01,-2,199,,
+ABC001,ABC001-601-05,Ratione et libero non beatae voluptates consequatur.,Lethargy,Systemic disorders,Moderate,N,2014-03-21,,200,2014-03-21,
+ABC001,ABC001-601-06,Autem quis id aut.,Disorientation,Behavioural disorders,Mild,N,2014-04-01,0,201,,
+ABC001,ABC001-601-07,Nisi dolores est eos.,Apnoea,Respiratory tract disorders,Mild,N,2014-03-08,6,202,,
+ABC001,ABC001-601-07,Corrupti illo quo optio.,Apnoea,Respiratory tract disorders,Severe,N,2014-05-02,61,203,2014-05-10,69
+ABC001,ABC001-602-02,Nobis numquam in.,Lethargy,Systemic disorders,Severe,N,2014-07-10,33,204,,
+ABC001,ABC001-602-02,Quis sint at illum perspiciatis expedita.,Headache,Neurological disorders,Mild,N,2014-07-27,50,205,,
+ABC001,ABC001-602-02,Nostrum at.,Migraine,Neurological disorders,Moderate,N,2014-06-15,8,206,2014-07-22,45
+ABC001,ABC001-602-03,Fugit repellendus ipsa sapiente.,Migraine,Neurological disorders,Mild,N,2014-03-24,13,207,,
+ABC001,ABC001-602-04,Aspernatur reiciendis est omnis.,Disorientation,Behavioural disorders,Mild,N,2014-09-14,50,208,2014-09-20,56
+ABC001,ABC001-602-04,Pariatur nam ab ullam velit.,Migraine,Neurological disorders,Mild,N,2014-09-05,41,209,2014-09-06,42
+ABC001,ABC001-602-04,Adipisci voluptate culpa veritatis.,Dermatitis and eczema,Skin and appendages disorders,Mild,N,2014-09-01,37,210,,
+ABC001,ABC001-602-04,Non in delectus deleniti eaque corrupti.,Malaise,Systemic disorders,Mild,N,2014-08-28,33,211,2014-10-04,70
+ABC001,ABC001-602-04,Voluptas et vel voluptas voluptatem.,Headache,Neurological disorders,Mild,N,2014-09-19,55,212,2014-09-23,59
+ABC001,ABC001-602-05,Expedita omnis consequuntur.,Vocalisation,Behavioural disorders,Mild,N,2014-08-20,57,213,2014-08-24,61
+ABC001,ABC001-602-05,Est minima quibusdam ratione similique minus.,Headache,Neurological disorders,Mild,N,2014-08-16,53,214,2014-08-26,63
+ABC001,ABC001-602-05,Et dicta laborum.,Migraine,Neurological disorders,Mild,N,2014-07-10,16,215,,
+ABC001,ABC001-602-05,Natus quam dolores placeat modi asperiores distinctio.,Headache,Neurological disorders,Mild,N,2014-06-16,-8,216,2014-07-09,15
+ABC001,ABC001-602-05,Eligendi quia iste.,Disorientation,Behavioural disorders,Mild,N,2014-07-19,25,217,2014-07-26,32
+ABC001,ABC001-602-08,Dicta magni aperiam ut.,Sedation,Neurological disorders,Mild,N,2014-08-28,31,218,,
+ABC001,ABC001-602-08,Hic quasi rem harum saepe et.,Dyspnoea,Respiratory tract disorders,Mild,N,2014-07-28,0,219,2014-08-22,25
+ABC001,ABC001-602-08,Aliquam eos maiores quo neque totam tempora.,Lethargy,Systemic disorders,Mild,N,2014-08-05,8,220,,
+ABC001,ABC001-602-08,Nesciunt autem quae aliquam commodi ut.,Malaise,Systemic disorders,Mild,N,2014-09-04,38,221,,
+ABC001,ABC001-602-08,Illo quod ea libero ratione assumenda.,Disorientation,Behavioural disorders,Moderate,N,2014-08-07,10,222,2014-08-19,22
+ABC001,ABC001-602-08,Ea laboriosam.,Lethargy,Systemic disorders,Moderate,N,2014-09-11,45,223,2014-09-22,56
+ABC001,ABC001-602-08,Earum quo mollitia perspiciatis.,Migraine,Neurological disorders,Mild,N,2014-08-31,34,224,2014-09-22,56
+ABC001,ABC001-602-08,Provident odio saepe et repellendus ut.,Disorientation,Behavioural disorders,Mild,N,2014-08-09,12,225,,
+ABC001,ABC001-701-01,Est omnis corporis veritatis quia sint temporibus.,Lethargy,Systemic disorders,Moderate,N,2014-08-26,15,226,2014-10-02,52
+ABC001,ABC001-701-01,Perspiciatis quaerat fugit quia maiores.,Disorientation,Behavioural disorders,Mild,N,2014-09-23,43,227,,
+ABC001,ABC001-701-01,Culpa ex eveniet et eos amet.,Apnoea,Respiratory tract disorders,Mild,N,2014-09-26,46,228,2014-10-02,52
+ABC001,ABC001-701-02,Consequatur quo iusto voluptatem.,Disorientation,Behavioural disorders,Mild,N,2014-08-12,32,229,,
+ABC001,ABC001-701-02,Harum iure.,Pruritus,Skin and appendages disorders,Mild,N,2014-09-03,54,230,,
+ABC001,ABC001-701-03,Ea iusto ipsa in nulla.,Recumbency,Systemic disorders,Mild,N,2014-08-09,54,231,,
+ABC001,ABC001-701-03,Et voluptate et.,Headache,Neurological disorders,Severe,N,2014-08-07,52,232,2014-08-20,65
+ABC001,ABC001-701-03,Magnam aperiam qui nisi.,Disorientation,Behavioural disorders,Moderate,N,2014-08-19,64,233,,
+ABC001,ABC001-702-02,Voluptatem expedita veritatis.,Lethargy,Systemic disorders,Mild,N,2015-01-28,54,234,,
+ABC001,ABC001-702-02,Consectetur id tempora molestiae ut qui.,Headache,Neurological disorders,Mild,N,2015-01-11,37,235,2015-02-05,62
+ABC001,ABC001-702-03,Eius quidem eligendi eum quasi.,Sedation,Neurological disorders,Mild,N,2014-04-09,3,236,2014-05-01,25
+ABC001,ABC001-702-03,Nemo repudiandae omnis sunt id quidem.,Apnoea,Respiratory tract disorders,Mild,N,2014-04-02,-4,237,,
+ABC001,ABC001-702-03,Ad velit ipsam minima ut debitis illo.,Lethargy,Systemic disorders,Mild,N,2014-05-14,38,238,,
+ABC001,ABC001-702-03,Dolorem fuga accusamus.,Headache,Neurological disorders,Moderate,N,2014-04-07,1,239,,
+ABC001,ABC001-702-03,Magni sint necessitatibus vitae in ea.,Apnoea,Respiratory tract disorders,Moderate,N,2014-03-27,-10,240,,
+ABC001,ABC001-702-03,Et aspernatur aut.,Recumbency,Systemic disorders,Moderate,N,2014-04-03,-3,241,,
+ABC001,ABC001-702-03,Placeat est est laudantium.,Apnoea,Respiratory tract disorders,Mild,N,2014-03-28,-9,242,2014-04-04,-2
+ABC001,ABC001-702-03,Pariatur ullam.,Lethargy,Systemic disorders,Moderate,N,2014-05-15,39,243,2014-05-17,41
+ABC001,ABC001-702-03,Omnis delectus eum non exercitationem eos.,Malaise,Systemic disorders,Mild,N,2014-04-08,2,244,2014-04-27,21
+ABC001,ABC001-702-03,Et laboriosam libero quo consectetur.,Impaired consciousness,Neurological disorders,Mild,N,2014-05-12,36,245,,
+ABC001,ABC001-703-01,Velit at architecto doloremque temporibus illo labore.,Migraine,Neurological disorders,Mild,N,2014-05-08,68,246,,
+ABC001,ABC001-703-01,Quibusdam earum.,Dizziness,Neurological disorders,Mild,N,2014-04-15,45,247,,
+ABC001,ABC001-703-04,Sapiente saepe ut nulla nostrum.,Disorientation,Behavioural disorders,Mild,N,2014-05-10,0,248,,
+ABC001,ABC001-703-04,Dolorum quod necessitatibus.,Lethargy,Systemic disorders,Mild,N,2014-06-03,24,249,2014-06-11,32
+ABC001,ABC001-703-04,Aut ab doloribus voluptatem facilis aspernatur excepturi.,Lethargy,Systemic disorders,Mild,N,2014-05-19,9,250,,
+ABC001,ABC001-703-04,Eaque debitis eius aut placeat.,Increased intracranial pressure,Neurological disorders,Mild,N,2014-05-09,-1,251,2014-06-01,22
+ABC001,ABC001-703-04,Et tempora dolor id.,Headache,Neurological disorders,Mild,Y,2014-05-08,-2,252,2014-06-11,32
+ABC001,ABC001-703-04,Dolorem voluptas doloribus perspiciatis eos.,Migraine,Neurological disorders,Mild,N,2014-06-04,25,253,2014-07-02,53
+ABC001,ABC001-703-05,Dolores beatae doloribus aut excepturi omnis.,Vocalisation,Behavioural disorders,Mild,N,2014-04-20,47,254,2014-04-30,57
+ABC001,ABC001-703-05,Dolorum vel in voluptas.,Increased intracranial pressure,Neurological disorders,Moderate,N,2014-04-30,57,255,,
+ABC001,ABC001-703-05,Quia magni in sunt repellat.,Lethargy,Systemic disorders,Mild,Y,2014-04-08,35,256,,
+ABC001,ABC001-703-05,Suscipit aperiam consequuntur sed veniam consequatur.,Malaise,Systemic disorders,Moderate,N,2014-05-10,67,257,2014-05-10,67
+ABC001,ABC001-703-06,Nobis eum dicta.,Apnoea,Respiratory tract disorders,Moderate,N,2014-04-04,27,258,,
+ABC001,ABC001-703-06,Sed veritatis eius ut saepe temporibus.,Dermatitis and eczema,Skin and appendages disorders,Mild,N,2014-04-02,25,259,2014-04-02,25
+ABC001,ABC001-703-06,Magni est voluptatem similique.,Increased intracranial pressure,Neurological disorders,Mild,N,2014-03-18,10,260,,
+ABC001,ABC001-703-06,Explicabo eveniet.,Apnoea,Respiratory tract disorders,Mild,N,2014-03-09,1,261,,
+ABC001,ABC001-801-02,Id quas alias asperiores sunt eaque minima.,Lethargy,Systemic disorders,Moderate,N,2014-03-22,5,262,2014-04-04,18
+ABC001,ABC001-801-02,Sint sunt dolorem fuga sed et.,Recumbency,Systemic disorders,Mild,N,2014-04-08,22,263,2014-04-14,28
+ABC001,ABC001-801-02,Ad ullam.,Teeth grinding,Behavioural disorders,Mild,N,2014-03-15,-2,264,2014-05-06,50
+ABC001,ABC001-801-02,Occaecati sint cupiditate corporis.,Migraine,Neurological disorders,Moderate,N,2014-05-06,50,265,,
+ABC001,ABC001-801-02,Dignissimos quis vel et.,Headache,Neurological disorders,Moderate,N,2014-05-12,56,266,,
+ABC001,ABC001-801-02,Eos modi architecto laboriosam vero ut minima.,Migraine,Neurological disorders,Moderate,N,2014-03-30,13,267,,
+ABC001,ABC001-801-03,Minus rerum.,Dermatitis and eczema,Skin and appendages disorders,Mild,N,2014-06-18,16,268,,
+ABC001,ABC001-801-03,Qui deleniti dolor.,Apnoea,Respiratory tract disorders,Mild,N,2014-08-01,60,269,2014-08-02,61
+ABC001,ABC001-801-03,Id incidunt porro labore autem.,Malaise,Systemic disorders,Mild,N,2014-07-11,39,270,2014-07-14,42
+ABC001,ABC001-801-03,Quia est beatae ut qui quisquam provident.,Headache,Neurological disorders,Mild,N,2014-07-28,56,271,2014-08-03,62
+ABC001,ABC001-801-03,Nesciunt qui.,Vocalisation,Behavioural disorders,Mild,N,2014-08-09,68,272,,
+ABC001,ABC001-801-04,Officiis qui voluptas molestiae.,Lethargy,Systemic disorders,Mild,N,2014-04-08,6,273,,
+ABC001,ABC001-801-04,Iure qui fugit aut error.,Malaise,Systemic disorders,Severe,N,2014-05-11,39,274,2014-06-01,60
+ABC001,ABC001-801-04,Velit vitae eveniet nemo rerum ratione.,Malaise,Systemic disorders,Mild,N,2014-03-26,-7,275,,
+ABC001,ABC001-801-05,Voluptatem quis est id.,Malaise,Systemic disorders,Mild,N,2014-12-01,2,276,2014-12-27,28
+ABC001,ABC001-801-05,Repellat eligendi saepe consequatur.,Migraine,Neurological disorders,Mild,N,2015-01-01,33,277,,
+ABC001,ABC001-801-05,Culpa dolores dolores a accusantium ut.,Malaise,Systemic disorders,Mild,Y,2014-11-16,-13,278,2014-11-27,-2
+ABC001,ABC001-801-05,Quod pariatur laborum ea.,Migraine,Neurological disorders,Severe,N,2015-01-04,36,279,,
+ABC001,ABC001-801-05,Quos et voluptas delectus est.,Malaise,Systemic disorders,Mild,N,2015-01-20,52,280,,
+ABC001,ABC001-801-05,Cum nulla.,Malaise,Systemic disorders,Mild,N,2015-01-14,46,281,2015-02-02,65
+ABC001,ABC001-801-06,Ex perferendis ut sit natus enim eligendi.,Dermatitis and eczema,Skin and appendages disorders,Moderate,N,2014-02-28,-7,282,2014-03-04,-3
+ABC001,ABC001-801-07,Reprehenderit mollitia quasi sit omnis itaque voluptatem.,Headache,Neurological disorders,Mild,N,2014-06-29,48,283,2014-07-11,60
+ABC001,ABC001-801-07,Nostrum minima rerum tempora cumque non.,Lethargy,Systemic disorders,Severe,N,2014-06-09,28,284,2014-06-14,33
+ABC001,ABC001-801-07,Itaque voluptatem.,Sedation,Neurological disorders,Mild,N,2014-05-05,-7,285,,
+ABC001,ABC001-801-09,Et maxime laborum.,Lethargy,Systemic disorders,Mild,N,2014-09-05,5,286,2014-09-21,21
+ABC001,ABC001-801-10,Accusantium eum debitis voluptatem rem.,Lethargy,Systemic disorders,Moderate,N,2014-05-23,-11,287,2014-06-02,-1
+ABC001,ABC001-801-10,Omnis sed et explicabo repudiandae velit.,Lethargy,Systemic disorders,Severe,N,2014-07-11,38,288,,
+ABC001,ABC001-801-10,Explicabo animi accusamus eos quo.,Malaise,Systemic disorders,Mild,N,2014-07-18,45,289,2014-08-02,60
+ABC001,ABC001-801-10,Dolorum ipsum ea enim consectetur dolorem.,Apnoea,Respiratory tract disorders,Mild,N,2014-08-07,65,290,2014-08-08,66
+ABC001,ABC001-801-10,Rem exercitationem quis ut.,Malaise,Systemic disorders,Mild,N,2014-07-27,54,291,,
+ABC001,ABC001-801-10,Totam possimus quas debitis facilis eligendi pariatur.,Teeth grinding,Behavioural disorders,Moderate,N,2014-07-20,47,292,2014-08-05,63
+ABC001,ABC001-801-10,Iure et soluta eligendi cumque tempora nemo.,Lethargy,Systemic disorders,Mild,N,2014-07-18,45,293,,
+ABC001,ABC001-801-10,Omnis porro nihil sint.,Malaise,Systemic disorders,Mild,N,2014-07-22,49,294,2014-08-03,61
+ABC001,ABC001-801-10,Commodi sequi pariatur.,Migraine,Neurological disorders,Mild,N,2014-07-19,46,295,,
+ABC001,ABC001-801-10,Animi eos quibusdam ut.,Migraine,Neurological disorders,Moderate,N,2014-06-07,4,296,2014-06-12,9
+ABC001,ABC001-801-10,Omnis qui suscipit laudantium sit.,Disorientation,Behavioural disorders,Mild,N,2014-05-21,-13,297,,
+ABC001,ABC001-801-10,Incidunt et eligendi perferendis eveniet aspernatur est.,Lethargy,Systemic disorders,Severe,N,2014-06-06,3,298,,
+ABC001,ABC001-801-10,Architecto molestiae minima aliquid aut.,Recumbency,Systemic disorders,Mild,N,2014-07-02,29,299,2014-07-11,38
